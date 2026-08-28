@@ -116,13 +116,18 @@ def main(argv):
                 sys.exit(f"not public yet: {url} -- push to GitHub first")
 
     # Instagram publishing runs on the page token too, so one token covers both.
-    page_token = os.environ["PAGE_TOKEN"]
+    page_token = os.environ.get("PAGE_TOKEN", "")
     targets = [
-        ("instagram", post_instagram, os.environ["IG_USER_ID"], page_token),
-        ("facebook", post_facebook, os.environ["FB_PAGE_ID"], page_token),
-        ("threads", post_threads, os.environ["THREADS_USER_ID"], os.environ["THREADS_TOKEN"]),
+        ("instagram", post_instagram, os.environ.get("IG_USER_ID"), page_token),
+        ("facebook", post_facebook, os.environ.get("FB_PAGE_ID"), page_token),
+        ("threads", post_threads, os.environ.get("THREADS_USER_ID"),
+         os.environ.get("THREADS_TOKEN")),
     ]
     for name, fn, target_id, token in targets:
+        # A platform still waiting on its credentials must not block the others.
+        if not target_id or not token:
+            print(f"{name} skipped: missing id or token in .env", file=sys.stderr)
+            continue
         try:
             print(name, fn(urls, caption, target_id, token))
         except Exception as exc:  # one dead platform must not block the others
