@@ -2,9 +2,10 @@
 """Render a content JSON into 1080x1080 carousel slides.
 
 Usage:
-    python make_cards.py content/2026-08-28.json [out_dir ...]
+    python make_cards.py content/2026-08-28.json [--ko] [out_dir ...]
 
 Writes 01.png ... 10.png into every out_dir given (default: img/<date>).
+With --ko the Korean copy in each slide's "ko" block is used instead.
 The layout rules this implements are written down in DESIGN.md.
 """
 import json
@@ -12,43 +13,48 @@ import os
 import re
 import sys
 
-from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
+from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 
 SIZE = 1080
-MARGIN = 88
+MARGIN = 76
 HANDLE = "WHAT'S HOT KOREA"
 
-# Dark editorial base; the amber is the only accent and is rationed per slide.
-INK = (18, 18, 20)
-INK_SOFT = (28, 28, 32)
-AMBER = (245, 166, 35)
+INK = (16, 16, 18)
+AMBER = (255, 176, 32)
 WHITE = (255, 255, 255)
-MUTED = (255, 255, 255, 150)
-FAINT = (255, 255, 255, 70)
+BONE = (240, 236, 228)
 
 FONT_DIR = os.path.join(os.environ.get("WINDIR", r"C:\Windows"), "Fonts")
 HANGUL = re.compile(r"[\u1100-\u11ff\u3130-\u318f\uac00-\ud7a3]")
-# **bold** marks the one phrase per line that carries the accent.
 EMPH = re.compile(r"\*\*(.+?)\*\*")
+
+# Gemini stamps a sparkle into the bottom-right corner; trimming the frame is
+# cleaner than trying to paint it out.
+WATERMARK_TRIM = 0.12
 
 
 def font(name, size):
     return ImageFont.truetype(os.path.join(FONT_DIR, name), size)
 
 
-def pick(text, size, weight="black"):
-    """Malgun Gothic carries the Hangul; Arial carries the display weight."""
+def display(text, size):
+    """Condensed caps for Latin, Malgun Bold for Hangul."""
+    return font("malgunbd.ttf" if HANGUL.search(text) else "ARIALNB.TTF", size)
+
+
+def body_font(text, size, weight="regular"):
     if HANGUL.search(text):
-        return font("malgunbd.ttf" if weight != "regular" else "malgun.ttf", size)
-    return font({"black": "ariblk.ttf", "bold": "segoeuib.ttf"}.get(weight, "segoeui.ttf"), size)
+        return font("malgunbd.ttf" if weight == "bold" else "malgun.ttf", size)
+    return font("seguisb.ttf" if weight == "bold" else "segoeui.ttf", size)
+
+
+def caps(text):
+    """Latin headlines are set in caps; Hangul has no case so it is left alone."""
+    return text if HANGUL.search(text) else text.upper()
 
 
 def tokens(text):
-    """Tokenise once, keeping which words are accented and which follow a space.
-
-    Splitting on whitespace alone would detach punctuation from the word it
-    belongs to, so ``**a crisis**, next`` rendered as ``a crisis , next``.
-    """
+    """Tokenise once, keeping which words are accented and which follow a space."""
     plain, spans, cursor = [], [], 0
     for m in EMPH.finditer(text):
         plain.append(text[cursor:m.start()])
@@ -66,12 +72,12 @@ def tokens(text):
     return out
 
 
-def wrap_rich(draw, text, size, weight, width):
-    """Wrap into lines of (word, emph, space_before) tuples."""
+def block(draw, text, size, width, fnt_for, spacing):
+    """Wrap into lines of (word, emph, space_before) and report the metrics."""
     lines, line, used = [], [], 0.0
-    space = draw.textlength(" ", font=pick(" ", size, weight))
+    space = draw.textlength(" ", font=fnt_for(" "))
     for word, emph, sp in tokens(text):
-        w = draw.textlength(word, font=pick(word, size, weight))
+        w = draw.textlength(word, font=fnt_for(word))
         gap = space if (sp and line) else 0.0
         if line and used + gap + w > width:
             lines.append(line)
@@ -81,142 +87,153 @@ def wrap_rich(draw, text, size, weight, width):
             used += gap + w
     if line:
         lines.append(line)
-    return lines
+    return lines, int(size * spacing), space, fnt_for
 
 
-def draw_rich(draw, text, y, size, color, accent=AMBER, weight="black",
-              spacing=1.1, width=None, underline=False):
-    """Draw wrapped text, painting the **marked** phrase in the accent colour."""
+def head_block(draw, text, size, width=None, spacing=0.94):
     width = width or SIZE - 2 * MARGIN
-    step = int(size * spacing)
-    space = draw.textlength(" ", font=pick(" ", size, weight))
-    for line in wrap_rich(draw, text, size, weight, width):
-        x = MARGIN
+    if HANGUL.search(text):
+        size, spacing = int(size * 0.74), 1.18
+    return block(draw, caps(text), size, width, lambda w: display(w, size), spacing)
+
+
+def body_block(draw, text, size, width=None, spacing=1.58, weight="regular"):
+    width = width or SIZE - 2 * MARGIN
+    return block(draw, text, size, width, lambda w: body_font(w, size, weight), spacing)
+
+
+def paint(draw, packed, y, color, accent, x=MARGIN):
+    lines, step, space, fnt_for = packed
+    for line in lines:
+        cx = x
         for word, emph, sp in line:
             if sp:
-                x += space
-            fnt = pick(word, size, weight)
-            draw.text((x, y), word, font=fnt, fill=accent if emph else color)
-            w = draw.textlength(word, font=fnt)
-            if emph and underline:
-                base = y + size * 1.16
-                draw.line([(x, base), (x + w, base)], fill=accent, width=5)
-            x += w
+                cx += space
+            fnt = fnt_for(word)
+            draw.text((cx, y), word, font=fnt, fill=accent if emph else color)
+            cx += draw.textlength(word, font=fnt)
         y += step
     return y
 
 
-def rich_height(draw, text, size, weight="black", spacing=1.1, width=None):
-    width = width or SIZE - 2 * MARGIN
-    return len(wrap_rich(draw, text, size, weight, width)) * int(size * spacing)
+def height(packed):
+    return len(packed[0]) * packed[1]
 
 
-def photo(path, darken=0.42, blur=0):
-    """Fill the square with the asset, dimmed enough that white type stays readable."""
+def grain(img, amount=9):
+    """A little noise keeps flat fills from banding and reads as print."""
+    noise = Image.effect_noise((SIZE, SIZE), amount).convert("L")
+    return ImageChops.add(img, Image.merge("RGB", (noise, noise, noise)), scale=1, offset=-128)
+
+
+def photo(path, darken=0.55, blur=0):
     img = Image.open(path).convert("RGB")
+    img = img.crop((0, 0, int(img.width * (1 - WATERMARK_TRIM)),
+                    int(img.height * (1 - WATERMARK_TRIM))))
     side = min(img.size)
     img = img.crop(((img.width - side) // 2, (img.height - side) // 2,
                     (img.width + side) // 2, (img.height + side) // 2))
     img = img.resize((SIZE, SIZE), Image.LANCZOS)
     if blur:
         img = img.filter(ImageFilter.GaussianBlur(blur))
-    return ImageEnhance.Brightness(img).enhance(darken)
+    return grain(ImageEnhance.Brightness(img).enhance(darken))
 
 
-def top_shade(img, height=620, strength=236):
-    """Darken the top so the headline never fights the photo underneath it."""
-    shade = Image.new("L", (1, SIZE), 0)
+def scrim(img, height_px=760, strength=250):
+    """Darken upward from the bottom so a bottom-anchored headline stays readable."""
+    ramp = Image.new("L", (1, SIZE))
     for y in range(SIZE):
-        shade.putpixel((0, y), int(strength * max(0.0, 1 - y / height)))
-    mask = shade.resize((SIZE, SIZE))
-    return Image.composite(Image.new("RGB", (SIZE, SIZE), INK), img, mask)
+        t = max(0.0, (y - (SIZE - height_px)) / height_px)
+        ramp.putpixel((0, y), int(strength * t ** 1.5))
+    return Image.composite(Image.new("RGB", (SIZE, SIZE), INK), img, ramp.resize((SIZE, SIZE)))
 
 
-def frame(img, index, total):
-    """The fixed furniture every slide shares: brand top-left, counter top-right."""
+def chrome(img, index, total, on_dark=True):
+    """Tiny centred wordmark up top, counter in the corner. Nothing else."""
     d = ImageDraw.Draw(img, "RGBA")
-    small = font("segoeuib.ttf", 26)
-    d.ellipse([MARGIN, MARGIN + 6, MARGIN + 13, MARGIN + 19], fill=AMBER)
-    d.text((MARGIN + 26, MARGIN), HANDLE, font=small, fill=MUTED)
+    tint = (255, 255, 255, 130) if on_dark else (16, 16, 18, 150)
+    wm = font("seguisb.ttf", 22)
+    d.text(((SIZE - d.textlength(HANDLE, font=wm)) / 2, MARGIN - 14), HANDLE, font=wm, fill=tint)
 
-    cur, rest = f"{index:02d}", f"/ {total:02d}"
-    cf = font("ariblk.ttf", 28)
-    rw = d.textlength(rest, font=small)
-    cw = d.textlength(cur, font=cf)
-    d.text((SIZE - MARGIN - rw, MARGIN + 1), rest, font=small, fill=FAINT)
-    d.text((SIZE - MARGIN - rw - cw - 4, MARGIN - 2), cur, font=cf, fill=WHITE)
+    counter = f"{index:02d} — {total:02d}"
+    d.text((SIZE - MARGIN - d.textlength(counter, font=wm), SIZE - MARGIN - 8),
+           counter, font=wm, fill=tint)
     return d
 
 
-def render_hook(slide, index, total, assets):
-    img = top_shade(photo(assets["hook"], 0.46), height=880, strength=246)
-    d = frame(img, index, total)
+def render_hook(s, index, total, assets):
+    img = scrim(photo(assets["hook"], 0.62), height_px=840)
+    d = chrome(img, index, total)
 
-    d.text((MARGIN, 232), slide["kicker"], font=font("segoeuib.ttf", 28), fill=AMBER)
-    y = draw_rich(d, slide["headline"], 286, 72, WHITE, spacing=1.26, underline=True)
-    draw_rich(d, slide["note"], y + 24, 32, MUTED, weight="bold", spacing=1.35)
+    head = head_block(d, s["headline"], 92)
+    note = body_block(d, s["note"], 30, weight="bold")
 
-    cue = "밀어서 보기  →" if HANGUL.search(slide["note"]) else "SWIPE  →"
-    cf = font("segoeuib.ttf", 28)
-    d.text((SIZE - MARGIN - d.textlength(cue, font=cf), SIZE - MARGIN - 20), cue,
-           font=cf, fill=MUTED)
+    y = SIZE - MARGIN - 104 - height(note) - height(head)
+    d.text((MARGIN, y - 52), caps(s["kicker"]), font=body_font(s["kicker"], 24, "bold"),
+           fill=AMBER)
+    y = paint(d, head, y, WHITE, AMBER)
+    paint(d, note, y + 28, BONE, AMBER)
+
+    cue = "밀어서 보기 →" if HANGUL.search(s["note"]) else "SWIPE →"
+    d.text((MARGIN, SIZE - MARGIN - 8), cue, font=body_font(cue, 22, "bold"),
+           fill=(255, 255, 255, 130))
     return img
 
 
-def render_content(slide, index, total, assets):
-    img = Image.new("RGB", (SIZE, SIZE), INK)
+def render_content(s, index, total, assets):
+    """Every third slide flips to solid amber so the set has a rhythm."""
+    loud = index % 3 == 0
+    if loud:
+        # On amber, contrast comes from weight rather than hue.
+        bg, fg, head_accent = AMBER, INK, WHITE
+        dim, body_accent = (16, 16, 18, 160), INK
+    else:
+        bg, fg, head_accent = INK, WHITE, AMBER
+        dim, body_accent = (255, 255, 255, 170), AMBER
 
-    # A ghosted index numeral gives an all-text slide something to look at.
-    layer = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
-    gd = ImageDraw.Draw(layer)
-    ghost = font("ariblk.ttf", 460)
-    gd.text((SIZE - MARGIN - gd.textlength(f"{index:02d}", font=ghost) + 90, 560),
-            f"{index:02d}", font=ghost, fill=(255, 255, 255, 20))
-    img = Image.alpha_composite(img.convert("RGBA"), layer).convert("RGB")
+    img = grain(Image.new("RGB", (SIZE, SIZE), bg), 5)
+    d = chrome(img, index, total, on_dark=not loud)
 
-    d = ImageDraw.Draw(img, "RGBA")
-    d.rectangle([0, 0, SIZE, 6], fill=AMBER)
+    head = head_block(d, s["headline"], 76)
+    text = body_block(d, s["body"], 33)
 
-    head_h = rich_height(d, slide["headline"], 56, spacing=1.14)
-    body_h = rich_height(d, slide["body"], 34, "regular", 1.62)
-    y = max(300, (SIZE - (head_h + 96 + body_h)) // 2)
-
-    y = draw_rich(d, slide["headline"], y, 56, WHITE, spacing=1.14)
-    d.line([(MARGIN, y + 30), (MARGIN + 92, y + 30)], fill=AMBER, width=5)
-    draw_rich(d, slide["body"], y + 76, 34, MUTED, weight="regular", spacing=1.62)
-
-    frame(img, index, total)
+    # Anchored to the bottom margin, the way the reference sets do it.
+    y = SIZE - MARGIN - 84 - height(text) - 62 - height(head)
+    y = paint(d, head, y, fg, head_accent)
+    paint(d, text, y + 62, dim, body_accent)
     return img
 
 
-def render_stat(slide, index, total, assets):
-    img = top_shade(photo(assets.get("stat", assets["hook"]), 0.3, blur=3), height=SIZE)
-    d = frame(img, index, total)
+def render_stat(s, index, total, assets):
+    img = scrim(photo(assets.get("stat", assets["hook"]), 0.4, blur=4), height_px=SIZE)
+    d = chrome(img, index, total)
 
-    stat_font = pick(slide["stat"], 168)
-    body_h = rich_height(d, slide["body"], 32, "regular", 1.6)
-    head_h = rich_height(d, slide["headline"], 46, spacing=1.16)
-    y = (SIZE - (230 + head_h + 92 + body_h)) // 2
+    head = head_block(d, s["headline"], 54)
+    text = body_block(d, s["body"], 31)
 
-    d.text((MARGIN, y), slide["stat"], font=stat_font, fill=AMBER)
-    y = draw_rich(d, slide["headline"], y + 230, 46, WHITE, spacing=1.16)
-    d.line([(MARGIN, y + 28), (MARGIN + 92, y + 28)], fill=AMBER, width=5)
-    draw_rich(d, slide["body"], y + 72, 32, MUTED, weight="regular", spacing=1.6)
+    y = (SIZE - (250 + height(head) + 54 + height(text))) // 2
+    d.text((MARGIN, y), s["stat"], font=display(s["stat"], 220), fill=AMBER)
+    y = paint(d, head, y + 250, WHITE, AMBER)
+    paint(d, text, y + 54, BONE, AMBER)
     return img
 
 
-def render_cta(slide, index, total, assets):
-    img = top_shade(photo(assets.get("cta", assets["hook"]), 0.32, blur=2), height=SIZE)
-    d = frame(img, index, total)
+def render_cta(s, index, total, assets):
+    img = scrim(photo(assets.get("cta", assets["hook"]), 0.4, blur=3), height_px=SIZE)
+    d = chrome(img, index, total)
 
-    y = draw_rich(d, slide["headline"], 300, 66, WHITE, spacing=1.14)
-    y = draw_rich(d, slide["body"], y + 34, 34, MUTED, weight="bold", spacing=1.45)
+    head = head_block(d, s["headline"], 84)
+    text = body_block(d, s["body"], 31, weight="bold")
 
-    label = slide.get("button", "FOLLOW @whatshotkorea")
-    bf = pick(label, 34, "black")
-    pill_w = d.textlength(label, font=bf) + 84
-    d.rounded_rectangle([MARGIN, y + 54, MARGIN + pill_w, y + 138], radius=42, fill=AMBER)
-    d.text((MARGIN + 42, y + 76), label, font=bf, fill=INK_SOFT)
+    y = (SIZE - (height(head) + 46 + height(text) + 150)) // 2
+    y = paint(d, head, y, WHITE, AMBER)
+    y = paint(d, text, y + 46, BONE, AMBER)
+
+    label = caps(s.get("button", "FOLLOW @whatshotkorea"))
+    bf = display(label, 40)
+    pill = d.textlength(label, font=bf) + 88
+    d.rounded_rectangle([MARGIN, y + 44, MARGIN + pill, y + 134], radius=45, fill=AMBER)
+    d.text((MARGIN + 44, y + 66), label, font=bf, fill=INK)
     return img
 
 
@@ -224,10 +241,18 @@ RENDERERS = {"hook": render_hook, "content": render_content,
              "stat": render_stat, "cta": render_cta}
 
 
+def localise(slide, lang):
+    """Korean copy lives in a "ko" block and falls back to English per field."""
+    return {**slide, **slide.get(lang, {})} if lang else slide
+
+
 def main(argv):
-    if len(argv) < 2:
+    args = [a for a in argv[1:] if not a.startswith("--")]
+    lang = "ko" if "--ko" in argv else None
+    if not args:
         sys.exit(__doc__)
-    with open(argv[1], encoding="utf-8") as fh:
+
+    with open(args[0], encoding="utf-8") as fh:
         data = json.load(fh)
 
     asset_dir = os.path.join("assets", data["date"])
@@ -236,16 +261,16 @@ def main(argv):
     if "hook" not in assets:
         sys.exit(f"need at least {asset_dir}/hook.png")
 
-    out_dirs = argv[2:] or [os.path.join("img", data["date"])]
+    out_dirs = args[1:] or [os.path.join("img", data["date"] + ("-ko" if lang else ""))]
     for out in out_dirs:
         os.makedirs(out, exist_ok=True)
 
     total = len(data["slides"])
     for i, slide in enumerate(data["slides"], start=1):
-        img = RENDERERS[slide["type"]](slide, i, total, assets)
+        img = RENDERERS[slide["type"]](localise(slide, lang), i, total, assets)
         for out in out_dirs:
             img.save(os.path.join(out, f"{i:02d}.png"))
-    print(f"{data['date']}: {total} slides -> {', '.join(out_dirs)}")
+    print(f"{data['date']}{'-ko' if lang else ''}: {total} slides -> {', '.join(out_dirs)}")
 
 
 if __name__ == "__main__":

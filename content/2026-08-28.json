@@ -8,54 +8,97 @@
       "type": "hook",
       "kicker": "FRIDAY NIGHT IN KOREA",
       "headline": "Korea has almost as many fried chicken restaurants as **McDonald's has on the entire planet.**",
-      "note": "Roughly 39,000 of them. In a country the size of Indiana."
+      "note": "Roughly 39,000 of them. In a country the size of Indiana.",
+      "ko": {
+        "kicker": "한국의 금요일 밤",
+        "headline": "한국의 치킨집 수는 **전 세계 맥도날드 매장 수와 맞먹는다.**",
+        "note": "약 4만 개. 인디애나주만 한 나라에서."
+      }
     },
     {
       "type": "content",
       "headline": "Friday has **its own name** here",
-      "body": "Koreans call it Bulgeum (불금) — **Burning Friday**. The week does not end when the office closes. It ends at a table covered in fried chicken and beer."
+      "body": "Koreans call it Bulgeum (불금) — **Burning Friday**. The week does not end when the office closes. It ends at a table covered in fried chicken and beer.",
+      "ko": {
+        "headline": "금요일엔 **이름이 따로 있다**",
+        "body": "불금. 한 주는 퇴근으로 끝나지 않는다. 치킨과 맥주가 깔린 테이블에서 끝난다."
+      }
     },
     {
       "type": "content",
       "headline": "The word is **chimaek**",
-      "body": "Chicken + maekju (beer). **Not a meal, a format.** You do not order chimaek because you are hungry. You order it because the group is still talking."
+      "body": "Chicken + maekju (beer). **Not a meal, a format.** You do not order chimaek because you are hungry. You order it because the group is still talking.",
+      "ko": {
+        "headline": "그 이름이 **치맥이다**",
+        "body": "치킨 더하기 맥주. **음식이 아니라 형식이다.** 배가 고파서 시키는 게 아니라, 아직 할 얘기가 남아서 시킨다."
+      }
     },
     {
       "type": "content",
       "headline": "It started with a **financial crisis**",
-      "body": "After the **1997 IMF crisis**, laid-off office workers needed a business with a low entry cost. Thousands opened chicken shops. The density on every Korean street traces back to that decade."
+      "body": "After the **1997 IMF crisis**, laid-off office workers needed a business with a low entry cost. Thousands opened chicken shops. The density on every Korean street traces back to that decade.",
+      "ko": {
+        "headline": "시작은 **외환위기였다**",
+        "body": "1997년 **IMF 이후** 직장을 잃은 사람들에게 필요한 건 적은 돈으로 열 수 있는 가게였다. 수천 개의 치킨집이 그때 생겼다."
+      }
     },
     {
       "type": "content",
       "headline": "The workday **does not end at the door**",
-      "body": "In much of Korean office culture, the day closes **when the team eats together**, not when the clock says so. Chimaek is where that ritual lands on a Friday."
+      "body": "In much of Korean office culture, the day closes **when the team eats together**, not when the clock says so. Chimaek is where that ritual lands on a Friday.",
+      "ko": {
+        "headline": "퇴근은 **문을 나설 때가 아니다**",
+        "body": "한국 직장 문화에서 하루는 시계가 아니라 **같이 밥을 먹고 나서** 끝난다. 금요일엔 그 자리가 치맥이다."
+      }
     },
     {
       "type": "content",
       "headline": "Nights come in **rounds**",
-      "body": "Koreans count a night out in cha (차) — rounds. Dinner is round one. Round two moves somewhere new. **Chicken and beer is the default round two**, and it can run past midnight."
+      "body": "Koreans count a night out in cha (차) — rounds. Dinner is round one. Round two moves somewhere new. **Chicken and beer is the default round two**, and it can run past midnight.",
+      "ko": {
+        "headline": "밤은 **차수로 센다**",
+        "body": "1차, 2차, 3차. 저녁이 1차다. 2차는 자리를 옮긴다. **치맥은 2차의 기본값이고**, 자정을 넘기기도 한다."
+      }
     },
     {
       "type": "content",
       "headline": "This is the part **outsiders miss**",
-      "body": "In most countries fried chicken is fast food you eat alone in a car. In Korea it is a **two-hour sit-down with friends**, delivered to a park bench or a riverside blanket if the weather is good."
+      "body": "In most countries fried chicken is fast food you eat alone in a car. In Korea it is a **two-hour sit-down with friends**, delivered to a park bench or a riverside blanket if the weather is good.",
+      "ko": {
+        "headline": "외국인이 **놓치는 지점**",
+        "body": "대부분의 나라에서 프라이드치킨은 차 안에서 혼자 먹는 패스트푸드다. 한국에서는 **두 시간짜리 자리**다. 날이 좋으면 한강 돗자리로 배달까지 시킨다."
+      }
     },
     {
       "type": "stat",
       "stat": "39,789",
       "headline": "chicken restaurants in **South Korea**",
-      "body": "The 2023 national count, franchises and independents together. McDonald's runs **42,477 stores worldwide**. Korea nearly matches that inside one country."
+      "body": "The 2023 national count, franchises and independents together. McDonald's runs **42,477 stores worldwide**. Korea nearly matches that inside one country.",
+      "ko": {
+        "headline": "개, **대한민국의 치킨전문점**",
+        "body": "프랜차이즈와 개인 매장을 합친 2023년 전국 집계. 전 세계 맥도날드는 **4만 2,477개**다. 한 나라 안에서 그 숫자에 근접한다.",
+        "stat": "39,789"
+      }
     },
     {
       "type": "content",
       "headline": "And the number is **falling**",
-      "body": "Down from 42,743 in 2020 — **three straight years of decline**. Franchise outlets keep growing while independent shops close. Chimaek is not going anywhere, but the corner chicken shop is thinning out."
+      "body": "Down from 42,743 in 2020 — **three straight years of decline**. Franchise outlets keep growing while independent shops close. Chimaek is not going anywhere, but the corner chicken shop is thinning out.",
+      "ko": {
+        "headline": "그리고 그 수는 **줄고 있다**",
+        "body": "2020년 4만 2,743개에서 **3년 연속 감소**. 프랜차이즈는 늘지만 동네 치킨집이 문을 닫는다. 치맥은 남아도 골목 가게는 얇아지는 중이다."
+      }
     },
     {
       "type": "cta",
       "headline": "Korea, explained **by a Korean.**",
       "body": "Follow for the context behind the things Korea does.",
-      "button": "FOLLOW @whatshotkorea"
+      "button": "FOLLOW @whatshotkorea",
+      "ko": {
+        "headline": "한국 사람이 설명하는 **한국.**",
+        "body": "한국이 왜 그러는지, 그 맥락을 올립니다.",
+        "button": "팔로우 @whatshotkorea"
+      }
     }
   ],
   "caption": "Korea has almost as many fried chicken restaurants as McDonald's has stores on the entire planet. About 39,000 of them, in a country the size of Indiana.\n\nFriday night is a big part of why. Bulgeum (불금), \"Burning Friday,\" ends at a table of chicken and beer — chimaek. It is not fast food here. It is a two-hour sit-down, usually round two of the night, and the density of those shops traces back to the 1997 financial crisis.\n\nSwipe for the full story.",
@@ -80,5 +123,24 @@
     "42,477 is McDonald's worldwide store count for 2024. The comparison is 'almost as many', not 'more than' — the widely repeated 87,000 figure comes from a 2019 KB report that Korean media cannot reproduce, so it is not used here.",
     "Franchise-only chicken outlets were 31,397 in 2024 and still rising; the total is falling because independents are closing. Both are true at once.",
     "The IMF-crisis origin story is well documented as a major driver but is not the only cause of chicken shop density."
-  ]
+  ],
+  "ko": {
+    "caption": "한국의 치킨집 수는 전 세계 맥도날드 매장 수와 거의 맞먹는다. 약 4만 개, 인디애나주만 한 나라에서.\n\n금요일 밤이 그 이유의 큰 부분이다. 불금은 치킨과 맥주가 깔린 테이블에서 끝난다. 여기서 치킨은 패스트푸드가 아니라 두 시간짜리 자리이고, 보통 2차다. 가게가 이렇게 많아진 건 1997년 외환위기까지 거슬러 올라간다.\n\n밀어서 전체 보기.",
+    "hashtags": [
+      "#치맥",
+      "#불금",
+      "#한국문화",
+      "#치킨",
+      "#서울",
+      "#한국",
+      "#카드뉴스",
+      "#korea",
+      "#koreanculture",
+      "#chimaek",
+      "#koreanfood",
+      "#explainkorea",
+      "#외국인시선",
+      "#한국살이"
+    ]
+  }
 }

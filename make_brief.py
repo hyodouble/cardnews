@@ -13,19 +13,28 @@ def main(argv):
         sys.exit(__doc__)
     with open(argv[1], encoding="utf-8") as fh:
         data = json.load(fh)
+    ko = data.get("ko", {})
 
     out = [f"# {data['title']}",
            "",
            f"- 발행 예정: {data['date']} ({data['weekday']})",
-           f"- 슬라이드: {len(data['slides'])}장, `slides/01.png` ~ "
-           f"`slides/{len(data['slides']):02d}.png`",
+           f"- 슬라이드: {len(data['slides'])}장",
+           "- 영어판 `slides/`, 한국어판 `slides_ko/`",
            "",
-           "## 캡션 (그대로 복사)",
+           "## 캡션 — 영어판 (그대로 복사)",
            "",
            "```",
            data["caption"],
            "",
            " ".join(data["hashtags"]),
+           "```",
+           "",
+           "## 캡션 — 한국어판 (그대로 복사)",
+           "",
+           "```",
+           ko.get("caption", "(없음)"),
+           "",
+           " ".join(ko.get("hashtags", [])),
            "```",
            "",
            "## 확인이 필요한 사실",
@@ -40,7 +49,10 @@ def main(argv):
         out.append(f"**{i:02d}. {head}**")
         for key in ("kicker", "note", "body"):
             if slide.get(key):
-                out.append(f"  {slide[key]}")
+                out.append(f"  EN  {slide[key]}")
+        for key in ("kicker", "note", "body"):
+            if slide.get("ko", {}).get(key):
+                out.append(f"  KO  {slide['ko'][key]}")
         out.append("")
 
     with open(f"{argv[2]}/README.md", "w", encoding="utf-8") as fh:
