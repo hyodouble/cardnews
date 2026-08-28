@@ -7,8 +7,8 @@
     {
       "type": "hook",
       "kicker": "FRIDAY NIGHT IN KOREA",
-      "headline": "Korea has more fried chicken shops than **the world has McDonald's.**",
-      "note": "And Friday is the reason."
+      "headline": "Korea has almost as many fried chicken restaurants as **McDonald's has on the entire planet.**",
+      "note": "Roughly 39,000 of them. In a country the size of Indiana."
     },
     {
       "type": "content",
@@ -42,24 +42,23 @@
     },
     {
       "type": "stat",
-      "stat": "~87,000",
+      "stat": "39,789",
       "headline": "chicken restaurants in **South Korea**",
-      "body": "A widely cited 2019 industry estimate — **more outlets than McDonald's runs worldwide**, in a country the size of Indiana."
+      "body": "The 2023 national count, franchises and independents together. McDonald's runs **42,477 stores worldwide**. Korea nearly matches that inside one country."
     },
     {
       "type": "content",
-      "headline": "So what is chimaek, **really**",
-      "body": "Not a dish. **A closing ceremony for the week**, invented by a recession and kept because it works."
+      "headline": "And the number is **falling**",
+      "body": "Down from 42,743 in 2020 — **three straight years of decline**. Franchise outlets keep growing while independent shops close. Chimaek is not going anywhere, but the corner chicken shop is thinning out."
     },
     {
       "type": "cta",
       "headline": "Korea, explained **by a Korean.**",
       "body": "Follow for the context behind the things Korea does.",
-      "next": "Next: why Koreans hike in $500 jackets",
       "button": "FOLLOW @whatshotkorea"
     }
   ],
-  "caption": "Korea has more fried chicken shops than McDonald's has outlets worldwide. Friday night is a big part of why.\n\nBulgeum (불금), \"Burning Friday,\" ends at a table of chicken and beer — chimaek. It is not fast food here. It is a two-hour sit-down, often round two of the night, and the density of those shops traces back to the 1997 financial crisis.\n\nSwipe for the full story.",
+  "caption": "Korea has almost as many fried chicken restaurants as McDonald's has stores on the entire planet. About 39,000 of them, in a country the size of Indiana.\n\nFriday night is a big part of why. Bulgeum (불금), \"Burning Friday,\" ends at a table of chicken and beer — chimaek. It is not fast food here. It is a two-hour sit-down, usually round two of the night, and the density of those shops traces back to the 1997 financial crisis.\n\nSwipe for the full story.",
   "hashtags": [
     "#korea",
     "#koreanculture",
@@ -77,8 +76,9 @@
     "#seoulfood"
   ],
   "fact_check": [
-    "The ~87,000 chicken restaurant figure comes from a 2019 KB financial research estimate. Treat it as an order of magnitude, not a current count.",
-    "The McDonald's comparison is a common framing in Korean media; global McDonald's outlet counts have risen since, so phrase it as 'more shops than McDonald's has worldwide' only with the 2019 caveat.",
+    "39,789 chicken restaurants is the 2023 figure from KOSIS (국가데이터처 국가통계포털), covering franchise and independent shops. Update when the 2024 count publishes.",
+    "42,477 is McDonald's worldwide store count for 2024. The comparison is 'almost as many', not 'more than' — the widely repeated 87,000 figure comes from a 2019 KB report that Korean media cannot reproduce, so it is not used here.",
+    "Franchise-only chicken outlets were 31,397 in 2024 and still rising; the total is falling because independents are closing. Both are true at once.",
     "The IMF-crisis origin story is well documented as a major driver but is not the only cause of chicken shop density."
   ]
 }

@@ -38,7 +38,7 @@ def main(argv):
         if slide["type"] == "stat":
             head = f"{slide['stat']} — {head}"
         out.append(f"**{i:02d}. {head}**")
-        for key in ("kicker", "note", "body", "next"):
+        for key in ("kicker", "note", "body"):
             if slide.get(key):
                 out.append(f"  {slide[key]}")
         out.append("")

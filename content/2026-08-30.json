@@ -54,12 +54,26 @@
     {
       "type": "cta",
       "headline": "Korea, explained by a Korean.",
-      "body": "Follow for the context behind the things Korea does.",
-      "next": "Next week: why every Korean apartment has the same floor plan"
+      "body": "Follow for the context behind the things Korea does."
     }
   ],
   "caption": "If a Korean calls you eonni (언니) or hyeong (형) before learning your name, nothing has gone wrong. The language needs it.\n\nKorean verbs change based on who is older, so a conversation cannot stay polite until that is settled. Kinship terms fix the relationship in one word — and unlike 'sir' or 'ma'am' in English, they close distance instead of creating it.\n\nSwipe for the full story.",
-  "hashtags": ["#korea", "#koreanculture", "#learnkorean", "#korean", "#언니", "#koreanlanguage", "#seoul", "#livinginkorea", "#한국", "#koreanlife", "#explainkorea", "#cultureshock", "#hangul", "#koreatravel"],
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#learnkorean",
+    "#korean",
+    "#언니",
+    "#koreanlanguage",
+    "#seoul",
+    "#livinginkorea",
+    "#한국",
+    "#koreanlife",
+    "#explainkorea",
+    "#cultureshock",
+    "#hangul",
+    "#koreatravel"
+  ],
   "fact_check": [
     "Speech-level rules are simplified here for a 10-slide format; Korean honorifics also depend on social role and setting, not age alone.",
     "Usage of oppa and eonni varies by region, generation and context. Younger speakers use them more loosely than the slides imply.",
