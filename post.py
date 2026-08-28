@@ -42,14 +42,19 @@ def call(url, params, method="POST"):
 
 
 def wait_ready(base, container_id, token, tries=20):
-    """Meta builds carousel containers asynchronously; publish too early and it 400s."""
+    """Meta builds carousel containers asynchronously; publish too early and it 400s.
+
+    The two APIs disagree on the field name: Graph reports ``status_code``,
+    Threads reports ``status`` and rejects the other outright.
+    """
+    field = "status" if base == THREADS else "status_code"
     for _ in range(tries):
-        status = call(base + "/" + container_id,
-                      {"fields": "status_code", "access_token": token}, "GET")
-        if status.get("status_code") == "FINISHED":
+        state = call(base + "/" + container_id,
+                     {"fields": field, "access_token": token}, "GET").get(field)
+        if state == "FINISHED":
             return
-        if status.get("status_code") == "ERROR":
-            raise RuntimeError(f"container {container_id} failed: {status}")
+        if state in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"container {container_id} failed: {state}")
         time.sleep(3)
     raise TimeoutError(f"container {container_id} never finished")
 
@@ -84,6 +89,26 @@ def post_facebook(urls, caption, page_id, token):
     return call(f"{GRAPH}/{page_id}/feed", params)
 
 
+# Threads rejects anything longer than this, unlike Instagram and Facebook.
+THREADS_TEXT_LIMIT = 500
+
+
+def fit_threads(caption):
+    """Trim to what Threads accepts without leaving a sentence hanging.
+
+    Captions are written as English, a "· · ·" rule, then Korean. Dropping
+    everything from the rule keeps one whole language rather than half of two.
+    """
+    if len(caption) <= THREADS_TEXT_LIMIT:
+        return caption
+    head = caption.split("· · ·")[0].strip()
+    if len(head) > THREADS_TEXT_LIMIT:
+        head = head[:THREADS_TEXT_LIMIT]
+        cut = max(head.rfind(". "), head.rfind("\n"))
+        head = (head[:cut + 1] if cut > 0 else head).strip()
+    return head
+
+
 def post_threads(urls, caption, user_id, token):
     children = [
         call(f"{THREADS}/{user_id}/threads",
@@ -91,10 +116,14 @@ def post_threads(urls, caption, user_id, token):
               "is_carousel_item": "true", "access_token": token})["id"]
         for u in urls
     ]
+    # Children are built asynchronously; a parent referencing an unfinished one
+    # is rejected as an invalid carousel item.
+    for child in children:
+        wait_ready(THREADS, child, token)
     parent = call(f"{THREADS}/{user_id}/threads", {
         "media_type": "CAROUSEL",
         "children": ",".join(children),
-        "text": caption,
+        "text": fit_threads(caption),
         "access_token": token,
     })["id"]
     wait_ready(THREADS, parent, token)
