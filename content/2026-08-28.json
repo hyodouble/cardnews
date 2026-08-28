@@ -7,59 +7,75 @@
     {
       "type": "hook",
       "kicker": "FRIDAY NIGHT IN KOREA",
-      "headline": "Korea has more fried chicken shops than the world has McDonald's.",
+      "headline": "Korea has more fried chicken shops than **the world has McDonald's.**",
       "note": "And Friday is the reason."
     },
     {
       "type": "content",
-      "headline": "Friday has its own name here",
-      "body": "Koreans call it Bulgeum (불금) — Burning Friday. The week does not end when the office closes. It ends at a table covered in fried chicken and beer."
+      "headline": "Friday has **its own name** here",
+      "body": "Koreans call it Bulgeum (불금) — **Burning Friday**. The week does not end when the office closes. It ends at a table covered in fried chicken and beer."
     },
     {
       "type": "content",
-      "headline": "The word is chimaek",
-      "body": "Chicken + maekju (beer). Not a meal, a format. You do not order chimaek because you are hungry. You order it because the group is still talking."
+      "headline": "The word is **chimaek**",
+      "body": "Chicken + maekju (beer). **Not a meal, a format.** You do not order chimaek because you are hungry. You order it because the group is still talking."
     },
     {
       "type": "content",
-      "headline": "It started with a financial crisis",
-      "body": "After the 1997 IMF crisis, laid-off office workers needed a business with a low entry cost. Thousands opened chicken shops. The density on every Korean street traces back to that decade."
+      "headline": "It started with a **financial crisis**",
+      "body": "After the **1997 IMF crisis**, laid-off office workers needed a business with a low entry cost. Thousands opened chicken shops. The density on every Korean street traces back to that decade."
     },
     {
       "type": "content",
-      "headline": "The workday does not end at the door",
-      "body": "In much of Korean office culture, the day closes when the team eats together, not when the clock says so. Chimaek is where that ritual lands on a Friday."
+      "headline": "The workday **does not end at the door**",
+      "body": "In much of Korean office culture, the day closes **when the team eats together**, not when the clock says so. Chimaek is where that ritual lands on a Friday."
     },
     {
       "type": "content",
-      "headline": "Nights come in rounds",
-      "body": "Koreans count a night out in cha (차) — rounds. Dinner is round one. Round two moves somewhere new. Chicken and beer is the default round two, and it can run past midnight."
+      "headline": "Nights come in **rounds**",
+      "body": "Koreans count a night out in cha (차) — rounds. Dinner is round one. Round two moves somewhere new. **Chicken and beer is the default round two**, and it can run past midnight."
     },
     {
       "type": "content",
-      "headline": "This is the part outsiders miss",
-      "body": "In most countries fried chicken is fast food you eat alone in a car. In Korea it is a two-hour sit-down with friends, delivered to a park bench or a riverside blanket if the weather is good."
+      "headline": "This is the part **outsiders miss**",
+      "body": "In most countries fried chicken is fast food you eat alone in a car. In Korea it is a **two-hour sit-down with friends**, delivered to a park bench or a riverside blanket if the weather is good."
     },
     {
       "type": "stat",
       "stat": "~87,000",
-      "headline": "chicken restaurants in South Korea",
-      "body": "A widely cited 2019 industry estimate — more outlets than McDonald's runs worldwide, in a country the size of Indiana."
+      "headline": "chicken restaurants in **South Korea**",
+      "body": "A widely cited 2019 industry estimate — **more outlets than McDonald's runs worldwide**, in a country the size of Indiana."
     },
     {
       "type": "content",
-      "headline": "So what is chimaek, really",
-      "body": "Not a dish. A closing ceremony for the week, invented by a recession and kept because it works."
+      "headline": "So what is chimaek, **really**",
+      "body": "Not a dish. **A closing ceremony for the week**, invented by a recession and kept because it works."
     },
     {
       "type": "cta",
-      "headline": "Korea, explained by a Korean.",
+      "headline": "Korea, explained **by a Korean.**",
       "body": "Follow for the context behind the things Korea does.",
-      "next": "Next: why Koreans hike in $500 jackets"
+      "next": "Next: why Koreans hike in $500 jackets",
+      "button": "FOLLOW @whatshotkorea"
     }
   ],
   "caption": "Korea has more fried chicken shops than McDonald's has outlets worldwide. Friday night is a big part of why.\n\nBulgeum (불금), \"Burning Friday,\" ends at a table of chicken and beer — chimaek. It is not fast food here. It is a two-hour sit-down, often round two of the night, and the density of those shops traces back to the 1997 financial crisis.\n\nSwipe for the full story.",
-  "hashtags": ["#korea", "#koreanculture", "#chimaek", "#koreanfood", "#seoul", "#friedchicken", "#livinginkorea", "#koreatravel", "#한국", "#치맥", "#koreanlife", "#explainkorea", "#cultureshock", "#seoulfood"],
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#chimaek",
+    "#koreanfood",
+    "#seoul",
+    "#friedchicken",
+    "#livinginkorea",
+    "#koreatravel",
+    "#한국",
+    "#치맥",
+    "#koreanlife",
+    "#explainkorea",
+    "#cultureshock",
+    "#seoulfood"
+  ],
   "fact_check": [
     "The ~87,000 chicken restaurant figure comes from a 2019 KB financial research estimate. Treat it as an order of magnitude, not a current count.",
     "The McDonald's comparison is a common framing in Korean media; global McDonald's outlet counts have risen since, so phrase it as 'more shops than McDonald's has worldwide' only with the 2019 caveat.",
