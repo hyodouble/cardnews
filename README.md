@@ -47,8 +47,13 @@ web UI.
 
 ```bash
 python make_cards.py content/2026-08-28.json img/2026-08-28 "<desktop>/2026-08-28_금요일/slides"
+python make_cards.py content/2026-08-28.json --ko img/2026-08-28-ko "<desktop>/2026-08-28_금요일/slides_ko"
 python make_brief.py content/2026-08-28.json "<desktop>/2026-08-28_금요일"
 ```
+
+Every post ships in both languages. Korean copy lives in a `ko` block on each
+slide and falls back to the English field when absent, so a partial translation
+still renders.
 
 `make_cards.py` renders 1080x1080 PNGs in the account palette — four slide
 types (`hook`, `content`, `stat`, `cta`) picked per slide by its `type` field.
