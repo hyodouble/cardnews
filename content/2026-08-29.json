@@ -7,57 +7,101 @@
     {
       "type": "hook",
       "kicker": "SATURDAY MORNING IN KOREA",
-      "headline": "Koreans dress for Everest to walk up a 300-meter hill.",
-      "note": "There is a reason, and it is not the mountain."
+      "headline": "Koreans dress for Everest to walk up a **300-metre hill.**",
+      "note": "There is a reason, and it is not the mountain.",
+      "ko": {
+        "kicker": "토요일 아침의 한국",
+        "headline": "에베레스트 갈 복장으로 **300미터 뒷산에 오른다.**",
+        "note": "이유가 있다. 산 때문이 아니다."
+      }
     },
     {
       "type": "content",
-      "headline": "Ride the subway at 7am on a Saturday",
-      "body": "The car fills with neon technical jackets, trekking poles and hiking boots. None of them are going to Everest. Most are going to a hill inside the city."
+      "headline": "Ride the subway at **7am on a Saturday**",
+      "body": "The car fills with neon technical jackets, trekking poles and hiking boots. **None of them are going to Everest.** Most are going to a hill inside the city.",
+      "ko": {
+        "headline": "토요일 **아침 7시 지하철**",
+        "body": "형광색 등산 재킷, 스틱, 등산화가 객차를 채운다. **아무도 에베레스트에 가지 않는다.** 대부분 도시 안에 있는 산으로 간다."
+      }
     },
     {
       "type": "content",
-      "headline": "Korea is mostly mountain",
-      "body": "Roughly 70% of the country is mountainous. In Seoul you are never more than a short bus ride from a trailhead. Hiking is not a trip you plan. It is a Saturday."
+      "headline": "Korea is **mostly mountain**",
+      "body": "**Around 70% of the country** is mountainous. In Seoul you are never far from a trailhead. Hiking is not a trip you plan. It is a Saturday.",
+      "ko": {
+        "headline": "한국은 **대부분이 산이다**",
+        "body": "국토의 **약 70%가 산지**다. 서울에서도 등산로 입구까지 멀지 않다. 등산은 계획해서 떠나는 여행이 아니라 그냥 토요일이다."
+      }
     },
     {
       "type": "content",
-      "headline": "Outdoor wear became fashion",
-      "body": "Through the 2000s, Korean outdoor brands turned hiking gear into a mainstream clothing category. The jacket stopped being equipment and became something you were seen in."
+      "headline": "Outdoor wear **became fashion**",
+      "body": "Through the 2000s, Korean outdoor brands turned hiking gear into a mainstream clothing category. **The jacket stopped being equipment** and became something you were seen in.",
+      "ko": {
+        "headline": "등산복이 **패션이 됐다**",
+        "body": "2000년대를 지나며 한국 아웃도어 브랜드들이 등산복을 일상복 카테고리로 만들었다. **재킷은 장비이길 그만두고** 남에게 보이는 옷이 됐다."
+      }
     },
     {
       "type": "content",
-      "headline": "Hiking is a group activity",
-      "body": "Company clubs, university alumni groups, church groups, neighborhood groups. For a lot of Koreans over 40, the hiking club is the main standing social calendar of the week."
+      "headline": "Hiking is a **group activity**",
+      "body": "Company clubs, university alumni groups, church groups, neighbourhood groups. For many Koreans over 40, **the hiking club is the standing social calendar** of the week.",
+      "ko": {
+        "headline": "등산은 **단체 활동이다**",
+        "body": "회사 산악회, 동문회, 교회, 동네 모임. 40대 이상 상당수에게 **산악회는 그 주의 고정 일정**이다."
+      }
     },
     {
       "type": "content",
-      "headline": "The gear is a signal",
-      "body": "Showing up in a t-shirt and sneakers reads as not taking the group seriously. The full outfit says you prepared, you belong here, and you intend to keep up."
+      "headline": "The gear is **a signal**",
+      "body": "Turning up in a t-shirt and sneakers reads as not taking the group seriously. The full outfit says **you prepared, you belong, you can keep up.**",
+      "ko": {
+        "headline": "장비는 **신호다**",
+        "body": "티셔츠에 운동화로 나타나면 모임을 가볍게 본다는 뜻으로 읽힌다. 갖춰 입은 복장은 **준비했고, 소속이고, 따라갈 수 있다**는 말이다."
+      }
     },
     {
       "type": "content",
-      "headline": "Here is the reframe",
-      "body": "The outfit is not sized to the difficulty of the trail. It is sized to the seriousness of the occasion. It is closer to a team jersey than to safety equipment."
+      "headline": "Here is **the reframe**",
+      "body": "The outfit is not sized to the difficulty of the trail. It is sized to **the seriousness of the occasion.** Closer to a team jersey than to safety equipment.",
+      "ko": {
+        "headline": "여기서 **관점이 바뀐다**",
+        "body": "복장은 코스 난이도에 맞춘 게 아니다. **자리의 무게에 맞춘 것**이다. 안전장비보다 팀 유니폼에 가깝다."
+      }
     },
     {
       "type": "stat",
-      "stat": "~70%",
-      "headline": "of South Korea is mountainous terrain",
-      "body": "Bukhansan, inside Seoul city limits, draws millions of visitors a year and is often cited as one of the most visited national parks per unit of area in the world."
+      "stat": "5,000,000",
+      "headline": "visits a year to **one city park**",
+      "body": "Bukhansan sits inside Seoul, covers about 80 km², and holds a Guinness record for **visitors per unit of area.** Roughly 70% of Korea is mountainous.",
+      "ko": {
+        "headline": "**도심 국립공원** 한 곳의 연간 방문",
+        "body": "북한산은 서울 안에 있고 면적은 약 80km²다. **단위면적당 방문자 수**로 기네스 기록에 올라 있다. 국토의 약 70%가 산지다.",
+        "stat": "500만"
+      }
     },
     {
       "type": "content",
-      "headline": "So why the $500 jacket",
-      "body": "Because the mountain is the venue, not the point. The people on it are the point."
+      "headline": "So why the **$500 jacket**",
+      "body": "Because the mountain is the venue, not the point. **The people on it are the point.**",
+      "ko": {
+        "headline": "그래서 왜 **비싼 재킷인가**",
+        "body": "산은 장소일 뿐 목적이 아니기 때문이다. **목적은 거기 같이 온 사람들**이다."
+      }
     },
     {
       "type": "cta",
-      "headline": "Korea, explained by a Korean.",
-      "body": "Follow for the context behind the things Korea does."
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "ko": {
+        "headline": "한국 사람이 설명하는 **한국.**",
+        "body": "한국이 왜 그러는지, 그 맥락을 올립니다.",
+        "button": "팔로우 @whatshotkorea"
+      }
     }
   ],
-  "caption": "Ride a Seoul subway at 7am on a Saturday and it fills with people dressed for an expedition. They are going to a hill inside the city.\n\nAbout 70% of Korea is mountainous, hiking clubs are a standing social calendar for millions of people, and the gear works as a signal that you take the group seriously. The jacket is closer to a team jersey than to safety equipment.\n\nSwipe for the full story.",
+  "caption": "Ride a Seoul subway at 7am on a Saturday and it fills with people dressed for an expedition. They are going to a hill inside the city.\n\nAround 70% of Korea is mountainous, hiking clubs are the standing social calendar for millions of people, and the gear works as a signal that you take the group seriously. Bukhansan, inside the city, takes about five million visits a year.\n\nThe jacket is closer to a team jersey than to safety equipment. Swipe for the full story.",
   "hashtags": [
     "#korea",
     "#koreanculture",
@@ -75,8 +119,28 @@
     "#hikingkorea"
   ],
   "fact_check": [
-    "The ~70% mountainous figure is the standard cited range (roughly 63-70% depending on the definition used). Keep the tilde.",
-    "The Bukhansan 'most visited national park per unit area' line traces to a Guinness-style claim from 2011 and is repeated widely without recent verification. Phrase it as 'often cited', which the slide does.",
-    "The $500 figure in the hook is illustrative of premium outdoor pricing, not a measured average."
-  ]
+    "약 70% 산지: 통용되는 범위는 70~75%. 세계은행 기준 산림 비율은 2023년 64%. 슬라이드는 '약 70%'로 완화해 표기.",
+    "북한산 연 500만 방문·면적 약 80km²·단위면적당 방문자 기네스 기록: 다수 매체에서 일관되게 확인. 다만 기록 등재 시점이 오래돼 최신 갱신 여부는 미확인.",
+    "훅의 $500는 프리미엄 아웃도어 가격대를 나타내는 예시이지 평균값이 아니다.",
+    "'40대 이상 상당수'는 관찰에 기반한 서술이며 특정 통계 수치가 아니다."
+  ],
+  "ko": {
+    "caption": "토요일 아침 7시 서울 지하철은 원정대 복장을 한 사람들로 찬다. 목적지는 도시 안에 있는 산이다.\n\n국토의 약 70%가 산지이고, 산악회는 수많은 사람에게 그 주의 고정 일정이다. 장비는 모임을 진지하게 대한다는 신호로 작동한다. 서울 안에 있는 북한산은 연 500만 명이 찾는다.\n\n그 재킷은 안전장비보다 팀 유니폼에 가깝다. 밀어서 전체 보기.",
+    "hashtags": [
+      "#등산",
+      "#한국문화",
+      "#북한산",
+      "#서울",
+      "#등산복",
+      "#한국",
+      "#카드뉴스",
+      "#korea",
+      "#koreanculture",
+      "#hiking",
+      "#bukhansan",
+      "#explainkorea",
+      "#한국살이",
+      "#외국인시선"
+    ]
+  }
 }
