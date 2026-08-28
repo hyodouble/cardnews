@@ -24,7 +24,9 @@ AMBER = (255, 176, 32)
 WHITE = (255, 255, 255)
 BONE = (240, 236, 228)
 
-FONT_DIR = os.path.join(os.environ.get("WINDIR", r"C:\Windows"), "Fonts")
+# Bundled open fonts beat the Windows defaults: Anton is a real poster face and
+# Pretendard is the current standard for Korean UI type.
+FONT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts")
 HANGUL = re.compile(r"[\u1100-\u11ff\u3130-\u318f\uac00-\ud7a3]")
 EMPH = re.compile(r"\*\*(.+?)\*\*")
 
@@ -38,14 +40,12 @@ def font(name, size):
 
 
 def display(text, size):
-    """Condensed caps for Latin, Malgun Bold for Hangul."""
-    return font("malgunbd.ttf" if HANGUL.search(text) else "ARIALNB.TTF", size)
+    """Anton for Latin headlines, Pretendard ExtraBold where Hangul appears."""
+    return font("Pretendard-ExtraBold.ttf" if HANGUL.search(text) else "Anton-Regular.ttf", size)
 
 
 def body_font(text, size, weight="regular"):
-    if HANGUL.search(text):
-        return font("malgunbd.ttf" if weight == "bold" else "malgun.ttf", size)
-    return font("seguisb.ttf" if weight == "bold" else "segoeui.ttf", size)
+    return font("Pretendard-Medium.ttf" if weight == "bold" else "Pretendard-Regular.ttf", size)
 
 
 def caps(text):
@@ -93,7 +93,9 @@ def block(draw, text, size, width, fnt_for, spacing):
 def head_block(draw, text, size, width=None, spacing=0.94):
     width = width or SIZE - 2 * MARGIN
     if HANGUL.search(text):
-        size, spacing = int(size * 0.74), 1.18
+        size, spacing = int(size * 0.72), 1.16
+    else:
+        spacing = 1.02  # Anton runs tall; 0.94 would collide
     return block(draw, caps(text), size, width, lambda w: display(w, size), spacing)
 
 
