@@ -217,8 +217,6 @@ def render_cta(slide, index, total, assets):
     pill_w = d.textlength(label, font=bf) + 84
     d.rounded_rectangle([MARGIN, y + 54, MARGIN + pill_w, y + 138], radius=42, fill=AMBER)
     d.text((MARGIN + 42, y + 76), label, font=bf, fill=INK_SOFT)
-
-    draw_rich(d, slide["next"], y + 176, 28, FAINT, weight="bold")
     return img
 
 

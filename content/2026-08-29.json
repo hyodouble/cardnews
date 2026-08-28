@@ -54,12 +54,26 @@
     {
       "type": "cta",
       "headline": "Korea, explained by a Korean.",
-      "body": "Follow for the context behind the things Korea does.",
-      "next": "Next: why Koreans call strangers 'older sister'"
+      "body": "Follow for the context behind the things Korea does."
     }
   ],
   "caption": "Ride a Seoul subway at 7am on a Saturday and it fills with people dressed for an expedition. They are going to a hill inside the city.\n\nAbout 70% of Korea is mountainous, hiking clubs are a standing social calendar for millions of people, and the gear works as a signal that you take the group seriously. The jacket is closer to a team jersey than to safety equipment.\n\nSwipe for the full story.",
-  "hashtags": ["#korea", "#koreanculture", "#hiking", "#seoul", "#bukhansan", "#등산", "#koreatravel", "#livinginkorea", "#outdoors", "#한국", "#koreanlife", "#explainkorea", "#cultureshock", "#hikingkorea"],
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#hiking",
+    "#seoul",
+    "#bukhansan",
+    "#등산",
+    "#koreatravel",
+    "#livinginkorea",
+    "#outdoors",
+    "#한국",
+    "#koreanlife",
+    "#explainkorea",
+    "#cultureshock",
+    "#hikingkorea"
+  ],
   "fact_check": [
     "The ~70% mountainous figure is the standard cited range (roughly 63-70% depending on the definition used). Keep the tilde.",
     "The Bukhansan 'most visited national park per unit area' line traces to a Guinness-style claim from 2011 and is repeated widely without recent verification. Phrase it as 'often cited', which the slide does.",
