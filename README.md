@@ -16,7 +16,7 @@ This repository does two jobs:
 | Platform | Handle | ID |
 |---|---|---|
 | Instagram | `whatshotkorea` (business) | see `.env` |
-| Facebook page | What's Hot Korea | `61594049484996` |
+| Facebook page | What's Hot Korea | `1253255244544447` |
 | Threads | `@whatshotkorea` | see `.env` |
 
 The Instagram account is linked to the Facebook page, which is what makes the

@@ -115,9 +115,11 @@ def main(argv):
             if r.status != 200:
                 sys.exit(f"not public yet: {url} -- push to GitHub first")
 
+    # Instagram publishing runs on the page token too, so one token covers both.
+    page_token = os.environ["PAGE_TOKEN"]
     targets = [
-        ("instagram", post_instagram, os.environ["IG_USER_ID"], os.environ["IG_TOKEN"]),
-        ("facebook", post_facebook, os.environ["FB_PAGE_ID"], os.environ["FB_TOKEN"]),
+        ("instagram", post_instagram, os.environ["IG_USER_ID"], page_token),
+        ("facebook", post_facebook, os.environ["FB_PAGE_ID"], page_token),
         ("threads", post_threads, os.environ["THREADS_USER_ID"], os.environ["THREADS_TOKEN"]),
     ]
     for name, fn, target_id, token in targets:

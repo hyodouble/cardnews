@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-29",
+  "weekday": "토요일",
+  "topic": "hiking",
+  "title": "Why Koreans Hike in Full Designer Gear",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "SATURDAY MORNING IN KOREA",
+      "headline": "Koreans dress for Everest to walk up a 300-meter hill.",
+      "note": "There is a reason, and it is not the mountain."
+    },
+    {
+      "type": "content",
+      "headline": "Ride the subway at 7am on a Saturday",
+      "body": "The car fills with neon technical jackets, trekking poles and hiking boots. None of them are going to Everest. Most are going to a hill inside the city."
+    },
+    {
+      "type": "content",
+      "headline": "Korea is mostly mountain",
+      "body": "Roughly 70% of the country is mountainous. In Seoul you are never more than a short bus ride from a trailhead. Hiking is not a trip you plan. It is a Saturday."
+    },
+    {
+      "type": "content",
+      "headline": "Outdoor wear became fashion",
+      "body": "Through the 2000s, Korean outdoor brands turned hiking gear into a mainstream clothing category. The jacket stopped being equipment and became something you were seen in."
+    },
+    {
+      "type": "content",
+      "headline": "Hiking is a group activity",
+      "body": "Company clubs, university alumni groups, church groups, neighborhood groups. For a lot of Koreans over 40, the hiking club is the main standing social calendar of the week."
+    },
+    {
+      "type": "content",
+      "headline": "The gear is a signal",
+      "body": "Showing up in a t-shirt and sneakers reads as not taking the group seriously. The full outfit says you prepared, you belong here, and you intend to keep up."
+    },
+    {
+      "type": "content",
+      "headline": "Here is the reframe",
+      "body": "The outfit is not sized to the difficulty of the trail. It is sized to the seriousness of the occasion. It is closer to a team jersey than to safety equipment."
+    },
+    {
+      "type": "stat",
+      "stat": "~70%",
+      "headline": "of South Korea is mountainous terrain",
+      "body": "Bukhansan, inside Seoul city limits, draws millions of visitors a year and is often cited as one of the most visited national parks per unit of area in the world."
+    },
+    {
+      "type": "content",
+      "headline": "So why the $500 jacket",
+      "body": "Because the mountain is the venue, not the point. The people on it are the point."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained by a Korean.",
+      "body": "Follow for the context behind the things Korea does.",
+      "next": "Next: why Koreans call strangers 'older sister'"
+    }
+  ],
+  "caption": "Ride a Seoul subway at 7am on a Saturday and it fills with people dressed for an expedition. They are going to a hill inside the city.\n\nAbout 70% of Korea is mountainous, hiking clubs are a standing social calendar for millions of people, and the gear works as a signal that you take the group seriously. The jacket is closer to a team jersey than to safety equipment.\n\nSwipe for the full story.",
+  "hashtags": ["#korea", "#koreanculture", "#hiking", "#seoul", "#bukhansan", "#등산", "#koreatravel", "#livinginkorea", "#outdoors", "#한국", "#koreanlife", "#explainkorea", "#cultureshock", "#hikingkorea"],
+  "fact_check": [
+    "The ~70% mountainous figure is the standard cited range (roughly 63-70% depending on the definition used). Keep the tilde.",
+    "The Bukhansan 'most visited national park per unit area' line traces to a Guinness-style claim from 2011 and is repeated widely without recent verification. Phrase it as 'often cited', which the slide does.",
+    "The $500 figure in the hook is illustrative of premium outdoor pricing, not a measured average."
+  ]
+}
