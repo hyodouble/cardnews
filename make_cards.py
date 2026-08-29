@@ -2,10 +2,12 @@
 """Render a content JSON into 1080x1080 carousel slides.
 
 Usage:
-    python make_cards.py content/2026-08-28.json [--ko] [out_dir ...]
+    python make_cards.py content/2026-08-28.json [--ko] [--hook=N] [out_dir ...]
 
 Writes 01.png ... 10.png into every out_dir given (default: img/<date>).
 With --ko the Korean copy in each slide's "ko" block is used instead.
+With --hook=N slide 1 is rebuilt from the Nth entry of "hook_variants",
+so a cover that underperformed can be swapped without touching the rest.
 The layout rules this implements are written down in DESIGN.md.
 """
 import json
@@ -36,7 +38,11 @@ WATERMARK_TRIM = 0.12
 
 
 def font(name, size):
-    return ImageFont.truetype(os.path.join(FONT_DIR, name), size)
+    """Bundled faces by name. seguisb comes from Windows; elsewhere Archivo stands in."""
+    try:
+        return ImageFont.truetype(os.path.join(FONT_DIR, name), size)
+    except OSError:
+        return ImageFont.truetype(os.path.join(FONT_DIR, "Archivo.ttf"), size)
 
 
 def display(text, size):
@@ -251,11 +257,18 @@ def localise(slide, lang):
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
     lang = "ko" if "--ko" in argv else None
+    hook = next((int(a.split("=", 1)[1]) for a in argv if a.startswith("--hook=")), 0)
     if not args:
         sys.exit(__doc__)
 
     with open(args[0], encoding="utf-8") as fh:
         data = json.load(fh)
+
+    variants = data.get("hook_variants", [])
+    if hook:
+        if not 1 <= hook <= len(variants):
+            sys.exit(f"--hook={hook}: this post has {len(variants)} hook variants")
+        data["slides"][0] = {**data["slides"][0], **variants[hook - 1]}
 
     asset_dir = os.path.join("assets", data["date"])
     assets = {os.path.splitext(f)[0]: os.path.join(asset_dir, f)
@@ -263,7 +276,8 @@ def main(argv):
     if "hook" not in assets:
         sys.exit(f"need at least {asset_dir}/hook.png")
 
-    out_dirs = args[1:] or [os.path.join("img", data["date"] + ("-ko" if lang else ""))]
+    suffix = ("-ko" if lang else "") + (f"-hook{hook}" if hook else "")
+    out_dirs = args[1:] or [os.path.join("img", data["date"] + suffix)]
     for out in out_dirs:
         os.makedirs(out, exist_ok=True)
 
@@ -272,7 +286,7 @@ def main(argv):
         img = RENDERERS[slide["type"]](localise(slide, lang), i, total, assets)
         for out in out_dirs:
             img.save(os.path.join(out, f"{i:02d}.png"))
-    print(f"{data['date']}{'-ko' if lang else ''}: {total} slides -> {', '.join(out_dirs)}")
+    print(f"{data['date']}{suffix}: {total} slides -> {', '.join(out_dirs)}")
 
 
 if __name__ == "__main__":
