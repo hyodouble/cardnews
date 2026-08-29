@@ -40,10 +40,15 @@ Long-lived Meta tokens expire after 60 days; refresh them and update `.env`.
 ## Making a carousel
 
 One JSON per post lives in `content/<date>.json`: ten slides, the caption, the
-hashtags, and a `fact_check` list of claims that still need verifying. Slide
-copy follows the rules in `claude-project-instructions.md`, kept here so the
-prompt is versioned alongside the output rather than living only in the Claude
-web UI.
+hashtags, two spare covers in `hook_variants`, and a `fact_check` list of
+claims that still need verifying. Slide copy follows the rules in
+`claude-project-instructions.md`, kept here so the prompt is versioned
+alongside the output rather than living only in the Claude web UI.
+
+Slide 1 and the first line of the caption are the only copy most people ever
+see, so they have their own rules — eight words, a number or a proper noun, and
+the answer held back for slide 2. The "후킹 카피" section of
+`claude-project-instructions.md` is the full list.
 
 ```bash
 python make_cards.py content/2026-08-28.json img/2026-08-28 "<desktop>/2026-08-28_금요일/slides"
@@ -54,6 +59,13 @@ python make_brief.py content/2026-08-28.json "<desktop>/2026-08-28_금요일"
 Every post ships in both languages. Korean copy lives in a `ko` block on each
 slide and falls back to the English field when absent, so a partial translation
 still renders.
+
+Every post carries two alternate covers. If one underperforms, swap the cover
+rather than the deck:
+
+```bash
+python make_cards.py content/2026-08-28.json --hook=1   # img/2026-08-28-hook1
+```
 
 `make_cards.py` renders 1080x1080 PNGs in the account palette — four slide
 types (`hook`, `content`, `stat`, `cta`) picked per slide by its `type` field.
@@ -69,9 +81,9 @@ whole line into a different typeface.
 
 | Date | Topic | Status |
 |---|---|---|
-| 2026-08-28 (금) | Chimaek and Burning Friday | slides ready, unpublished |
-| 2026-08-29 (토) | Hiking gear as a social uniform | slides ready, unpublished |
-| 2026-08-30 (일) | Kinship terms for strangers | slides ready, unpublished |
+| 2026-08-28 (금) | Chimaek and Burning Friday | hook rewritten, re-render before publishing |
+| 2026-08-29 (토) | Hiking gear as a social uniform | hook rewritten, re-render before publishing |
+| 2026-08-30 (일) | Kinship terms for strangers | hook rewritten, needs `assets/2026-08-30/` to render |
 
 All three are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.

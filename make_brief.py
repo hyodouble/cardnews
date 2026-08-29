@@ -40,6 +40,18 @@ def main(argv):
            "## 확인이 필요한 사실",
            ""]
     out += [f"{i}. {flag}" for i, flag in enumerate(data["fact_check"], start=1)]
+
+    if data.get("hook_variants"):
+        out += ["", "## 커버 대안 — 반응이 나쁘면 1장만 교체", ""]
+        for i, v in enumerate(data["hook_variants"], start=1):
+            out.append(f"**{i}. {v.get('pattern', '대안')}** — `--hook={i}`")
+            out.append(f"  EN  {v['headline']}")
+            out.append(f"      {v.get('note', '')}")
+            if v.get("ko"):
+                out.append(f"  KO  {v['ko']['headline']}")
+                out.append(f"      {v['ko'].get('note', '')}")
+            out.append("")
+
     out += ["", "## 슬라이드 문구", ""]
 
     for i, slide in enumerate(data["slides"], start=1):

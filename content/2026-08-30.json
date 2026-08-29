@@ -7,8 +7,8 @@
     {
       "type": "hook",
       "kicker": "SOMETHING KOREANS NEVER EXPLAIN",
-      "headline": "A Korean will call you 'older sister' before they learn your name.",
-      "note": "It is not a mistake. The language requires it."
+      "headline": "Called 'older sister' **before anyone asks your name.**",
+      "note": "It is not a mistake. Korean grammar leaves no other option."
     },
     {
       "type": "content",
@@ -57,7 +57,7 @@
       "body": "Follow for the context behind the things Korea does."
     }
   ],
-  "caption": "If a Korean calls you eonni (언니) or hyeong (형) before learning your name, nothing has gone wrong. The language needs it.\n\nKorean verbs change based on who is older, so a conversation cannot stay polite until that is settled. Kinship terms fix the relationship in one word — and unlike 'sir' or 'ma'am' in English, they close distance instead of creating it.\n\nSwipe for the full story.",
+  "caption": "A Korean will call you 'older sister' before they ask your name. Nothing has gone wrong.\n\nEonni (언니), oppa (오빠), hyeong (형) and nuna (누나) all literally mean an older sibling, and Koreans use them on classmates, coworkers and people they met ten minutes ago. Korean verbs change based on who is older, so a conversation cannot stay polite until that is settled.\n\nUnlike 'sir' or 'ma'am' in English, these words close distance instead of creating it. Swipe for the full story.",
   "hashtags": [
     "#korea",
     "#koreanculture",
@@ -78,5 +78,19 @@
     "Speech-level rules are simplified here for a 10-slide format; Korean honorifics also depend on social role and setting, not age alone.",
     "Usage of oppa and eonni varies by region, generation and context. Younger speakers use them more loosely than the slides imply.",
     "Imo and samchon for service staff is common but not universal, and some people find it dated."
+  ],
+  "hook_variants": [
+    {
+      "pattern": "오해 정정",
+      "kicker": "SOMETHING KOREANS NEVER EXPLAIN",
+      "headline": "Korean has **no comfortable word for 'you'.**",
+      "note": "So it borrows the word for older sister instead."
+    },
+    {
+      "pattern": "장면",
+      "kicker": "SOMETHING KOREANS NEVER EXPLAIN",
+      "headline": "The first question is **your birth year.**",
+      "note": "Not small talk. Every verb in the conversation depends on the answer."
+    }
   ]
 }
