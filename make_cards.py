@@ -183,26 +183,23 @@ def render_hook(s, index, total, assets):
 
 
 def render_content(s, index, total, assets):
-    """Every third slide flips to solid amber so the set has a rhythm."""
-    loud = index % 3 == 0
-    if loud:
-        # On amber, contrast comes from weight rather than hue.
-        bg, fg, head_accent = AMBER, INK, WHITE
-        dim, body_accent = (16, 16, 18, 160), INK
-    else:
-        bg, fg, head_accent = INK, WHITE, AMBER
-        dim, body_accent = (255, 255, 255, 170), AMBER
+    """Same photo + scrim treatment as hook/stat/cta -- see DESIGN.md 4th revision.
 
-    img = grain(Image.new("RGB", (SIZE, SIZE), bg), 5)
-    d = chrome(img, index, total, on_dark=not loud)
+    A flat-color slide reads as a different document from its photo neighbours,
+    so every slide shares one visual treatment and gets its rhythm from a
+    different photo instead of a different background type.
+    """
+    key = s.get("asset", f"content{index}")
+    img = scrim(photo(assets.get(key, assets["hook"])), height_px=760)
+    d = chrome(img, index, total)
 
     head = head_block(d, s["headline"], 76)
     text = body_block(d, s["body"], 33)
 
     # Anchored to the bottom margin, the way the reference sets do it.
     y = SIZE - MARGIN - 84 - height(text) - 62 - height(head)
-    y = paint(d, head, y, fg, head_accent)
-    paint(d, text, y + 62, dim, body_accent)
+    y = paint(d, head, y, WHITE, AMBER)
+    paint(d, text, y + 62, BONE, AMBER)
     return img
 
 
