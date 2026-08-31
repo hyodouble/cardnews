@@ -12,6 +12,7 @@ import json
 import os
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -37,8 +38,12 @@ def call(url, params, method="POST"):
         req = urllib.request.Request(f"{url}?{data.decode()}")
     else:
         req = urllib.request.Request(url, data=data, method="POST")
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read())
+    try:
+        with urllib.request.urlopen(req) as resp:
+            return json.loads(resp.read())
+    except urllib.error.HTTPError as exc:
+        # Meta puts the actual reason in the body; the status line alone is useless.
+        raise RuntimeError(f"{exc.code} {url}: {exc.read().decode()[:500]}") from None
 
 
 def wait_ready(base, container_id, token, tries=20):
