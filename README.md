@@ -72,6 +72,17 @@ whole line into a different typeface.
 | 2026-08-28 (금) | Chimaek and Burning Friday | slides ready, unpublished |
 | 2026-08-29 (토) | Hiking gear as a social uniform | slides ready, unpublished |
 | 2026-08-30 (일) | Kinship terms for strangers | slides ready, unpublished |
+| 2026-08-31 (월) | Chukuigeum, the wedding cash ledger | published manually (English edition) |
 
-All three are evergreen culture explainers rather than breaking news. Check
+All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
+
+## API publishing is blocked
+
+The Meta app `korea-cardnews-publisher` was flagged for "unusual activity" on
+2026-08-31, so every call fails: the page token lost its `pages_*` scopes
+(OAuth 190) and Threads answers "API access blocked" (OAuth 200). Account
+verification in the App Dashboard is itself erroring out on Meta's side.
+Re-issuing tokens does not help while the app is restricted -- posts go up by
+hand until the app is cleared. Do not register a replacement app; that reads as
+evasion and puts the Instagram account at risk.
