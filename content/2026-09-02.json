@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-02",
+  "weekday": "수요일",
+  "topic": "kbo-cheering",
+  "title": "Why a Korean Ballpark Sings a Different Song for Every Batter",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "THE CROWD NEVER STOPS SINGING",
+      "headline": "At a Korean baseball game, **the crowd sings a different song for every batter.**",
+      "note": "Nine innings. No breaks. Win or lose.",
+      "ko": {
+        "kicker": "관중석은 9회 내내 노래한다",
+        "headline": "한국 야구장에선 **타자마다 응원가가 따로 있다.**",
+        "note": "9회 내내. 쉬는 구간 없이. 이기든 지든."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "There's a **stage in the stands**",
+      "body": "Every team keeps a cheer captain (응원단장) with a mic and a cheerleader squad on a platform — facing the crowd, back to the field.",
+      "ko": {
+        "headline": "관중석 한가운데 **무대가 있다**",
+        "body": "팀마다 응원단장과 치어리더가 응원단상에 선다. 그라운드가 아니라 관중을 보고 선다."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Every player has **his own song**",
+      "body": "Not one team chant. One song per player, name included. Regulars know thirty by heart — lyrics, claps and all.",
+      "ko": {
+        "headline": "선수마다 **자기 응원가가 있다**",
+        "body": "팀 응원가 하나가 아니다. 선수마다 이름이 들어간 곡이 따로 있다. 자주 가는 사람은 서른 곡을 가사와 박수까지 외운다."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Each team has **its own props**",
+      "body": "Thundersticks everywhere. Lotte fans shred newspaper into pom-poms and wear orange bags on their heads. It's a uniform, not a joke.",
+      "ko": {
+        "headline": "팀마다 **응원 도구가 다르다**",
+        "body": "막대풍선은 기본. 롯데 팬은 신문지를 찢어 흔들고 주황색 봉투를 머리에 쓴다. 장난이 아니라 유니폼이다."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "You can **bring your own chicken**",
+      "body": "Outside food is allowed, and beer under 6% ABV. Fans carry in fried chicken, take delivery at the gate, and eat all game.",
+      "ko": {
+        "headline": "**치킨을 사 들고 들어가도 된다**",
+        "body": "외부 음식 반입이 된다. 6도 이하 주류도 된다. 치킨을 사 들고 오거나 게이트에서 배달을 받아 경기 내내 먹는다."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "You're a **participant**, not an audience",
+      "body": "Sitting quietly reads as odd here. The songs are K-pop and trot rewritten with players' names — everyone knows the tune already.",
+      "ko": {
+        "headline": "관객이 아니라 **참가자다**",
+        "body": "가만히 앉아 있으면 오히려 이상하다. 응원가는 K팝과 트로트를 선수 이름으로 개사한 곡이라, 처음 들어도 멜로디는 이미 안다."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Compare it to **an MLB night**",
+      "body": "MLB parks ban outside alcohol and stop selling after the 7th. Japan's cheer squads stay in the outfield. Korea sings from every seat.",
+      "ko": {
+        "headline": "**MLB 경기장과 비교해 보면**",
+        "body": "MLB는 주류 반입을 금지하고 7회 이후엔 판매도 끊는다. 일본은 응원단이 있어도 외야에 머문다. 한국은 전 좌석이 노래한다."
+      }
+    },
+    {
+      "type": "stat",
+      "stat": "12.02M",
+      "headline": "fans came to **KBO games in 2025** — an all-time record",
+      "body": "12,019,267 across 703 games, in a country of 51 million. The league had passed 10 million for the first time only a year earlier.",
+      "ko": {
+        "stat": "1,202만",
+        "headline": "**2025년 KBO 관중 수** — 역대 최다",
+        "body": "703경기에 1,201만 9,267명. 인구 5,100만 나라에서다. 1,000만을 처음 넘긴 게 불과 1년 전이다."
+      }
+    },
+    {
+      "type": "content",
+      "headline": "It isn't for **everyone**",
+      "body": "Three hours of noise. If you came to study the pitching, you can't. Cheerleaders' pay and treatment are an open argument here too.",
+      "ko": {
+        "headline": "**모두에게 맞는 건 아니다**",
+        "body": "세 시간 내내 시끄럽다. 투수 보러 온 사람은 못 본다. 치어리더 처우 문제도 한국에서 계속 논쟁 중이다."
+      }
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "ko": {
+        "headline": "한국 사람이 설명하는 **한국.**",
+        "body": "한국이 왜 그러는지, 그 맥락을 올립니다.",
+        "button": "팔로우 @whatshotkorea"
+      }
+    }
+  ],
+  "caption": "At a Korean baseball game, the crowd sings a different song for every single batter — for nine innings.\n\nNot one team chant. One song per player, with his name in it, and the regulars know thirty of them by heart. There's a cheer captain with a mic on a platform in the stands, facing the crowd instead of the field. You can bring your own fried chicken and beer in.\n\n12,019,267 people went to KBO games in 2025, in a country of 51 million. The league had passed 10 million for the first time only the year before.\n\nIt isn't for everyone, though — swipe to the end for who it doesn't work for.",
+  "hashtags": ["#kbo", "#korea", "#koreanbaseball", "#baseball", "#koreanculture", "#seoul", "#livinginkorea", "#cultureshock", "#explainkorea", "#koreatravel", "#야구", "#직관", "#한국", "#koreanlife"],
+  "fact_check": [
+    "12,019,267 fans across 703 games is the KBO figure reported on 27 Sept 2025 — the first 12-million season. Confirm whether that is the final regular-season total or the cumulative count as of that announcement before publishing.",
+    "2024 was the first 10-million season; 2025 crossed 10 million again on 23 Aug and broke the all-time single-season record on 5 Sept. Do not write 2025 as the first 10-million year.",
+    "Outside food and alcohol under 6% ABV are allowed under KBO B SAFE guidance (PET under 1L, no glass), but individual ballparks set their own rules — Gocheok Sky Dome in particular. Written as the general norm, not a league-wide guarantee.",
+    "MLB's outside-alcohol ban and the 7th-inning cutoff on sales are club policies, near-universal but not one written league rule. Phrased as 'MLB parks' for that reason.",
+    "'Regulars know thirty by heart' is an observation based on roster size, not a measured number. Keep it as an observation; do not turn it into a statistic.",
+    "The cheerleader pay-and-treatment line refers to an ongoing public debate in Korea. Do not name a club, an agency or an individual in the slide or in comment replies.",
+    "Lotte Giants newspaper pom-poms and orange bags are a long-running, widely documented fan practice. Confirm the bags are still permitted under current ballpark rules before treating it as present tense.",
+    "'Japan's cheer squads stay in the outfield' is the general NPB pattern, not an absolute rule. Slide 9 exists so the set cannot be read as 'Korean cheering is simply better' — do not cut it for length."
+  ],
+  "ko": {
+    "caption": "한국 야구장은 타자 한 명 한 명마다 응원가가 다르다. 9회 내내.\n\n팀 응원가 하나가 아니라 선수마다 이름이 들어간 곡이 있고, 자주 가는 사람은 서른 곡을 외운다. 응원단상 위 응원단장은 그라운드가 아니라 관중을 보고 선다. 치킨과 맥주는 들고 들어가면 된다.\n\n2025년 KBO 관중은 1,201만 9,267명. 인구 5,100만 나라에서다. 1,000만을 처음 넘긴 게 그 전해였다.\n\n물론 모두에게 맞는 건 아니다. 어떤 사람한테 안 맞는지는 마지막 장에.",
+    "hashtags": ["#야구", "#직관", "#KBO", "#응원문화", "#한국문화", "#한국", "#카드뉴스", "#외국인시선", "#korea", "#koreanbaseball", "#koreanculture", "#explainkorea", "#cultureshock", "#livinginkorea"]
+  },
+  "post_caption": "At a Korean baseball game, the crowd sings a different song for every single batter — for nine innings.\n\nNot one team chant. One song per player, with his name in it, and the regulars know thirty of them by heart. There's a cheer captain with a mic on a platform in the stands, facing the crowd instead of the field. You can bring your own fried chicken and beer in.\n\n12,019,267 people went to KBO games in 2025, in a country of 51 million. The league had passed 10 million for the first time only the year before.\n\nIt isn't for everyone, though — swipe to the end for who it doesn't work for.\n\n· · ·\n\n한국 야구장은 타자 한 명 한 명마다 응원가가 다르다. 9회 내내.\n\n팀 응원가 하나가 아니라 선수마다 이름이 들어간 곡이 있고, 자주 가는 사람은 서른 곡을 외운다. 응원단상 위 응원단장은 그라운드가 아니라 관중을 보고 선다. 치킨과 맥주는 들고 들어가면 된다.\n\n2025년 KBO 관중은 1,201만 9,267명. 인구 5,100만 나라에서다. 1,000만을 처음 넘긴 게 그 전해였다.\n\n물론 모두에게 맞는 건 아니다. 어떤 사람한테 안 맞는지는 마지막 장에.\n\n#kbo #korea #koreanbaseball #baseball #koreanculture #seoul #livinginkorea #cultureshock #explainkorea #koreatravel #야구 #직관 #한국 #koreanlife"
+}
