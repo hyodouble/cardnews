@@ -49,6 +49,15 @@ on top of the publishing scopes, or `--reply` fails with OAuth 10 on Instagram
 and OAuth 200 on Facebook while the Threads reply still goes through. Threads
 replies run on the separate Threads token and need nothing extra.
 
+Both scopes were added to the app's use cases on 2026-09-02 and they now show
+in the Graph API Explorer, but no login dialog will hand back a token carrying
+them: the Explorer's own request dies on `Invalid Scopes:
+pages_read_user_content`, a permission it adds by itself and Meta no longer
+accepts, and every hand-built dialog (implicit, code, with and without the
+`cardnews-publish-comment` configuration, id 1045642294762468) answers
+"Sorry, something went wrong". Until that clears, Instagram and Facebook
+comments go up by hand -- the reply text is in each `content/<date>.json`.
+
 To reissue the page token with a new set of scopes:
 
 ```bash
