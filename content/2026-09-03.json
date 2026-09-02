@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-03",
+  "weekday": "목요일",
+  "topic": "daeri-unjeon",
+  "title": "Why a Stranger Drives Your Own Car Home in Korea",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "YOU DROVE THERE. YOU DRANK.",
+      "headline": "In Korea a stranger drives **your car home** — with you in the passenger seat.",
+      "note": "You call. He walks up. About ₩20,000 later your car is parked at your place."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **daeri unjeon**",
+      "body": "Daeri unjeon (대리운전) — proxy driving. Not a taxi. A driver comes to wherever you are and drives your car, with you in it, home."
+    },
+    {
+      "type": "content",
+      "headline": "The law is **why it exists**",
+      "body": "Korea's drink-drive limit dropped to 0.03% BAC on 25 June 2019, under half the 0.08% used in the US and England."
+    },
+    {
+      "type": "content",
+      "headline": "Leaving the car **isn't an option**",
+      "body": "Most drinking follows a dinner you drove to. Seoul's subway stops around midnight, and nobody wants to come back for the car before work."
+    },
+    {
+      "type": "content",
+      "headline": "He arrives on a **folding scooter**",
+      "body": "Drivers move between jobs on folding e-scooters and electric wheels. With your okay it goes in your trunk, and comes back out at your door."
+    },
+    {
+      "type": "content",
+      "headline": "It still runs on **phone calls**",
+      "body": "Apps arrived in 2016 and took the younger half of the market. Industry estimates put most of the roughly 220,000 daily calls on plain phone lines."
+    },
+    {
+      "type": "content",
+      "headline": "Here's what **outsiders miss**",
+      "body": "In most countries a drunk driver's only options are a taxi and a walk back to the car park in the morning. Korea built an industry instead."
+    },
+    {
+      "type": "stat",
+      "stat": "163,000",
+      "headline": "people **drive other people's cars** for a living",
+      "body": "The transport ministry's 2020 survey counted 163,000–165,000 daeri drivers working through 3,058 companies, in a market worth ₩2.8 trillion."
+    },
+    {
+      "type": "content",
+      "headline": "The part **nobody posts about**",
+      "body": "A folded e-scooter can't board the subway. After the last job, drivers ride home on the road at 4am — a risk Korean papers keep writing about."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea, if you drive to dinner and drink, you don't leave the car. You call a stranger, and he drives your car home with you in the passenger seat.\n\nIt's called daeri unjeon, and it isn't a favour or a start-up idea — it's an industry with 163,000 drivers in it. The drink-drive limit here is 0.03%, less than half the American one, so the whole country needed an answer to the same problem on the same night.\n\nThe driver shows up on a folding scooter, puts it in your trunk, and takes it back out at your door.",
+  "hashtags": [
+    "#korea",
+    "#seoul",
+    "#koreanculture",
+    "#livinginkorea",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreatravel",
+    "#drivinginkorea",
+    "#koreanlife",
+    "#expatlife",
+    "#soju",
+    "#nightout",
+    "#koreatrip",
+    "#onlyinkorea"
+  ],
+  "reply": "The detail that surprises people who try it: the price. Across Seoul it's about ₩20,000 — often less than the taxi home, and your car is in its own spot by morning instead of stuck outside a bar. A night surcharge starts after 11pm, and the driver waits 20 minutes free.\n\nWhat would a service like this cost where you live?\n\nI post one of these every morning — Korea explained by a Korean who lives here. Follow @whatshotkorea so you catch the next one.",
+  "fact_check": [
+    "0.03% BAC limit in force since 25 June 2019 under the second Yoon Chang-ho Act, down from 0.05%. Verified against Stars and Stripes (25 Jun 2019) and Military.com (28 Jun 2019). The US federal and England/Wales limit is 0.08%; Scotland is 0.05%, so slide 3 says 'the US and England', not 'the West'.",
+    "163,000–165,000 drivers, 3,058 companies, ₩2.8 trillion market: Ministry of Land, Infrastructure and Transport 대리운전 실태조사 및 정책연구 final report, April 2020 (codil.or.kr, registration no. 11-1613000-002775-01). This is 2020 data and the newest official count found — say '2020 survey' on the card, never 'today'.",
+    "Roughly 220,000 calls a day and the 80/20 phone-to-app split are industry estimates reported in trade press around 2022, not an official statistic. Slide 6 is worded as 'industry estimates'; do not harden it into a number of its own.",
+    "About ₩20,000 for a ride across Seoul, a night surcharge from 11pm, and roughly 20 minutes of free waiting all come from operator pricing pages (gosudaeri, 1661-1661 and others), which quote 15,000–25,000 won for trips inside Seoul. Written as 'about' for that reason — these are company price lists, not a regulated tariff.",
+    "Folding e-scooters and electric wheels as the drivers' own transport, and the late-night ride home after the last job, are documented in Korean press (매일신문, 12 Aug 2026, on scooters being barred from the subway) and on the 전국대리운전노동조합 site, which notes drivers ask the customer's permission before putting the device in the trunk. Slide 5 keeps that permission wording.",
+    "Penalties for DUI (up to 5 years and ₩20 million, and vehicle confiscation for repeat offenders) were left off the slides on purpose: the confiscation rule is applied at prosecutors' discretion and English-language law-firm pages describe it as mandatory. Do not add it back without a primary source.",
+    "Slide 4 says the Seoul subway stops around midnight. Last trains vary by line and terminus, roughly 00:00–01:00, so it is written as 'around midnight'."
+  ]
+}
