@@ -31,12 +31,13 @@ spills from the restaurant window behind them. Both figures from behind or in pr
 faces not visible.
 ```
 
-## content2.png — 조수석에서 본 차 안
+## content2.png — 뒷자리에서 본 차 안
 
 ```
-Interior of a sedan at night, photographed from the back seat. A driver's silhouette
-at the wheel, a passenger slumped in the seat beside him. Streetlights and tail lights
-smear across the windscreen. Dashboard glow is the only light inside.
+Interior of a sedan at night seen over the shoulder of a passenger sitting alone in
+the back seat. A driver's silhouette at the wheel ahead, the front passenger seat
+empty. Streetlights and tail lights smear across the windscreen. Dashboard glow is
+the only light inside.
 ```
 
 ## content3.png — 술자리 끝, 차 키
