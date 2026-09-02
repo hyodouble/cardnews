@@ -28,8 +28,15 @@ so the Meta app stays in development mode and needs no App Review.
 ```bash
 cp .env.example .env      # fill in the IDs and tokens once
 git add img/ && git commit -m "add slides" && git push
-python post.py "caption text" img/2026-08-28-1.png img/2026-08-28-2.png
+python post.py --reply "first comment" "caption text" img/2026-08-28-1.png ...
 ```
+
+Every post ships with one reply, left as a comment on Instagram and Facebook
+and as a threaded reply on Threads. It adds one fact the carousel left out and
+ends on a question back to the reader. Threads re-circulates a post on its
+replies, so the reply is what keeps a post alive past its first hour -- the
+2026-09-01 carousel reached 2,258 views on 5 followers off three reposts, and
+zero replies.
 
 Push first. `post.py` refuses to run if a slide is not yet reachable at its
 public URL — that check exists because Meta's error for an unreachable image
@@ -40,7 +47,8 @@ Long-lived Meta tokens expire after 60 days; refresh them and update `.env`.
 ## Making a carousel
 
 One JSON per post lives in `content/<date>.json`: ten slides, the caption, the
-hashtags, and a `fact_check` list of claims that still need verifying. Slide
+hashtags, a `reply` for the first comment, and a `fact_check` list of claims
+that still need verifying. Slide
 copy follows the rules in `claude-project-instructions.md`, kept here so the
 prompt is versioned alongside the output rather than living only in the Claude
 web UI.

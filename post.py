@@ -2,7 +2,10 @@
 """Publish one card-news carousel to Instagram, a Facebook Page and Threads.
 
 Usage:
-    python post.py "caption text" img/slide1.png img/slide2.png ...
+    python post.py [--reply "comment text"] "caption text" img/slide1.png ...
+
+--reply leaves one comment under the post on all three platforms. Replies are
+what Threads re-circulates a post on, so every carousel ships with one.
 
 Images must already be pushed to GitHub Pages -- the Meta APIs only accept
 public URLs, never file uploads. The script turns each local path into
@@ -136,7 +139,30 @@ def post_threads(urls, caption, user_id, token):
                 {"creation_id": parent, "access_token": token})
 
 
+def reply_graph(post_id, text, _target_id, token):
+    """Instagram and Facebook both take a comment on the published object."""
+    return call(f"{GRAPH}/{post_id}/comments", {"message": text, "access_token": token})
+
+
+def reply_threads(post_id, text, user_id, token):
+    """A Threads reply is a normal text post that points at its parent."""
+    container = call(f"{THREADS}/{user_id}/threads", {
+        "media_type": "TEXT",
+        "text": fit_threads(text),
+        "reply_to_id": post_id,
+        "access_token": token,
+    })["id"]
+    wait_ready(THREADS, container, token)
+    return call(f"{THREADS}/{user_id}/threads_publish",
+                {"creation_id": container, "access_token": token})
+
+
 def main(argv):
+    reply = ""
+    if "--reply" in argv:
+        i = argv.index("--reply")
+        reply = argv[i + 1]
+        argv = argv[:i] + argv[i + 2:]
     if len(argv) < 3:
         sys.exit(__doc__)
     load_env()
@@ -152,20 +178,31 @@ def main(argv):
     # Instagram publishing runs on the page token too, so one token covers both.
     page_token = os.environ.get("PAGE_TOKEN", "")
     targets = [
-        ("instagram", post_instagram, os.environ.get("IG_USER_ID"), page_token),
-        ("facebook", post_facebook, os.environ.get("FB_PAGE_ID"), page_token),
-        ("threads", post_threads, os.environ.get("THREADS_USER_ID"),
-         os.environ.get("THREADS_TOKEN")),
+        ("instagram", post_instagram, reply_graph,
+         os.environ.get("IG_USER_ID"), page_token),
+        ("facebook", post_facebook, reply_graph,
+         os.environ.get("FB_PAGE_ID"), page_token),
+        ("threads", post_threads, reply_threads,
+         os.environ.get("THREADS_USER_ID"), os.environ.get("THREADS_TOKEN")),
     ]
-    for name, fn, target_id, token in targets:
+    for name, fn, replier, target_id, token in targets:
         # A platform still waiting on its credentials must not block the others.
         if not target_id or not token:
             print(f"{name} skipped: missing id or token in .env", file=sys.stderr)
             continue
         try:
-            print(name, fn(urls, caption, target_id, token))
+            result = fn(urls, caption, target_id, token)
+            print(name, result)
         except Exception as exc:  # one dead platform must not block the others
             print(f"{name} FAILED: {exc}", file=sys.stderr)
+            continue
+        if not reply:
+            continue
+        try:
+            # The post is already up; a failed comment is not worth aborting on.
+            print(name, "reply", replier(result["id"], reply, target_id, token))
+        except Exception as exc:
+            print(f"{name} reply FAILED: {exc}", file=sys.stderr)
 
 
 if __name__ == "__main__":
