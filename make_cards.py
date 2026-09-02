@@ -2,10 +2,9 @@
 """Render a content JSON into 1080x1080 carousel slides.
 
 Usage:
-    python make_cards.py content/2026-08-28.json [--ko] [out_dir ...]
+    python make_cards.py content/2026-08-28.json [out_dir ...]
 
 Writes 01.png ... 10.png into every out_dir given (default: img/<date>).
-With --ko the Korean copy in each slide's "ko" block is used instead.
 The layout rules this implements are written down in DESIGN.md.
 """
 import json
@@ -240,14 +239,8 @@ RENDERERS = {"hook": render_hook, "content": render_content,
              "stat": render_stat, "cta": render_cta}
 
 
-def localise(slide, lang):
-    """Korean copy lives in a "ko" block and falls back to English per field."""
-    return {**slide, **slide.get(lang, {})} if lang else slide
-
-
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
-    lang = "ko" if "--ko" in argv else None
     if not args:
         sys.exit(__doc__)
 
@@ -260,16 +253,16 @@ def main(argv):
     if "hook" not in assets:
         sys.exit(f"need at least {asset_dir}/hook.png")
 
-    out_dirs = args[1:] or [os.path.join("img", data["date"] + ("-ko" if lang else ""))]
+    out_dirs = args[1:] or [os.path.join("img", data["date"])]
     for out in out_dirs:
         os.makedirs(out, exist_ok=True)
 
     total = len(data["slides"])
     for i, slide in enumerate(data["slides"], start=1):
-        img = RENDERERS[slide["type"]](localise(slide, lang), i, total, assets)
+        img = RENDERERS[slide["type"]](slide, i, total, assets)
         for out in out_dirs:
             img.save(os.path.join(out, f"{i:02d}.png"))
-    print(f"{data['date']}{'-ko' if lang else ''}: {total} slides -> {', '.join(out_dirs)}")
+    print(f"{data['date']}: {total} slides -> {', '.join(out_dirs)}")
 
 
 if __name__ == "__main__":
