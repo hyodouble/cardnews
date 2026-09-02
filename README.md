@@ -65,6 +65,26 @@ Korean text renders through Malgun Gothic and English through Arial Black,
 chosen per line, so a Hangul word inside an English headline does not drag the
 whole line into a different typeface.
 
+## Generating the photos
+
+Ten photos per post come out of Gemini in image mode, one per prompt in that
+day's `PROMPTS.md`, saved into `assets/<date>/` under the filenames the renderer
+expects. Two rules on regenerating, because a regeneration costs a full image
+call and usually buys nothing:
+
+- **Never regenerate to fix the aspect ratio.** Gemini's chat view crops results
+  to a wide preview, but the downloaded file is 1024x1024 square. A "make it 1:1"
+  follow-up returns the same picture again.
+- **Never regenerate to fix the Gemini watermark.** `make_cards.py` trims 12% off
+  the right and bottom edges, which takes the ✦ mark with it.
+
+Regenerate only when the picture itself is wrong: the subject or the composition
+does not match what the slide claims, a logo or legible text got in, or the
+prompt was based on a wrong mental image of the real thing. That last one is
+worth a search first — the 2026-09-02 응원단상 photo had to be redone because the
+prompt described a tower in the middle of the stands instead of the low deck at
+the front, and looking at a real photo settled it in one attempt.
+
 ## Scheduled posts
 
 | Date | Topic | Status |
@@ -73,16 +93,17 @@ whole line into a different typeface.
 | 2026-08-29 (토) | Hiking gear as a social uniform | slides ready, unpublished |
 | 2026-08-30 (일) | Kinship terms for strangers | slides ready, unpublished |
 | 2026-08-31 (월) | Chukuigeum, the wedding cash ledger | published manually (English edition) |
+| 2026-09-01 (화) | Jari-matgi, leaving a laptop on the table | slides ready |
+| 2026-09-02 (수) | KBO cheering culture, a song per batter | published via API to Instagram, Facebook and Threads |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
 
-## API publishing is blocked
+## API publishing
 
-The Meta app `korea-cardnews-publisher` was flagged for "unusual activity" on
-2026-08-31, so every call fails: the page token lost its `pages_*` scopes
-(OAuth 190) and Threads answers "API access blocked" (OAuth 200). Account
-verification in the App Dashboard is itself erroring out on Meta's side.
-Re-issuing tokens does not help while the app is restricted -- posts go up by
-hand until the app is cleared. Do not register a replacement app; that reads as
-evasion and puts the Instagram account at risk.
+The Meta app `korea-cardnews-publisher` was restricted for "unusual activity"
+on 2026-08-31 and every call failed with OAuth 190 / 200. The restriction was
+gone by 2026-09-02: the same `.env` tokens published the KBO carousel to all
+three platforms in one `post.py` run. If the errors come back, wait the app out
+rather than registering a replacement -- a second app reads as evasion and puts
+the Instagram account at risk.
