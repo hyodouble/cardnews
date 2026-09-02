@@ -64,12 +64,13 @@ carpet. The trunk lamp lights it from above; the street behind is dark. Close sh
 from just behind the bumper.
 ```
 
-## content6.png — 전화로 부른다
+## content6.png — 앱으로도, 전화로도
 
 ```
-A man standing on a night street holding a phone to his ear, seen from behind, his
-other hand in his pocket. Convenience store light washes over him from the left.
-Blurred traffic passes in the background.
+A man standing on a night street looking down at the phone in his hand, seen from
+behind and slightly to one side, the screen glow lighting his hand and jaw. His face
+is not visible and the screen shows no readable content. Convenience store light
+washes over him from the left, blurred traffic behind.
 ```
 
 ## content7.png — 아침의 주차장
