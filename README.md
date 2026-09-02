@@ -44,6 +44,11 @@ is unhelpful.
 
 Long-lived Meta tokens expire after 60 days; refresh them and update `.env`.
 
+The page token needs `instagram_manage_comments` and `pages_manage_engagement`
+on top of the publishing scopes, or `--reply` fails with OAuth 10 on Instagram
+and OAuth 200 on Facebook while the Threads reply still goes through. Threads
+replies run on the separate Threads token and need nothing extra.
+
 ## Making a carousel
 
 One JSON per post lives in `content/<date>.json`: ten slides, the caption, the
