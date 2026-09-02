@@ -49,6 +49,22 @@ on top of the publishing scopes, or `--reply` fails with OAuth 10 on Instagram
 and OAuth 200 on Facebook while the Threads reply still goes through. Threads
 replies run on the separate Threads token and need nothing extra.
 
+To reissue the page token with a new set of scopes:
+
+```bash
+# 1. approve the scopes -- the Explorer permission list hides anything whose
+#    product is not added to the app, so ask for them in the URL instead
+open "https://www.facebook.com/v21.0/dialog/oauth?client_id=$APP_ID&redirect_uri=https://www.facebook.com/connect/login_success.html&response_type=token&scope=pages_show_list,pages_read_engagement,pages_manage_posts,pages_manage_engagement,instagram_basic,instagram_content_publish,instagram_manage_comments,business_management"
+# 2. copy #access_token=... out of the address bar into USER_TOKEN in .env
+# 3. fill APP_ID and APP_SECRET in .env too, then
+python refresh_token.py
+```
+
+`redirect_uri` has to be listed under Facebook Login > Settings > Valid OAuth
+Redirect URIs first. The user token from that dialog lives about an hour;
+`refresh_token.py` trades it for a long-lived one and stores the page token it
+yields, which does not expire.
+
 ## Making a carousel
 
 One JSON per post lives in `content/<date>.json`: ten slides, the caption, the
