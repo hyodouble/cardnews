@@ -82,13 +82,17 @@ warm light onto the carpet. No people in frame. The doors carry no numbers and n
 lettering. Shot straight down the corridor.
 ```
 
-## stat.png — 노래방 안
+## stat.png — 코인노래방 부스
 
 ```
-Interior of an empty small karaoke room at night: a padded bench, a low table, two
-microphones lying on it, a dark screen on the wall showing nothing. Warm dim lighting
-from a single fixture. No people, no text on the screen.
+Interior of a very small single karaoke booth: a bench for two, a low counter, one
+microphone on a stand, a dark screen on the wall showing nothing, and a small payment
+machine beside the door. No bottles and no glasses anywhere. Cool bright lighting from
+one ceiling fixture. No people, no text on the screen, no lettering on the machine.
 ```
+
+코인노래방 컷이다. 술이 프레임에 들어가면 안 된다 — 이 방이 술자리 바깥에 있다는 게
+슬라이드의 요지다. 방은 작고 조명은 밝게, 일반 노래방의 어둡고 넓은 룸과 달라야 한다.
 
 ## content9.png — 2차가 커피숍
 
