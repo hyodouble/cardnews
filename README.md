@@ -133,7 +133,7 @@ the front, and looking at a real photo settled it in one attempt.
 | 2026-08-31 (월) | Chukuigeum, the wedding cash ledger | published manually (English edition) |
 | 2026-09-01 (화) | Jari-matgi, leaving a laptop on the table | slides ready |
 | 2026-09-02 (수) | KBO cheering culture, a song per batter | published via API to Instagram, Facebook and Threads |
-| 2026-09-03 (목) | Daeri unjeon, a stranger drives your car home | copy written, photos not generated |
+| 2026-09-03 (목) | Daeri unjeon, a stranger drives your car home | published via API to Instagram, Facebook and Threads |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
