@@ -98,22 +98,20 @@ area around them. Even diffuse lighting, all screens dark.
 
 숫자가 크게 얹히고 배경은 흐려지고 어두워진다. 디테일보다 **여백**이 중요한 장이다.
 
-## content9.png — 멈춘 기계
+## content9.png — 외국인 서류가 놓인 창구
 
 ```
-A single self-service government kiosk in an empty public lobby after hours, screen
-completely black and dead, a plain unmarked sheet of paper taped to the panel with nothing
-written on it. One person standing a few steps back, turned away, hands at their sides.
-Dim blue-grey light, long shadows.
+A public office counter seen from the visitor's side: a plain blank white card and a plain
+dark navy passport-style booklet with no emblem and no lettering lying on the counter next to
+a blank printed form and a pen. A staff member's hands rest out of focus behind the counter
+glass. Even daylight-balanced interior light, shallow depth of field.
 ```
 
-그늘 슬라이드. 여기만 톤을 확실히 내린다. 조명 밝게 나오면 다시 뽑을 것 —
-9번은 카드 전체가 광고가 아니라는 걸 보여주는 유일한 장이다.
+여권·등록증이 소품인데 **실물 문양이 들어가면 그 장은 버린다.** 국장·국명·번호가 보이면
+특정 국가 여권이 되고, 카드가 하려는 말("등록된 외국인은 같은 창구를 쓴다")이 아니라
+어느 나라 사람 얘기가 된다. `no emblem, no lettering` 을 프롬프트에서 빼지 말 것.
 
-2025년 9월 국정자원 화재를 가리키는 장이지만 **불을 그리지 않는다.** 화재 사진은
-카드의 논점(기계가 죽고 사람이 있는 창구가 백업이 됐다)과 다른 얘기를 하고,
-재난 이미지가 붙는 순간 문화 해설이 사고 속보로 읽힌다. 꺼진 기계와 붙어 있는
-안내문 한 장이면 충분하다.
+앞선 그늘 버전(꺼진 기계 + 안내문)은 폐기했다. 9번이 더 이상 사고 얘기가 아니다.
 
 ## cta.png — 동네 행정복지센터 앞
 

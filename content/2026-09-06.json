@@ -48,8 +48,8 @@
     },
     {
       "type": "content",
-      "headline": "The part **nobody posts about**",
-      "body": "A September 2025 fire in the state data centre took down 647 systems, Gov24 included. The fallback was the counter the kiosks had replaced."
+      "headline": "If you **live here**, you're in it too",
+      "body": "Registered foreign residents get a certificate of alien registration from the same portal. By law it stands in where a Korean ID is demanded."
     },
     {
       "type": "cta",
@@ -58,7 +58,7 @@
       "button": "FOLLOW @whatshotkorea"
     }
   ],
-  "caption": "In Korea a government document comes out of a machine in the subway station, not from a clerk behind a counter. Feed it your ID card, press a fingerprint, and the residence record prints stamped and sealed in under a minute.\n\nThe kiosks sit in supermarkets and station concourses, and the same paperwork can be pulled up on Gov24 and printed at home instead. What outsiders read as extreme convenience is really one decision: every resident sits under a single registration number, so no office has to ask twice who you are.\n\nThe bill arrived in September 2025, when a fire in the state data centre took 647 systems down at once and the fallback was to walk into an office with a paper ID.",
+  "caption": "In Korea a government document comes out of a machine in the subway station, not from a clerk behind a counter. Feed it your ID card, press a fingerprint, and the residence record prints stamped and sealed in under a minute.\n\nThe kiosks sit in supermarkets and station concourses, and the same paperwork can be pulled up on Gov24 and printed at home instead. What outsiders read as extreme convenience is really one decision: every resident sits under a single registration number, so no office has to ask twice who you are.\n\nAnd it is not built only for citizens. A registered foreign resident gets a certificate of alien registration through the same offices and the same portal, and the law says it stands in wherever a Korean ID or residence record is demanded.",
   "hashtags": [
     "#korea",
     "#seoul",
@@ -75,7 +75,7 @@
     "#onlyinkorea",
     "#lifeinkorea"
   ],
-  "reply": "The fire the last card mentions has a number that did not fit on it: the Daejeon centre took 49 days to come back fully.\n\nOne thing the cards also left off is the fee. Each local government sets its own, so the same document costs a few hundred won in one district and nothing in the next. Online it is free.\n\nWhat does one official document take where you live — an appointment, a queue, or a site that only works on weekdays?",
+  "reply": "One thing the cards could not fit: the online route needs a digital certificate, and setting that up as a foreign resident is the genuinely annoying part. Once it exists the rest takes a minute.\n\nThe fee is set by each local government, so the same document costs a few hundred won in one district and nothing in the next. Online it is free.\n\nWhat does one official document take where you live — an appointment, a queue, or a site that only works on weekdays?",
   "fact_check": [
     "'Gov24 passed 20 million registered users in April 2023, about a third of the population': 뉴스핌 19 Apr 2023, '정부24 회원 2000만명 돌파 눈앞…국민 3명 중 1명 사용', citing 행정안전부. The card dates the figure to April 2023 outright rather than saying 'now' — the same drift that had to be corrected on the 2026-09-04 carousel. Re-check before reusing this number on a later card.",
     "'A residence record costs nothing that way': 주민등록 등·초본 issued online through 정부24 is free. Confirmed on gov.kr's own guidance.",
@@ -83,11 +83,13 @@
     "Kiosk operating hours are also set locally, per the same gov.kr line. The hook says 'no office hours' about the service as a whole, and slide 5 puts the genuinely 24-hour claim on Gov24 online, not on the machines. Do not move a '24 hours' claim onto the kiosks.",
     "'Dozens of documents': municipal lists (서울 중구, 영등포구, 도봉구, 인천시) run to residence records, family relation certificates, 토지·임야대장, 건축물대장, 개별공시지가확인원, 자동차등록원부, 병적증명서 and more. 'Dozens' is safe; a specific count is not — the list differs by machine and by local government.",
     "'You feed it your ID card, press a fingerprint': fingerprint verification is the standard route for 주민등록등본 at these kiosks. Verify against a current 행정안전부 or municipal guide before publishing, since some machines now also take mobile ID.",
-    "'A September 2025 fire in the state data centre took down 647 systems, Gov24 included': the 국가정보자원관리원 대전센터 fire of 26 Sep 2025. Of the 647 suspended systems, 436 were citizen-facing internet services and 211 internal administrative networks (보안뉴스, 전자신문). 정부24 was among the 47 services restored by 29 Sep 2025 (MBC, 전자신문 29 Sep 2025).",
-    "'The fallback was the counter the kiosks had replaced': during the outage the government directed people to 주민센터 in person, with a physical ID card and a phone call ahead (보안뉴스, Sep 2025). This is the point of the slide -- do not soften it back into 'everything stopped', which is what the earlier draft said and is not what happened.",
-    "'the Daejeon centre took 49 days to come back fully' (reply): 서울경제, all 693 Daejeon-centre systems restored 49 days after the fire. The burned 7-1 전산실 held 740 pieces of equipment and 384 batteries. The cause was reported as work on lithium-ion UPS batteries -- the cards and the reply claim no cause, deliberately, because the investigation reporting was still moving.",
+    "'Registered foreign residents get a certificate of alien registration from the same portal': 외국인등록사실증명, service page on gov.kr (CappBizCD=12700000027). 출입국관리법 puts issuance with the 출입국관리사무소장·출장소장 or the 시장·군수·구청장 or 읍·면·동장 — the same counter, which is why the slide says 'the same portal' and 'the same offices'.",
+    "'By law it stands in where a Korean ID is demanded': the rule is that where a statute or a transaction requires a 주민등록증 or 주민등록등·초본, the 외국인등록증 or 외국인등록사실증명서 substitutes for it. Quoted from the 민원편람 wording carried by local governments (고양시 등). Confirm the current 출입국관리법 clause before this line goes out.",
+    "The slide deliberately does NOT say foreign residents can use the kiosk itself. Whether a 무인민원발급기 accepts an 외국인등록증 was not confirmed — official pages describe fingerprint verification for 주민등록 holders and say nothing about registered foreigners, and support looks to vary by machine and local government. Do not upgrade this to 'the same machine' without a 행정안전부 or 출입국·외국인청 source.",
+    "The online route needing a digital certificate (reply): gov.kr states 외국인등록 사실증명 online issuance is available only with a certificate confirming identity. That friction is left in on purpose — it is what keeps the carousel from reading as a brochure.",
     "'Every resident has a single 13-digit registration number': 주민등록번호 is 13 digits. Structural fact, not a survey result.",
     "Slide 7 makes no numeric claim about any other country's waiting times on purpose. No comparable cross-country statistic was checked, so it describes the shape of the process abroad, not a measured delay.",
-    "Earlier precedent, not on the cards: the November 2023 국가행정망 전산마비 took 정부24 down for most of a day. It was the first draft's shadow slide and was replaced because the 2025 fire is more recent, better sourced and tells the sharper story. Korean coverage explicitly linked the two ('2년 전 행정전산망 마비에서 배운 것 없나', 보안뉴스). Do not put both on one carousel."
+    "Earlier precedent, not on the cards: the November 2023 국가행정망 전산마비 took 정부24 down for most of a day. It was the first draft's shadow slide and was replaced because the 2025 fire is more recent, better sourced and tells the sharper story. Korean coverage explicitly linked the two ('2년 전 행정전산망 마비에서 배운 것 없나', 보안뉴스). Do not put both on one carousel.",
+    "Dropped shadow slide, recorded so it is not re-added by accident: slide 9 was twice a disaster story — the November 2023 국가행정망 마비, then the 2025-09-26 국가정보자원관리원 대전센터 fire (647 systems down, 정부24 restored 29 Sep, all 693 Daejeon systems back after 49 days). Both were well sourced. Both were cut for scale: daeri unjeon's ninth card carried a chronic quiet risk, and a burning data centre is not that. If a shadow is wanted here later, it belongs in the reply, not on a slide."
   ]
 }
