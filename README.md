@@ -161,6 +161,16 @@ the front, and looking at a real photo settled it in one attempt.
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
 
+## Topic ideas
+
+- **Parcels left at the door.** Couriers leave boxes in the hallway or with the
+  guard, and they are still there hours later. Hold this one back for a while:
+  the 2026-09-01 jari-matgi carousel already spent the "nothing gets stolen
+  here" angle on a laptop in a cafe, and two posts making the same point in the
+  same month read as one post twice. Worth pairing with something the laptop
+  card could not carry -- the guard's office as an informal delivery locker, and
+  what happens when a box does go missing.
+
 ## API publishing
 
 The Meta app `korea-cardnews-publisher` was restricted for "unusual activity"
