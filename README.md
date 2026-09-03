@@ -25,6 +25,9 @@ so the Meta app stays in development mode and needs no App Review.
 
 ## Publishing a carousel
 
+Setting this up on another computer is documented separately in `SETUP.md`,
+including the Meta configuration, the scheduler and how the credentials travel.
+
 ```bash
 cp .env.example .env      # fill in the IDs and tokens once
 git add img/ && git commit -m "add slides" && git push
@@ -42,7 +45,13 @@ Push first. `post.py` refuses to run if a slide is not yet reachable at its
 public URL — that check exists because Meta's error for an unreachable image
 is unhelpful.
 
-Long-lived Meta tokens expire after 60 days; refresh them and update `.env`.
+Publishing runs on a system-user token that does not expire, so the old
+60-day refresh is gone. `publish_today.py` takes no arguments and publishes the
+day's carousel if it is ready, which is what the daily 08:00 task calls:
+
+```bash
+powershell -ExecutionPolicy Bypass -File register_schedule.ps1
+```
 
 The page token needs `instagram_manage_comments` and `pages_manage_engagement`
 on top of the publishing scopes, or `--reply` fails with OAuth 10 on Instagram
