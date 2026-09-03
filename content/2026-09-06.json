@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-06",
+  "weekday": "일요일",
+  "topic": "muin-minwon-kiosk",
+  "title": "Why Koreans Never Dread the Government Office",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO APPOINTMENT. NO CLERK. NO OFFICE HOURS.",
+      "headline": "In Korea an official document comes out of a **machine in the subway station.**",
+      "note": "Residence record, family register, land title — printed, stamped and sealed while you stand there."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **muin minwon balgeupgi**",
+      "body": "Muin minwon balgeupgi (무인민원발급기) — the unmanned civil affairs kiosk. You feed it your ID card, press a fingerprint, and it prints the certified document."
+    },
+    {
+      "type": "content",
+      "headline": "They sit **where you already are**",
+      "body": "Not only at the district office. Subway stations, large supermarkets, community centres. The counter was moved onto the route people already walk."
+    },
+    {
+      "type": "content",
+      "headline": "It prints the **paperwork of a whole life**",
+      "body": "Residence records, family relation certificates, land and building registers, vehicle records, proof of military service. Dozens of documents, one machine."
+    },
+    {
+      "type": "content",
+      "headline": "Or you skip the trip **entirely**",
+      "body": "Gov24 (정부24) sends the same documents to a home printer. A residence record costs nothing that way, and the site does not close at five."
+    },
+    {
+      "type": "content",
+      "headline": "One number makes it **possible**",
+      "body": "Every resident has a single 13-digit registration number. Agencies read one record, so the machine never asks you to prove who you are twice."
+    },
+    {
+      "type": "content",
+      "headline": "Here's what **outsiders miss**",
+      "body": "In most countries this is an appointment, a queue and a working day spent. Korea decided the counter did not need a person behind it."
+    },
+    {
+      "type": "stat",
+      "stat": "1 in 3",
+      "headline": "Koreans had already **signed up** to the portal",
+      "body": "Gov24 passed 20 million registered users in April 2023, about a third of the population — before counting anyone who only ever uses the kiosks."
+    },
+    {
+      "type": "content",
+      "headline": "The part **nobody posts about**",
+      "body": "In November 2023 the national network failed. Around 1,300 services stopped for most of a day, and the staffed counters went down too."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea a government document comes out of a machine in the subway station, not from a clerk behind a counter. Feed it your ID card, press a fingerprint, and the residence record prints stamped and sealed in under a minute.\n\nThe kiosks sit in supermarkets and station concourses, and the same paperwork can be pulled up on Gov24 and printed at home instead. What outsiders read as extreme convenience is really one decision: every resident sits under a single registration number, so no office has to ask twice who you are.\n\nThe bill for that arrived in November 2023, when the network behind it went down and took the human counters with it.",
+  "hashtags": [
+    "#korea",
+    "#seoul",
+    "#koreanculture",
+    "#livinginkorea",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreanlife",
+    "#expatlife",
+    "#bureaucracy",
+    "#publicservice",
+    "#digitalgovernment",
+    "#koreatravel",
+    "#onlyinkorea",
+    "#lifeinkorea"
+  ],
+  "reply": "The kiosks are not new — the first ones went in in 1998, which is why they read less like a product and more like street furniture nobody looks at any more.\n\nOne number the cards could not print: the fee. Each local government sets its own, so the same document costs a few hundred won in one district and nothing in the next. Online it is free.\n\nWhat does one official document take where you live — an appointment, a queue, or a site that only works on weekdays?",
+  "fact_check": [
+    "'Gov24 passed 20 million registered users in April 2023, about a third of the population': 뉴스핌 19 Apr 2023, '정부24 회원 2000만명 돌파 눈앞…국민 3명 중 1명 사용', citing 행정안전부. The card dates the figure to April 2023 outright rather than saying 'now' — the same drift that had to be corrected on the 2026-09-04 carousel. Re-check before reusing this number on a later card.",
+    "'A residence record costs nothing that way': 주민등록 등·초본 issued online through 정부24 is free. Confirmed on gov.kr's own guidance.",
+    "The kiosk fee is deliberately left off the slides. Sources disagree — some report a nationwide move to free issuance from 1 Jan 2026, others still list 300원 with certain districts waiving it. gov.kr states only that '무인민원발급기 발급시간 및 발급수수료는 자치단체 무인민원발급창구 운영시간에 따라 달라질 수 있습니다', so the reply says fees are set locally and names no figure. Do not put a single national fee on a card without a 행정안전부 primary source.",
+    "Kiosk operating hours are also set locally, per the same gov.kr line. The hook says 'no office hours' about the service as a whole, and slide 5 puts the genuinely 24-hour claim on Gov24 online, not on the machines. Do not move a '24 hours' claim onto the kiosks.",
+    "'Dozens of documents': municipal lists (서울 중구, 영등포구, 도봉구, 인천시) run to residence records, family relation certificates, 토지·임야대장, 건축물대장, 개별공시지가확인원, 자동차등록원부, 병적증명서 and more. 'Dozens' is safe; a specific count is not — the list differs by machine and by local government.",
+    "'You feed it your ID card, press a fingerprint': fingerprint verification is the standard route for 주민등록등본 at these kiosks. Verify against a current 행정안전부 or municipal guide before publishing, since some machines now also take mobile ID.",
+    "'Every resident has a single 13-digit registration number': 주민등록번호 is 13 digits. Structural fact, not a survey result.",
+    "'In November 2023 the network underneath it failed. Around 1,300 services stopped for most of a day': the 2023 국가행정망 전산마비 사태. The figure of roughly 1,300 affected 민원 services and the near-day outage of 정부24 were widely reported at the time, but the sources reached in research were namu.wiki mirrors, not the original reporting. Replace with a news citation (연합뉴스 or 한겨레, 17-20 Nov 2023) before publishing.",
+    "'the first ones went in back in 1998' (reply): namu.wiki dates the introduction to 1998 under the 김대중 government. Same sourcing weakness as above — confirm against 행정안전부 before this line goes out.",
+    "Slide 7 makes no numeric claim about any other country's waiting times on purpose. No comparable cross-country statistic was checked, so it describes the shape of the process abroad, not a measured delay.",
+    "No political framing: the single registration number is presented as the mechanism that makes the service work and as the thing that concentrates risk, with the November 2023 outage as the evidence. Do not turn this into a privacy argument on the cards."
+  ]
+}

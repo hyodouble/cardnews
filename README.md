@@ -171,13 +171,25 @@ the front, and looking at a real photo settled it in one attempt.
 | 2026-09-01 (화) | Jari-matgi, leaving a laptop on the table | slides ready |
 | 2026-09-02 (수) | KBO cheering culture, a song per batter | published via API to Instagram, Facebook and Threads |
 | 2026-09-03 (목) | Daeri unjeon, a stranger drives your car home | published via API to Instagram, Facebook and Threads |
-| 2026-09-04 (금) | Chasu, a night out in numbered rounds | slides ready, unpublished |
+| 2026-09-04 (금) | Chasu, a night out in numbered rounds | published via API to Instagram, Facebook and Threads |
 | 2026-09-05 (토) | Jjimjilbang, sleeping on a floor full of strangers | slides ready, unpublished |
+| 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | copy and prompts ready, no photos yet |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
 
 ## Topic ideas
+
+- **Packing movers and the ladder truck.** A crew packs the flat and a truck lifts
+  everything through a fifteenth-floor window. It is the closest match to the
+  daeri unjeon shape found so far -- a stranger handles your things, the machine
+  is the spectacle, and the trade has a name, a price and a workforce. **Do not
+  write it yet.** On 2026-08-27 a moving company's ladder truck tipped over in
+  Cheonan and killed a seven-year-old on the way to school, with two workers
+  arrested the next day; a mover had already fallen thirty metres to his death in
+  Incheon that May. A bright "look what Korea built" carousel does not survive
+  landing in the same month as that. Revisit in 2027, and only if the shadow
+  slide can carry chronic risk rather than a specific death.
 
 - **Parcels left at the door.** Couriers leave boxes in the hallway or with the
   guard, and they are still there hours later. Hold this one back for a while:
