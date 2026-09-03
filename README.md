@@ -41,6 +41,12 @@ replies, so the reply is what keeps a post alive past its first hour -- the
 2026-09-01 carousel reached 2,258 views on 5 followers off three reposts, and
 zero replies.
 
+Weekend posts go up in full before the weekend starts. Saturday and Sunday are
+worked on from a different computer, so their day folder, `content/<date>.json`,
+the rendered `img/<date>/` cards **and** the `assets/<date>/` source photos are
+all committed and pushed -- the photos included, not just the slides, so nothing
+has to be regenerated on the other machine.
+
 Push first. `post.py` refuses to run if a slide is not yet reachable at its
 public URL — that check exists because Meta's error for an unreachable image
 is unhelpful.
