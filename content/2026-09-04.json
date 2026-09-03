@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-04",
+  "weekday": "금요일",
+  "topic": "chasu-drinking-rounds",
+  "title": "Why a Korean Night Out Comes in Numbered Rounds",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "IT ISN'T ONE DINNER. IT'S THREE PLACES.",
+      "headline": "A Korean night out is **numbered** — and dinner is only round one.",
+      "note": "Nobody asks if you want another drink. They ask whether you're going to the second round."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **chasu**",
+      "body": "Chasu (차수) means the count of rounds. 1-cha, 2-cha, 3-cha. The question is never 'one more drink?' — it's 'are you in for 2-cha?'"
+    },
+    {
+      "type": "content",
+      "headline": "Each round is a **different building**",
+      "body": "1-cha is dinner, usually grilled pork and soju. 2-cha moves to a beer place or a tent bar. 3-cha is a karaoke room."
+    },
+    {
+      "type": "content",
+      "headline": "Moving is **the whole point**",
+      "body": "The walk between places resets the table. New seats, new mix of people talking. Staying in one bar all night is what feels strange here."
+    },
+    {
+      "type": "content",
+      "headline": "At work it had **its own rules**",
+      "body": "For a hoesik (회식), the company dinner, the boss decided how far the night went. Skipping 1-cha read as skipping the team."
+    },
+    {
+      "type": "content",
+      "headline": "Nobody pours **their own drink**",
+      "body": "You fill the glass next to you, they fill yours. Two hands for someone older. The habit is what keeps a table checking on each other."
+    },
+    {
+      "type": "content",
+      "headline": "Here's what **outsiders miss**",
+      "body": "In most countries a night out is one bar you settle into. In Korea it's a route through a neighbourhood, and everyone knows the stops."
+    },
+    {
+      "type": "stat",
+      "stat": "27,779",
+      "headline": "karaoke rooms were **still open** in 2021",
+      "body": "Down from a peak of about 35,300 in 2011. The 3-cha room is the part of the night that shrank first."
+    },
+    {
+      "type": "content",
+      "headline": "The night is **getting shorter**",
+      "body": "Since the 52-hour week, plenty of teams stop after 1-cha, or make 2-cha a coffee shop and go home by ten. Older colleagues notice."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "A Korean night out doesn't run on drinking more, it runs on moving. Dinner is 1-cha. Beer somewhere else is 2-cha. A karaoke room is 3-cha, and each one is a different building.\n\nWhat outsiders read as heavy drinking is mostly relocation. Every move resets the table — new seats, new conversations, and a natural exit for anyone who wants one.\n\nThe rounds are shrinking, though. Since the 52-hour week came in, plenty of nights stop at 1-cha, or make the second round a coffee shop.",
+  "hashtags": [
+    "#korea",
+    "#seoul",
+    "#koreanculture",
+    "#livinginkorea",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreanfood",
+    "#soju",
+    "#nightout",
+    "#koreanlife",
+    "#expatlife",
+    "#noraebang",
+    "#koreatravel",
+    "#onlyinkorea"
+  ],
+  "reply": "The detail that catches people out: 1-cha is where the real conversation happens, not 3-cha. By the karaoke room nobody is talking — they're taking turns with a microphone. If you only have one round in you, take the first one.\n\nAnd there's a fourth stop the cards left off. Haejangguk (해장국), hangover soup, is a whole restaurant category that opens early for exactly this reason.\n\nHow does a night out work where you live — one place, or a route?\n\nI post one of these every morning, Korea explained by a Korean who lives here. Follow @whatshotkorea so you catch the next one.",
+  "fact_check": [
+    "27,779 noraebang in November 2021, down 9.5% from 30,421 in November 2019, and a peak of roughly 35,300 in 2011: Korean press reporting on Ministry of Culture, Sports and Tourism licence data (서울경제 28 Jul 2019 for the 2011 peak and the 2018 figures; 다음/뉴스 4 Feb 2022 for the 2021 count). This is 2021 data and the newest figure found — the card says 'in 2021', never 'today'. Verify before publishing whether a newer count exists.",
+    "The 52-hour workweek took effect for large companies on 1 July 2018 and was phased in for smaller ones afterwards. The slide says only that nights got shorter 'since the 52-hour week', which holds regardless of the phase-in date, but do not add a date to the card without checking the phase that applies.",
+    "The link between the 52-hour week and shorter drinking rounds is what Korean press reported alongside the noraebang decline, including the line that 2-cha moved to coffee shops. It is press framing, not a controlled study, so the card keeps it as an observation about teams rather than a proven cause.",
+    "Pouring etiquette — filling someone else's glass, two hands for a senior — is common practice, not a rule anyone enforces. Written as a habit for that reason.",
+    "Hoesik attendance: describing it as effectively expected is fair for the culture the cards describe, but it is not a legal or written obligation. The slide says it 'read as skipping the team', which is about perception, not policy. Keep it that way.",
+    "1-cha as grilled pork and soju is the common case, not a fixed menu. The slide says 'usually'.",
+    "Haejangguk in the reply is described as a restaurant category that opens early, which is accurate; no claim is made about hangover cure efficacy."
+  ]
+}
