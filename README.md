@@ -49,14 +49,33 @@ on top of the publishing scopes, or `--reply` fails with OAuth 10 on Instagram
 and OAuth 200 on Facebook while the Threads reply still goes through. Threads
 replies run on the separate Threads token and need nothing extra.
 
-Both scopes were added to the app's use cases on 2026-09-02 and they now show
-in the Graph API Explorer, but no login dialog will hand back a token carrying
-them: the Explorer's own request dies on `Invalid Scopes:
-pages_read_user_content`, a permission it adds by itself and Meta no longer
-accepts, and every hand-built dialog (implicit, code, with and without the
-`cardnews-publish-comment` configuration, id 1045642294762468) answers
-"Sorry, something went wrong". Until that clears, Instagram and Facebook
-comments go up by hand -- the reply text is in each `content/<date>.json`.
+Both scopes were added to the app's use cases on 2026-09-02, but no login
+dialog would hand back a token carrying them: the Graph API Explorer dies on
+`Invalid Scopes: pages_read_user_content`, and every hand-built OAuth dialog
+answers `URL을 읽어들일 수 없습니다` because this app is built on use cases and
+has no Facebook Login product, so there is nowhere to register a redirect URI.
+
+The way through was a **system user**. `cardnews-publisher`
+(id 61594067399687) in the business portfolio holds the page, the Instagram
+account and the app, and its token never expires. `adopt_system_token.py`
+trades that token for the page token and writes both into `.env`:
+
+```bash
+python adopt_system_token.py <file holding the system-user token>
+```
+
+That fixed Instagram: comments now go up through the API, and
+`comment.py <post id> ["text"]` backfills one onto a post that is already up.
+
+Facebook page comments still refuse with OAuth 200. The page token does carry
+`pages_manage_engagement` -- `debug_token` lists it -- but its granular scopes
+come back with no `target_ids`, so the permission is attached to no page at
+all. Reads fail the same way. A system user cannot fix that on its own: a
+comment call only accepts a page token, and this page token is not bound to
+the page. Closing it needs either App Review for the two comment permissions,
+or a Facebook Login use case added to the app so a user token from the page's
+own admin can mint the page token. Until then Facebook comments go up by hand
+from the `reply` in each `content/<date>.json`.
 
 To reissue the page token with a new set of scopes:
 
@@ -68,6 +87,9 @@ open "https://www.facebook.com/v21.0/dialog/oauth?client_id=$APP_ID&redirect_uri
 # 3. fill APP_ID and APP_SECRET in .env too, then
 python refresh_token.py
 ```
+
+This route is dead until a Facebook Login use case is added to the app; the
+dialog rejects the redirect URI before it ever asks about scopes.
 
 `redirect_uri` has to be listed under Facebook Login > Settings > Valid OAuth
 Redirect URIs first. The user token from that dialog lives about an hour;
