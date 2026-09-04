@@ -3,6 +3,7 @@
 
 Usage:
     python make_cards.py content/2026-08-28.json [out_dir ...]
+    python make_cards.py content/2026-08-28.json --reel   # img/<date>-reel
 
 Writes 01.png ... 10.png into every out_dir given (default: img/<date>).
 The layout rules this implements are written down in DESIGN.md.
@@ -32,6 +33,11 @@ EMPH = re.compile(r"\*\*(.+?)\*\*")
 # Gemini stamps a sparkle into the bottom-right corner; trimming the frame is
 # cleaner than trying to paint it out.
 WATERMARK_TRIM = 0.12
+
+# A Reel is one video, so the carousel furniture -- the swipe cue and the
+# NN of NN counter -- is not just useless there, it tells the viewer to swipe
+# away. --reel drops both and leaves the layout alone.
+REEL = False
 
 
 def font(name, size):
@@ -160,9 +166,10 @@ def chrome(img, index, total, on_dark=True):
     wm = font("seguisb.ttf", 22)
     d.text(((SIZE - d.textlength(HANDLE, font=wm)) / 2, MARGIN - 14), HANDLE, font=wm, fill=tint)
 
-    counter = f"{index:02d} — {total:02d}"
-    d.text((SIZE - MARGIN - d.textlength(counter, font=wm), SIZE - MARGIN - 8),
-           counter, font=wm, fill=tint)
+    if not REEL:
+        counter = f"{index:02d} — {total:02d}"
+        d.text((SIZE - MARGIN - d.textlength(counter, font=wm), SIZE - MARGIN - 8),
+               counter, font=wm, fill=tint)
     return d
 
 
@@ -179,9 +186,10 @@ def render_hook(s, index, total, assets):
     y = paint(d, head, y, WHITE, AMBER)
     paint(d, note, y + 28, BONE, AMBER)
 
-    cue = "밀어서 보기 →" if HANGUL.search(s["note"]) else "SWIPE →"
-    d.text((MARGIN, SIZE - MARGIN - 8), cue, font=body_font(cue, 22, "bold"),
-           fill=(255, 255, 255, 130))
+    if not REEL:
+        cue = "밀어서 보기 →" if HANGUL.search(s["note"]) else "SWIPE →"
+        d.text((MARGIN, SIZE - MARGIN - 8), cue, font=body_font(cue, 22, "bold"),
+               fill=(255, 255, 255, 130))
     return img
 
 
@@ -244,6 +252,8 @@ RENDERERS = {"hook": render_hook, "content": render_content,
 
 
 def main(argv):
+    global REEL
+    REEL = "--reel" in argv
     args = [a for a in argv[1:] if not a.startswith("--")]
     if not args:
         sys.exit(__doc__)
@@ -257,7 +267,8 @@ def main(argv):
     if "hook" not in assets:
         sys.exit(f"need at least {asset_dir}/hook.png")
 
-    out_dirs = args[1:] or [os.path.join("img", data["date"])]
+    out_dirs = args[1:] or [os.path.join(
+        "img", data["date"] + ("-reel" if REEL else ""))]
     for out in out_dirs:
         os.makedirs(out, exist_ok=True)
 
