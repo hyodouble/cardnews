@@ -51,10 +51,26 @@ up, seen from behind. Cool light below, warm light above. No signboards, no lett
 ## content4.png — 양머리
 
 ```
-Close shot from behind of an adult's head wearing a small white towel folded into two
-upright horns, sitting on a wooden floor in a salmon-orange cotton t-shirt. Face not visible.
-Soft warm indoor light, the background a blurred wooden wall.
+A medium shot from behind and slightly to one side of an adult sitting on a heated wooden
+floor in a Korean sauna, seen from the shoulders up and photographed from a few steps back,
+so the head sits in the upper middle of the frame with generous empty space on both sides
+and nothing cropped at the edges. On the head is a white bath towel folded in the Korean
+sauna 'yangmeori' sheep-head style: folded lengthwise into a narrow band, both ends rolled
+outward into two thick soft cylindrical rolls, like two rolled buns, sitting against the
+sides of the head just above the ears, with the flat middle of the towel lying across the
+top of the head. The rolls are rounded and chunky, never pointed, never standing upright.
+The person wears a loose muted salmon-orange cotton t-shirt. Face not visible. Soft warm
+indoor light, background a blurred wooden wall.
 ```
+
+**양머리는 뿔이 아니다.** 첫 버전 프롬프트가 `two upright horns`였고, 그대로 수건 끝이
+위로 뾰족하게 선 토끼귀가 나왔다. 실제 양머리는 수건을 길게 접어 **양 끝을 바깥으로
+3~4번 말아** 두툼한 원통 두 개를 만들고, 가운데를 벌려 모자처럼 쓰는 것이다. 말린 롤이
+귀 옆에 옆으로 붙어야 하고 위로 서면 안 된다. `rolled outward`, `cylindrical rolls`,
+`never pointed`, `never standing upright` 넷 중 하나라도 빼면 다시 뿔이 나온다.
+
+거리도 프롬프트에 박아 둘 것. 클로즈업으로 뽑으면 12% 트림 뒤 롤 한쪽이 화면 밖으로
+잘린다. `from a few steps back` + `nothing cropped at the edges`가 그래서 들어가 있다.
 
 ## content5.png — 불가마
 
