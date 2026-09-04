@@ -51,26 +51,39 @@ up, seen from behind. Cool light below, warm light above. No signboards, no lett
 ## content4.png — 양머리
 
 ```
-A medium shot from behind and slightly to one side of an adult sitting on a heated wooden
-floor in a Korean sauna, seen from the shoulders up and photographed from a few steps back,
-so the head sits in the upper middle of the frame with generous empty space on both sides
-and nothing cropped at the edges. On the head is a white bath towel folded in the Korean
-sauna 'yangmeori' sheep-head style: folded lengthwise into a narrow band, both ends rolled
-outward into two thick soft cylindrical rolls, like two rolled buns, sitting against the
-sides of the head just above the ears, with the flat middle of the towel lying across the
-top of the head. The rolls are rounded and chunky, never pointed, never standing upright.
+A medium shot from behind and slightly to one side of an adult sitting cross-legged on a
+heated wooden floor in a Korean sauna, seen from the shoulders up, photographed from a few
+steps back so the head sits in the upper middle of the frame with space on both sides and
+nothing cropped at the edges. On the head is a white bath towel worn as the Korean sauna
+'yangmeori': a soft rounded bonnet of towelling that drapes over the crown and the whole
+back of the head down to the nape, loose and slightly puffy, not tight, not a balaclava,
+the neck and shoulders bare of it. At each side of the head the end of the towel is wound
+into a compact tight spiral knot, like a small cinnamon roll or a coiled snail shell seen
+end-on, so the spiral coil faces sideways out of the frame. Each spiral is about fist-sized
+and sits at temple height at the side of the head, resting just above the ear and slightly
+covering the top of it, sticking straight out sideways. Two spirals, one on each side,
+symmetrical. Not pointed, not standing upright, not ears, not horns, not pompoms.
 The person wears a loose muted salmon-orange cotton t-shirt. Face not visible. Soft warm
 indoor light, background a blurred wooden wall.
 ```
 
-**양머리는 뿔이 아니다.** 첫 버전 프롬프트가 `two upright horns`였고, 그대로 수건 끝이
-위로 뾰족하게 선 토끼귀가 나왔다. 실제 양머리는 수건을 길게 접어 **양 끝을 바깥으로
-3~4번 말아** 두툼한 원통 두 개를 만들고, 가운데를 벌려 모자처럼 쓰는 것이다. 말린 롤이
-귀 옆에 옆으로 붙어야 하고 위로 서면 안 된다. `rolled outward`, `cylindrical rolls`,
-`never pointed`, `never standing upright` 넷 중 하나라도 빼면 다시 뿔이 나온다.
+**이 장은 세 번 틀리고 네 번째에 맞았다. 프롬프트를 손보기 전에 실제 사진부터 볼 것.**
+`찜질방 양머리 수건`으로 이미지 검색을 하면 바로 나온다. 글로 된 접는 법 설명만 읽고
+쓰면 계속 어긋난다 — 실제로 그렇게 어긋났다.
 
-거리도 프롬프트에 박아 둘 것. 클로즈업으로 뽑으면 12% 트림 뒤 롤 한쪽이 화면 밖으로
-잘린다. `from a few steps back` + `nothing cropped at the edges`가 그래서 들어가 있다.
+틀렸던 순서와 이유:
+
+1. `two upright horns` → 수건 끝이 위로 뾰족하게 선 토끼귀. 양머리는 뿔이 아니다.
+2. `cylindrical rolls` → 옆에 붙긴 했는데 굵은 원통이 되었고 위치가 너무 뒤였다.
+3. 뒤통수까지 덮게 했더니 목까지 내려오는 복면이 되었다.
+
+실물은 이렇다. **수건 본체는 정수리와 뒤통수를 덮는 부드러운 보닛**이고 목은 드러난다.
+양쪽 끝은 굵은 원통이 아니라 **달팽이처럼 촘촘히 감긴 나선**이라 옆에서 소용돌이 단면이
+보인다. 그 나선이 **관자놀이~귀 높이에서 옆으로 튀어나와 귀 윗부분을 살짝 덮는다.**
+`spiral`, `cinnamon roll`, `temple height`, `just above the ear` 넷이 핵심이고
+`not horns`, `not pompoms`를 같이 넣어야 다시 뿔로 돌아가지 않는다.
+
+거리도 프롬프트에 박아 둘 것. 클로즈업으로 뽑으면 12% 트림 뒤 나선 한쪽이 잘린다.
 
 ## content5.png — 불가마
 
@@ -109,11 +122,19 @@ No signboards, no lettering, no symbols anywhere on the building.
 ## content9.png — 계란과 식혜
 
 ```
-Floor-level shot of a small tray on a wooden sauna floor holding two boiled eggs still
-in their shells and a plain bowl of pale sweet rice drink with grains floating in it.
-Two hands reaching in from the edge of frame, sleeves of a salmon-orange cotton t-shirt.
-Warm overhead light, no faces, no packaging, no labels.
+Floor-level close shot on a wooden sauna floor: two brown roasted eggs still in their
+speckled shells sitting beside a small round transparent plastic tub of sikhye, the Korean
+sweet rice drink. The tub is a plain clear plastic cup-sized container with a bright blue
+snap-on plastic lid, the lid still fitted on top, completely plain with no printing
+anywhere. Inside the tub the drink is pale milky beige with cooked rice grains settled at
+the bottom. Two hands reach in from the edge of the frame, sleeves of a loose muted
+salmon-orange cotton t-shirt. Warm overhead light.
 ```
+
+식혜는 **사기 그릇에 담기지 않는다.** 첫 버전이 `a plain bowl of pale sweet rice drink`
+였고 도자기 대접에 담긴 그림이 나왔는데, 찜질방 식혜는 **투명 플라스틱 통에 파란 스냅
+뚜껑**이 정석이다. `blue snap-on plastic lid`를 빼면 다시 그릇이 된다. 통에는 아무
+인쇄도 없어야 한다 — 라벨이 붙으면 공통 규칙의 `no text` 와 충돌한다.
 
 ## cta.png — 새벽의 빈 복도
 
