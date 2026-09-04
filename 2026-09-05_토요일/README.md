@@ -16,6 +16,25 @@ The buildings are thinning out, though. Seoul had 1,764 bathhouses in 1995 and a
 #korea #seoul #koreanculture #jjimjilbang #livinginkorea #cultureshock #explainkorea #koreanlife #expatlife #onlyinkorea #sauna #koreatravel #koreanspa #seoullife
 ```
 
+## 캡션 — 릴스용 (영어판, 그대로 복사)
+
+릴스는 캡션 첫 줄만 보이고 나머지는 접힌다. 첫 문장에 전제를 다 넣어 둔 판본이다.
+
+```
+A Korean sauna isn't a spa day — it's a 24-hour building where families sleep on the floor for about ₩15,000.
+
+Downstairs the baths are nude and split by sex. Upstairs everyone is in the same cotton shirt and shorts, and that floor is mixed — families, couples, teenagers, someone who missed the last train. The uniform is the point: in that shirt nobody can tell what anyone does for a living.
+
+The buildings are thinning out, though. Seoul had 1,764 bathhouses in 1995 and around 510 last year, and it's the small neighbourhood ones that go first.
+
+#korea #seoul #koreanculture #jjimjilbang #livinginkorea #cultureshock #explainkorea #koreanlife #expatlife #onlyinkorea #sauna #koreatravel #koreanspa #seoullife
+```
+
+**올릴 때:** 앱에서 올리고 **인기 음원을 반드시 얹을 것.** `reel.mp4`의 오디오는 무음
+트랙이다. 음원은 앱에서만 붙일 수 있어서 이 한 가지 때문에 릴스는 수동으로 올린다.
+파일: `img/2026-09-05-reel/reel.mp4` (33초, 1080x1920)
+폰에서 받을 주소: https://hyodouble.github.io/cardnews/img/2026-09-05-reel/reel.mp4
+
 ## 캡션 — 한국어판 (그대로 복사)
 
 ```
