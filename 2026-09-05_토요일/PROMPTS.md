@@ -121,20 +121,48 @@ No signboards, no lettering, no symbols anywhere on the building.
 
 ## content9.png — 계란과 식혜
 
+**실사진 한 장을 레퍼런스로 첨부하고** 아래를 붙여넣는다. 공통 규칙은 아래에 녹아 있으니
+따로 붙이지 않는다. 레퍼런스는 `assets/2026-09-05/content9-reference.png`.
+
 ```
-Floor-level close shot on a wooden sauna floor: two brown roasted eggs still in their
-speckled shells sitting beside a small round transparent plastic tub of sikhye, the Korean
-sweet rice drink. The tub is a plain clear plastic cup-sized container with a bright blue
-snap-on plastic lid, the lid still fitted on top, completely plain with no printing
-anywhere. Inside the tub the drink is pale milky beige with cooked rice grains settled at
-the bottom. Two hands reach in from the edge of the frame, sleeves of a loose muted
-salmon-orange cotton t-shirt. Warm overhead light.
+Use the attached photo as the reference for WHAT is in the picture, not for how it is lit.
+Recreate the same subject as a photorealistic documentary photograph, square 1:1 framing,
+contemporary South Korea.
+
+Keep from the reference, exactly: a dark brown plastic cafeteria tray; on the left a round
+white ceramic dish holding four roasted Korean sauna eggs with matte tan-brown shells
+mottled with darker scorch patches, ordinary egg shape, no speckles or dots; on the right
+two identical clear cylindrical plastic tubs of sikhye, the Korean sweet rice drink, each
+with a bright blue screw-on lid with a hinged blue flip tab standing open, one yellow
+plastic straw through the near tub's lid. The drink is pale milky beige with soft cooked
+white rice grains suspended through it, condensation on the outside of the tubs. The tubs
+are completely plain with no printing, no labels.
+
+Change the setting and the light: instead of a bright tiled floor under fluorescent light,
+place the tray on the warm wooden floor of a dim Korean sauna lounge, shot at floor level
+from a few steps back. Muted warm-neutral color grade, slight film grain, shallow depth of
+field, one warm overhead light. Background is blurred dark wood only, empty, no furniture,
+no chairs, no doorways.
+
+The tray sits in the upper two-thirds of the frame and the bottom third is plain empty
+floor so text can sit over it. No people, no hands. No text, no signage, no Hangul, no
+letters, no numbers, no logos, no brand marks, no watermarks.
 ```
 
-식혜는 **사기 그릇에 담기지 않는다.** 첫 버전이 `a plain bowl of pale sweet rice drink`
-였고 도자기 대접에 담긴 그림이 나왔는데, 찜질방 식혜는 **투명 플라스틱 통에 파란 스냅
-뚜껑**이 정석이다. `blue snap-on plastic lid`를 빼면 다시 그릇이 된다. 통에는 아무
-인쇄도 없어야 한다 — 라벨이 붙으면 공통 규칙의 `no text` 와 충돌한다.
+글로만 쓴 프롬프트로는 두 번 다 틀렸다. 세 번째에 실사진을 레퍼런스로 붙였다.
+
+- **용기** — 처음엔 `파란 스냅 뚜껑 통`, 다음엔 `투명 텀블러`로 썼는데 둘 다 반찬통이나
+  카페 컵이 나왔다. 실물은 **손잡이 없는 원통형 투명 통에 파란 나사 뚜껑**이고 뚜껑에
+  **경첩식 플립 탭**이 서 있고 **노란 빨대**가 꽂혀 있다. 이건 글로 재현이 안 돼서
+  사진을 붙이는 쪽이 빠르다.
+- **계란** — `speckled shells`로 쓰면 점박이 메추리알 같은 구가 나온다. 맥반석 계란은
+  점이 없다. **무광 황갈색에 거뭇한 얼룩**, 모양은 그냥 달걀이다. 흰 접시에 네 알.
+- **레퍼런스의 조명은 쓰지 않는다.** 실물 사진은 형광등 아래 타일 바닥이라 나머지
+  아홉 장의 어두운 나무 톤과 안 맞는다. 프롬프트에서 피사체만 가져오고 배경과 빛은
+  갈아끼우라고 명시해야 한다.
+
+`make_cards.py`의 12% 워터마크 트림은 이제 1024x1024 (제미나이 출력)에만 걸린다.
+실사진에는 ✦ 표시가 없는데 트림이 들어가면 오른쪽 통이 잘려 나갔다.
 
 ## cta.png — 새벽의 빈 복도
 

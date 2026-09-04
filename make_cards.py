@@ -129,8 +129,12 @@ def grain(img, amount=9):
 
 def photo(path, darken=0.55, blur=0):
     img = Image.open(path).convert("RGB")
-    img = img.crop((0, 0, int(img.width * (1 - WATERMARK_TRIM)),
-                    int(img.height * (1 - WATERMARK_TRIM))))
+    # Only Gemini output carries the sparkle, and it always comes back 1024x1024.
+    # A real photograph dropped in here has no watermark, so trimming it would
+    # just eat a tenth of the frame.
+    if img.size == (1024, 1024):
+        img = img.crop((0, 0, int(img.width * (1 - WATERMARK_TRIM)),
+                        int(img.height * (1 - WATERMARK_TRIM))))
     side = min(img.size)
     img = img.crop(((img.width - side) // 2, (img.height - side) // 2,
                     (img.width + side) // 2, (img.height + side) // 2))
