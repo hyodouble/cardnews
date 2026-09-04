@@ -14,8 +14,8 @@ making a second machine able to publish.
 | `make_cards.py` | Renders `content/<date>.json` + `assets/<date>/*.png` into ten 1080×1080 slides |
 | `make_brief.py` | Writes the human-facing README for a day folder |
 | `post.py` | Publishes one carousel to Instagram, the Facebook page and Threads, with a first comment |
-| `publish_today.py` | Argument-free wrapper the scheduler calls: publishes today's carousel if it is ready, does nothing if it is not |
-| `register_schedule.ps1` | Registers the daily 08:00 Windows task that runs `publish_today.py` |
+| `publish_today.py` | Publishes a day's carousel if it is ready, does nothing if it is not. Takes an optional date |
+| `register_schedule.ps1` | Registers a daily Windows task that runs `publish_today.py`. Not in use -- publishing is manual |
 | `comment.py` | Puts a comment on a post that is already up, for when a publish-time comment failed |
 | `adopt_system_token.py` | Trades the Meta system-user token for the page token and writes both into `.env` |
 
@@ -134,7 +134,7 @@ python make_brief.py content/2026-09-04.json "$HOME/Desktop/koreahotshot/2026-09
 # 4. push, or the publish will refuse
 git add img/2026-09-04 content/2026-09-04.json && git commit -m "..." && git push
 
-# 5. publish (or let the 08:00 task do it)
+# 5. publish -- nothing goes out until this runs
 python publish_today.py 2026-09-04
 ```
 
@@ -142,31 +142,42 @@ Photo rules that cost real time when ignored are in `README.md` under
 *Generating the photos*: never regenerate for aspect ratio or the Gemini
 watermark, and keep Hangul signage and identifiable faces out of frame.
 
-## 7. Scheduling
+## 7. Publishing is manual
 
-**Windows.** From the repo folder:
+Nothing publishes on its own. `publish_today.py` sends a day's carousel when you
+run it, and does nothing until then:
+
+```bash
+python publish_today.py                # today
+python publish_today.py 2026-09-06     # a specific day
+```
+
+It publishes only if `content/<date>.json` and the ten slides exist; otherwise it
+logs one line and exits. Every run, success or failure, appends to `publish.log`.
+
+A daily 08:00 Windows task used to do this and was removed on 2026-09-04, for two
+reasons worth keeping written down. The day a carousel went viral, the next post
+was already going out on its own before anyone decided it should -- a schedule
+turns the timing decision into a default. And the task ran inside a logged-on
+console session, so closing the window killed Python mid-upload: the task
+reported `0xC000013A` and `publish.log` held a `publishing` line with no result,
+which is the worst possible state to find because it does not say whether Meta
+got the post. Check the account, not the log, if you ever see that.
+
+`register_schedule.ps1` is still here. If the schedule is ever wanted back:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File register_schedule.ps1              # 08:00 daily
 powershell -ExecutionPolicy Bypass -File register_schedule.ps1 -Time 07:30
 powershell -ExecutionPolicy Bypass -File register_schedule.ps1 -Remove
-Start-ScheduledTask -TaskName cardnews-publish                              # run it now
 ```
 
-The task runs `publish_today.py`, which publishes that day's carousel if
-`content/<date>.json` and the ten slides exist and otherwise logs one line and
-exits. Failures land in `publish.log` next to the scripts.
+Register it to run whether the user is logged on or not, or it will die the same
+way. The machine also has to be awake -- `-WakeToRun` wakes a sleeping machine and
+does nothing for one that is shut down.
 
-**macOS or Linux.** `crontab -e`:
-
-```cron
-0 8 * * * cd /path/to/cardnews && /usr/bin/python3 publish_today.py >> publish.log 2>&1
-```
-
-**The machine has to be awake.** `-WakeToRun` wakes a sleeping machine; it does
-nothing for one that is shut down. If the usual PC is off for the weekend, either
-prepare the weekend carousels in advance and register the same task on whatever
-machine is on, or publish by hand from that machine:
+**Weekends on another computer.** Prepare the carousels in advance, then publish
+by hand from whatever machine is on:
 
 ```bash
 git pull                       # slides pushed from the other machine come with it
