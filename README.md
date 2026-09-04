@@ -181,7 +181,7 @@ the front, and looking at a real photo settled it in one attempt.
 | 2026-09-03 (목) | Daeri unjeon, a stranger drives your car home | published via API to Instagram, Facebook and Threads |
 | 2026-09-04 (금) | Chasu, a night out in numbered rounds | published via API to Instagram, Facebook and Threads |
 | 2026-09-05 (토) | Jjimjilbang, sleeping on a floor full of strangers | slides ready, unpublished |
-| 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | copy and prompts ready, no photos yet |
+| 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | slides ready, unpublished |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
