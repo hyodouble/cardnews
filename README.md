@@ -168,6 +168,27 @@ worth a search first — the 2026-09-02 응원단상 photo had to be redone beca
 prompt described a tower in the middle of the stands instead of the low deck at
 the front, and looking at a real photo settled it in one attempt.
 
+## Reels
+
+A carousel reaches the people who already follow the account. Reels are the only
+format Instagram puts in front of everyone else, which is the whole problem on a
+new account, so the same ten cards also go out as one vertical video:
+
+```bash
+python make_cards.py content/2026-09-05.json --reel   # img/<date>-reel, no swipe cue
+python make_reel.py img/2026-09-05-reel               # reel.mp4, 3s a card
+```
+
+**Reels are uploaded by hand, from the phone.** `post.py` has no REELS path on
+purpose. A Reel published through the API can only carry the audio baked into the
+file, and licensed music is attachable in the app alone -- automating the upload
+would trade away the one distribution lever the format has. The video is silent
+apart from a null audio track, so a track gets picked in the app at upload.
+
+Nothing else is in the way if that changes: GitHub Pages already serves the mp4 as
+`video/mp4`, so the API path is a `media_type=REELS` container with a `video_url`
+and a status poll while the video is processed.
+
 ## Scheduled posts
 
 | Date | Topic | Status |
