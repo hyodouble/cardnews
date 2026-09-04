@@ -26,7 +26,7 @@ so the Meta app stays in development mode and needs no App Review.
 ## Publishing a carousel
 
 Setting this up on another computer is documented separately in `SETUP.md`,
-including the Meta configuration, the scheduler and how the credentials travel.
+including the Meta configuration and how the credentials travel.
 
 ```bash
 cp .env.example .env      # fill in the IDs and tokens once
@@ -53,11 +53,19 @@ is unhelpful.
 
 Publishing runs on a system-user token that does not expire, so the old
 60-day refresh is gone. `publish_today.py` takes no arguments and publishes the
-day's carousel if it is ready, which is what the daily 08:00 task calls:
+day's carousel if it is ready, so a post goes out when it is run and not before:
 
 ```bash
-powershell -ExecutionPolicy Bypass -File register_schedule.ps1
+python publish_today.py                # today
+python publish_today.py 2026-09-06     # a specific day
 ```
+
+**Publishing is manual.** There was a daily 08:00 Windows task; it was removed on
+2026-09-04 so that the day's post is a decision rather than a default -- the
+morning a carousel went viral, the next one was already firing on its own. The
+task also ran in a logged-on console session, so closing the window killed it
+mid-upload and left `publish.log` with a `publishing` line and no result.
+`register_schedule.ps1` is still in the repo if the schedule is ever wanted back.
 
 The page token needs `instagram_manage_comments` and `pages_manage_engagement`
 on top of the publishing scopes, or `--reply` fails with OAuth 10 on Instagram
