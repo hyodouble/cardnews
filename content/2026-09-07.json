@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-07",
+  "weekday": "월요일",
+  "topic": "bidaemyeon-baedal",
+  "title": "Why No One Answers the Door for Delivery in Korea",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO DOORBELL. NO CASH. NO WORDS EXCHANGED.",
+      "headline": "In Korea the delivery rider **never sees your face.**",
+      "note": "He leaves the bag at your door, texts a photo, and is gone before you open it."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **bidaemyeon baedal**",
+      "body": "Bidaemyeon baedal (비대면 배달) — contactless delivery. It's a checkbox at checkout, not a special request you have to make."
+    },
+    {
+      "type": "content",
+      "headline": "You tell the rider **exactly where to leave it**",
+      "body": "Apartment number, floor, 'by the elevator,' the gate code — the delivery note field takes all of it, so nobody has to buzz you first."
+    },
+    {
+      "type": "content",
+      "headline": "A photo **closes the loop**",
+      "body": "The app pushes a picture of the bag on your doormat the second it lands, so you know it arrived before you even open the door."
+    },
+    {
+      "type": "content",
+      "headline": "Nobody's tipping, and that's **the point**",
+      "body": "There's no tip field in the app. The delivery fee is fixed and already paid, so the rider isn't lingering at your door hoping for more."
+    },
+    {
+      "type": "content",
+      "headline": "A rating does the job a tip usually does",
+      "body": "Every order ends with a star rating and a written review of the delivery. That's the accountability, not cash changing hands at the door."
+    },
+    {
+      "type": "content",
+      "headline": "Where you live, this might be the rude part",
+      "body": "In plenty of countries the rider waits for a signature, a chat, or cash. In Korea skipping that exchange entirely is the polite move, not the cold one."
+    },
+    {
+      "type": "stat",
+      "stat": "54%",
+      "headline": "One app **eats over half the market**",
+      "body": "Baemin (배달의민족) holds roughly 54% of Korea's delivery-app orders as of early 2026, with Coupang Eats a fast-closing second near 29%."
+    },
+    {
+      "type": "content",
+      "headline": "One swap replaced the whole interaction",
+      "body": "A location note, a photo, and a fee that's already paid — that's what stands in for the knock, the wait and the tip."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea a delivery rider drops your food at the door, snaps a photo, and leaves — no knock, no doorbell, no tip.\n\nThe whole system runs on a location note typed into the app, a photo that proves the bag arrived, and a delivery fee that's already paid, so nobody waits at the door for cash. A star rating does the job a tip does everywhere else.\n\nIt's not a pandemic habit that never went away — for most orders now, it's just the default.",
+  "hashtags": [
+    "#korea",
+    "#seoul",
+    "#koreanculture",
+    "#livinginkorea",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreanlife",
+    "#expatlife",
+    "#fooddelivery",
+    "#baemin",
+    "#deliveryapp",
+    "#koreatravel",
+    "#onlyinkorea",
+    "#lifeinkorea"
+  ],
+  "reply": "One thing worth adding: this predates COVID. Large apartment complexes had a 'leave it at the door' option and photo proof running years before the pandemic — COVID just made it the default everywhere else too.\n\nWhat's the delivery norm where you live — does the rider wait for you, or is contactless already normal too?",
+  "fact_check": [
+    "'Baemin holds roughly 54%, Coupang Eats near 29% (early 2026)': figure comes from aggregator blog posts (배달핏, steadimo 등) citing '2026년 2월 기준' data, not a named primary source. Other posts in the same search put Baemin at 58-60% for January 2026 and Coupang Eats at 25-27%. Numbers move monthly and disagree by outlet — re-check against 와이즈앱·와이즈리테일 or 공정거래위원회 figures with an exact month before this stat goes out.",
+    "'There's no tip field in the app': confirmed by multiple 2026 English-language delivery guides (thesoulofseoul.net, lacha.co.kr) describing '배달팁' as a fixed logistics fee, not a gratuity option. Worth one more check on the current Baemin/Coupang Eats checkout screen in case a newer quick-commerce tier added an optional tip — do not treat 'no tipping, ever' as permanent.",
+    "Photo-on-delivery confirmation as a standard feature: well known from using the apps, but no sourced launch date turned up in this search pass. Slide 4 deliberately names no year — do not add 'since 20XX' without a Baemin/Coupang Eats press release to cite.",
+    "Reply's claim that contactless delivery with a location note predates COVID at large apartment complexes: plausible (it existed as a fallback for buildings with no answer at the door/no intercom) but not confirmed with a dated article in this pass. Verify with a Korean news source before treating it as settled fact rather than color.",
+    "Slide 6's 'star rating and written review of the delivery': deliberately worded to avoid claiming Baemin rates the individual rider by name — it's unclear from this search whether the rating UI scores the rider specifically or the order/store as a whole. Confirm the actual rating flow before making the claim more specific.",
+    "'The rider isn't lingering at your door hoping for more' (slide 5) is color, not a data point — keep it framed as texture, not upgrade it to a measured claim.",
+    "Slide 7 makes no numeric claim about any other country's delivery norms on purpose — no cross-country data was checked, so it stays a description of the general pattern, not a statistic."
+  ]
+}
