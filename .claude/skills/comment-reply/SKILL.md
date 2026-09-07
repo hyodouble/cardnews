@@ -14,13 +14,15 @@ description: Write a reply to a comment a reader left on a What's Hot Korea post
 [공감 — 상대 말이 맞다고 인정] + [새 사실 한 개] + [짧은 질문]
 ```
 
-- **2~3문장, 영어 300자 이내.** 넘으면 자른다. 문단 나누지 않는다.
+- **1~2문장 + 질문. 영어 150자 안팎, 200자를 넘기지 않는다.** 문단 나누지 않는다.
+  길게 쓰고 싶어질 때 버릴 것부터 정한다: 수식어 → 부연 → 두 번째 사실 순.
 - **마침표로 끝내면 대화가 끝나고, 물음표로 끝내면 대화가 시작된다.** 항상 물음표로.
 - **상대가 쓴 단어를 그대로 되돌려 쓴다.** ("banking app" → "your bank app")
 - **이모지는 문장당 최대 하나**, 그것도 공감 문장에만. 🙌 🫡 😅 정도. 없어도 된다.
 - **감사 인사로 시작하지 않는다.** "Thanks for sharing!"은 자동응답처럼 읽힌다.
   바로 상대 얘기로 들어간다.
-- 새 사실은 **하나만**. 두 개면 하나를 버린다.
+- 새 사실은 **하나만**. 두 개면 하나를 버린다. 연도·이름 하나면 충분하다 —
+  설명은 붙이지 않는다. 궁금하면 상대가 되묻는다. 그게 스레드다.
 
 ## 유형별
 
@@ -47,10 +49,13 @@ description: Write a reply to a comment a reader left on a What's Hot Korea post
 > "In 🇰🇿 u can do get it all on a banking and a egov app on ur smartphone."
 
 ```
-Kaspi carrying your documents is genuinely ahead of us 🙌 Korea only got its ID into KakaoTalk and Toss in 2025, and the kiosks survive because someone still wants the stamped paper. Does 🇰🇿 ever still ask you for paper?
+Kaspi's ahead of us there 🙌 Korea only got its ID into KakaoTalk in 2025 — the kiosks live on for the stamped paper. Any paper left in 🇰🇿?
 ```
 
-공감 → 새 사실(2025년 모바일 신분증) → 짧은 질문. 213자.
+공감 → 새 사실(2025년 모바일 신분증) → 질문. 137자.
+
+버린 것: "genuinely", "carrying your documents", "and Toss", "because someone still
+wants". 사실은 그대로 남고 길이만 절반이 됐다.
 
 ## 답한 뒤
 
