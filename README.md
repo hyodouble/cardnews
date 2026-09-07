@@ -203,9 +203,13 @@ and a status poll while the video is processed.
 | 2026-09-04 (금) | Chasu, a night out in numbered rounds | published via API to Instagram, Facebook and Threads |
 | 2026-09-05 (토) | Jjimjilbang, sleeping on a floor full of strangers | slides ready, unpublished |
 | 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | slides ready, unpublished |
+| 2026-09-07 (월) | Bidaemyeon baedal, nobody answers the door | slides ready, unpublished |
+| 2026-09-08 (화) | Myeongjeol seonmul set, canned ham as the right gift | copy and prompts ready, photos pending |
 
-All of them are evergreen culture explainers rather than breaking news. Check
-each day's `fact_check` list before publishing.
+All of them are evergreen culture explainers rather than breaking news, except
+2026-09-08: Chuseok falls on 25 September 2026, so that one is written to run in
+the gift-set season and stops making sense outside it. Check each day's
+`fact_check` list before publishing.
 
 ## Topic ideas
 
