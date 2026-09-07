@@ -68,17 +68,17 @@ Photorealistic documentary photograph, square 1:1 framing, contemporary South Ko
 ```
 
 ---
-## 8. stat.png — 창고에 쌓인 선물세트 (배경용, 흐려짐)
+## 8. stat.png — 명절 다음 주, 미개봉 더미와 폰 (배경용, 흐려짐)
 ```
-A back-of-store pallet stacked shoulder-high with plain unbranded maroon and navy flat rectangular cardboard ribboned gift boxes wrapped in clear plastic film, a second pallet behind it, no people, flat even warehouse lighting, calm and repetitive.
+A corner of a living room floor the week after a holiday: four or five plain unbranded flat rectangular cardboard ribboned gift boxes still sealed and stacked slightly askew, a hand holding a smartphone above them taking a photograph of the pile, the phone screen dark and reflective with nothing readable on it. Flat afternoon daylight from a window.
 
 Photorealistic documentary photograph, square 1:1 framing, contemporary South Korea. Muted cool-neutral color grade, slight film grain, shallow depth of field. Subject sits in the upper two-thirds; the bottom third is calm and uncluttered so text can sit over it. No printed labels, plain unbranded boxes and cans throughout. No text, no signage, no Hangul, no letters, no numbers, no logos, no brand marks, no price tags, no watermarks, no recognizable faces.
 ```
 
 ---
-## 9. content9.png — 명절 다음 주 — 미개봉 박스와 폰
+## 9. content9.png — 다시 나갈 채비를 한 상자
 ```
-A corner of a living room floor the week after a holiday: four or five plain unbranded flat rectangular cardboard ribboned gift boxes still sealed and stacked slightly askew, a hand holding a smartphone above them taking a photograph of the pile, the phone screen dark and reflective with nothing readable on it. Flat afternoon daylight from a window.
+A single plain unbranded flat rectangular cardboard ribboned gift box sitting alone just inside a front door beside a pair of shoes, still sealed and with its carry handle raised, as if about to leave the house again. Cool daylight through a frosted door panel, quiet empty hallway, nobody in frame.
 
 Photorealistic documentary photograph, square 1:1 framing, contemporary South Korea. Muted cool-neutral color grade, slight film grain, shallow depth of field. Subject sits in the upper two-thirds; the bottom third is calm and uncluttered so text can sit over it. No printed labels, plain unbranded boxes and cans throughout. No text, no signage, no Hangul, no letters, no numbers, no logos, no brand marks, no price tags, no watermarks, no recognizable faces.
 ```
