@@ -24,6 +24,22 @@ description: Write a reply to a comment a reader left on a What's Hot Korea post
 - 새 사실은 **하나만**. 두 개면 하나를 버린다. 연도·이름 하나면 충분하다 —
   설명은 붙이지 않는다. 궁금하면 상대가 되묻는다. 그게 스레드다.
 
+## 출력 형식
+
+답글은 **영어로 쓰고, 바로 밑에 한글 해석을 붙인다.** 해석은 사용자가 읽고 확인하는
+용도다 — **실제로 다는 댓글은 영어만.** 한글을 댓글에 같이 올리지 않는다.
+(첫 댓글 `reply`는 영어 + `· · ·` + 한국어로 함께 올리는 것과 다르다. 헷갈리지 말 것.)
+
+```
+Kaspi's ahead of us there 🙌 Korea only got its ID into KakaoTalk in 2025 — the kiosks live on for the stamped paper. Any paper left in 🇰🇿?
+```
+> 그 점은 카스피가 저희보다 앞서 있네요 🙌 한국은 2025년에야 신분증이 카카오톡에
+> 들어왔고, 무인발급기는 도장 찍힌 종이 때문에 아직 살아 있어요. 카자흐스탄엔 아직
+> 종이 쓸 일이 남아 있나요?
+
+해석은 직역하지 않는다. 영어가 친근하게 읽히면 한글도 친근하게 읽혀야 한다 —
+그래야 톤이 맞는지 사용자가 판단할 수 있다.
+
 ## 유형별
 
 | 댓글 | 답글 |
@@ -52,7 +68,7 @@ description: Write a reply to a comment a reader left on a What's Hot Korea post
 Kaspi's ahead of us there 🙌 Korea only got its ID into KakaoTalk in 2025 — the kiosks live on for the stamped paper. Any paper left in 🇰🇿?
 ```
 
-공감 → 새 사실(2025년 모바일 신분증) → 질문. 137자.
+공감 → 새 사실(2025년 모바일 신분증) → 질문. 137자. 한글 해석은 위 「출력 형식」 참고.
 
 버린 것: "genuinely", "carrying your documents", "and Toss", "because someone still
 wants". 사실은 그대로 남고 길이만 절반이 됐다.
