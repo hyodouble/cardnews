@@ -92,21 +92,22 @@ behind and slightly to the side, waiting. Cool overhead light, brushed metal lif
 and composed.
 ```
 
-## stat.png — 창고에 쌓인 선물세트 (배경용, 흐려짐)
-
-```
-A back-of-store pallet stacked shoulder-high with plain unbranded maroon and navy flat
-rectangular cardboard ribboned gift boxes wrapped in clear plastic film, a second pallet behind
-it, no people, flat even warehouse lighting, calm and repetitive.
-```
-
-## content9.png — 명절 다음 주 — 미개봉 박스와 폰
+## stat.png — 명절 다음 주, 미개봉 더미와 폰 (배경용, 흐려짐)
 
 ```
 A corner of a living room floor the week after a holiday: four or five plain unbranded flat
 rectangular cardboard ribboned gift boxes still sealed and stacked slightly askew, a hand
 holding a smartphone above them taking a photograph of the pile, the phone screen dark and
 reflective with nothing readable on it. Flat afternoon daylight from a window.
+```
+
+## content9.png — 다시 나갈 채비를 한 상자
+
+```
+A single plain unbranded flat rectangular cardboard ribboned gift box sitting alone just inside
+a front door beside a pair of shoes, still sealed and with its carry handle raised, as if about
+to leave the house again. Cool daylight through a frosted door panel, quiet empty hallway,
+nobody in frame.
 ```
 
 ## cta.png — 저녁 마트 앞

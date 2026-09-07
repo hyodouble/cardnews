@@ -9,9 +9,9 @@
 ```
 In Korea the safest holiday gift is a box of canned ham, and nobody is joking about it.
 
-Chuseok (추석) lands on 25 September this year, and the supermarkets are already stacked with ribboned gift sets — Spam boxed by number, tuna, cooking oil, dried seaweed. The logic is that none of it can go wrong. There is no household that won't use canned ham, it keeps for years, and there is no size or taste to guess at. On top of that the box states its own price, which is half of what a gift says here — the law even caps what a public official may accept, and the sets are built to sit just under the line.
+Chuseok (추석) lands on 25 September this year, and the supermarkets are already stacked with ribboned gift sets — canned ham boxed by number, tuna, cooking oil, dried seaweed. The logic is that none of it can go wrong. There is no household that won't use it, it keeps for years, and there is no size or taste to guess at. The box also states its own price, which is half of what a gift says here — the law itself caps what a public official may accept, and lifts that cap only in the month around a holiday.
 
-Which is also why the week after a holiday, unopened sets turn up in the used-goods apps at a third off. The box was always partly a token of value, and everybody knows it.
+Which is why the week after a holiday, unopened sets go straight back onto the resale apps. The box was always partly a token of value, and everybody knows it.
 
 #korea #seoul #koreanculture #livinginkorea #cultureshock #explainkorea #koreanlife #expatlife #chuseok #spam #giftgiving #koreanfood #koreatravel #onlyinkorea #lifeinkorea
 ```
@@ -26,12 +26,12 @@ Which is also why the week after a holiday, unopened sets turn up in the used-go
 
 ## 확인이 필요한 사실
 
-1. 'Around 60% of the brand's annual revenue comes from holiday sets': 한국금융신문(2019-01-30) 보도, '연 매출 4100억원 중 60% 가량을 스팸 선물세트가 차지'. 2019년 수치이고 CJ 공식 자료가 아니다. 다른 기사들은 '연매출의 절반 이상'으로만 쓴다. 카드는 'has been reported'로 완화해 뒀지만, 발행 전 CJ제일제당 보도자료나 IR 자료에서 최근 연도 수치를 확인할 것. 2026-09-04 캐러셀에서 잡았던 '연도 없는 수치' 문제와 같은 종류다.
-2. '₩50,000 normally, ₩100,000 at the holidays, ₩300,000 for farm and seafood goods': 청탁금지법 기준. 정책브리핑 '2026 설 명절 청탁금지법 선물 바로 알기' 기준으로 일반 선물 5만원, 명절 기간 10만원, 농축수산물·농축수산가공품은 평시 15만원·명절 기간 30만원. 카드는 평시 15만원 구간을 생략했다. 더 중요한 건 30만원 특례가 상시가 아니라 명절 전후 한정 기간(2026년 설은 1/24~2/22, 30일)만 적용된다는 점 — 2026년 추석 특례 기간이 공고됐는지, 언제부터인지 확인하고 발행할 것.
-3. 'Spam No. 6, No. 8, No. 16': 스팸 선물세트가 번호로 유통되는 것은 맞지만(스팸 6호·8호·16호 등 판매처 상품명 확인됨), 2026년 추석 라인업에 이 세 호수가 다 있는지는 확인 안 됨. 마트 전단이나 CJ더마켓에서 올해 구성으로 맞출 것.
-4. 'unopened sets fill the used-goods apps at 30-50% off': 충북일보(설 직후) 보도 기반 — '정가보다 30~50%까지 싸게', '대부분 포장도 뜯지 않은 제품'. 지역 기사 한 건이고 전국 통계가 아니다. 당근마켓·번개장터의 명절 후 거래량 공식 집계가 있으면 그걸로 교체하는 게 낫다.
-5. 'the Korean-made Classic runs meaningfully less sodium' (reply): 나무위키에 한국판 10.8mg/g, 미국판 14.1mg/g(2021년 기준)으로 정리돼 있고 '미국판보다 25% 덜 짜다'는 서술이 있다. 1차 출처가 아니다. reply에서는 퍼센트를 빼고 'meaningfully less'로만 썼다. 숫자를 넣고 싶으면 양국 제품 영양성분표를 직접 대조할 것.
-6. 'Chuseok lands on 25 September this year' (caption): 2026년 추석은 9월 25일(금), 연휴 9월 24일(목)~27일(일). 여러 출처가 일치한다. 발행일(9/8)이 추석 17일 전이라 'three weeks before'라고 쓴 1장 note는 반올림이다 — 마트 선물세트 매대가 실제로 언제 올라갔는지 보고 문구를 맞출 것.
+1. 'A gift to a public official is capped at ₩50,000 — ₩150,000 for farm and seafood goods, and ₩300,000 in the month around a holiday' (6장): 국민권익위 기준으로 재확인 완료. 음식물 5만원, 경조사비 5만원(화환·조화 10만원), 선물 5만원, 농수산물·농수산가공품은 평시 15만원, 설·추석 '전 24일부터 후 5일까지' 30만원. 초고에 있던 '명절 10만원'은 근거 없는 블로그 서술이었고 삭제했다. 2026년 추석(9/25) 기준 특례 기간은 9월 1~30일 — 발행일 9/8은 그 안에 있다. 캔햄이 농수산가공품에 해당하는지(원료 50% 초과)는 권익위가 소관부처 문의 사항이라고 안내하므로, 카드에서는 스팸을 그 항목에 넣어 단정하지 않았다.
+2. 'Searches for Spam on Bungaejangter rose 116% month on month this February... Tinned goods traded up 66%' (8장): 번개장터가 2026년 2월 설 연휴 직후 발표한 자사 데이터. 패션비즈·이데일리·아시아경제 등이 같은 수치로 보도('스팸' 116%, '선물세트' 273%, 면·통조림 카테고리 거래액 66%, 식품 전체 23%). 플랫폼 자체 집계이고 제3자 검증은 없다. 전월 대비이며 설(2/17) 직후 기준이라, 카드도 추석이 아니라 설이라고 밝혀 적었다.
+3. 초고의 '스팸 매출의 60%가 명절 선물세트'는 카드에서 뺐다. 한국금융신문(2019) 이후 여러 매체가 같은 60%를 연도 표기 없이 반복하고 있고 CJ 공식 자료로 확인되지 않는다. 수치가 해마다 그대로인 것 자체가 재인용의 징후다. 대체 가능한 확실한 수치는 '2025년 국내 캔햄 오프라인 시장 약 3500억원, CJ 점유율 63.5%(닐슨)'이지만 이 편의 논지와는 거리가 있어 쓰지 않았다.
+4. 'Spam No. 6, No. 8, No. 16' (2장): 6호·8호·16호 모두 판매처 상품명으로 실재 확인. 다만 2026년 추석 라인업 구성인지는 확인 안 됨. CJ제일제당은 이번 추석 선물세트를 260여 종으로 냈다고 발표했다. 마트 전단이나 CJ더마켓에서 올해 호수로 맞추면 더 정확하다.
+5. 'Chuseok lands on 25 September' (캡션): 2026년 추석은 9월 25일(금), 연휴 9/24~27. 복수 출처 일치. 1장 note의 'three weeks before Chuseok'은 발행일 기준 17일 전이라 반올림이다. 매대가 실제로 언제 올라갔는지 보고 문구를 맞출 것.
+6. 초고 reply에 있던 '한국 스팸이 미국판보다 나트륨이 낮다'는 뺐다. 나무위키의 10.8mg/g 대 14.1mg/g (2021년 기준) 서술 외에 1차 출처를 찾지 못했다. 살리려면 양국 제품 영양성분표를 직접 대조할 것.
 
 ## 슬라이드 문구
 
@@ -52,16 +52,16 @@ Which is also why the week after a holiday, unopened sets turn up in the used-go
   EN  The box carries the message: a known brand, an obvious price, nothing anyone has to interpret. What it cost is half of what it says.
 
 **06. The law even **sets the ceiling****
-  EN  Gifts to public officials are capped — ₩50,000 normally, ₩100,000 at the holidays, ₩300,000 for farm and seafood goods. The sets are built to those lines.
+  EN  A gift to a public official is capped at ₩50,000 — ₩150,000 for farm and seafood goods, and ₩300,000 in the month around a holiday.
 
 **07. Where you live, this might read as **cheap****
   EN  Elsewhere canned meat is a punchline or emergency food. Here it is the respectable thing to hand your boss, your in-laws and your landlord.
 
-**08. 60% — of Spam's sales come **in a gift box****
-  EN  Around 60% of the brand's annual revenue in Korea has been reported to come from holiday sets — a year of business in two short seasons.
+**08. +116% — Searches for canned ham, **right after the holiday****
+  EN  Searches for Spam on the resale app Bungaejangter rose 116% month on month this February, straight after Lunar New Year. Tinned goods traded up 66%.
 
 **09. What is **actually** being handed over**
-  EN  A box anyone can price at a glance. The week after a holiday, unopened sets fill the used-goods apps at 30-50% off.
+  EN  A box anyone can price at a glance — which is exactly what makes it easy to hand on, or to turn back into cash.
 
 **10. Korea, explained **by a Korean.****
   EN  Follow for the context behind the things Korea does.
