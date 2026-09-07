@@ -203,6 +203,8 @@ and a status poll while the video is processed.
 | 2026-09-04 (금) | Chasu, a night out in numbered rounds | published via API to Instagram, Facebook and Threads |
 | 2026-09-05 (토) | Jjimjilbang, sleeping on a floor full of strangers | slides ready, unpublished |
 | 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | slides ready, unpublished |
+| 2026-09-07 (월) | Bidaemyeon baedal, nobody answers the door | published via API to Instagram, Facebook and Threads |
+| 2026-09-08 (화) | Myeongjeol seonmul set, canned ham as the safe gift | slides ready |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
