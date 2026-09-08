@@ -204,7 +204,7 @@ and a status poll while the video is processed.
 | 2026-09-05 (토) | Jjimjilbang, sleeping on a floor full of strangers | slides ready, unpublished |
 | 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | slides ready, unpublished |
 | 2026-09-07 (월) | Bidaemyeon baedal, nobody answers the door | published via API to Instagram, Facebook and Threads |
-| 2026-09-08 (화) | Myeongjeol seonmul set, canned ham as the safe gift | slides ready |
+| 2026-09-08 (화) | Myeongjeol seonmul set, canned ham as the safe gift | published via API to Instagram, Facebook and Threads |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
@@ -238,3 +238,17 @@ gone by 2026-09-02: the same `.env` tokens published the KBO carousel to all
 three platforms in one `post.py` run. If the errors come back, wait the app out
 rather than registering a replacement -- a second app reads as evasion and puts
 the Instagram account at risk.
+
+An Instagram `media_publish` can answer 403 OAuth 4 / subcode 2207051
+("Application request limit reached") **and still publish the carousel**. On
+2026-09-08 both the scheduled run and the retry came back with that error and
+both posts went up, which had to be deleted by hand from the app -- the
+Instagram Graph API has no media delete. Before retrying an Instagram failure,
+list the account's recent media and check whether the post is already there:
+
+```bash
+python -c "import os,post; post.load_env(); ig=os.environ['IG_USER_ID']; print(post.call(f'{post.GRAPH}/{ig}/media',{'fields':'id,timestamp','limit':'3','access_token':os.environ['PAGE_TOKEN']},'GET'))"
+```
+
+`content_publishing_limit` tells the two apart: real quota exhaustion shows
+`quota_usage` at the cap, while this block leaves it near zero.
