@@ -205,7 +205,7 @@ and a status poll while the video is processed.
 | 2026-09-06 (일) | Muin minwon balgeupgi, documents from a kiosk | slides ready, unpublished |
 | 2026-09-07 (월) | Bidaemyeon baedal, nobody answers the door | published via API to Instagram, Facebook and Threads |
 | 2026-09-08 (화) | Myeongjeol seonmul set, canned ham as the safe gift | published via API to Instagram, Facebook and Threads |
-| 2026-09-09 (수) | Noyakjaseok, the empty seats nobody sits in | slides ready |
+| 2026-09-09 (수) | Noyakjaseok, the empty seats nobody sits in | published via API to Instagram, Facebook and Threads; Facebook's first comment did not go up |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
