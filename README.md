@@ -208,6 +208,7 @@ and a status poll while the video is processed.
 | 2026-09-09 (수) | Noyakjaseok, the empty seats nobody sits in | published via API to Instagram, Facebook and Threads; Facebook's first comment did not go up |
 | 2026-09-10 (목) | Beolcho, mowing the ancestors' graves before Chuseok | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published, its first comment was posted by hand, Facebook's first comment did not go up |
 | 2026-09-11 (금) | Hangang ramyeon, the ₩4,000 dinner everyone overpays for | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published and its first comment went up on a retry, Facebook's first comment did not go up |
+| 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
