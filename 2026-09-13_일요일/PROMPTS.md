@@ -10,7 +10,7 @@
 ```
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -26,8 +26,11 @@ no watermarks, no recognizable faces.
 - **아이 얼굴이 잡힌다.** 미성년자 얼굴은 이 편에서 특히 위험하다. 전 컷 `from behind, cropped at the
   shoulders, or blurred` 를 강제하고, 얼굴이 살아난 컷은 버리고 다시 뽑는다.
 
-- **노란 스쿨버스가 나온다.** 학원 셔틀은 미국식 대형 스쿨버스가 아니라 **흰색 소형 승합차**다.
-  `small white shuttle van` 으로 고정했다.
+- **차가 틀린다.** 학원 셔틀은 미국식 노란 대형 스쿨버스도 아니고 흰색 승합차도 아니다. 어린이통학버스는
+  법으로 **황색 도색**이 강제돼, 실물은 **노란 현대 카운티급 소형버스**나 **노란 스타렉스/스타리아 승합차**다.
+  검은 고무 몰딩, 지붕의 호박색 경광등, 앞 범퍼 양쪽의 커다란 볼록거울, 옆으로 접히는 승하차문이 특징이다.
+  `yellow Korean academy shuttle bus, Hyundai County type boxy minibus` 로 고정한다.
+  (확인: 구글 이미지 '학원 셔틀버스' 2026-09-11 — 전부 노란색)
 
 ---
 
@@ -35,12 +38,13 @@ no watermarks, no recognizable faces.
 
 ```
 Children with backpacks streaming out of a lit building entrance onto a night pavement, seen from behind and from
-above at a slight angle, a queue of small shuttle vans with hazard lights along the kerb beside them. The building's
-upper floors are all lit. The pavement in the foreground is empty and dark.
+above at a slight angle, a queue of yellow Korean academy shuttle buses with hazard lights along the kerb beside them
+- boxy Hyundai County type minibuses painted school-bus yellow with black rubber side trim and amber roof lamps,
+plus one yellow shuttle van behind them. The building's upper floors are all lit. The pavement in the foreground is empty and dark.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -56,7 +60,7 @@ a classroom is lit and occupied, the figures inside small and out of focus.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -72,23 +76,25 @@ long shadows, the same stacked lit windows above them.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
 no watermarks, no recognizable faces.
 ```
 
-## content4.png — 밤 거리에 줄지어 선 학원 셔틀 승합차
+## content4.png — 밤 거리에 줄지어 선 노란 학원 셔틀버스
 
 ```
-A line of small white academy shuttle vans parked nose to tail along a narrow night street with their hazard lights
-blinking, cars idling behind them, a few blurred adult figures waiting on the pavement. Wet asphalt throwing back
-the red and orange light. The lower third is open empty road.
+A line of yellow Korean academy shuttle buses parked nose to tail along a narrow night street with their hazard
+lights blinking - boxy Hyundai County type minibuses painted school-bus yellow, black rubber side trim, amber
+warning lamps on the roof, large convex mirrors on the front corners, side doors folded open - cars idling behind
+them, a few blurred adult figures waiting on the pavement. Wet asphalt throwing back the yellow and red light.
+The lower third is open empty road.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -104,7 +110,7 @@ no readable signage anywhere on the building.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -120,7 +126,7 @@ the roofline, quiet empty street in the lower third.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -136,7 +142,7 @@ dim room, a glass door onto a dark corridor.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -152,7 +158,7 @@ shoulders only.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -168,7 +174,7 @@ on the board.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
@@ -184,7 +190,7 @@ light. The lower third is quiet empty road.
 
 Photorealistic documentary photograph, square 1:1 framing, a Korean city at night, around ten o'clock.
 An academy district: a mid-rise building whose every floor is a cram school, lit windows stacked up the facade,
-a narrow street below with small shuttle vans and waiting cars. Cold fluorescent light from inside against warm
+a narrow street below with small yellow academy shuttle buses and waiting cars. Cold fluorescent light from inside against warm
 sodium street light, wet asphalt, slight film grain, shallow depth of field. Subject sits in the upper two-thirds;
 the bottom third is calm and uncluttered so text can sit over it. School-age children appear only from behind,
 cropped at the shoulders, or blurred. No text, no signage lettering, no Hangul, no letters, no numbers, no logos,
