@@ -163,7 +163,7 @@ def chrome(img, index, total, on_dark=True):
     """Tiny centred wordmark up top, counter in the corner. Nothing else."""
     d = ImageDraw.Draw(img, "RGBA")
     tint = (255, 255, 255, 130) if on_dark else (16, 16, 18, 150)
-    wm = font("seguisb.ttf", 22)
+    wm = font("Archivo.ttf", 22)
     d.text(((SIZE - d.textlength(HANDLE, font=wm)) / 2, MARGIN - 14), HANDLE, font=wm, fill=tint)
 
     if not REEL:
