@@ -178,12 +178,16 @@ Headlines are set in Anton, Korean text in Pretendard, chosen per line so a
 Hangul word inside an English headline does not drag the whole line into a
 different typeface. Both are bundled in `fonts/`.
 
-**Rendering only works on Windows.** The wordmark and the slide counter are set
-in `seguisb.ttf` -- Segoe UI Semibold -- which is not in `fonts/` and is not
-Microsoft's to redistribute. Pillow finds it in the system font folder on
-Windows and fails with `OSError: cannot open resource` anywhere else. Everything
-before rendering (writing the content JSON, generating the photos) runs
-anywhere; the slides themselves come off the Windows machine.
+The wordmark and the slide counter used to be set in `seguisb.ttf`, Segoe UI
+Semibold, which ships with Windows and is not ours to put in `fonts/`. Pillow
+found it in the system font folder on Windows and raised `OSError: cannot open
+resource` everywhere else, so the slides could only be rendered on the one
+machine. They are set in the bundled **Archivo SemiBold** now -- which was
+already sitting in `fonts/`, unused -- and rendering runs anywhere. Side by side
+at 22px the two are not tellable apart; Archivo is a hair wider.
+
+Swapping a Microsoft font for a lookalike is the fix here. Only redistributing
+the file itself is off limits.
 
 ## Generating the photos
 
@@ -253,7 +257,7 @@ and a status poll while the video is processed.
 | 2026-09-11 (금) | Hangang ramyeon, the ₩4,000 dinner everyone overpays for | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published and its first comment went up on a retry, Facebook's first comment did not go up |
 | 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
-| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 원고·사진 10장 완료, 렌더·발행은 `run_day.ps1 -Date 2026-09-15` |
+| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 카드 10장 렌더 완료, 발행은 `run_day.ps1 -Date 2026-09-15` |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
