@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-15",
+  "weekday": "화요일",
+  "topic": "jeonse",
+  "title": "The Country Where Renting Costs Nothing a Month",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO MONTHLY RENT. NOT CHEAP RENT — NONE AT ALL.",
+      "headline": "In Korea, rent can be **₩0 a month.**",
+      "note": "You hand the owner a deposit worth most of the flat, live there rent-free for two years, and get every won of it back. It is called jeonse."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **jeonse (전세)**",
+      "body": "You lend the owner a lump sum instead of paying rent, and they return all of it when the lease ends. A deposit in your country is one or two months. This one is most of the price of the flat."
+    },
+    {
+      "type": "content",
+      "headline": "The owner gets **an interest-free loan**",
+      "body": "No rent comes in, but hundreds of millions of won sit in their hands for two years and cost them nothing. For a long stretch of Korean history, that money was worth more than rent would have been."
+    },
+    {
+      "type": "content",
+      "headline": "The tenant gets **something rent can't do**",
+      "body": "Most borrow the deposit from a bank and pay only the interest, which for years ran below the monthly rent on the same flat. Rent is gone the day you leave. A deposit comes back."
+    },
+    {
+      "type": "stat",
+      "stat": "68.5%",
+      "headline": "Of leases signed this year are **monthly rent**",
+      "body": "Nationwide the monthly-rent share was 48.7% in 2022 and 68.5% by April 2026. In Seoul it is about 70%. Jeonse is being squeezed out of the country that invented it."
+    },
+    {
+      "type": "content",
+      "headline": "The owners **walked away first**",
+      "body": "Heavier tax on a home you do not live in, tighter rules on jeonse loans, and fewer flats being built — Seoul started about 40,000 apartments a year on its ten-year average, and 22,000 in 2024."
+    },
+    {
+      "type": "content",
+      "headline": "And then the money **stopped coming back**",
+      "body": "When prices fell, owners could not repay what they had already spent. Since the 2023 relief law, 40,936 people have been recognised as jeonse fraud victims. Three in four are under 40."
+    },
+    {
+      "type": "content",
+      "headline": "Two steps decide **if you see it again**",
+      "body": "Move in, register the address, and have the contract date-stamped at the office. That puts you ahead of other creditors if the flat is auctioned off. Registered foreigners file a change-of-residence report instead."
+    },
+    {
+      "type": "content",
+      "headline": "A country is **letting go of it**",
+      "body": "Jeonse was Korea's answer to renting without rent, and it is ending quietly. In June 2026 the president called the squeeze a process of normalisation. The flats stay. The system behind them is going."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea you can rent an apartment and pay no rent at all. Instead of a monthly cheque you hand the owner a deposit worth most of the flat, live there for two years, and get the whole amount back at the end. It is called jeonse (전세), and almost nowhere else runs housing this way.\n\nIt worked because both sides got something. The owner held hundreds of millions of won interest-free. The tenant borrowed that deposit from a bank and paid only the interest, which for years came to less than the rent on the same flat — and unlike rent, the money came home.\n\nIt is going now. Monthly-rent contracts were 48.7% of the national market in 2022 and 68.5% by April 2026, about 70% in Seoul. Owners face heavier tax on homes they don't live in, jeonse loans got harder to take out, and fewer flats are being built.\n\nThe worst of it is what happened to the deposits. Since the relief law of 2023, 40,936 people have been recognised as victims of jeonse fraud, three in four of them under 40, most of them out sums under ₩300m.\n\nIf you rent here: move in, register your address, and get the contract date-stamped. That is what stands between your deposit and everyone else's claim on the building.",
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#jeonse",
+    "#전세",
+    "#livinginkorea",
+    "#seoul",
+    "#expatlife",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreanlife",
+    "#renting",
+    "#apartment",
+    "#realestate",
+    "#onlyinkorea",
+    "#lifeinkorea"
+  ],
+  "reply": "One thing that did not fit on the cards: the deposit is usually not the tenant's money either. Most people borrow it, so one jeonse contract ties a bank, a tenant and a landlord to the same flat — and when one of the three cannot pay, the tenant is the one in the auction queue.\n\nWhere you live, how much does a landlord ask for up front, and do you ever actually see it again?\n\n· · ·\n\n카드에 못 넣은 얘기 하나. 전세 보증금은 대개 세입자 돈이 아니다. 대부분 대출로 채우기 때문에, 전세 계약 하나에 은행·세입자·집주인이 같은 집에 묶인다. 셋 중 하나가 못 버티면 경매 배당 순서에 서는 건 세입자다. 8번 카드의 시시한 두 절차가 계약서 특약보다 중요한 이유가 그거다.\n\n여러분 나라에서는 집주인이 미리 얼마를 요구하나요? 그리고 그 돈, 나중에 실제로 돌려받나요?",
+  "fact_check": [
+    "'₩0 a month / 보증금 전액 반환' (1·2장·캡션): 전세의 기본 구조다. 월 차임 없이 보증금만 맡기고 계약 종료 시 전액 반환받는다. 보증부월세(반전세)는 둘이 섞인 형태라 '월세'로 분류되므로, 카드가 말하는 전세는 순수 전세다. 섞어 쓰면 틀린 문장이 된다.",
+    "'most of the price of the flat' (2장): 전세가율(매매가 대비 전세보증금 비율)은 지역·주택유형별 편차가 커서 전국 평균을 확인하지 못했다. 그래서 숫자를 쓰지 않고 'most of the price'로만 썼다. HUG 전세보증 기준이 전세가율 90%, 통상 80% 이상이면 깡통전세 위험으로 본다는 점이 근거다. 구체 수치를 넣으려면 한국부동산원 통계로 다시 확인할 것.",
+    "'interest below market rent' (4장·캡션): 전세자금대출 이자가 같은 집 월세보다 쌌던 것은 저금리 구간의 일반적 설명이고 상시 성립하는 항등식이 아니다. 카드는 'for years ran below'로 과거형·한정어를 붙였다. 현재형으로 바꾸면 틀린 문장이 된다.",
+    "'48.7% → 68.5% / 서울 약 70%' (5장·캡션): 전국 전월세 거래 중 월세 비중이 2022년 48.7%, 2024년 58.0%, 2026년 1~4월 누적 68.5%. 같은 기간 서울 70.0%. 보증부월세·반전세를 월세에 포함한 국토부 실거래 신고 기준이다. 모집단이 '거래 건수'이지 '가구 수'가 아니므로 '몇 퍼센트의 사람이 월세로 산다'로 바꿔 쓰면 안 된다.",
+    "'Seoul 40,000 / 22,000 apartments' (6장): 서울 아파트 착공 물량. 10년 평균 약 4만 호, 2023년 2만 7천, 2024년 2만 2천, 2025년 2만 7천 호. 카드는 10년 평균과 2024년만 인용했고 반등한 2025년 수치는 생략했다 — 추세를 단정하지 않으려면 '2024년'을 반드시 붙일 것.",
+    "'tighter jeonse loan rules / 비거주 주택 세부담' (6장): 전세대출 규제 강화와 다주택·비거주 주택 세부담 확대가 전세 물량 감소 요인으로 보도된 기준. 2026년 세제개편안에서 실거주 1주택자 종부세 기본공제는 12억→14억으로 올랐고 비거주 1주택자는 9억으로 내렸다. 카드에는 개별 세목을 쓰지 않았다.",
+    "'40,936 victims / three in four under 40' (7장·캡션): 2023년 6월 전세사기피해자법 시행 이후 2026년 8월까지 누적 인정 4만 936건. 40세 미만 76.0%, 임차보증금 3억 원 이하 97.6%, 수도권 60.7%. 주택유형은 다세대 28.5%, 오피스텔 20.9%, 다가구 18.7%, 아파트 13.3%. '인정 건수'이지 '피해 신고 건수'나 '피해 인원'이 아니다.",
+    "'under ₩300m' (캡션): 위 97.6%가 근거다. 캡션은 'most of them'으로 완화해 썼다.",
+    "'register the address / date-stamp' (8장): 주택 인도 + 전입신고로 대항력이 다음 날 0시부터 생기고, 여기에 계약서상 확정일자를 갖추면 우선변제권이 생긴다(주택임대차보호법 3조·3조의2). 카드는 'puts you ahead of other creditors'로 우선변제권만 설명했고 대항력·우선변제권을 구분해 쓰지 않았다.",
+    "'registered foreigners file a change-of-residence report' (8장): 등록외국인은 주민등록법상 전입신고 대신 출입국관서·체류지 관할 기관에 체류지 변경 신고를 하고 이것이 대항요건으로 인정된다. 확정일자는 내국인과 동일하게 받는다. 개별 사안에서 인정 범위가 다툼이 될 수 있어 카드는 절차만 쓰고 법적 효과를 단정하지 않았다.",
+    "'the president called the squeeze a process of normalisation' (9장): 2026년 6월 8일 취임 1주년 기자회견에서 이재명 대통령이 전세난을 두고 '정상화되는 과정'이라고 언급한 것. 카드는 이름을 쓰지 않고 발언 내용만 인용했으며, 전세 제도 자체를 '비정상'이라고 했다는 직접 인용은 확인되지 않아 쓰지 않았다. 평가는 붙이지 않는다.",
+    "'almost nowhere else runs housing this way' (캡션): 유사 제도가 볼리비아 anticrético, 인도 일부 지역 등에 존재한다는 지적이 있어 'only country'로 단정하지 않고 'almost nowhere else'로 썼다. '한국에만 있다'로 바꾸면 틀린 문장이 된다."
+  ]
+}
