@@ -51,6 +51,36 @@ Push first. `post.py` refuses to run if a slide is not yet reachable at its
 public URL — that check exists because Meta's error for an unreachable image
 is unhelpful.
 
+## One command for a whole day
+
+`run_day.ps1` does the remaining work for a day whose content file and ten
+photos are already in the repo: pull, render the slides into `img/<date>` and
+the desktop day folder, write the brief, commit and push, wait until GitHub
+Pages actually serves the first slide, then publish.
+
+```powershell
+powershell -ExecutionPolicy Bypass -File run_day.ps1                    # today
+powershell -ExecutionPolicy Bypass -File run_day.ps1 -Date 2026-09-15
+powershell -ExecutionPolicy Bypass -File run_day.ps1 -RenderOnly        # stop before posting
+powershell -ExecutionPolicy Bypass -File run_day.ps1 -Yes               # no confirmation
+```
+
+It asks before it posts. That question is the manual step this repo keeps on
+purpose, not an accident; `-Yes` skips it.
+
+The wait before publishing is not padding. `post.py` HEADs every slide URL and
+refuses to run if one is not public yet, and Pages takes about a minute to
+deploy after a push.
+
+If the script itself breaks, the three commands it wraps still work by hand:
+
+```powershell
+python make_cards.py content/2026-09-15.json img/2026-09-15 "$env:USERPROFILE\Desktop\2026-09-15_화요일\slides"
+python make_brief.py content/2026-09-15.json "$env:USERPROFILE\Desktop\2026-09-15_화요일"
+git add img/2026-09-15 && git commit -m "Render the 2026-09-15 slides" && git push
+python publish_today.py 2026-09-15
+```
+
 Publishing runs on a system-user token that does not expire, so the old
 60-day refresh is gone. `publish_today.py` takes no arguments and publishes the
 day's carousel if it is ready, so a post goes out when it is run and not before:
@@ -144,9 +174,16 @@ It accepts several output directories so the repo copy and the desktop working
 copy are written in one pass. `make_brief.py` writes the human-facing README
 for a day folder: caption to copy, hashtags, fact-check flags, slide text.
 
-Korean text renders through Malgun Gothic and English through Arial Black,
-chosen per line, so a Hangul word inside an English headline does not drag the
-whole line into a different typeface.
+Headlines are set in Anton, Korean text in Pretendard, chosen per line so a
+Hangul word inside an English headline does not drag the whole line into a
+different typeface. Both are bundled in `fonts/`.
+
+**Rendering only works on Windows.** The wordmark and the slide counter are set
+in `seguisb.ttf` -- Segoe UI Semibold -- which is not in `fonts/` and is not
+Microsoft's to redistribute. Pillow finds it in the system font folder on
+Windows and fails with `OSError: cannot open resource` anywhere else. Everything
+before rendering (writing the content JSON, generating the photos) runs
+anywhere; the slides themselves come off the Windows machine.
 
 ## Generating the photos
 
@@ -216,7 +253,7 @@ and a status poll while the video is processed.
 | 2026-09-11 (금) | Hangang ramyeon, the ₩4,000 dinner everyone overpays for | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published and its first comment went up on a retry, Facebook's first comment did not go up |
 | 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
-| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 사진 10장 생성 완료, 카드 미렌더 |
+| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 원고·사진 10장 완료, 렌더·발행은 `run_day.ps1 -Date 2026-09-15` |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
