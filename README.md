@@ -155,8 +155,14 @@ day's `PROMPTS.md`, saved into `assets/<date>/` under the filenames the renderer
 expects. Two rules on regenerating, because a regeneration costs a full image
 call and usually buys nothing:
 
+- **Resize the download to 1024x1024 before saving it.** "원본 크기 다운로드" returns
+  2048x2048, and the watermark trim below only runs on a 1024x1024 image, so a 2048
+  file carries the ✦ straight onto the card. `sips -z 1024 1024 <download> --out
+  assets/<date>/<name>.png` does it; the mark scales down with the picture and the
+  trim still lands on it.
+
 - **Never regenerate to fix the aspect ratio.** Gemini's chat view crops results
-  to a wide preview, but the downloaded file is 1024x1024 square. A "make it 1:1"
+  to a wide preview, but the file it hands over is square. A "make it 1:1"
   follow-up returns the same picture again.
 - **Never regenerate to fix the Gemini watermark.** `make_cards.py` trims 12% off
   the right and bottom edges, which takes the ✦ mark with it.
@@ -210,7 +216,7 @@ and a status poll while the video is processed.
 | 2026-09-11 (금) | Hangang ramyeon, the ₩4,000 dinner everyone overpays for | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published and its first comment went up on a retry, Facebook's first comment did not go up |
 | 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
-| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 원고·프롬프트 작성 완료, 사진 미생성 |
+| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 사진 10장 생성 완료, 카드 미렌더 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
