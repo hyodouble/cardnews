@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-15",
+  "weekday": "화요일",
+  "topic": "korean age",
+  "title": "The Country Where You Had Three Ages at Once",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NOBODY HERE AGED ON THEIR BIRTHDAY.",
+      "headline": "You were **one year old** the day you were born.",
+      "note": "And on the next New Year's Day you turned two — even if you were born in December. Korea counted age this way for centuries and only stopped in 2023."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **se-neun nai**",
+      "body": "세는 나이, the counting age. You start at one, and then the whole country adds a year together on January 1. Not on your birthday. Your birthday was for the seaweed soup, never for the number."
+    },
+    {
+      "type": "content",
+      "headline": "There was a **second** one",
+      "body": "연 나이, the year age: this year minus the year you were born. No months, no birthday, just subtraction. The law reached for it whenever a rule had to land on a whole class of people at once."
+    },
+    {
+      "type": "content",
+      "headline": "And the one **everyone else** uses",
+      "body": "만 나이, the full age, counted from your birthday like anywhere in the world. It had been the standard in civil law for decades. Almost nobody used it to answer the question out loud."
+    },
+    {
+      "type": "stat",
+      "stat": "2 days",
+      "headline": "old, and already **two years old**",
+      "body": "A baby born on 31 December is one on the day of birth and two the next morning, because January 1 adds a year to everybody. Two days lived, two years counted. This is the case that ended the argument."
+    },
+    {
+      "type": "content",
+      "headline": "In 2023 the country **picked one**",
+      "body": "Since 28 June 2023, contracts, medical records and every official document run on 만 나이 unless a law says otherwise. The morning it took effect, the whole country was a year or two younger on paper."
+    },
+    {
+      "type": "content",
+      "headline": "Except the **year age stayed**",
+      "body": "Military service still runs on 연 나이 — you are called in the year you turn nineteen, whatever month you were born in. So does the drinking line: legal from January 1 of that year, not from your birthday."
+    },
+    {
+      "type": "content",
+      "headline": "So the question **still gets asked**",
+      "body": "Age decides the verb ending you use and what you are allowed to call someone, so 몇 살이세요 arrives in the first minutes of meeting. The law changed which number is official. It did not touch why the number is wanted."
+    },
+    {
+      "type": "content",
+      "headline": "What it was **really for**",
+      "body": "When everyone ages on the same day, seniority is settled the moment two people say a year out loud — no birth dates to line up, no pause. That is the part Korea kept. Ask now and plenty of people still answer with two numbers."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea you could be three different ages on the same afternoon, and until 2023 all three were in use at once.\n\nThe everyday one is 세는 나이, the counting age. You are one year old the day you are born, and everyone in the country adds a year together on January 1 — not on their birthday. Then there is 연 나이, the year age: this year minus your birth year, used by laws that have to apply to a whole class of people at once. And 만 나이, the full age counted from your birthday, the one the rest of the world runs on.\n\nThe counting age produced a case nobody could defend. A baby born on 31 December is one at birth and two the next morning. Two days lived, two years on the count.\n\nOn 28 June 2023 Korea made 만 나이 the default for contracts, medical records and official documents, and the country woke up a year or two younger on paper. But the year age was left in place where it was doing real work: conscription still calls you in the year you turn nineteen, and you can drink from January 1 of that year rather than from your birthday.\n\nWhat the law could not reach is why the number is asked in the first place. Age sets the verb endings and what you may call someone, so 몇 살이세요 still turns up in the first minutes of meeting a stranger. Plenty of people answer it with two numbers.",
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#koreanage",
+    "#한국나이",
+    "#만나이",
+    "#livinginkorea",
+    "#seoul",
+    "#expatlife",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreanlife",
+    "#onlyinkorea",
+    "#lifeinkorea",
+    "#koreanlanguage",
+    "#kculture"
+  ],
+  "reply": "One thing that did not fit on the cards: for a long stretch, children born in January or February were put into school a year early, so two people born in the same year could end up a grade apart. Korean has no comfortable way to address someone half a step above you, and those people are still introducing themselves by their school year rather than their birth year, decades later. The counting age was never really about the number.\n\nWhere you live, does anyone ask your age before they ask your name?\n\n· · ·\n\n카드에 못 넣은 얘기 하나. 한참 동안 1–2월생은 한 해 먼저 학교에 들어갔다. 같은 해에 태어나고도 학년이 갈리는 사람들이 생겼고, 한국어에는 반발짝 위 사람을 부를 말이 없다. 그래서 그 세대는 지금도 자기를 태어난 해가 아니라 학번으로 소개한다. 세는 나이는 애초에 숫자 얘기가 아니었다는 뜻이다.\n\n여러분 나라에선 이름보다 나이를 먼저 묻는 자리가 있나요?",
+  "fact_check": [
+    "'태어나면 1살, 1월 1일에 모두 +1' (1·2장·캡션): 세는 나이의 정의 그대로다. 법적 근거가 있던 계산법이 아니라 관습이었다는 점을 카드는 따로 쓰지 않았다. '법이었다'로 바꾸면 틀린 문장이 된다.",
+    "'the months in the womb count' — 삭제함. 세는 나이가 태아 기간을 세는 데서 왔다는 설명은 널리 쓰이지만 정설로 확정된 것이 아니다(동아시아 공통 연령법에서 온 것이라는 설명과 경합한다). 근거 없이 기원을 단정하지 않기 위해 카드에서 뺐다.",
+    "'연 나이 = 올해 − 출생연도' (3장·캡션): 맞다. 병역법·청소년보호법 등이 쓰는 기준이다. 카드는 개별 법 조문을 인용하지 않고 용도만 설명했다.",
+    "'만 나이는 이미 민법상 기준이었다' (4장): 맞다. 민법 제158조는 원래도 출생일을 산입하는 만 나이였고, 2022년 개정은 '나이는 만 나이로 계산하고 년수로 표시한다'를 명시한 것이다. 그래서 카드는 '새로 만들었다'가 아니라 '이미 기준이었다'로 썼다.",
+    "'12월 31일생이 이틀 만에 2살' (5장·캡션): 세는 나이 계산상 자명하게 나오는 결과다. 통계가 아니라 산술이므로 출처가 필요 없다. 다만 '법 개정의 결정적 계기였다'로 쓰면 과장이라 카드는 'ended the argument' 정도로만 썼다.",
+    "'2023년 6월 28일 시행' (6장·캡션): 만 나이 통일을 담은 행정기본법·민법 개정안의 시행일이다. '세는 나이를 금지했다'가 아니라 '행정·민사상 기준을 만 나이로 통일했다'이다. 일상어에서 세는 나이를 쓰는 것은 지금도 위법이 아니다.",
+    "'병역은 연 나이 19세' (7장·캡션): 병역법은 병역판정검사 대상을 연 나이로 정한다. 카드는 '입대 시기'가 아니라 '부르는 해'로 썼다 — 실제 입영은 본인 선택과 연기가 가능하므로 '19살에 입대한다'로 바꾸면 틀린다.",
+    "'술은 그해 1월 1일부터' (7장·캡션): 청소년보호법은 청소년을 '만 19세 미만인 사람. 다만 만 19세가 되는 해의 1월 1일을 맞이한 사람은 제외'로 정의한다. 즉 연 나이 19세가 되는 해의 1월 1일부터 구매가 가능하다. 이 문장은 예외 조항이 핵심이므로 '만 19세부터'로 줄이면 틀린다.",
+    "'나이가 어미와 호칭을 결정한다' (8·9장·캡션): 언어·관습 설명이지 통계가 아니다. 2026-08-30 호칭 편과 앵글이 겹치므로 카드는 형·누나·오빠·언니를 나열하지 않고 '나이가 먼저 정해져야 말을 골라 쓸 수 있다'로만 쓴다.",
+    "'여전히 두 개를 대답한다' (9장·캡션): 2023년 이후 일상 사용 비율을 집계한 통계는 확인하지 못했다. 그래서 수치 없이 'plenty of people'로만 썼다. 퍼센트를 붙이려면 법제처·여론조사 원문으로 다시 확인할 것.",
+    "'빠른년생' (reply): 1·2월생의 조기 입학은 실제로 있었던 제도다. 다만 폐지 시점(초·중등교육법 시행령 개정 연도)을 확인하지 못해 reply에서 연도를 쓰지 않고 'for a long stretch / 한참 동안'으로만 썼다. 연도를 넣으려면 법령 개정 이력을 먼저 확인할 것.",
+    "제목의 과거형('had three ages'): 2023년 이후 법적으로는 만 나이 하나로 정리됐으므로 현재형으로 쓰면 정확하지 않다. 다만 연 나이가 남아 있어 '완전히 사라졌다'도 틀리므로 7장이 그 단서를 반드시 단다."
+  ]
+}
