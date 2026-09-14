@@ -60,7 +60,7 @@ Pages actually serves the first slide, then publish.
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File run_day.ps1                    # today
-powershell -ExecutionPolicy Bypass -File run_day.ps1 -Date 2026-09-15
+powershell -ExecutionPolicy Bypass -File run_day.ps1 -Date 2026-09-14
 powershell -ExecutionPolicy Bypass -File run_day.ps1 -RenderOnly        # stop before posting
 powershell -ExecutionPolicy Bypass -File run_day.ps1 -Yes               # no confirmation
 ```
@@ -75,10 +75,10 @@ deploy after a push.
 If the script itself breaks, the three commands it wraps still work by hand:
 
 ```powershell
-python make_cards.py content/2026-09-15.json img/2026-09-15 "$env:USERPROFILE\Desktop\2026-09-15_화요일\slides"
-python make_brief.py content/2026-09-15.json "$env:USERPROFILE\Desktop\2026-09-15_화요일"
-git add img/2026-09-15 && git commit -m "Render the 2026-09-15 slides" && git push
-python publish_today.py 2026-09-15
+python make_cards.py content/2026-09-14.json img/2026-09-14 "$env:USERPROFILE\Desktop\2026-09-14_월요일\slides"
+python make_brief.py content/2026-09-14.json "$env:USERPROFILE\Desktop\2026-09-14_월요일"
+git add img/2026-09-14 && git commit -m "Render the 2026-09-14 slides" && git push
+python publish_today.py 2026-09-14
 ```
 
 Publishing runs on a system-user token that does not expire, so the old
@@ -257,7 +257,7 @@ and a status poll while the video is processed.
 | 2026-09-11 (금) | Hangang ramyeon, the ₩4,000 dinner everyone overpays for | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published and its first comment went up on a retry, Facebook's first comment did not go up |
 | 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
-| 2026-09-15 (화) | Jeonse, the lease with no rent and a deposit the size of the flat | 카드 10장 렌더 완료, 발행은 `run_day.ps1 -Date 2026-09-15` |
+| 2026-09-14 (월) | Jeonse, the lease with no rent and a deposit the size of the flat | 카드 10장 렌더 완료, 발행은 `run_day.ps1 -Date 2026-09-14` |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.

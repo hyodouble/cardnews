@@ -2,7 +2,7 @@
 Render, push and publish one day's carousel in a single run.
 
     powershell -ExecutionPolicy Bypass -File run_day.ps1
-    powershell -ExecutionPolicy Bypass -File run_day.ps1 -Date 2026-09-15
+    powershell -ExecutionPolicy Bypass -File run_day.ps1 -Date 2026-09-14
     powershell -ExecutionPolicy Bypass -File run_day.ps1 -Yes          # no confirmation
     powershell -ExecutionPolicy Bypass -File run_day.ps1 -RenderOnly   # stop before posting
 
