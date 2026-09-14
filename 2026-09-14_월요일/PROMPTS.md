@@ -1,6 +1,6 @@
-# Gemini 이미지 프롬프트 — 2026-09-15 (전세)
+# Gemini 이미지 프롬프트 — 2026-09-14 (전세)
 
-10장 전부 생성 완료. `assets/2026-09-15/`에 아래 파일명으로 들어 있다.
+10장 전부 생성 완료. `assets/2026-09-14/`에 아래 파일명으로 들어 있다.
 
 `hook.png` `content2.png` `content3.png` `content4.png` `stat.png` `content6.png`
 `content7.png` `content8.png` `content9.png` `cta.png`
@@ -48,7 +48,7 @@ Gemini의 '원본 크기 다운로드'는 **2048x2048**을 준다. `make_cards.p
 `img.size == (1024, 1024)`일 때만 동작하므로, 2048 그대로 넣으면 **✦ 워터마크가 카드에 그대로 남는다.**
 
 ```bash
-sips -z 1024 1024 ~/Downloads/Gemini_Generated_Image_*.png --out assets/2026-09-15/hook.png
+sips -z 1024 1024 ~/Downloads/Gemini_Generated_Image_*.png --out assets/2026-09-14/hook.png
 ```
 
 2048에서 1024로 줄이면 워터마크 위치가 비율 그대로 따라 내려가므로 12% 트림이 정확히 먹는다.
