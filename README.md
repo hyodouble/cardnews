@@ -257,7 +257,7 @@ and a status poll while the video is processed.
 | 2026-09-11 (금) | Hangang ramyeon, the ₩4,000 dinner everyone overpays for | published via API to Instagram, Facebook and Threads; Instagram answered 403 but published and its first comment went up on a retry, Facebook's first comment did not go up |
 | 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
-| 2026-09-14 (월) | Jeonse, the lease with no rent and a deposit the size of the flat | 카드 10장 렌더 완료, 발행은 `run_day.ps1 -Date 2026-09-14` |
+| 2026-09-14 (월) | Jeonse, the lease with no rent and a deposit the size of the flat | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
