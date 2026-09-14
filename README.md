@@ -258,6 +258,7 @@ and a status poll while the video is processed.
 | 2026-09-12 (토) | Insaeng nekeot, the photo booth that ends the night | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-14 (월) | Jeonse, the lease with no rent and a deposit the size of the flat | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
+| 2026-09-15 (화) | Korean age, the country where you had three ages at once | 대본·프롬프트 완료, Gemini 사진 10장 대기 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
