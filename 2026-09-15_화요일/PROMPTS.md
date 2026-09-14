@@ -1,6 +1,6 @@
 # Gemini 이미지 프롬프트 — 2026-09-15 (한국 나이)
 
-아직 생성 전이다. 아래 열 장을 뽑아 `assets/2026-09-15/`에 이 파일명으로 넣는다.
+10장 전부 생성 완료. `assets/2026-09-15/`에 아래 파일명으로 들어 있다.
 
 `hook.png` `content2.png` `content3.png` `content4.png` `stat.png` `content6.png`
 `content7.png` `content8.png` `content9.png` `cta.png`
@@ -40,11 +40,22 @@ No text, no signage lettering, no Hangul, no letters, no numbers, no logos, no w
 Gemini의 '원본 크기 다운로드'는 **2048x2048**을 준다. `make_cards.py`의 워터마크 트림은
 `img.size == (1024, 1024)`일 때만 동작하므로, 2048 그대로 넣으면 **✦ 워터마크가 카드에 그대로 남는다.**
 
+`sips` 는 macOS 전용이라 이 컴퓨터(Windows)에서는 PIL 로 줄인다. 같은 결과다.
+
 ```bash
-sips -z 1024 1024 ~/Downloads/Gemini_Generated_Image_*.png --out assets/2026-09-15/hook.png
+python -c "from PIL import Image; Image.open(r'C:/Users/기획운영실/Downloads/Gemini_Generated_Image_xxxx.png').convert('RGB').resize((1024,1024), Image.LANCZOS).save('assets/2026-09-15/hook.png')"
 ```
 
-## 이 편에서 그림이 깨지는 지점 다섯
+다운로드가 파일로 떨어지기까지 클릭 후 8~15초가 걸린다. 그 전에 `~/Downloads` 를
+훑으면 **직전 편의 남은 파일을 집어간다** — 실제로 한 번 그렇게 엉뚱한 사진이
+`content2.png` 로 저장됐다. 최근 3분 안에 생성된 파일만 고르도록 막아 두고 쓸 것.
+
+## 이 편에서 그림이 깨지는 지점 여섯
+
+- **사람을 넣으면 얼굴이 따라온다.** 공통 블록의 `people appear only from behind` 는 인물이
+  주인공인 컷에서 자주 진다. 식탁처럼 여러 명이 둘러앉는 장면은 특히 그렇다. 사람이 꼭
+  필요하지 않은 컷은 **탑다운이나 손만 나오는 구도로 바꾸는 편이 재생성보다 싸다**
+  (`content2`, `content8`, `content9` 가 그렇게 처리됐다).
 
 - **숫자를 그리고 싶어진다.** 나이가 주제라 달력, 벽시계, 번호표, 신분증, 생일 초가 전부
   자연스러운 소재로 보인다. 그런데 공통 블록이 `no numbers`를 걸고 있고, 숫자가 살아나면
@@ -79,14 +90,21 @@ its lid set aside, a pair of stainless chopsticks and a spoon resting on the tab
 nobody at the table. Warm morning light from one side, the rest of the table bare and quiet.
 ```
 
-## content2.png — 새해 아침 떡국 밥상 (실내 블록)
+## content2.png — 새해 아침 떡국 밥상 (실내 블록, 탑다운)
+
+첫 판은 "뒤에서 본 가족 밥상"으로 썼다가 버렸다. 아이 셋과 어른 하나의 **얼굴이 그대로**
+나왔고, 창밖은 잔디 마당에 박공지붕 얹은 미국 교외 주택이었다. 사람을 프레임에 넣으면
+`people appear only from behind` 만으로는 얼굴을 못 막는다. **탑다운으로 바꿔 얼굴이
+들어올 자리를 아예 없앴고**, 창도 금지했다.
 
 ```
-A family table on New Year's morning seen from slightly above and behind one seated person cropped at the
-shoulders: four or five bowls of tteokguk, a clear broth with thin oval slices of white rice cake, strips of
-yellow egg and dark dried seaweed on top, set around the table with small side dishes in shallow white plates
-between them. Stainless chopsticks and spoons laid beside every bowl. Everyone else is out of frame or
-blurred. Pale winter daylight from a window.
+Top-down overhead view shot straight down onto a Korean family table on New Year's morning: four bowls of
+tteokguk, a clear pale broth with thin oval slices of white rice cake, strips of yellow egg garnish and dark
+dried seaweed on top, arranged around the table, with small shallow white dishes of kimchi and seasoned
+vegetable side dishes between them. Stainless steel chopsticks and long-handled stainless spoons laid on the
+table beside each bowl. Two pairs of hands enter from the edges of the frame, cropped at the wrists. No faces
+anywhere in the frame, no heads, no bodies, no window and no view outside. Plain pale wooden tabletop, soft
+winter daylight from one side, the lower third of the tabletop bare.
 ```
 
 ## content3.png — 등굣길 교복 줄 (실외 블록)
