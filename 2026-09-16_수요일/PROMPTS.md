@@ -26,13 +26,23 @@ sit over it. People appear only from behind, cropped at the shoulders, or blurre
 lettering, no Hangul, no letters, no numbers, no logos, no watermarks, no recognizable faces.
 ```
 
-**실내용** — 나머지 여덟 컷
+**실내용** — `hook`, `content3`, `content4`, `content6`, `content7`
 
 ```
 Photorealistic documentary photograph, square 1:1 framing, shot indoors in Korea. Slight film grain, shallow
 depth of field. The subject sits in the upper two-thirds of the frame; the bottom third is calm and
 uncluttered so text can sit over it. People appear only from behind, cropped at the shoulders, or blurred.
 No text, no signage lettering, no Hangul, no letters, no numbers, no logos, no watermarks, no recognizable faces.
+```
+
+**무인용** — `content2`, `stat`, `content8`. 실내 블록의 `People appear only from behind` 는
+**사람을 넣으라는 지시로 읽힌다.** 무인 탑다운 컷에 실내 블록을 쓰면 배경에 손님이 깔린다
+(아래 함정 참고). 그래서 이 세 컷은 블록 자체를 바꾼다.
+
+```
+Photorealistic documentary photograph, square 1:1 framing, shot indoors in Korea. Slight film grain. No people
+anywhere in the frame, no hands, no faces, no bodies, no chairs, no room, no background, no window. No text,
+no signage lettering, no Hangul, no letters, no numbers, no logos, no watermarks.
 ```
 
 ## 다운로드는 1024로 줄여서 저장한다
@@ -56,7 +66,15 @@ sips -z 1024 1024 ~/Downloads/Gemini_Generated_Image_xxxx.png --out assets/2026-
 훑으면 **직전 편의 남은 파일을 집어간다** — 실제로 한 번 그렇게 엉뚱한 사진이
 `content2.png` 로 저장됐다. 최근 3분 안에 생성된 파일만 고르도록 막아 두고 쓸 것.
 
-## 이 편에서 그림이 깨지는 지점 여섯
+## 이 편에서 그림이 깨지는 지점 일곱
+
+- **실내 공통블록이 무인 컷을 이긴다.** 실제로 `content2`를 실내 블록으로 돌렸더니 탑다운이
+  눈높이로 바뀌고 배경에 카페 손님이 가득 찼다. 블록의 `People appear only from behind,
+  cropped at the shoulders, or blurred` 를 모델이 **사람을 넣으라는 지시로 읽는다.** 무인 컷은
+  위의 무인 블록을 쓰고, 장면 지시문 첫 문장을 카메라 위치(`camera mounted directly above ...
+  at 90 degrees`)로 시작해 `no room, no background, no window` 까지 박아야 한 번에 나온다.
+  `content8`처럼 손 하나만 필요한 컷은 무인 블록을 쓰되 첫 줄에 `Correction: one single hand IS
+  allowed` 로 예외를 명시한다.
 
 - **주제가 글자라서 모델이 글자를 그리고 싶어한다.** 이 편의 소재는 네 글자다. 공고문, 폰 화면,
   명함, 이름표가 장면마다 나오는데 전부 글자가 들어갈 자리다. 공통 블록의 `no letters` 하나로는
@@ -107,11 +125,12 @@ ruled lines, no handwriting, nothing at all. Cool daylight, the lower third of t
 탑다운으로 잡는다.
 
 ```
-Top-down overhead view shot straight down onto a small cafe table in Korea: two smartphones lying face down
-side by side, two tall clear plastic cups with domed lids and straws, filled to the top with ice and dark
-iced americano, condensation running down them, and a folded paper napkin between them. Pale wood tabletop.
-No hands, no people, no faces anywhere in the frame. Soft daylight from one side, the lower third of the
-tabletop bare and uncluttered. No printing on the napkin, no logos on the cups, no lettering anywhere.
+Top-down overhead flat-lay: the camera is mounted directly above the table pointing straight down at 90
+degrees, and the pale wood tabletop fills the entire frame edge to edge so nothing else is visible. Lying on the
+tabletop: two smartphones face down side by side, two tall clear plastic cups with domed lids and straws filled
+to the top with ice and dark iced americano with condensation running down them, and one folded paper napkin
+between them. Soft even daylight from one side. The lower third of the tabletop is bare and uncluttered. No
+printing on the napkin, no logos on the cups, no lettering anywhere.
 ```
 
 ## content3.png — 소개팅 앱을 보는 손 (실내 블록)
@@ -141,11 +160,11 @@ third bare. No printing on the folders.
 봉투는 균일하게 깔고 개수를 강조하지 않는다.
 
 ```
-Top-down overhead view shot straight down onto a desk covered edge to edge with plain manila document
-envelopes laid out in overlapping rows, all the same size and all completely blank with no printing, labels,
-stamps or handwriting of any kind. A few sit slightly askew from the rest. Plain dark desk surface visible at
-the edges. Cool office light from above, no hands, no people, nothing else in the shot. The lower third is
-quieter, with fewer envelopes and more bare desk.
+Top-down overhead flat-lay: the camera is mounted directly above a desk pointing straight down at 90 degrees,
+and the desk surface fills the entire frame edge to edge so nothing else is visible. Covering the desk edge to
+edge, plain manila document envelopes laid out in overlapping rows, all the same size and all completely blank
+with no printing, labels, stamps or handwriting of any kind. A few sit slightly askew from the rest. Cool even
+light from above. The lower third has fewer envelopes and more bare dark desk surface.
 ```
 
 ## content6.png — 양손으로 주고받는 명함 (실내 블록)
@@ -176,11 +195,12 @@ window light going flat and grey. Both people's bodies and faces entirely out of
 "다른 나라에선 사적인 정보"를 망설임으로 그린다.
 
 ```
-A close overhead view of a single hand cropped at the wrist holding a ballpoint pen stopped just above a
-sheet of completely blank white paper on a desk, the pen tip not touching the page, held still. The paper has
-no printing, no ruled lines, no boxes and no handwriting. A plain document folder lies closed beside it.
-Plain pale desk surface, cool even light from above, the lower third of the desk bare. No other objects, no
-face, no body, nothing else in the frame.
+Correction: one single hand IS allowed in this shot and nothing else of the person. Top-down overhead close
+view, camera pointing straight down at a desk: one hand cropped cleanly at the wrist holds a ballpoint pen
+stopped just above a sheet of completely blank white paper, the pen tip not touching the page, held still. The
+paper has no printing, no ruled lines, no boxes and no handwriting. A plain closed document folder lies beside
+it. Plain pale desk surface fills the frame, cool even light from above, the lower third of the desk bare. No
+arm beyond the wrist, no body, no face, nothing else in the frame.
 ```
 
 ## content9.png — 골목에서 나누는 첫 인사 (실외 블록)
