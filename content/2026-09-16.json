@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-16",
+  "weekday": "수요일",
+  "topic": "mbti",
+  "title": "Why a Korean Asks Your MBTI Before Your Name",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "FOUR LETTERS, PRINTED IN A JOB AD.",
+      "headline": "**INFP, INTP and INTJ** need not apply.",
+      "note": "A Seoul cafe wrote that into a real hiring post. The letters are personality-test results, and in Korea they turn up in places a personality test has no business being."
+    },
+    {
+      "type": "content",
+      "headline": "Everyone here **knows their four letters**",
+      "body": "MBTI (엠비티아이) is a questionnaire that sorts you into one of sixteen types. Koreans do not treat the result as a curiosity. They treat it as a field on a form."
+    },
+    {
+      "type": "content",
+      "headline": "It is a **dating app field**",
+      "body": "Profiles carry it next to height and job. One Korean app, ENFPY, makes you sit the test before it will match you at all, then scores each pair for compatibility."
+    },
+    {
+      "type": "content",
+      "headline": "Then it reached **hiring**",
+      "body": "In 2022 applicants started finding it in real recruitment. A bank asked candidates to write up the strengths and weaknesses of their own type. Other postings just said they would prefer an E."
+    },
+    {
+      "type": "stat",
+      "stat": "3.1%",
+      "headline": "of surveyed employers **actually used it**",
+      "body": "The labour ministry asked 752 large and mid-sized firms in 2022. Twenty-three used MBTI in hiring at all. The practice is rare. The anxiety about it is not."
+    },
+    {
+      "type": "content",
+      "headline": "Why it **stuck here**",
+      "body": "Korean introductions already run on fixed boxes — age, school year, hometown, rank. MBTI arrived as one more box. The difference is that this one you fill in yourself."
+    },
+    {
+      "type": "content",
+      "headline": "It turned into **vocabulary**",
+      "body": "너 T야? — 'are you a T?' — is now how people tell you that you answered something too coldly. The test became a way of speaking, and the speech outlived any interest in the test."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere this stays **private**",
+      "body": "In most countries a personality result is not something you would hand an employer, and being asked would read as intrusive. Here it sits on a public profile, volunteered, often before your name comes up."
+    },
+    {
+      "type": "content",
+      "headline": "So it is not really **a test**",
+      "body": "Korea did not take up MBTI as psychology. It took it up as an introduction — a fast, self-chosen way to tell a stranger how to handle you. That is why the objections never stopped it."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea your MBTI personality type is small talk, a dating app field, and for a stretch in 2022, something a job ad could ask you for. Sixteen four-letter types, and almost everyone here knows theirs without having to check.\n\nThe hiring stories are the ones that travelled. Applicants found MBTI questions inside real recruitment — a bank asking candidates to write up the strengths and weaknesses of their own type, other postings saying plainly that they would prefer an E. One Seoul cafe ruled out INFP, INTP and INTJ in the ad itself.\n\nThen the labour ministry actually counted. It surveyed 752 large and mid-sized companies in 2022 and found 23 of them — 3.1% — using MBTI in hiring at all. Rare as a practice. Everywhere as a language.\n\nThat gap is the whole story. Korean introductions already run on fixed boxes: age, school year, hometown, rank. MBTI arrived as one more box, except this is the first one you get to fill in yourself. It became vocabulary — 너 T야?, 'are you a T?', is how people now tell you that you answered something too coldly.\n\nKorea did not adopt MBTI as psychology. It adopted it as an introduction.",
+  "hashtags": ["#korea", "#koreanculture", "#mbti", "#mbtikorea", "#엠비티아이", "#livinginkorea", "#seoul", "#expatlife", "#cultureshock", "#explainkorea", "#koreanlife", "#onlyinkorea", "#lifeinkorea", "#koreandating", "#kculture"],
+  "reply": "One thing that did not fit on the cards: the company that publishes the MBTI says flatly that using it for hiring is unethical. The instrument was built for development and team-building, never validated to predict job performance, and the publisher has said so for years. Korean recruiters found it anyway — which tells you the appeal was never the psychometrics.\n\nWhere you live, would a personality type on a job application read as normal, or as a reason to close the tab?\n\n· · ·\n\n카드에 못 넣은 얘기 하나. MBTI를 만들어 파는 회사부터가 채용에 쓰는 건 비윤리적이라고 못 박는다. 원래 개발·팀빌딩용으로 만든 검사고 업무 성과를 예측하도록 검증된 적이 없다는 것이다. 그런데도 채용 시장에 들어왔다는 건, 애초에 끌린 지점이 검사의 정확도가 아니었다는 뜻이다.\n\n여러분 나라에선 지원서에 성격유형을 적으라고 하면 그게 평범한 질문인가요, 창을 닫을 이유인가요?",
+  "fact_check": [
+    "'INFP, INTP, INTJ 지원 불가' (1장·캡션): 2022년 2월 머니투데이·여성신문·인사이트가 보도한 서울 시내 카페 채용공고다. 단일 사업장 사례이므로 카드는 'a Seoul cafe'로 한정했고, 업종·상호는 확인되지 않아 쓰지 않았다. '기업들이 INFP를 거른다'로 일반화하면 틀린다.",
+    "'3.1% / 752곳 중 23곳' (5장·캡션): 고용노동부가 2022년 3월 21일~5월 2일 매출 500대 기업 252곳과 중견기업 500곳, 합계 752곳의 채용담당자를 상대로 한 '청년 채용 이슈 조사' 결과다. 모집단이 대기업·중견기업이므로 카드는 'surveyed employers'로 썼다. '한국 기업의 3.1%'로 바꾸면 중소기업·자영업이 빠진 표본을 전체로 말하는 셈이 되어 틀린다.",
+    "'은행이 MBTI 장단점 서술을 요구했다' (4장·캡션): 2022년 2월 한국일보·파이낸셜뉴스 보도 기준 Sh수협은행 신입행원 공채 문항이다. 아워홈·LS전선도 MBTI를 요구한 사례로 함께 보도됐다. 카드는 상호를 쓰지 않고 'a bank'로만 썼다 — 개별 기업 지목은 이 계정의 앵글이 아니고, 4년 지난 공고라 현재도 그렇다는 뜻으로 읽히면 안 되기 때문이다. 그래서 캡션과 4장 모두 연도를 붙였다.",
+    "'E를 선호한다고 쓴 공고' (4장·캡션): 'MBTI E이신 분들 많은 지원 부탁드립니다' 류의 문구가 채용 포털에 올라온 것이 2022년 보도로 확인된다. 빈도 통계는 없으므로 카드는 'other postings'로만 쓰고 수를 말하지 않았다.",
+    "'엔프피(ENFPY)는 가입 시 MBTI 검사가 필수' (3장): 큐피스트가 2022년 11월 출시한 데이팅 앱이다. 가입 시 앱 내 검사를 마쳐야 매칭되고 궁합표를 제공한다는 것이 출시 보도 기준이다. 2026년 현재도 동일하게 운영되는지는 확인하지 못했다 — 서비스가 바뀌었을 수 있으므로 발행 전 앱스토어 설명을 한 번 확인할 것.",
+    "'소개팅 앱 프로필에 MBTI 칸이 있다' (3장·캡션): 미리소개팅·케밋 등 복수 앱에서 확인된다. 다만 '모든 소개팅 앱'은 아니므로 카드는 'Profiles carry it'으로만 썼다.",
+    "'너 T야?' (7장·캡션): 2023년 이후 널리 쓰인 관용 표현이다. 통계가 아니라 언어 현상이므로 출처가 필요 없다. 다만 유행어라 수명이 짧을 수 있어 카드는 '지금도 모두가 쓴다'가 아니라 'is now how people tell you'로만 썼다.",
+    "'MBTI 발행사가 채용 사용을 비윤리적이라고 본다' (reply): The Myers-Briggs Company가 공식 아티클에서 밝힌 입장이다. 'not validated for selection, built for development'이 회사 표현이다. 이건 회사의 입장이지 법적 금지가 아니므로 reply는 'says flatly that ... is unethical'로 썼다 — '불법'으로 바꾸면 틀린다.",
+    "'69%가 MBTI를 대체로 믿는다 / 61.3%가 채용 반영에 반대' — 카드에서 뺐다. 잡코리아·알바몬이 612명을 상대로 한 조사인데 표본이 작고, 시사저널이 인용한 다른 조사는 반대 비율을 57%로 적어 수치가 엇갈린다. 하나만 골라 단정하지 않기 위해 5장을 고용노동부 조사 하나로 통일했다.",
+    "'성격유형을 사적 정보로 보는 나라가 대부분' (8장): 관습 비교이지 통계가 아니다. 카드는 'would read as intrusive' 정도의 서술로만 쓰고 수치를 붙이지 않았다.",
+    "제목·1장의 시제: 채용공고 사례는 2022년에 집중 보도됐다. 지금도 같은 빈도로 벌어진다는 근거는 없으므로 4장과 캡션이 'In 2022'로 시점을 박고, 1장은 시제 없이 공고 문구만 인용한다."
+  ]
+}
