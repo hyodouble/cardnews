@@ -259,7 +259,7 @@ and a status poll while the video is processed.
 | 2026-09-13 (일) | Hagwon, the second school day that ends at 10pm | 카드 10장 렌더 완료, 미발행 |
 | 2026-09-14 (월) | Jeonse, the lease with no rent and a deposit the size of the flat | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-15 (화) | Korean age, the country where you had three ages at once | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
-| 2026-09-16 (수) | MBTI, the four letters that reached the job ads | 카드 10장 렌더 완료, 미발행 (`./run_day.sh 2026-09-16`) |
+| 2026-09-16 (수) | MBTI, the four letters that reached the job ads | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
