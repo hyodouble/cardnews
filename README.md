@@ -261,6 +261,7 @@ and a status poll while the video is processed.
 | 2026-09-15 (화) | Korean age, the country where you had three ages at once | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-16 (수) | MBTI, the four letters that reached the job ads | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-17 (목) | Suneung, the day the country clears its sky | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
+| 2026-09-18 (금) | Nunchi, the skill Koreans rate higher than talking | 원고·프롬프트 작성, 이미지 10장 대기 (`assets/2026-09-18/`) |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
