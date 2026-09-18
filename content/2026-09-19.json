@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-19",
+  "weekday": "토요일",
+  "topic": "gwiseong-daeidong",
+  "title": "The Weekend Half of Korea Is on the Same Road",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "ONE WEEKEND EVERY AUTUMN.",
+      "headline": "**Thirty million Koreans** leave home at once.",
+      "note": "Not an evacuation. Chuseok (추석) is coming, and more than half the country drives to a hometown inside the same two days."
+    },
+    {
+      "type": "content",
+      "headline": "Chuseok is the **harvest holiday**",
+      "body": "Three days when a family gathers at the oldest relative's house to set a table for the dead and eat with the living."
+    },
+    {
+      "type": "content",
+      "headline": "Everyone travels **one direction**",
+      "body": "Out of Seoul on the first day, back in on the last. Half the country lives around the capital, so the road has one shape."
+    },
+    {
+      "type": "content",
+      "headline": "Four hours becomes **nine**",
+      "body": "Seoul to Busan is a straight motorway run. On the peak morning that same drive has taken well past nine hours."
+    },
+    {
+      "type": "stat",
+      "stat": "0",
+      "headline": "**won in tolls**, for three days",
+      "body": "Every toll in the country is waived for the three days. The state gives up the revenue to keep the queue moving."
+    },
+    {
+      "type": "content",
+      "headline": "Train seats go in **minutes**",
+      "body": "Korail opens the holiday timetable on one morning weeks ahead. The Seoul–Busan window is gone while the page is still loading."
+    },
+    {
+      "type": "content",
+      "headline": "The jam is **forecast in advance**",
+      "body": "Departure times, peak hours, hour-by-hour updates on the radio. People know exactly what it costs them, and they still go."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere the holiday **spreads out**",
+      "body": "Thanksgiving and Christmas travel run across a week or more. Here the same crowd moves in two days, all of it one way."
+    },
+    {
+      "type": "content",
+      "headline": "Seoul **empties**, the towns fill",
+      "body": "For three days the capital goes quiet and the small places are loud. Then it all runs backwards, and that is the holiday working."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "Next week Korea does the thing it does every autumn: around thirty million people get on the road inside two days, all of them heading the same way at once. The holiday is Chuseok, and almost everyone spends it at a hometown rather than at home.\n\nThe drive is the part nobody softens. Seoul to Busan is four hours on an ordinary Tuesday and has taken more than nine on a Chuseok morning. Motorway tolls are dropped for the whole holiday, the radio runs traffic reports through the night, and families leave at 2am to get ahead of the people who left at 4am.\n\nWhat makes it strange from outside is that none of this is a surprise. The jam is announced, mapped and counted before it happens. Everyone goes anyway, because the traffic was never the point — being in the room is.",
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#chuseok",
+    "#추석",
+    "#koreanholiday",
+    "#seoul",
+    "#livinginkorea",
+    "#expatlife",
+    "#cultureshock",
+    "#explainkorea",
+    "#koreanlife",
+    "#onlyinkorea",
+    "#lifeinkorea",
+    "#koreatravel",
+    "#kculture"
+  ],
+  "reply": "One thing that did not fit on the cards: the smart move is to leave at 2am. Families load the car around midnight, drive while the children sleep in the back, and arrive in time for breakfast. Traffic radio runs all night for exactly those drivers.\n\nHow far does your family travel for the biggest holiday of the year?\n\n· · ·\n\n카드에 못 넣은 얘기 하나. 요령은 새벽 2시 출발이다. 자정쯤 차에 짐을 싣고, 아이들은 뒷자리에서 자는 동안 달려서, 아침 먹을 시간에 도착한다. 교통방송이 밤새 돌아가는 건 바로 그 사람들 때문이다.\n\n여러분 나라에선 가장 큰 명절에 가족을 만나러 얼마나 멀리 갑니까?",
+  "fact_check": [
+    "2026년 추석 당일 9월 25일(금), 연휴 9월 24~26일 — 발행 전 확인",
+    "이동 인원 '약 3천만 명'은 한국교통연구원의 연휴 총 이동인원 추산치 기준. 2026년 추산 발표 나오면 숫자 갱신",
+    "명절 연휴 고속도로 통행료 면제는 2017년부터 이어졌으나 해마다 정부 발표로 확정된다. 2026년 시행 발표 확인 후 5번 슬라이드 유지",
+    "서울–부산 귀성 최대 소요시간 9시간대는 연도별로 다르다. '넘긴 적이 있다' 수준으로만 서술함",
+    "코레일 명절승차권 예매일·매진 속도는 해마다 다름. 구체적 날짜는 쓰지 않음"
+  ]
+}
