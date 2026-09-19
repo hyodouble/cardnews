@@ -262,7 +262,7 @@ and a status poll while the video is processed.
 | 2026-09-16 (수) | MBTI, the four letters that reached the job ads | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-17 (목) | Suneung, the day the country clears its sky | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-18 (금) | Nunchi, the skill Koreans rate higher than talking | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
-| 2026-09-19 (토) | Gwiseong, the weekend half the country is on the same road | 사진 10장 생성 완료, 카드 10장 렌더 완료, 미발행 (`./run_day.sh 2026-09-19`) |
+| 2026-09-19 (토) | Gwiseong, the weekend half the country is on the same road | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
