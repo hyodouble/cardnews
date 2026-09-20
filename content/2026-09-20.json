@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-20",
+  "weekday": "일요일",
+  "topic": "korean-door-lock-passwords",
+  "title": "The Korean Home Key You Cannot Put on a Keyring",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO KEY IN YOUR POCKET.",
+      "headline": "In Korea, your **front-door key** is often a number.",
+      "note": "Many apartment doors open with a digital lock. You press a code, turn the handle and walk in."
+    },
+    {
+      "type": "content",
+      "headline": "The keyhole is **gone**",
+      "body": "A black keypad sits where a lock used to be. The door looks ordinary until you reach for it."
+    },
+    {
+      "type": "content",
+      "headline": "You learn a code like a **phone number**",
+      "body": "It becomes muscle memory: tap the panel, wait for the click, push the door. No metal key to find first."
+    },
+    {
+      "type": "content",
+      "headline": "A visitor gets a **number**, not a spare key",
+      "body": "Family, friends and house-sitters can enter without collecting a key. The code is the handoff."
+    },
+    {
+      "type": "stat",
+      "stat": "0",
+      "headline": "keys needed for the **quick trip downstairs**",
+      "body": "Phone, wallet, nothing — many people step out knowing the door will still open when they come back."
+    },
+    {
+      "type": "content",
+      "headline": "The delivery stays **outside**",
+      "body": "A parcel can wait at a locked front door. Nobody needs a buzzer, a key exchange or a face-to-face handoff."
+    },
+    {
+      "type": "content",
+      "headline": "Moving day starts with a **new code**",
+      "body": "The first small job in a new home is not cutting a key. It is choosing the number everyone will remember."
+    },
+    {
+      "type": "content",
+      "headline": "Then the lock tells you: **change the batteries**",
+      "body": "The trade-off is power. A low-battery warning is a household sound nobody wants to hear at midnight."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere, keys prove you **belong**",
+      "body": "In Korea, remembering four or six digits can do the same job. The proof is in your head, not your pocket."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "Korean apartment door locks have quietly changed what a house key looks like. Instead of fishing for metal keys at the door, many people tap a passcode, hear the lock click, and walk in.\n\nThat small change affects everything around the door: what you give a guest, how you move in, whether you carry keys for a two-minute errand, and why a low-battery beep can feel like a household emergency.\n\nWhat does the front-door key look like where you live?",
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#koreanapartment",
+    "#smarthome",
+    "#doorlock",
+    "#expatlife",
+    "#cultureshock",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#lifeinkorea"
+  ],
+  "reply": "One detail that did not fit on the cards: many digital locks have an emergency power contact on the outside, so a dead internal battery does not automatically mean sleeping in the hallway. The exact backup method varies by lock.\n\nWhat is the most normal way to let a guest into your home where you live?",
+  "fact_check": [
+    "디지털 도어록의 한국 아파트 보급률 수치는 넣지 않음. 발행 전 특정 수치 추가 금지.",
+    "4·6자리 비밀번호는 제품별로 달라 9번 슬라이드에서 예시로만 사용."
+  ]
+}
