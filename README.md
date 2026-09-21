@@ -263,6 +263,8 @@ and a status poll while the video is processed.
 | 2026-09-17 (목) | Suneung, the day the country clears its sky | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-18 (금) | Nunchi, the skill Koreans rate higher than talking | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-19 (토) | Gwiseong, the weekend half the country is on the same road | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
+| 2026-09-20 (일) | Digital door locks, the house key you cannot put on a keyring | published via API to Instagram, Facebook and Threads |
+| 2026-09-21 (월) | Myeongjeol janseori, the holiday questions families are retiring | 카드 10장 렌더·푸시 완료, 미발행 -- 세 플랫폼 모두 OAuth 200 `API access blocked` |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
