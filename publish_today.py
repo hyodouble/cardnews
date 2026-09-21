@@ -54,12 +54,15 @@ def main(argv):
 
     log(f"{date}: publishing {day['title']}")
     try:
-        post.main(argv)
+        posted = post.main(argv)
     except SystemExit as exc:  # post.py exits on unreachable images
         log(f"{date}: post.py stopped -- {exc}")
         return 1
     except Exception as exc:
         log(f"{date}: FAILED -- {exc}")
+        return 1
+    if not posted:
+        log(f"{date}: FAILED -- every platform refused, nothing went up")
         return 1
     log(f"{date}: done")
     return 0
