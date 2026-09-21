@@ -185,6 +185,7 @@ def main(argv):
         ("threads", post_threads, reply_threads,
          os.environ.get("THREADS_USER_ID"), os.environ.get("THREADS_TOKEN")),
     ]
+    posted = 0
     for name, fn, replier, target_id, token in targets:
         # A platform still waiting on its credentials must not block the others.
         if not target_id or not token:
@@ -192,6 +193,7 @@ def main(argv):
             continue
         try:
             result = fn(urls, caption, target_id, token)
+            posted += 1
             print(name, result)
         except Exception as exc:  # one dead platform must not block the others
             print(f"{name} FAILED: {exc}", file=sys.stderr)
@@ -203,6 +205,7 @@ def main(argv):
             print(name, "reply", replier(result["id"], reply, target_id, token))
         except Exception as exc:
             print(f"{name} reply FAILED: {exc}", file=sys.stderr)
+    return posted
 
 
 if __name__ == "__main__":
