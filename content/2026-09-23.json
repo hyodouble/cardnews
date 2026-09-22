@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-23",
+  "weekday": "수요일",
+  "topic": "banchan",
+  "title": "The Food That Arrives Before You Order It",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "BEFORE THE MEAL ARRIVES.",
+      "headline": "In Korea **the table fills up** before you order anything.",
+      "note": "Six, eight, twelve small dishes nobody asked for and nobody is charged for."
+    },
+    {
+      "type": "content",
+      "headline": "They have a name: **banchan (반찬)**",
+      "body": "Small side dishes that come with the meal. Not starters, not a course. They sit there the whole time you eat."
+    },
+    {
+      "type": "content",
+      "headline": "They are free — and **so are the refills**",
+      "body": "An empty dish goes back and comes out full. It is not on the menu and it is not on the bill."
+    },
+    {
+      "type": "content",
+      "headline": "Nothing arrives **in order**",
+      "body": "Rice, soup and every side land at once. There is no first course in a Korean meal, only a full table."
+    },
+    {
+      "type": "stat",
+      "stat": "₩0",
+      "headline": "what a **second helping** costs",
+      "body": "You do not order it and you do not pay for it. You catch someone's eye and hold up the empty dish."
+    },
+    {
+      "type": "content",
+      "headline": "**Kimchi** is the one that never misses",
+      "body": "Almost every table gets it, and every restaurant's is slightly different. Regulars pick their place by it."
+    },
+    {
+      "type": "content",
+      "headline": "What you leave **does not travel**",
+      "body": "Reusing served food is banned under food hygiene law, and enforcement tightened through the 2010s. Refills come from the kitchen, not from the next table."
+    },
+    {
+      "type": "content",
+      "headline": "Many places now hand you **the tongs**",
+      "body": "A self-serve banchan bar by the water cooler. Same idea, same price, you just walk over and take it yourself."
+    },
+    {
+      "type": "content",
+      "headline": "Free is **getting harder**",
+      "body": "With costs up, some restaurants have trimmed the spread or started charging for refills. It is a custom, not a rule."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "Order one dish in a Korean restaurant and you get eight. The small plates that cover the table are banchan, they come with the meal, and refilling them costs nothing.\n\nThere is no course order to a Korean meal either. Rice, soup and every side dish arrive together, and you move between them for the whole meal rather than finishing one before the next.\n\nThe part visitors get wrong: leftovers do not get passed to the next table. Reusing served food is banned under food hygiene law and enforcement tightened through the 2010s, which is also why so many places switched to a self-serve bar where you take your own.\n\nIt is a custom, not a rule, and rising costs have some restaurants trimming the spread or charging for refills.\n\nHow many free dishes come with a meal where you live?",
+  "hashtags": [
+    "#korea",
+    "#koreanfood",
+    "#banchan",
+    "#반찬",
+    "#koreanculture",
+    "#seoul",
+    "#koreanrestaurant",
+    "#kimchi",
+    "#livinginkorea",
+    "#expatlife",
+    "#cultureshock",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#foodiekorea"
+  ],
+  "reply": "One thing that did not fit on the cards: the free refill is why Koreans rarely over-order. You get one main dish per person and let the sides do the rest, so a table of four orders four things, not twelve.\n\nHow many free dishes come with a meal where you live?",
+  "fact_check": [
+    "무료 리필은 관행이지 법이나 제도가 아니다. 카드와 캡션 모두 '관행'으로 서술했고, 유료화·가짓수 축소 사례도 마지막 장에 명시했다.",
+    "반찬 가짓수는 식당 종류·지역에 따라 편차가 크다. 평균값을 쓰지 않고 '여섯, 여덟, 열둘'처럼 범위를 예시로만 들었다.",
+    "남은 음식 재사용 금지는 식품위생법상 금지 사항이다. 단속 강화 시점을 '2010년대'로만 적고 특정 연도·조항 번호는 넣지 않았다.",
+    "셀프 반찬바 확산은 업종(고깃집·백반집 등)에 따라 다르다. '많은 곳'으로만 서술하고 비율 수치는 넣지 않았다.",
+    "stat 카드의 ₩0은 리필 비용이지 식사 가격이 아니다. 헤드라인에서 'second helping'으로 한정했다."
+  ]
+}
