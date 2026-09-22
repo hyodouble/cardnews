@@ -62,6 +62,12 @@ Kaspi's ahead of us there 🙌 Korea only got its ID into KakaoTalk in 2025 — 
 | colour, realise, practise, neighbourhood | color, realize, practice, neighborhood |
 | I shall / one does | I'll / you |
 
+- **줄표(—)를 쓰지 않는다.** 지금 영어권에서 em dash는 "AI가 썼다"는 신호로 읽힌다.
+  쉼표로 끊거나, 마침표로 문장을 나누거나, 괄호를 쓴다. 한 답글에 하나도 없어야 한다.
+- **한 문장에 절을 세 개 이상 쌓지 않는다.** 매끄럽게 이어붙일수록 사람 말이 아니게 된다.
+  짧은 문장 두 개가 긴 문장 하나보다 낫다.
+- **"It's not X, it's Y" 같은 대구를 반복하지 않는다.** 한 답글에 한 번이면 충분하고,
+  여러 답글에 계속 나오면 문체가 기계처럼 굳는다.
 - **축약형을 쓴다.** it is → it's, that is → that's, you are → you're. 안 쓰면 딱딱해진다.
 - **문어체 접속사 금지.** moreover, furthermore, hence, thus. 대신 and, so, but.
 - 감탄은 `That's wild`, `Oh that's interesting`, `Honestly`, `Fair enough`, `Ha` 정도.
