@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-24",
+  "weekday": "목요일",
+  "topic": "jongnyangje",
+  "title": "The Country Where You Pay for Your Trash by the Bag",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "TAKING OUT THE TRASH.",
+      "headline": "In Korea **you pay for your trash** by the bag.",
+      "note": "No official bag, no pickup. And it has to be the right bag."
+    },
+    {
+      "type": "content",
+      "headline": "It has a name: **jongnyangje (종량제)**",
+      "body": "Pay-as-you-throw. General trash goes out only in official bags sold at the convenience store. The price of the bag is the fee."
+    },
+    {
+      "type": "content",
+      "headline": "Every district **sells its own bag**",
+      "body": "Local governments print the bags and set the price. Move across town and your leftover bags may no longer count."
+    },
+    {
+      "type": "content",
+      "headline": "Recycling goes out free — **but sorted**",
+      "body": "Plastic, cans, glass, paper and styrofoam each get their own bin. Apartment blocks set the day and the hour."
+    },
+    {
+      "type": "stat",
+      "stat": "1995",
+      "headline": "the year Korea started **charging by the bag**",
+      "body": "It went nationwide on New Year's Day. Throw away less, pay less."
+    },
+    {
+      "type": "content",
+      "headline": "Food scraps **get weighed**",
+      "body": "Food waste has a bin of its own. In many apartment blocks you tap a card, drop it in and pay by weight."
+    },
+    {
+      "type": "content",
+      "headline": "Chicken bones **are not food waste**",
+      "body": "The rule of thumb: if an animal could not eat it, it goes in the trash bag. Bones, eggshells, fruit pits, onion skins."
+    },
+    {
+      "type": "content",
+      "headline": "The wrong bag **gets left behind**",
+      "body": "Trash in a plain bag is not collected, and dumping it can bring a fine. Some corners are watched by camera."
+    },
+    {
+      "type": "content",
+      "headline": "Trash is **a chore with a price**",
+      "body": "Buy the bag, rinse the tub, sort the bins, carry it down on the right night. Almost every household does all four."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "In Korea you pay for your trash by the bag. General waste is only collected in official pay-as-you-throw bags, sold at the convenience store, and the price of the bag is the fee.\n\nRecycling goes out free but sorted into plastic, cans, glass, paper and styrofoam, and food scraps go in a separate bin that many apartment blocks weigh.\n\nThe part that trips up newcomers: chicken bones, eggshells and fruit pits are not food waste. If an animal could not eat it, it goes in the trash bag.\n\nHow does trash get picked up where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#livinginkorea",
+    "#koreanlife",
+    "#seoul",
+    "#recycling",
+    "#zerowaste",
+    "#종량제봉투",
+    "#분리수거",
+    "#expatlife",
+    "#cultureshock",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#movingtokorea"
+  ],
+  "reply": "One thing that did not fit on the cards: big items need a ticket too. A sofa or a desk is reported to the district first, you pay a fee by size, and the sticker or receipt number goes on it before it goes out to the curb.\n\nHow do you get rid of an old sofa where you live?",
+  "fact_check": [
+    "쓰레기 종량제 전국 시행일은 1995년 1월 1일. stat 카드와 캡션 모두 이 날짜 기준으로 썼다.",
+    "종량제 봉투는 시·군·구가 제작하고 가격을 정한다. 다른 구 봉투 사용 불가 여부는 지자체마다 다르고 서울 일부는 호환되는 곳도 있어서 '더 이상 안 될 수도 있다(may)'로만 썼다.",
+    "음식물 쓰레기 RFID 무게 과금은 공동주택 일부에 도입된 방식이다. '많은 아파트'로만 서술하고 보급률 수치는 넣지 않았다. 단독주택은 음식물 전용 봉투·납부필증 방식이 많다.",
+    "'동물이 먹을 수 없으면 일반쓰레기' 기준은 환경부 안내에서 쓰는 통용 기준이지만 세부 품목은 지자체마다 조금씩 다르다. 카드에 'rule of thumb'으로 한정했다.",
+    "무단투기 과태료는 폐기물관리법상 최대 100만 원이지만 금액은 카드에 넣지 않았다. CCTV 단속은 '일부'로만 썼다.",
+    "대형폐기물(소파·책상)은 구청 신고 후 수수료를 내고 스티커나 접수번호를 붙여 배출한다. 요즘은 앱·온라인 신고가 대부분이라 댓글에서 'sticker or receipt number'로 둘 다 적었다."
+  ]
+}
