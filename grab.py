@@ -17,6 +17,11 @@ if age > 180:
 
 out = pathlib.Path(__file__).parent / "assets" / date / f"{name}.png"
 out.parent.mkdir(parents=True, exist_ok=True)
-Image.open(newest).convert("RGB").resize((1024, 1024), Image.LANCZOS).save(out)
+img = Image.open(newest).convert("RGB")
+# Without Gemini Pro the download is 1408x768, not square: center-crop, which also cuts off the corner mark.
+w, h = img.size
+s = min(w, h)
+img = img.crop(((w - s) // 2, (h - s) // 2, (w + s) // 2, (h + s) // 2))
+img.resize((1024, 1024), Image.LANCZOS).save(out)
 newest.unlink()
 print(f"{newest.name} -> {out} ({age:.0f}s old)")
