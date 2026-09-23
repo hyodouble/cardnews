@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-24",
+  "weekday": "목요일",
+  "topic": "songpyeon",
+  "title": "The Rice Cake Koreans Say Decides Your Future Kids",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "THE NIGHT BEFORE CHUSEOK.",
+      "headline": "Tonight Korean families **judge each other's rice cakes.**",
+      "note": "Pinch one badly and someone at the table will tell you what it means for your future children."
+    },
+    {
+      "type": "content",
+      "headline": "They are called **songpyeon (송편)**",
+      "body": "Small half-moon rice cakes made for Chuseok (추석), the harvest holiday. Chewy outside, sweet or nutty inside, bite-sized."
+    },
+    {
+      "type": "content",
+      "headline": "**Pine needles** are part of the recipe",
+      "body": "They are steamed on a bed of fresh pine needles. The \"song\" in the name is pine, and so is the faint scent."
+    },
+    {
+      "type": "content",
+      "headline": "Every bite is **a small gamble**",
+      "body": "Toasted sesame and honey, or chestnut, or mashed beans. They look identical from outside. Kids hunt for sesame and dread the beans."
+    },
+    {
+      "type": "stat",
+      "stat": "15",
+      "headline": "made for **the full moon**",
+      "body": "Chuseok falls on the 15th day of the eighth lunar month. Songpyeon is on the table for that moon."
+    },
+    {
+      "type": "content",
+      "headline": "Pretty songpyeon, **pretty daughter**",
+      "body": "The old saying: shape them well and you will have beautiful children. Relatives still inspect your pinching with that line."
+    },
+    {
+      "type": "content",
+      "headline": "Think of **the holiday pie**",
+      "body": "The making is the point, not the eating. The family sits on the floor around one bowl of dough and talks for hours."
+    },
+    {
+      "type": "content",
+      "headline": "Most families **buy them now**",
+      "body": "Rice cake shops sell trays by weight all week before Chuseok. Many homes make a small batch just to keep the habit."
+    },
+    {
+      "type": "content",
+      "headline": "A bite-sized **holiday ritual**",
+      "body": "Pine, a moon, a filling lottery and a comment about your future children. That is Chuseok eve in one rice cake."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea"
+    }
+  ],
+  "caption": "The night before Chuseok, Korean families sit around one bowl of rice dough and pinch songpyeon, small half-moon rice cakes, and judge each other's shapes.\n\nThey are steamed on fresh pine needles, which is where the name comes from, and filled with sesame and honey, chestnut or beans. From outside you cannot tell which, so every bite is a small gamble.\n\nThe old saying goes that whoever makes pretty songpyeon will have pretty children, and relatives still use it on whoever's come out lopsided. Most families buy trays from rice cake shops now, but plenty still make a small batch just to keep the evening.\n\nWhat food does your family only make together once a year?",
+  "hashtags": [
+    "#korea",
+    "#chuseok",
+    "#추석",
+    "#songpyeon",
+    "#송편",
+    "#koreanfood",
+    "#koreanculture",
+    "#koreantradition",
+    "#ricecake",
+    "#tteok",
+    "#livinginkorea",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#harvestfestival"
+  ],
+  "reply": "One thing that did not fit on the cards: an old folk custom had pregnant women bite into a songpyeon with a pine needle hidden inside, and which end they bit first was said to tell a son or a daughter. Nobody takes it seriously now, but grandmothers still know it.\n\nWhat food does your family only make together once a year?",
+  "fact_check": [
+    "'송(松)=소나무' 어원은 널리 쓰이는 설명이다. 떡 사이에 솔잎을 깔아 찐다는 데서 왔다는 설명으로 서술했다.",
+    "소 종류(깨·꿀, 밤, 콩)는 대표 예시로만 들었다. 지역별로 팥·녹두 등도 있다.",
+    "'송편을 예쁘게 빚으면 예쁜 딸/자식을 낳는다'는 속담으로 서술했다. 원문은 '예쁜 딸' 버전과 '좋은 배우자' 버전이 섞여 있어 'beautiful children'으로 넓혔다.",
+    "임산부 솔잎 송편 점치기는 민간 풍속. reply 에서 'old folk custom'으로 한정했다. 세부 방식(어느 쪽을 먼저 무느냐)은 지역·출처마다 다르다 — 확인 필요.",
+    "'대부분 사서 먹는다'는 통계 없이 서술했다. 'Most families'가 부담되면 'Many families'로 낮출 것.",
+    "추석 = 음력 8월 15일은 사실. 2026년 추석 당일은 9월 25일, 9월 24일은 전날."
+  ]
+}
