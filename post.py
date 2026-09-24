@@ -68,6 +68,14 @@ def wait_ready(base, container_id, token, tries=20):
 
 
 def post_instagram(urls, caption, ig_id, token):
+    # Meta rejects a carousel with one child, so a single image posts on its own.
+    if len(urls) == 1:
+        container = call(f"{GRAPH}/{ig_id}/media",
+                         {"image_url": urls[0], "caption": caption,
+                          "access_token": token})["id"]
+        wait_ready(GRAPH, container, token)
+        return call(f"{GRAPH}/{ig_id}/media_publish",
+                    {"creation_id": container, "access_token": token})
     children = [
         call(f"{GRAPH}/{ig_id}/media",
              {"image_url": u, "is_carousel_item": "true", "access_token": token})["id"]
@@ -86,6 +94,9 @@ def post_instagram(urls, caption, ig_id, token):
 
 def post_facebook(urls, caption, page_id, token):
     """Unpublished photos first, then one post that carries them all."""
+    if len(urls) == 1:
+        return call(f"{GRAPH}/{page_id}/photos",
+                    {"url": urls[0], "message": caption, "access_token": token})
     media = [
         {"media_fbid": call(f"{GRAPH}/{page_id}/photos",
                             {"url": u, "published": "false", "access_token": token})["id"]}
@@ -118,6 +129,13 @@ def fit_threads(caption):
 
 
 def post_threads(urls, caption, user_id, token):
+    if len(urls) == 1:
+        container = call(f"{THREADS}/{user_id}/threads",
+                         {"media_type": "IMAGE", "image_url": urls[0],
+                          "text": fit_threads(caption), "access_token": token})["id"]
+        wait_ready(THREADS, container, token)
+        return call(f"{THREADS}/{user_id}/threads_publish",
+                    {"creation_id": container, "access_token": token})
     children = [
         call(f"{THREADS}/{user_id}/threads",
              {"media_type": "IMAGE", "image_url": u,

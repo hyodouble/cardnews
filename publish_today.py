@@ -5,13 +5,14 @@ Usage:
     python publish_today.py [YYYY-MM-DD]
 
 Reads content/<date>.json for the caption, hashtags and first comment, takes
-the ten slides from img/<date>/, and hands the lot to post.py. Defaults to
-today, which is what the 08:00 task runs.
+the images from img/<date>/ -- ten slides, or one greeting card -- and hands
+the lot to post.py. Defaults to today, which is what the 08:00 task runs.
 
 Every run appends to publish.log, because a scheduled run has nobody watching
 it. A run that finds no content file or no slides exits without calling Meta.
 """
 import datetime
+import glob
 import json
 import os
 import sys
@@ -40,10 +41,11 @@ def main(argv):
     with open(content, encoding="utf-8") as fh:
         day = json.load(fh)
 
-    paths = [f"img/{date}/{i:02d}.png" for i in range(1, SLIDES + 1)]
-    missing = [p for p in paths if not os.path.exists(p)]
-    if missing:
-        log(f"{date}: {len(missing)} slides missing, first is {missing[0]}")
+    # A greeting day is one image; a carousel day is ten. Anything in between is
+    # a half-rendered day and must not go up.
+    paths = sorted(glob.glob(f"img/{date}/*.png"))
+    if len(paths) not in (1, SLIDES):
+        log(f"{date}: img/{date} has {len(paths)} images, needs 1 or {SLIDES}")
         return 1
 
     caption = day["caption"] + "\n\n" + " ".join(day["hashtags"])
