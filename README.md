@@ -267,6 +267,7 @@ and a status poll while the video is processed.
 | 2026-09-21 (월) | Myeongjeol janseori, the holiday questions families are retiring | published via API to Instagram, Facebook and Threads on the second run; the first was refused with OAuth 200 `API access blocked` |
 | 2026-09-22 (화) | Sanhujoriwon, the two weeks mothers book after giving birth | published via API to Instagram, Facebook and Threads |
 | 2026-09-23 (수) | Banchan, the side dishes that arrive before you order | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
+| 2026-09-24 (목) | Songpyeon, the rice cake Koreans say decides your future kids | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
