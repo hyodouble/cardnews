@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-26",
+  "weekday": "토요일",
+  "topic": "myeongjeol-jeunghugun",
+  "title": "The Holiday Hangover Korea Has a Name For",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "THE DAY AFTER CHUSEOK.",
+      "headline": "Today Korea wakes up **with a holiday hangover.**",
+      "note": "No drinking required. The news, clinics and family group chats all call it the same thing."
+    },
+    {
+      "type": "content",
+      "headline": "It is called **myeongjeol jeunghugun**",
+      "body": "명절 증후군, literally \"holiday syndrome.\" Every Chuseok (추석) and Lunar New Year, Korean news runs stories on it."
+    },
+    {
+      "type": "content",
+      "headline": "The body **keeps the receipts**",
+      "body": "Headaches, indigestion, stiff shoulders and a sore back. Days of sitting on the floor, cooking and overeating add up."
+    },
+    {
+      "type": "content",
+      "headline": "The heaviest load **lands in the kitchen**",
+      "body": "Traditionally daughters-in-law fry jeon, pan-fried fritters, for hours at the husband's family home. That is the classic picture."
+    },
+    {
+      "type": "stat",
+      "stat": "9",
+      "headline": "dishes. **No frying required.**",
+      "body": "In 2022 Sungkyunkwan (성균관), Korea's top Confucian body, said a Chuseok table needs about nine dishes, and no jeon."
+    },
+    {
+      "type": "content",
+      "headline": "Everyone has **their own version**",
+      "body": "The driver stuck for hours on the highway. The job seeker dodging questions. The parents who cooked for everyone, then cleaned up."
+    },
+    {
+      "type": "content",
+      "headline": "Think Thanksgiving, **three days running**",
+      "body": "Now picture cooking it on the floor, at your in-laws', with every relative dropping by. That is the scale Koreans mean."
+    },
+    {
+      "type": "content",
+      "headline": "Families are **rewriting the holiday**",
+      "body": "Splitting the days between both sides, buying jeon instead of frying it, or skipping the trip for a vacation."
+    },
+    {
+      "type": "content",
+      "headline": "One holiday, **one recovery day**",
+      "body": "Today Korea is full, sore and on the road home. Holiday syndrome is the price, and more families are cutting it."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A neat fan of small editorial photo cards on a dark tabletop.",
+      "design_note": "Use the account’s established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "The day after Chuseok, a lot of Korea wakes up with a holiday hangover, and Koreans have a name for it: myeongjeol jeunghugun (명절 증후군), holiday syndrome.\n\nHeadaches, indigestion, stiff shoulders, a sore back. Three days of cooking on the floor, long drives and a house full of relatives will do that. The classic picture is the daughter-in-law frying jeon for hours, but drivers, job seekers and tired parents all get their own version.\n\nIn 2022 even Sungkyunkwan, Korea's top Confucian body, said the ancestral table needs about nine dishes and no frying. Families are listening: splitting the days, buying the jeon, or taking a trip instead.\n\nWhat does the day after a big family holiday look like where you live?",
+  "hashtags": [
+    "#chuseok",
+    "#추석",
+    "#whatshotkorea",
+    "#korea",
+    "#koreanculture",
+    "#koreanholiday",
+    "#명절증후군",
+    "#myeongjeol",
+    "#koreanlife",
+    "#familyholiday",
+    "#livinginkorea",
+    "#koreanfamily"
+  ],
+  "reply": "One thing that did not fit on the cards: the famous rule for the ancestral table, red fruit on the east and white on the west, is not in the old Confucian ritual texts at all. Sungkyunkwan said so in 2022, after generations of families arguing over it. What holiday rule in your family turned out to be something nobody could trace?",
+  "fact_check": [
+    "성균관의례정립위원회 2022-09-05 발표: 전 안 부쳐도 됨, 기본 6가지(송편·나물·구이·김치·과일·술) + 육류·생선·떡 더해 9가지 정도. 홍동백서·조율이시는 옛 예법 문헌에 없음. https://www.hankookilbo.com/News/Read/A2022090512250001195 , https://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002863241",
+    "명절 증후군 증상(두통·소화불량·어깨/허리 통증·피로·우울감)은 대표 사례로 서술. https://www.yna.co.kr/amp/view/AKR20220905086700005",
+    "'Korean news runs stories on it every holiday'은 통계 아닌 관찰 서술.",
+    "가족들이 분산 방문·전 구매·여행을 택한다는 건 사례 서술, 비율 주장 안 함.",
+    "2026 추석 연휴 9-24~9-26. 9-26(토)는 연휴 마지막 날이라 'on the road home' 서술."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph, morning after a Korean holiday: a tired woman in her 40s sitting on the floor of a Korean apartment living room, rubbing her shoulder, stacked washed dishes and leftover food containers on a low table beside her, soft natural window light, face turned away from camera, square 1:1, no text, calm lower third.",
+    "content2": "Realistic editorial photograph of stacked plates and an empty frying pan after holiday cooking in a Korean home kitchen, natural light, square 1:1, no text, no logos, no one looking at camera, the used kitchenware is the subject, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph focused on a Korean adult resting one hand on a sore shoulder beside a half-finished family meal, natural light in a Korean home, square 1:1, no text, no logos, face turned away, shoulder and meal are the subject, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of hands frying jeon in a pan for a family holiday in a Korean home kitchen, natural light, square 1:1, no text, no logos, people not looking at camera, the pan and working hands are the subject, keep lower third calm for text overlay.",
+    "stat": "Realistic editorial photograph of a modest Korean ancestral rite table with a few carefully arranged dishes, natural light, square 1:1, no text, no logos, people not looking at camera, dishes are the subject, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph from the driver's seat of a car stuck in heavy Korean highway holiday traffic at dusk, a hand resting on the steering wheel, long line of red taillights ahead, natural light, square 1:1, no text, no logos, no readable signs, people not looking at camera, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a crowded Korean holiday meal on a long low floor table, many dishes of jeon, japchae, namul and songpyeon, several relatives sitting on floor cushions seen from behind and the side, natural light, square 1:1, no text, no logos, no readable signs, people not looking at camera, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of store-bought jeon, assorted Korean pan-fried fritters, packed in clear plastic takeaway trays at a traditional market stall, natural light, square 1:1, no text, no logos, no readable signs, people not looking at camera, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Korean family loading a car trunk with holiday food containers and bags outside a low-rise apartment building, the last morning of the holiday, natural light, square 1:1, no text, no logos, no readable signs, people not looking at camera, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a quiet Korean apartment living room the evening after a holiday, a folded floor cushion, a mug of tea and a plate of leftover songpyeon on a low wooden table, warm lamp light, no people, square 1:1, no text, no logos, calm lower third."
+  }
+}
