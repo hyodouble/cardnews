@@ -269,6 +269,7 @@ and a status poll while the video is processed.
 | 2026-09-23 (수) | Banchan, the side dishes that arrive before you order | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's did not |
 | 2026-09-24 (목) | Songpyeon, the rice cake Koreans say decides your future kids | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-09-25 (금) | Chuseok greeting, moon rabbits pounding rice cake (single image) | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-09-26 (토) | Myeongjeol jeunghugun, the holiday syndrome Koreans wake up with after Chuseok | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
