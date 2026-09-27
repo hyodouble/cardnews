@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-28",
+  "weekday": "월요일",
+  "topic": "ppalli-ppalli",
+  "title": "Why Koreans Hit the Door-Close Button First",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "MONDAY IN SEOUL.",
+      "headline": "Koreans hit the elevator **door-close button first.**",
+      "note": "Before anyone else gets in. There is a word for that: ppalli-ppalli (빨리빨리)."
+    },
+    {
+      "type": "content",
+      "headline": "It means **\"hurry, hurry\"**",
+      "body": "You hear it at markets, in kitchens, from parents at the door. Most visitors pick it up on day one."
+    },
+    {
+      "type": "content",
+      "headline": "A call bell **on the table**",
+      "body": "Many Korean restaurants put a button on the table. Press it and someone comes. No waving, no waiting to catch an eye."
+    },
+    {
+      "type": "content",
+      "headline": "A doctor **the same morning**",
+      "body": "Neighborhood clinics take walk-ins. See the doctor, then fill the prescription at the pharmacy downstairs, often within an hour."
+    },
+    {
+      "type": "stat",
+      "stat": "7 AM",
+      "headline": "groceries **already at your door**",
+      "body": "Order late at night and dawn delivery, saebyeok baesong (새벽배송), drops it at your door before 7 a.m."
+    },
+    {
+      "type": "content",
+      "headline": "Why the rush? **Because it worked.**",
+      "body": "A generation rebuilt the country at full speed. Moving fast turned from survival into habit, then into something parents taught."
+    },
+    {
+      "type": "content",
+      "headline": "Slow isn't **\"relaxed\" here**",
+      "body": "In many countries a long wait feels like careful service. In Korea it usually means something went wrong."
+    },
+    {
+      "type": "content",
+      "headline": "Koreans argue **about it too**",
+      "body": "Long hours, burnout, corners cut to finish sooner. The same speed people love is the thing they complain about most."
+    },
+    {
+      "type": "content",
+      "headline": "Fast is **how you show respect**",
+      "body": "In Korea, keeping someone waiting is the rude part. Speed says you took them seriously."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred city crosswalk at rush hour behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Koreans hit the elevator door-close button before anyone else gets in, and there is a word for it: ppalli-ppalli (빨리빨리), \"hurry, hurry.\"\n\nIt is in the call bell on so many restaurant tables, in walk-in clinics that get you a prescription within the hour, and in groceries you order at night that are on your doorstep before 7 a.m. Koreans complain about it as much as they rely on it.\n\nWhat takes way too long where you live?",
+  "hashtags": [
+    "#ppalliPpalli",
+    "#빨리빨리",
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoullife",
+    "#koreatravel",
+    "#culturedifferences",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#learnkorean",
+    "#whatshotkorea"
+  ],
+  "reply": "The language hurries too. Ppalli has cousins: eolleun (얼른) and eoseo (어서) both mean \"quickly,\" and Korean kids hear all three before breakfast. Even \"eoseo oseyo (어서 오세요),\" the welcome you get walking into any shop, literally starts with \"quickly.\" What is the one thing in your country that always takes way too long?",
+  "fact_check": [
+    "엘리베이터 닫힘 버튼을 먼저 누른다는 1장 문구는 널리 알려진 문화적 관찰이며 통계 주장이 아님.",
+    "2장 'Most visitors pick it up on day one'은 흔한 체험담 수준의 서술로 완화함(조사 근거 없음).",
+    "3장은 'on the table'·'Many Korean restaurants'로 완화함. 호출벨은 흔하지만 모든 식당에 있지는 않음.",
+    "동네 의원 당일 진료·약국 처방 조제는 일반적 경험. '한 시간 이내'는 대기 상황에 따라 다름('often'으로 한정함).",
+    "새벽배송: 마켓컬리 샛별배송은 밤 11시까지 주문 시 다음 날 아침 7시 전 도착, 쿠팡 로켓프레시 새벽배송은 자정까지 주문 시 오전 7시 전 도착으로 안내됨. 지역·상품에 따라 제외될 수 있음.",
+    "reply의 '어서 오세요'의 '어서'가 '빨리/얼른'의 뜻이라는 설명은 사전적 의미 기준(표준국어대사전 '어서': 일이나 행동을 지체 없이 빨리 하기를 재촉하는 말)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph inside a modern Korean apartment elevator, a hand in a suit sleeve pressing the door-close button, doors starting to shut, a blurred person approaching in the hallway outside, natural light, square 1:1, no text, no logos, no readable signs or buttons labels, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a busy traditional Korean market alley in Seoul, a vendor quickly handing a bag of fruit to a customer, motion blur on moving shoppers, natural light, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph close-up of a finger pressing a small round wireless call bell button on a Korean restaurant table, side dishes and a grill slightly blurred around it, warm natural light, square 1:1, no text, no logos, no readable labels, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a small Korean neighborhood clinic waiting room, a few patients seated seen from behind, a reception counter, a bright pharmacy visible through the glass door downstairs, natural light, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a Korean apartment front door at dawn, an insulated grocery delivery bag and a cardboard box set neatly on the hallway floor, soft blue early-morning light from a window, no people, square 1:1, no text, no logos, no readable labels, no brand names, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a Korean construction site at golden hour, tower cranes and a rising apartment block, workers in hard hats seen from behind and far away, natural light, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a Korean cafe counter where a barista quickly slides a finished iced coffee across to a waiting customer, only hands and torsos visible, a short line behind, natural light, square 1:1, no text, no logos, no readable signs or menus, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of a tired Korean office worker seen from behind at a desk late at night, monitor glow, dark office floor with a few lights still on, city lights through the window, square 1:1, no text, no logos, no readable screens, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Seoul crosswalk the moment the signal changes, commuters stepping off the curb together, seen from behind, slight motion blur, morning light, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul street at rush hour with long-exposure light trails from buses and cars, pedestrians as soft blurs on the sidewalk, evening, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay."
+  }
+}
