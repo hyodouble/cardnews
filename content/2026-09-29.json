@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-29",
+  "weekday": "화요일",
+  "topic": "ikssip",
+  "title": "The Tiny \"1\" That Tells Koreans They're Being Ignored",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "TUESDAY IN SEOUL.",
+      "headline": "A tiny \"1\" tells Koreans **they're being ignored.**",
+      "note": "On KakaoTalk (카카오톡), a small 1 sits next to every message until it is read."
+    },
+    {
+      "type": "content",
+      "headline": "The 1 **vanishes when they read it**",
+      "body": "Send a message and a yellow 1 appears beside it. It disappears the moment the other person opens the chat."
+    },
+    {
+      "type": "content",
+      "headline": "In group chats, **it counts people**",
+      "body": "Send to a chat of ten and you see 9. Watch it drop to 2, and you know two people haven't looked yet."
+    },
+    {
+      "type": "content",
+      "headline": "Read, no reply. **There's a word.**",
+      "body": "Ikssip (읽씹): read, then ignored. Its cousin an-ikssip (안읽씹) is worse: they didn't even open it."
+    },
+    {
+      "type": "stat",
+      "stat": "50M",
+      "headline": "Koreans **on one chat app**",
+      "body": "KakaoTalk counts nearly 50 million monthly users in Korea, a country of about 51 million."
+    },
+    {
+      "type": "content",
+      "headline": "Everyone's on it, **so no excuses**",
+      "body": "Your boss, your mom, your landlord, your kid's teacher. When the whole country uses one app, \"I didn't see it\" rarely works."
+    },
+    {
+      "type": "content",
+      "headline": "So Koreans **read without reading**",
+      "body": "Many check the lock-screen preview first. In 2025 Kakao even added a pull-down peek that leaves the 1 in place."
+    },
+    {
+      "type": "content",
+      "headline": "Your app lets you **hide it. This one doesn't.**",
+      "body": "WhatsApp and iMessage let you switch read receipts off. On KakaoTalk the 1 is always on."
+    },
+    {
+      "type": "content",
+      "headline": "One small number, **a lot of pressure**",
+      "body": "In Korea, how fast you reply shows how much you care. The 1 makes sure everyone can see it."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred subway car of people looking at their phones behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, a tiny yellow \"1\" on KakaoTalk tells you whether someone has read your message, and whether they are ignoring you.\n\nThe 1 disappears the moment they open the chat, it counts heads in group chats, and there is no switch to turn it off. Read and no reply even has a name: ikssip (읽씹).\n\nHow long can you leave a text unanswered where you live?",
+  "hashtags": [
+    "#kakaotalk",
+    "#카카오톡",
+    "#읽씹",
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoullife",
+    "#culturedifferences",
+    "#textingculture",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#learnkorean",
+    "#whatshotkorea"
+  ],
+  "reply": "The app became a verb. Koreans rarely say \"text me.\" They say \"katok hae (카톡해),\" roughly \"Kakao me,\" even to someone they have never messaged before, because everyone is assumed to be on it. In your country, which app's name turned into the everyday word for sending a message?",
+  "fact_check": [
+    "5장 50M: 카카오 2026년 2분기 실적 기준 카카오톡 국내 MAU 4,963만 1천 명(1분기 약 4,957만). 'nearly 50 million'으로 표기. 인구 약 5,100만은 통계청 추계.",
+    "8장 '읽음 표시(1)를 끌 수 없다': 끄는 설정은 없음. 대신 2025-09 개편에서 안읽음 폴더의 채팅방을 아래로 당기면 읽음 처리 없이 미리 보는 기능이 도입됨(7장에 반영). 7장 '2025'는 발표 시점 기준이며 실제 배포 시점 확인 권장.",
+    "2장 '노란 1': 안 읽은 인원 수가 노란색 숫자로 표시되는 것은 기본 테마 기준. 테마에 따라 색이 다를 수 있음.",
+    "7장 잠금화면 미리보기로 읽음 표시 없이 확인하는 것은 널리 알려진 사용 습관이며 통계 주장이 아님('Many'로 한정).",
+    "로마자 표기 ikssip(읽씹)·an-ikssip(안읽씹)·katok hae(카톡해)는 발음 기준의 비공식 표기."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph close-up of a hand holding a smartphone in a Seoul subway car, the screen showing blurred yellow and white chat bubbles, no readable text, commuters softly blurred behind, natural light, square 1:1, no text, no logos, no readable screens or signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a young Korean woman on a cafe sofa seen from behind and slightly above, looking at her phone, the screen blurred and unreadable, a latte on the table, warm natural light, square 1:1, no text, no logos, no readable screens, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of several Korean office workers in a lunch queue each looking down at their own phones, seen from the side and behind, screens blurred and unreadable, natural light, square 1:1, no text, no logos, no readable screens or signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a smartphone lying face up on a wooden table next to a half-finished glass of iced coffee, the screen lit with blurred unreadable chat bubbles, nobody touching it, soft afternoon light, square 1:1, no text, no logos, no readable screens, no brand names, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a crowded Seoul street crossing seen from above at dusk, many pedestrians holding glowing phones, slight motion blur, square 1:1, no text, no logos, no readable signs or screens, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a Korean apartment kitchen table at night, a parent's hand and a teenager's hand each holding a phone, screens blurred and unreadable, warm lamp light, square 1:1, no text, no logos, no readable screens, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph close-up of a smartphone lock screen lying on a bed sheet, a blurred unreadable notification banner glowing on it, a hand hovering but not touching, dim bedroom light, square 1:1, no text, no logos, no readable screens, no brand names, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of two phones side by side on a desk, one face down and one face up with a blurred unreadable chat screen, a notebook and pen nearby, soft daylight, square 1:1, no text, no logos, no readable screens, no brand names, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a young Korean man at a bus stop at night seen from behind, the glow of his phone lighting his face from below at an angle, city lights blurred behind, square 1:1, no text, no logos, no readable screens or signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul subway car in the evening, rows of seated passengers softly blurred all looking at their phones, warm interior light, square 1:1, no text, no logos, no readable signs or screens, no brand names, people not looking at camera, calm lower third for text overlay."
+  }
+}
