@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-30",
+  "weekday": "수요일",
+  "topic": "baegil",
+  "title": "Korean Couples Count Their Love in Days",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "WEDNESDAY IN SEOUL.",
+      "headline": "Korean couples count their love **in days, not years.**",
+      "note": "Day 100, day 200, day 1,000. Each one gets its own celebration."
+    },
+    {
+      "type": "content",
+      "headline": "Day 100 is **the first big one**",
+      "body": "Flowers, a nice dinner, often matching rings. For many couples, 100 days is the first anniversary that really counts."
+    },
+    {
+      "type": "content",
+      "headline": "The idea **came from babies**",
+      "body": "Baegil (백일) marks a baby's 100th day, from a time when surviving it was worth a feast. Couples borrowed the milestone."
+    },
+    {
+      "type": "content",
+      "headline": "The first date **counts as day 1**",
+      "body": "So day 100 lands 99 days after you got together. Couple apps keep the count on the home screen."
+    },
+    {
+      "type": "stat",
+      "stat": "12",
+      "headline": "Couple days **on the 14th**",
+      "body": "Valentine's, White Day, Rose Day, Kiss Day. By popular count, nearly every month has one on the 14th."
+    },
+    {
+      "type": "content",
+      "headline": "Being a couple **is something you show**",
+      "body": "Matching rings, matching outfits, a shared profile photo. The milestones give everyone a date to show it on."
+    },
+    {
+      "type": "content",
+      "headline": "You count years. **Koreans count days.**",
+      "body": "Many couples abroad wait for the one-year mark. In Korea, you'd hit day 100, 200 and 300 before then."
+    },
+    {
+      "type": "content",
+      "headline": "Singles **get a day too**",
+      "body": "On April 14, Black Day, single people eat jjajangmyeon (짜장면), black bean noodles. Half joke, half ritual."
+    },
+    {
+      "type": "content",
+      "headline": "In Korea, **love comes with a counter**",
+      "body": "Every day together adds one. Every hundred gets a party."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred evening street with couples walking behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Korean couples don't wait a year for their first anniversary. They celebrate day 100, then day 200, then day 300.\n\nThe count starts on the day you get together, the idea comes from a baby's 100th-day feast, and there's a couple day on the 14th of nearly every month. Singles even get Black Day.\n\nWhat milestones do couples celebrate where you live?",
+  "hashtags": [
+    "#koreancouple",
+    "#100days",
+    "#백일",
+    "#커플",
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoullife",
+    "#datinginkorea",
+    "#culturedifferences",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "Some couples don't even wait for day 100. Day 22 has a name too: tutu (투투), from \"two-two,\" and it's a small excuse for a date or a gift. Then comes Pepero Day on November 11, when couples trade chocolate sticks. What's the first milestone couples actually celebrate in your country?",
+  "fact_check": [
+    "4장 '사귄 첫날을 1일로 센다': 가장 널리 쓰는 방식이고 커플 앱 대부분의 기본값. 사귄 다음 날을 1일로 세는 커플도 있음.",
+    "5장 '12': 매월 14일 기념일(다이어리·밸런타인·화이트·블랙·로즈·키스·실버·그린·포토·와인·무비·허그데이)은 비공식 대중 문화. 'By popular count'로 한정함.",
+    "3장 백일 유래: 영아 사망률이 높던 시절 100일을 넘긴 것을 축하한 풍습이라는 설명이 일반적.",
+    "8장 블랙데이(4월 14일) 짜장면: 널리 알려진 관습이나 실제로 챙기는 사람 비율은 소수. 'Half joke'로 톤 조절.",
+    "댓글 투투(22일)·빼빼로데이(11월 11일): 비공식 기념일. 빼빼로는 상표라 댓글에서 'Pepero Day' 명칭만 사용."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a young Korean couple walking hand in hand on a Seoul street at golden hour, seen from behind, a small bouquet in one hand, warm natural light, square 1:1, no text, no logos, no readable signs or screens, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a small restaurant table set for two with a bouquet of flowers and a small open ring box, candle light, hands of a couple visible at the edges, square 1:1, no text, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a traditional Korean baby's 100th day table with white rice cakes baekseolgi and colorful fruit, soft warm home light, no people, square 1:1, no text, no logos, no banners, no readable signs, no brand names, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph close-up of a young Korean woman's hand holding a smartphone on a cafe table, the screen showing a blurred unreadable pastel app with a heart shape, a latte nearby, soft daylight, square 1:1, no text, no logos, no readable screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a wall calendar page hanging in a cozy Korean apartment, one date circled with a hand drawn red heart, all numbers and letters blurred and unreadable, soft window light, square 1:1, no readable text, no logos, no brand names, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a young Korean couple in matching beige outfits standing side by side at a Seoul riverside park, seen from behind and slightly to the side, afternoon light, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a couple's hands on a cafe table showing matching thin silver rings, two coffee cups, soft daylight, square 1:1, no text, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of a bowl of Korean jjajangmyeon black bean noodles on a simple restaurant table with pickled radish and onion, one pair of chopsticks, a solo diner's hand, square 1:1, no text, no logos, no readable signs or menus, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a young Korean couple sitting on steps along the Han River at dusk, seen from behind, city lights across the water, square 1:1, no text, no logos, no readable signs, no brand names, people not looking at camera, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a busy Seoul street in the evening with several couples walking, softly blurred, warm shop lights, square 1:1, no text, no logos, no readable signs or screens, no brand names, people not looking at camera, calm lower third for text overlay."
+  }
+}
