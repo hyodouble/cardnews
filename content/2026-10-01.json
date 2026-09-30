@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-01",
+  "weekday": "목요일",
+  "topic": "military-service",
+  "title": "The 18 Months Every Korean Man Owes",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "ARMED FORCES DAY IN KOREA.",
+      "headline": "Almost every Korean man **gives the army 18 months.**",
+      "note": "It's not a career choice. It's the law, and here's why it still is."
+    },
+    {
+      "type": "content",
+      "headline": "It's the law, **not a choice**",
+      "body": "Healthy men must serve, usually in their early 20s. The Army takes 18 months, the Navy 20, the Air Force 21."
+    },
+    {
+      "type": "content",
+      "headline": "The war **never officially ended**",
+      "body": "The Korean War stopped in 1953 with an armistice, not a peace treaty. North and South are still technically at war."
+    },
+    {
+      "type": "content",
+      "headline": "The border is **an hour from Seoul**",
+      "body": "The DMZ sits about 50 km from the capital. Holding that line takes a large army, year after year."
+    },
+    {
+      "type": "stat",
+      "stat": "500K",
+      "headline": "Troops **on active duty**",
+      "body": "Roughly half a million, in a country of about 51 million. Conscripts fill most of the ranks."
+    },
+    {
+      "type": "content",
+      "headline": "The haircut **is the goodbye**",
+      "body": "The buzz cut comes the night before. Families say goodbye at the training camp gate, and parents often cry."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere a job. **Here, a rite of passage.**",
+      "body": "Most countries dropped the draft. In Korea, men trade army stories for life, and \"Where did you serve?\" is small talk."
+    },
+    {
+      "type": "content",
+      "headline": "Even BTS **went**",
+      "body": "All seven members served between 2022 and 2025. Olympic medalists and Asian Games champions are among the few who get an alternative."
+    },
+    {
+      "type": "content",
+      "headline": "An unfinished war, **a shared chapter**",
+      "body": "Until there's peace, 18 months stays part of growing up as a Korean man."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred train station platform with a few young men in uniform on leave behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Almost every Korean man spends 18 months or more in the military, and he doesn't get to say no.\n\nToday is Korea's Armed Forces Day. The Korean War ended in 1953 with a ceasefire, not a peace treaty, so the draft never went away. Even BTS served.\n\nDoes your country have military service?",
+  "hashtags": [
+    "#koreanmilitary",
+    "#militaryservice",
+    "#armedforcesday",
+    "#국군의날",
+    "#군대",
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#southkorea",
+    "#culturedifferences",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "Girlfriends who wait for a boyfriend in the army are nicknamed gomsin (곰신), short for rubber shoes, an old image of a faithful partner. Breaking up while he's away is called \"flipping the rubber shoes.\" How does your country handle military service, and what do people there say about it?",
+  "fact_check": [
+    "2장 복무기간: 육군·해병 18개월, 해군 20개월, 공군 21개월 (2020년 단축 이후). 사회복무요원 21개월은 생략함.",
+    "3장: 1953년 7월 27일 정전협정. 평화협정은 체결되지 않음.",
+    "4장 'about 50 km': 서울 도심~DMZ 거리는 경로에 따라 40~60km. 'about'으로 한정함.",
+    "5장 '500K': 2024 국방백서 기준 상비병력 약 50만 명. 인구 약 5,100만. 병사가 간부보다 많음 → 'most of the ranks'.",
+    "8장 BTS: 진 2022년 12월 입대, 2025년 6월 전원 전역·소집해제(슈가는 사회복무요원). 체육 특례는 올림픽 메달·아시안게임 금메달, 이 경우도 기초군사훈련은 받음. 'among the few'로 한정.",
+    "댓글 '곰신 거꾸로 신는다': 널리 쓰는 속어."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a young Korean man in a woodland-pattern camouflage military uniform and cap walking alone down a quiet tree-lined road in early autumn, seen from behind, a duffel bag on his shoulder, soft morning light, square 1:1, no text, no logos, no readable name tapes or patches, no flags, no brand names, face not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a neatly folded green camouflage military uniform and a pair of black combat boots on a simple barracks bunk bed, soft window light, no people, square 1:1, no text, no logos, no readable name tapes or patches, no brand names, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a tall barbed wire fence stretching across a misty autumn landscape near the Korean border, rolling hills in the distance, overcast light, no people, square 1:1, no text, no logos, no signs, no flags, no brand names, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a wide river valley at dawn seen through a chain-link fence topped with barbed wire, low hills on the far bank, a small guard post silhouette in the distance, square 1:1, no text, no logos, no readable signs, no flags, no brand names, no people visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of long rows of soldiers in camouflage uniforms standing in formation on a large parade ground, shot from far behind and slightly above, figures small and anonymous, soft overcast light, square 1:1, no text, no logos, no readable patches, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph close-up of electric hair clippers buzzing a young man's head at a small barber shop, hair falling onto a cape, seen from behind, warm indoor light, square 1:1, no text, no logos, no readable signs or mirrors showing faces, no brand names, face not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of two Korean men in their thirties in casual clothes laughing over soju glasses and grilled meat at a busy Korean barbecue restaurant at night, seen from the side and behind, warm light, square 1:1, no text, no logos, no readable labels or signs, no brand names, faces not clearly visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of an empty concert stage bathed in purple light seen from the back of a dark arena, a sea of glowing light sticks in the crowd, softly blurred, square 1:1, no text, no logos, no screens with words, no brand names, no identifiable people, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Korean mother hugging her grown son, a tall adult man about 20 years old, clearly taller than her, with a fresh buzz cut, wearing a plain dark jacket, in front of a military training camp gate, seen from behind the son, other adult families softly blurred around them, autumn daylight, square 1:1, no children, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a busy Korean train station platform in the evening with a few young men in camouflage uniforms carrying bags among other travelers, softly blurred, warm station lights, square 1:1, no text, no logos, no readable signs or screens, no brand names, people not looking at camera, calm lower third for text overlay."
+  }
+}
