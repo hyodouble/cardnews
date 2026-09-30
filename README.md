@@ -273,6 +273,7 @@ and a status poll while the video is processed.
 | 2026-09-27 (일) | Daiso, the store where nothing costs more than 5,000 won | published via API to Facebook and Threads; Instagram refused one slide URL (9004 "Only photo or video") on the first run and went up on a by-hand retry minutes later; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-09-28 (월) | Ppalli-ppalli, why Koreans hit the elevator door-close button first | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-09-29 (화) | The unread "1" on KakaoTalk, and why Koreans read it as being ignored | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-09-30 (수) | Korean couples counting their relationship in days: day 100, the 14th of every month, Black Day | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
