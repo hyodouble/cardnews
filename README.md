@@ -275,6 +275,7 @@ and a status poll while the video is processed.
 | 2026-09-29 (화) | The unread "1" on KakaoTalk, and why Koreans read it as being ignored | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-09-30 (수) | Korean couples counting their relationship in days: day 100, the 14th of every month, Black Day | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-01 (목) | Armed Forces Day: why Korean men still serve 18 months (armistice, not peace), the buzz-cut goodbye, BTS | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-02 (금) | "Have you eaten?" as the Korean hello: hungrier times, bap as rice and meal, "let's eat sometime" | published via API to Instagram, Facebook and Threads (Threads answered 500 and was retried by hand, first time without hashtags); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
