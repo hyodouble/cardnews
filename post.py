@@ -12,6 +12,7 @@ public URLs, never file uploads. The script turns each local path into
 BASE_URL/<path> and hands that to Meta.
 """
 import json
+import re
 import os
 import sys
 import time
@@ -117,7 +118,9 @@ def fit_threads(caption):
 
     Captions are written as English, a "· · ·" rule, then Korean. Dropping
     everything from the rule keeps one whole language rather than half of two.
+    Hashtags are dropped: the account does not use them on Threads.
     """
+    caption = re.sub(r"[ \t]*#\S+", "", caption).strip()
     if len(caption) <= THREADS_TEXT_LIMIT:
         return caption
     head = caption.split("· · ·")[0].strip()
