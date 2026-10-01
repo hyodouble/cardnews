@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-03",
+  "weekday": "토요일",
+  "topic": "dangun-myth",
+  "title": "Korea's Founding Story Starts With a Bear Eating Garlic",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "OCTOBER 3 IN KOREA.",
+      "headline": "Korea began **with a bear eating garlic.**",
+      "note": "Today is National Foundation Day. Here's the myth every Korean kid learns."
+    },
+    {
+      "type": "content",
+      "headline": "A god's son **came down a mountain**",
+      "body": "Hwanung, son of the king of heaven, descended to Mount Taebaek to rule. Today's holiday, Gaecheonjeol (개천절), means \"the day heaven opened.\""
+    },
+    {
+      "type": "content",
+      "headline": "A bear and tiger **wanted to be human**",
+      "body": "He gave them mugwort and 20 cloves of garlic. The rule: eat only that, and stay out of the sun for 100 days."
+    },
+    {
+      "type": "content",
+      "headline": "The tiger quit. **The bear didn't.**",
+      "body": "The tiger ran from the cave. After 21 days, the bear became a woman, Ungnyeo (웅녀), and married Hwanung."
+    },
+    {
+      "type": "stat",
+      "stat": "4359",
+      "headline": "This year, **by Dangun's count**",
+      "body": "Their son Dangun founded Gojoseon in 2333 BC, tradition says. Korea used his calendar officially until 1961."
+    },
+    {
+      "type": "content",
+      "headline": "His motto **is still in the law**",
+      "body": "Hongik ingan (홍익인간), \"benefit all people,\" was Dangun's founding ideal. Korea's education law still names it as its goal."
+    },
+    {
+      "type": "content",
+      "headline": "Other nations have founders. **Korea has a bear.**",
+      "body": "Many countries celebrate a battle or a declaration. Korea's national day goes back to a myth, and nobody finds that odd."
+    },
+    {
+      "type": "content",
+      "headline": "Yes, Koreans **joke about the garlic**",
+      "body": "Korea eats a lot of garlic, and the bear gets the credit. Bring up the myth and you'll hear the joke within a minute."
+    },
+    {
+      "type": "content",
+      "headline": "A bear, a cave, **a nation**",
+      "body": "Koreans tell it as myth, not history. But every October 3, the country still takes the day off for it."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred autumn evening by a traditional palace gate behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Korea's founding myth starts with a bear who ate garlic and mugwort in a cave and became a woman.\n\nToday is Gaecheonjeol, Korea's National Foundation Day. The bear's son Dangun founded the first Korean kingdom in 2333 BC, tradition says, and his motto is still in Korean law.\n\nWhat animal shows up in your country's origin story?",
+  "hashtags": [
+    "#gaecheonjeol",
+    "#개천절",
+    "#dangun",
+    "#단군",
+    "#koreanmyth",
+    "#korea",
+    "#koreanculture",
+    "#koreanhistory",
+    "#livinginkorea",
+    "#southkorea",
+    "#mythology",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "The tiger lost the myth but won the mascots. Hodori at the 1988 Seoul Olympics and Soohorang at the 2018 PyeongChang Winter Olympics were both tigers. The bear got Bandabi, the 2018 Paralympic mascot. Which animal would your country pick to tell its story?",
+  "fact_check": [
+    "2~4장 신화 내용: 삼국유사(1281, 일연) 기준. 쑥 한 줌·마늘 20개, 햇빛을 보지 않고 100일, 곰은 21일(삼칠일) 만에 여자가 됨. 호랑이는 견디지 못함.",
+    "5장 '4359': 단기 = 서기 + 2333 → 2026년 단기 4359년. 단기는 1948~1961년 공식 연호(1962년 1월 1일부터 서기).",
+    "6장 홍익인간: 교육기본법 제2조(교육이념)에 명시.",
+    "8장 마늘 소비: 한국 1인당 마늘 소비가 세계 최상위권이라는 건 널리 알려진 사실이나 수치는 쓰지 않음. 신화 때문이라는 건 농담으로 처리.",
+    "9장: 2026년 10월 3일은 토요일. 개천절은 대체공휴일 적용 대상이라 10월 5일(월)이 대체공휴일. 슬라이드에는 '그날 쉰다'고만 씀.",
+    "댓글: 호돌이(1988 서울), 수호랑(2018 평창 올림픽), 반다비(2018 평창 패럴림픽, 반달가슴곰)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a wild Asiatic black bear walking through a misty Korean mountain forest in autumn, seen from the side, soft morning light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of layered misty Korean mountain ridges at sunrise with rays of light breaking through the clouds onto a lone ancient tree on a peak, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a bundle of fresh mugwort leaves and a pile of whole garlic bulbs on a flat stone inside a dim cave, a thin beam of daylight from the entrance, no people, no animals, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a tiger walking away from a dark mountain cave entrance into an autumn forest, seen from behind, soft overcast light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an ancient square stone altar on a rocky mountaintop in Korea surrounded by mist and pine trees, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an empty bright Korean elementary school classroom with rows of small wooden desks and chairs, afternoon sunlight through the windows, no people, blank chalkboard, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a Korean family of four hiking up an autumn mountain trail on a holiday morning, seen from behind, red and yellow leaves, people not looking at camera, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of a Korean woman's hands peeling garlic cloves into a large stainless steel bowl on a kitchen table, a pile of whole garlic bulbs beside it, warm home light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of layered blue mountain ridges of Korea at sunset seen from a high peak, soft haze between the ridges, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of people strolling past a traditional Korean palace gate with curved tiled roofs on an autumn evening, warm lights, softly blurred, people not looking at camera, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
