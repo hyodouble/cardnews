@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-02",
+  "weekday": "금요일",
+  "topic": "bap-greeting",
+  "title": "Why Koreans Say \"Have You Eaten?\" Instead of Hello",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "FRIDAY IN SEOUL.",
+      "headline": "In Korea, \"Have you eaten?\" **means hello.**",
+      "note": "Bap meogeosseo? (밥 먹었어?) It's not a lunch invitation. Mostly."
+    },
+    {
+      "type": "content",
+      "headline": "It's a greeting, **not a question**",
+      "body": "Friends, coworkers and parents all use it. The right answer is \"Yes, you?\" Nobody wants your menu."
+    },
+    {
+      "type": "content",
+      "headline": "It comes from **hungrier times**",
+      "body": "Within living memory, many Korean families didn't have enough to eat. Asking if someone had eaten meant asking if they were okay."
+    },
+    {
+      "type": "content",
+      "headline": "Bap (밥) means rice **and a meal**",
+      "body": "Rice was the meal. So \"Did you eat rice?\" became the everyday way to ask how someone was doing."
+    },
+    {
+      "type": "stat",
+      "stat": "$158",
+      "headline": "GDP per person **in 1960**",
+      "body": "Korea was among the poorest countries on earth. Today it's over $30,000. The greeting stayed."
+    },
+    {
+      "type": "content",
+      "headline": "Food is **how Koreans show care**",
+      "body": "Parents ask it before anything else. \"Did you eat?\" can also mean \"I worry about you\" or \"Let's make up.\""
+    },
+    {
+      "type": "content",
+      "headline": "\"How are you?\" vs. **\"Did you eat?\"**",
+      "body": "Both are greetings nobody answers honestly. One just happens to be about food."
+    },
+    {
+      "type": "content",
+      "headline": "\"Let's eat sometime\" **isn't a plan**",
+      "body": "Eonje bap hanbeon meokja (언제 밥 한번 먹자) is a friendly goodbye. Foreigners often wait for a call that never comes."
+    },
+    {
+      "type": "content",
+      "headline": "Asking about food **is asking about you**",
+      "body": "A country that remembers being hungry still says hello with a meal."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred evening alley of small Korean restaurants behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, \"Have you eaten?\" is how people say hello, and it comes from a time when many families couldn't be sure they would.\n\nBap means rice and a meal, food is how Koreans show care, and \"Let's eat sometime\" is a goodbye, not a plan.\n\nWhat does hello sound like where you live?",
+  "hashtags": [
+    "#koreanfood",
+    "#koreanlanguage",
+    "#밥먹었어",
+    "#learnkorean",
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoullife",
+    "#koreanphrases",
+    "#culturedifferences",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One of the most quoted lines in Korean film is a detective asking a suspect, \"Do you even eat?\" (밥은 먹고 다니냐?) in Memories of Murder (2003). From him it sounds like pity and threat at once, and every Korean hears both. What everyday greeting in your language isn't really a question?",
+  "fact_check": [
+    "5장 '$158': World Bank 1960년 한국 1인당 GDP(현재 달러) 약 158달러. 2024년 약 3만6천 달러라 'over $30,000'로 씀.",
+    "3장 '살아 있는 사람들의 기억 속에서 굶주림': 1950~60년대 보릿고개. 인사의 유래는 통설이며 학술적 확정은 아님.",
+    "8장 '언제 밥 한번 먹자'는 빈말: 대중적 인식. 'often'으로 한정.",
+    "댓글: 살인의 추억(2003, 봉준호) 송강호 대사 '밥은 먹고 다니냐?'. 정확한 대사 확인됨, 영어 번역은 의역."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a warm Korean home dinner table seen from above with bowls of white rice, soup and many small side dishes, several hands reaching with chopsticks and spoons, soft evening light, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of two Korean office workers in casual business clothes passing each other in a bright office corridor, one giving a small friendly wave, seen from behind and the side, daylight, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a modest old Korean countryside kitchen with a black iron rice pot on a wood-fired stove, steam rising, worn earthen walls, soft dim light, no people, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a close-up of a steaming bowl of freshly cooked white rice in a simple stainless steel Korean rice bowl on a wooden table, metal spoon and chopsticks beside it, warm light, no people, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an old dented brass rice bowl with a lid on a worn wooden low table in a traditional Korean room, soft window light, no people, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an older Korean mother's hands packing homemade side dishes like kimchi into plastic containers on a kitchen counter for her adult child, warm home light, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of two young Korean friends meeting on a Seoul sidewalk, one waving hello, seen from behind, autumn afternoon light, people not looking at camera, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of two Korean friends parting ways at the top of subway station stairs in Seoul, one waving goodbye while walking away, evening, seen from behind, people not looking at camera, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Korean family dinner at home with rice bowls and stew in the center of the table, adults and grandparents at the table seen from behind and the side, warm lamp light, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a busy narrow alley of small Korean restaurants in Seoul at night, warm lights, steam from kitchens, softly blurred people walking, people not looking at camera, square 1:1, no text, no logos, no readable signs, labels or screens, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
