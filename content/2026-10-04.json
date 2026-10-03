@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-04",
+  "weekday": "일요일",
+  "topic": "danpung-forecast",
+  "title": "Korea Forecasts Autumn Leaves Like the Weather",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "SUNDAY IN KOREA.",
+      "headline": "Korea forecasts autumn leaves **like the weather.**",
+      "note": "Maps, dates and an official start line. People plan their weekends around it."
+    },
+    {
+      "type": "content",
+      "headline": "Leaf season **comes with a map**",
+      "body": "Every fall, forecasters publish when danpung (단풍), autumn foliage, should reach each famous mountain, week by week. The news tracks it daily."
+    },
+    {
+      "type": "content",
+      "headline": "There's an **official first day**",
+      "body": "When the top fifth of a mountain turns, forecasters declare \"first foliage.\" Seoraksan usually goes first, around late September."
+    },
+    {
+      "type": "content",
+      "headline": "Then the red **moves south**",
+      "body": "From Seoraksan in the northeast, the color line slides down the peninsula. Down south, Naejangsan peaks in early November."
+    },
+    {
+      "type": "stat",
+      "stat": "80%",
+      "headline": "That's **peak foliage**",
+      "body": "Once 80% of a mountain has turned, it's officially at its best. That's the weekend the trails fill up."
+    },
+    {
+      "type": "content",
+      "headline": "A mountain country, **a short window**",
+      "body": "About 70% of Korea is mountains, and peak color lasts only a week or two. Miss it, and you wait a year."
+    },
+    {
+      "type": "content",
+      "headline": "You wing it. **Koreans check the forecast.**",
+      "body": "Elsewhere, leaf-peeping is a whim. In Korea, it's a date on the calendar, often with a tour bus and a hiking club."
+    },
+    {
+      "type": "content",
+      "headline": "Spring **gets one too**",
+      "body": "Cherry blossoms have their own forecast every March. Korea tracks its seasons like a train timetable."
+    },
+    {
+      "type": "content",
+      "headline": "Even autumn **runs on a schedule**",
+      "body": "The leaves turn when they turn. But in Korea, everyone already knows the date."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A blurred autumn street lined with yellow ginkgo trees behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Korea forecasts autumn leaves like the weather, with maps, dates and an official start line for each mountain.\n\nFirst foliage is declared when the top fifth of a mountain turns, peak comes at 80%, and the color moves south from Seoraksan to Naejangsan over about a month.\n\nWhen do people where you live go out to watch the seasons change?",
+  "hashtags": [
+    "#autumninkorea",
+    "#danpung",
+    "#단풍",
+    "#fallfoliage",
+    "#seoraksan",
+    "#korea",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#koreatravel",
+    "#hikingkorea",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "On peak weekends at Seoraksan, the trail to the top can turn into one long single-file line, so many hikers leave Seoul before dawn to beat the crowds. Tour buses run special leaf-season routes from the city. What's the one season people in your country plan their weekends around?",
+  "fact_check": [
+    "3·5장 기준: 기상청 정의, 산 정상부터 약 20%가 물들면 '첫 단풍', 산 전체의 약 80%가 물들면 '절정'. 'top fifth'는 20%를 풀어 쓴 표현.",
+    "2장 '예보': 기상청은 단풍 '예보'를 중단하고 관측만 하며, 예상 시기 지도는 민간 기상업체(웨더아이·케이웨더 등)가 냄. 그래서 'forecasters'로만 씀.",
+    "3장 설악산 첫 단풍 평년 9월 말(대략 9/26~29). 4장 내장산 절정 평년 11월 초.",
+    "6장 '약 70% 산지': 국토의 약 63~70%로 자료마다 다름. 'About 70%'. 절정 1~2주는 일반적 서술.",
+    "8장 벚꽃 개화 예보: 민간 기상업체가 2~3월에 발표. 'every March'는 대략적 표현.",
+    "댓글: 설악산 정상 등산로 정체·새벽 출발은 언론에 자주 나오는 장면. 단풍 관광버스 상품 존재."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of vivid red and orange maple forests covering steep Korean mountain slopes seen from above, a winding mountain road below, soft autumn morning light, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a hiker's hands holding a folded paper trail map in front of a wide view of autumn mountains with red and yellow foliage, the map blurred and unreadable, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of jagged granite peaks of a Korean mountain where only the tops have turned red and orange while the lower slopes are still green, clear blue sky, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of long layered Korean mountain ranges in autumn with colors fading from deep red in the foreground to green in the distance, soft haze, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a crowded narrow mountain trail in a blazing red and yellow autumn forest with many hikers in colorful jackets walking in a line, seen from behind, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of close-up of bright red maple leaves backlit by the sun against a blurred mountain valley, shallow depth of field, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a row of white tour buses parked at a mountain parking lot surrounded by autumn foliage, hikers with backpacks walking toward the trail, seen from behind, no readable signs on the buses, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of a tunnel of pink cherry blossom trees over a quiet riverside path in spring in Korea, petals falling, a few people walking far away seen from behind, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a lone hiker sitting on a rock overlooking a valley filled with red and gold autumn foliage, seen from behind, late afternoon light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul street lined with bright yellow ginkgo trees in autumn, fallen leaves on the sidewalk, people walking softly blurred, people not looking at camera, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
