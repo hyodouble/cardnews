@@ -278,6 +278,7 @@ and a status poll while the video is processed.
 | 2026-10-02 (금) | "Have you eaten?" as the Korean hello: hungrier times, bap as rice and meal, "let's eat sometime" | published via API to Instagram, Facebook and Threads (Threads answered 500 and was retried by hand, first time without hashtags); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-03 (토) | Gaecheonjeol: the Dangun myth, the bear that ate garlic and mugwort, Hongik ingan | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-04 (일) | Autumn foliage forecasts: danpung maps, the official "first foliage" and 80% peak, the color line moving south, tour-bus leaf-peeping | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-05 (월) | Substitute holidays: why Saturday's Foundation Day became Monday off, the 2014 start and later expansions, the five-worker line, two long weekends this week | published via API to Instagram, Facebook and Threads (Threads answered 400 "media not found" and was retried by hand); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
