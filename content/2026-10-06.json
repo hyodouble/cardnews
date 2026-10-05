@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-06",
+  "weekday": "화요일",
+  "topic": "red-ink-names",
+  "title": "Why You Never Write a Korean's Name in Red",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "TUESDAY IN KOREA.",
+      "headline": "Never write a Korean's name **in red ink.**",
+      "note": "It's not about the color. It's about death."
+    },
+    {
+      "type": "content",
+      "headline": "A red name **feels like a curse**",
+      "body": "Write someone's name in red pen and many Koreans flinch. Some will quietly ask you to write it again in black."
+    },
+    {
+      "type": "content",
+      "headline": "Nobody agrees **where it started**",
+      "body": "One story blames King Sejo, said to have marked rivals in red before a purge. Another points to war records marking the dead."
+    },
+    {
+      "type": "content",
+      "headline": "Every story **ends in death**",
+      "body": "Red looks like blood, and a name stands for the person. Together, it reads like a death notice."
+    },
+    {
+      "type": "stat",
+      "stat": "4",
+      "headline": "The other **death sign**",
+      "body": "Four sounds like \"death\" (사, sa). Some Korean elevators skip it and show \"F\" instead."
+    },
+    {
+      "type": "content",
+      "headline": "Why it **still sticks**",
+      "body": "Few Koreans think a pen can kill. But why risk it, and why make a friend uneasy?"
+    },
+    {
+      "type": "content",
+      "headline": "You see a pen. **Koreans see a message.**",
+      "body": "Elsewhere, red ink just means corrections. In Korea, on a name, it reads like bad luck."
+    },
+    {
+      "type": "content",
+      "headline": "Red stamps **are totally fine**",
+      "body": "Name seals, dojang (도장), are pressed in red ink every day. The taboo is the red pen, not the color."
+    },
+    {
+      "type": "content",
+      "headline": "Black or blue. **Never red.**",
+      "body": "It's a small rule, and an easy way to show a Korean friend you get it."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Hanok rooftops in Seoul at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, writing someone's name in red ink is a quiet taboo, because a red name is linked to death.\n\nNobody agrees on where it started, from a Joseon king's purge to wartime records, but the rule sticks. Red name stamps, oddly, are fine.\n\nIs there a color or number people avoid where you live?",
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#koreansuperstition",
+    "#redink",
+    "#superstition",
+    "#koreanlife",
+    "#livinginkorea",
+    "#koreanetiquette",
+    "#culturalfacts",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "Red isn't always bad luck in Korea. For decades, a classic way to spend a first paycheck was buying red long underwear for your parents, a warm gift for winter. So red on a name feels like death, but red on the body means care. Is there a color that means something completely different where you live?",
+  "fact_check": [
+    "3장 유래: 단일 정설 없음. 세조(계유정난) 반대파 이름을 붉게 표시했다는 설, 6·25 이후 전사자 명부·통지서 붉은 표시설, 진시황설 등 민간 설명. 'said to have', 'one story'로 단정 피함.",
+    "4장: 붉은색=피=죽음 연상은 일반적 설명.",
+    "5장: 숫자 4(死) 기피, 엘리베이터 4층을 F로 표기하는 건물 다수. 'Some'.",
+    "8장: 도장은 인주(붉은색)로 찍음. 붉은 도장은 금기 아님.",
+    "댓글: 첫 월급으로 부모님께 빨간 내복 사드리는 풍습(1960~70년대부터). 'For decades'."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a red ballpoint pen lying across a blank white notebook page on a wooden desk, soft side light, minimal composition, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a hand holding a red pen hesitating above a blank greeting card on a desk, the card empty, warm indoor light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of an old Korean palace hall courtyard at dusk with dark wooden pillars and stone pavement, empty, moody dramatic sky, historical atmosphere, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a single white chrysanthemum flower and thin incense smoke on a dark wooden table in a quiet Korean memorial room, soft dim light, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an apartment elevator button panel close up, the buttons softly out of focus and all labels blurred and unreadable, brushed steel, cool light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of two friends at a Seoul cafe table seen from behind over the shoulder, one writing in a notebook with a black pen, coffee cups, warm light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a stack of papers with red pen correction marks, all writing blurred and unreadable, a red pen on top, shallow depth of field, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of a traditional Korean wooden name seal next to an open round red ink pad, a red stamp impression on paper, the impression blurred and unreadable, wooden table, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a black pen resting on a blank birthday card with a white envelope and a small wrapped gift on a wooden table, warm cozy light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of traditional hanok tiled rooftops in Seoul at dusk with city lights beginning in the distance, warm orange sky, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
