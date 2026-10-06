@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-07",
+  "weekday": "수요일",
+  "topic": "camera-shutter-sound",
+  "title": "Why Korean Phone Cameras Always Click",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "WEDNESDAY IN KOREA.",
+      "headline": "In Korea, your phone camera **can't go silent.**",
+      "note": "Even on mute. Every photo clicks."
+    },
+    {
+      "type": "content",
+      "headline": "Mute does nothing **to the shutter**",
+      "body": "Switch a Korean phone to silent and take a photo. It still goes click, every single time."
+    },
+    {
+      "type": "content",
+      "headline": "It's about **privacy**",
+      "body": "Camera phones made it easy to take a photo without anyone noticing. The click lets the people around you know."
+    },
+    {
+      "type": "content",
+      "headline": "Not a law, **but it's everywhere**",
+      "body": "It's an industry standard, not a law. Still, phones sold in Korea come with the sound locked on."
+    },
+    {
+      "type": "stat",
+      "stat": "2004",
+      "headline": "The year the click **became standard**",
+      "body": "Korea set the rule as camera phones took off. Twenty years later, it's still on."
+    },
+    {
+      "type": "content",
+      "headline": "Koreans **barely notice it**",
+      "body": "Most Koreans have never owned a silent camera. To them, the click is just what a photo sounds like."
+    },
+    {
+      "type": "content",
+      "headline": "Silent at home. **Click in Korea.**",
+      "body": "In most countries, mute means mute. Japan is one of the few places with the same habit."
+    },
+    {
+      "type": "content",
+      "headline": "So **silent camera apps** boomed",
+      "body": "Apps that skip the click are hugely popular, mostly for food photos in quiet cafes and sleeping babies."
+    },
+    {
+      "type": "content",
+      "headline": "Hear a click? **It's not broken.**",
+      "body": "If your phone clicks in a quiet room in Korea, nothing's wrong. That's just Korea."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul skyline at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, a phone camera can't go silent: every photo clicks, even on mute.\n\nIt started as a 2004 privacy standard, not a law, and phones sold in Korea still ship with the sound locked on. Silent camera apps exist for a reason.\n\nWhat surprised you most about phones in another country?",
+  "hashtags": [
+    "#korea",
+    "#koreanculture",
+    "#koreanphone",
+    "#camerasound",
+    "#shuttersound",
+    "#koreanlife",
+    "#livinginkorea",
+    "#techinkorea",
+    "#culturalfacts",
+    "#explainkorea",
+    "#onlyinkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "Fun detail: screenshots on Korean phones stay silent. Only the camera clicks, so you can save a map or a menu in total quiet. Most visitors only find out when their first photo in a quiet museum echoes across the room. What everyday sound is completely normal where you live but surprises visitors?",
+  "fact_check": [
+    "3·4·5장: 2004년 정보통신부 권고·TTA 단체표준으로 휴대폰 촬영음 의무화(법 아님, 업계 자율). 성범죄 언급은 피하고 'privacy'로만 표현.",
+    "4장: 국내 출시폰은 촬영음 고정. 해외 구입폰 동작은 기종마다 달라 본문에서 뺌.",
+    "7장: 일본도 촬영음 관행 있음(업계 자율). 'one of the few'.",
+    "8장: 무음 카메라 앱 인기는 일반적 사실. 용도(음식·아기)는 흔한 설명.",
+    "댓글: 스크린샷은 무음 — 기종·설정에 따라 다를 수 있음. 갤럭시 기본은 무음 가능."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a hand holding a smartphone up to photograph a bowl of Korean bibimbap on a wooden table in a cozy Seoul restaurant, the phone screen blurred, warm light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a smartphone lying face up on a cafe table next to a latte, the screen blank and dark, soft morning window light, minimal composition, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a busy Seoul crosswalk seen from above with people walking in soft motion blur, nobody identifiable, daytime city light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a row of new smartphones on a white display table in a bright electronics store, all screens blank, clean minimal look, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an old silver flip camera phone from the early 2000s lying open on a wooden desk, nostalgic warm light, shallow depth of field, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of several hands holding smartphones above a table full of Korean barbecue and side dishes, taking photos of the food together, warm restaurant light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a traveler seen from behind holding up a smartphone to photograph a Korean palace gate, the phone screen blurred, clear blue autumn sky, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content8": "Realistic editorial photograph of a hand holding a smartphone over a slice of cake and a coffee cup in a quiet minimalist Seoul cafe, the screen blurred, soft natural light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a smartphone resting on an open book on a table in a calm quiet library, rows of bookshelves softly blurred behind, warm light, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of the Seoul skyline at dusk over the Han River with city lights coming on, warm orange and blue sky, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
