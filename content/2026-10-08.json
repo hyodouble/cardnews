@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-08",
+  "weekday": "목요일",
+  "topic": "hangeul-day",
+  "title": "Korea Has a Holiday for Its Alphabet",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "TOMORROW IN KOREA.",
+      "headline": "Korea takes a day off **to thank its alphabet.**",
+      "note": "October 9. A national holiday for 24 letters."
+    },
+    {
+      "type": "content",
+      "headline": "Tomorrow is **Hangeul Day**",
+      "body": "Hangeul Day (한글날) celebrates the Korean alphabet, Hangeul (한글). Schools and most offices close for it."
+    },
+    {
+      "type": "content",
+      "headline": "Before it, **reading was for elites**",
+      "body": "Koreans wrote in Chinese characters. Learning thousands of them took years, so most people could not read."
+    },
+    {
+      "type": "content",
+      "headline": "A king **made a new script**",
+      "body": "King Sejong (세종) and his scholars created Hangeul and published it in 1446, so ordinary people could write."
+    },
+    {
+      "type": "content",
+      "headline": "The letters **copy your mouth**",
+      "body": "Consonants are shaped like the tongue and lips that make each sound. The script was designed, not evolved."
+    },
+    {
+      "type": "content",
+      "headline": "Not everyone **wanted it**",
+      "body": "Some scholars opposed it. Chinese characters were the language of power, and an easy script threatened that."
+    },
+    {
+      "type": "content",
+      "headline": "Most alphabets evolved. **This one was invented.**",
+      "body": "Few scripts in daily use have a known creator, date and purpose. Koreans know all three for theirs."
+    },
+    {
+      "type": "stat",
+      "stat": "24",
+      "headline": "Letters in **the modern alphabet**",
+      "body": "14 consonants and 10 vowels. The original had 28; four dropped out of use over the centuries."
+    },
+    {
+      "type": "content",
+      "headline": "Learn it **before lunch**",
+      "body": "Its own 1446 guide says a wise person learns it in one morning. Many visitors read signs within a day."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul skyline at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Korea gets a national holiday every October 9 for one thing: its alphabet, Hangeul.\n\nKing Sejong published it in 1446 so ordinary people could finally read and write, and the letters are shaped like the mouth that makes each sound.\n\nHow long did it take you to learn your first alphabet?",
+  "hashtags": [
+    "#korea",
+    "#hangeul",
+    "#hangul",
+    "#hangeulday",
+    "#koreanalphabet",
+    "#learnkorean",
+    "#koreanlanguage",
+    "#kingsejong",
+    "#koreanculture",
+    "#koreanhistory",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "Bonus fact: Hangeul Day was dropped from the list of days off in 1991 because officials said Korea had too many holidays. People kept pushing back, and it became a day off again in 2013. What does your country celebrate that people elsewhere find surprising?",
+  "fact_check": [
+    "2·4장: 1443년 창제, 1446년 반포(훈민정음). 한글날 10월 9일은 반포 기준.",
+    "2장: 한글날은 공휴일. 'most offices close'는 관공서·대부분 회사 기준.",
+    "6장: 최만리 등 집현전 일부 학자의 반대 상소(1444). 이름은 생략.",
+    "8장: 현대 기본 자모 24자(자음 14, 모음 10), 창제 당시 28자.",
+    "9장: 훈민정음 해례본 정인지 서문 '슬기로운 사람은 아침을 마치기 전에, 어리석은 사람도 열흘이면 배운다'. 'many visitors read signs within a day'는 흔한 설명이라 단정 피함.",
+    "댓글: 1991년 공휴일 제외(1990년 결정, 1991년부터), 2013년 공휴일 재지정."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a traditional Korean calligraphy brush resting on an ink stone beside a sheet of blank hanji paper on a low wooden table, soft warm window light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of the giant bronze statue of a seated Korean king at Gwanghwamun Square in Seoul seen from a low angle, clear blue autumn sky, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a stack of very old bound books with worn brown covers on a wooden shelf in a dim archive room, dust in a beam of light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of the throne hall inside a Korean royal palace in Seoul, red wooden pillars and an ornate painted ceiling, empty and quiet, soft daylight, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a hand holding a calligraphy brush above blank hanji paper, a few abstract black ink strokes, close up, warm light, square 1:1, no text, no readable letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a Joseon era scholar's study room with a low wooden desk, rolled scrolls, a brush holder and paper sliding doors, no people, soft afternoon light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of an open blank notebook and a pen on a desk with a world globe softly blurred behind it, warm study light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of rows of wooden printing blocks seen at an angle in an old Korean museum display, carvings softly out of focus and unreadable, warm low light, square 1:1, no text, no readable letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a traveler seen from behind with a backpack walking down a lively Seoul street in the morning, shop signs completely blurred and unreadable, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of the Seoul skyline at dusk over the Han River with city lights coming on, warm orange and blue sky, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
