@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-09",
+  "weekday": "금요일",
+  "topic": "konglish",
+  "title": "The English Words Only Koreans Understand",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "HANGEUL DAY IN KOREA.",
+      "headline": "Koreans use English words **no English speaker knows.**",
+      "note": "Hand phone. Fighting. Eye shopping."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **Konglish**",
+      "body": "Konglish (콩글리시) means English-looking words made in Korea. Koreans use them daily. Native speakers often have no idea."
+    },
+    {
+      "type": "content",
+      "headline": "Borrowed, then **remade**",
+      "body": "Many English words came in through Japanese or after the Korean War. Then Koreans reshaped them to fit their own use."
+    },
+    {
+      "type": "content",
+      "headline": "Hand phone. **Eye shopping.**",
+      "body": "A cell phone is a \"hand phone\" (핸드폰). Window shopping is \"eye shopping\". Both make sense once you hear them."
+    },
+    {
+      "type": "content",
+      "headline": "Fighting! means **you've got this**",
+      "body": "\"Fighting\" (파이팅) is a cheer, not a threat. Koreans say it before exams, interviews and games."
+    },
+    {
+      "type": "content",
+      "headline": "Short, catchy, **and everyone gets it**",
+      "body": "To Koreans these aren't English mistakes. They're everyday Korean words that just happen to look English."
+    },
+    {
+      "type": "content",
+      "headline": "Your language **does it too**",
+      "body": "Germans call a cell phone a \"Handy\". Every language borrows English and bends it. Korea just does it loudly."
+    },
+    {
+      "type": "stat",
+      "stat": "0 WON",
+      "headline": "The price of **\"service\"**",
+      "body": "In a Korean restaurant, \"service\" (서비스) means a free extra dish from the owner. No charge."
+    },
+    {
+      "type": "content",
+      "headline": "Not bad English. **Korean.**",
+      "body": "Konglish was never made for English speakers. It's Korean, built from English parts."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul skyline at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, a cell phone is a \"hand phone\" and \"Fighting!\" means you've got this: welcome to Konglish, the English words only Koreans understand.\n\nThey're not mistakes. They're Korean words built from English parts, and Koreans use them every day.\n\nWhich English word does your language use in its own way?",
+  "hashtags": [
+    "#korea",
+    "#konglish",
+    "#koreanlanguage",
+    "#learnkorean",
+    "#koreanwords",
+    "#hangeulday",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#languagelearning",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: \"skinship\" (a Konglish word) means casual affectionate touch, like holding hands or a hug between friends or couples. Koreans talk about it all the time, and visitors usually guess it's about skincare. Which English word does your language use in a way English speakers would never recognize?",
+  "fact_check": [
+    "3장: 외래어 일부가 일본어 경유(핸들 등)·전후 미군 영향으로 들어온 것은 일반적 설명.",
+    "4장: 핸드폰=휴대전화, 아이쇼핑=윈도쇼핑. 표준 콩글리시 예.",
+    "5장: 파이팅은 응원 표현. 국립국어원 순화어 '아자'가 있으나 생략.",
+    "7장: 독일어 'Handy'=휴대전화. 사실.",
+    "8장: 식당 '서비스'=무료 추가 음식. 통계 아닌 '0원' 표현.",
+    "댓글: 스킨십=신체 접촉 애정 표현, 콩글리시(일본 경유설 있음, 생략)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a hand holding a smartphone on a busy Seoul shopping street at golden hour, the phone screen blurred, shop signs blurred and unreadable in the background, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of two friends seen from behind chatting while walking through a lively Seoul alley with colorful blurred shop fronts, warm afternoon light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a vintage Korean street scene from the 1960s in muted faded film tones, old shop fronts and a few people in period clothing seen from far away, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a young woman seen from behind looking into a bright clothing boutique window in Seoul holding a phone, reflections on the glass, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a group of friends seen from behind raising clenched fists together in cheer at an outdoor sports event in Korea, sunny day, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of friends' hands around a cafe table with coffee cups and phones, laughing mood, warm cozy Seoul cafe light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a stack of thick closed dictionaries with plain colored spines on a wooden desk next to reading glasses, soft window light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a restaurant owner's hand placing an extra small plate of fried dumplings onto a busy Korean restaurant table full of side dishes, warm light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Seoul street at night glowing with colorful neon shop lights, all signs completely blurred into soft bokeh, a few people seen from far away, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of the Seoul skyline at dusk over the Han River with city lights coming on, warm orange and blue sky, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
