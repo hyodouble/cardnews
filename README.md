@@ -281,6 +281,7 @@ and a status poll while the video is processed.
 | 2026-10-05 (월) | Substitute holidays: why Saturday's Foundation Day became Monday off, the 2014 start and later expansions, the five-worker line, two long weekends this week | published via API to Instagram, Facebook and Threads (Threads answered 400 "media not found" and was retried by hand); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-06 (화) | Red-ink names: why a name written in red feels like death, the competing origin stories, the number 4, red stamps being fine | published via API to Instagram, Facebook and Threads (Threads answered 500 transient and was retried by hand); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-07 (수) | Camera shutter sound: why Korean phone cameras click even on mute, the 2004 privacy standard (not a law), Japan's same habit, silent camera apps | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-08 (목) | Hangeul Day: the alphabet holiday, King Sejong's 1446 script, letters shaped like the mouth, scholars' opposition, 24 modern letters | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
