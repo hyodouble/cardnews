@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-10",
+  "weekday": "토요일",
+  "topic": "ondol",
+  "title": "Koreans Heat the Floor, Not the Air",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "HEATING SEASON IN KOREA.",
+      "headline": "Koreans don't heat the air. **They heat the floor.**",
+      "note": "And they've done it for centuries."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **ondol**",
+      "body": "Ondol (온돌) means \"warm stone\". Heat runs under the floor, so the whole room warms from the ground up."
+    },
+    {
+      "type": "content",
+      "headline": "Once fire, **now hot water**",
+      "body": "Old houses sent kitchen fire smoke through stone channels under the floor. Today, pipes carry hot water from a boiler instead."
+    },
+    {
+      "type": "content",
+      "headline": "The warmest spot **goes to elders**",
+      "body": "The floor nearest the fire was the hottest. That spot, araetmok (아랫목), was saved for grandparents and guests."
+    },
+    {
+      "type": "content",
+      "headline": "Life happens **on the floor**",
+      "body": "Koreans sit, eat and sleep on the floor. A warm floor turns the whole room into a seat and a bed."
+    },
+    {
+      "type": "content",
+      "headline": "That's why **shoes come off**",
+      "body": "You don't walk on a bed in shoes. Same logic for a floor you lie on every night."
+    },
+    {
+      "type": "content",
+      "headline": "Hot air rises. **Warm floors don't.**",
+      "body": "Heaters and radiators warm your head first. Ondol warms your feet first, and the heat stays low where you live."
+    },
+    {
+      "type": "stat",
+      "stat": "2018",
+      "headline": "The year heating became **heritage**",
+      "body": "Korea named ondol culture a National Intangible Cultural Heritage in 2018."
+    },
+    {
+      "type": "content",
+      "headline": "Not just heating. **A way of living.**",
+      "body": "In Korea, home starts at the floor, and the floor is warm."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul apartment blocks at dusk with warm window lights, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Korean homes don't heat the air. They heat the floor, a system called ondol that Koreans have lived on for centuries.\n\nIt's why Koreans sit, eat and sleep on the floor, and why shoes always come off at the door.\n\nWhere does the heat come from in your home?",
+  "hashtags": [
+    "#korea",
+    "#ondol",
+    "#koreanhome",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#koreanapartment",
+    "#floorheating",
+    "#koreantradition",
+    "#hanok",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: many Koreans who sleep in a bed still put an electric heating mat (전기장판) under the sheets in winter. The warm-floor habit follows them even off the floor. How do people in your country keep warm at night when it gets cold?",
+  "fact_check": [
+    "1장 note: '수백 년'으로 보수적으로 씀. 고고학상 기원은 기원전까지 거슬러 올라간다는 설명이 일반적.",
+    "2장: 온돌(溫突)=따뜻하게 데운 돌/구들. 'warm stone' 의역.",
+    "3장: 아궁이 불의 열·연기가 구들 고래를 지나 굴뚝으로. 현대 아파트는 온수 배관 바닥난방.",
+    "4장: 아랫목=아궁이 가까운 가장 따뜻한 자리, 어른·손님 자리. 일반적 설명.",
+    "8장: 온돌문화, 2018-04-30 국가무형문화재 지정 확인(세계일보·경향 2018). 2,000년 이상 역사로 소개됨.",
+    "댓글: 전기장판 사용. 일반적 생활상, 통계 없음."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of bare feet resting on a warm glossy yellow-brown Korean apartment floor next to a folded thick blanket, soft winter morning window light, cozy mood, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a traditional Korean hanok room with paper sliding doors and a smooth oiled paper floor, warm afternoon light, empty and calm, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a traditional Korean stone fire hole (agungi) under a rustic kitchen with a small wood fire glowing inside and a black iron cauldron above, warm firelight, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of an elderly person's hands resting on a thick quilted blanket spread on a warm hanok floor, a low wooden table nearby, golden lamp light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a family seen from behind sitting on the floor around a low wooden table with Korean home dishes in a modern apartment living room, warm evening light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of several pairs of shoes neatly lined up at the entrance step of a Korean apartment, the clean wooden floor beyond, soft light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a person in thick socks lying on a warm wooden floor reading a book in a sunlit Korean apartment, seen from the shoulders down, cozy autumn mood, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a traditional Korean hanok village in autumn with tiled roofs and a thin trail of chimney smoke rising into a clear sky, warm late-afternoon light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a cozy Korean apartment room at night with a thick sleeping mat and blanket laid out on the warm floor and a small warm lamp glowing, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of Seoul apartment blocks at dusk with warm lights glowing in many windows, orange and blue autumn sky, no people, square 1:1, no text, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
