@@ -283,6 +283,7 @@ and a status poll while the video is processed.
 | 2026-10-07 (수) | Camera shutter sound: why Korean phone cameras click even on mute, the 2004 privacy standard (not a law), Japan's same habit, silent camera apps | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-08 (목) | Hangeul Day: the alphabet holiday, King Sejong's 1446 script, letters shaped like the mouth, scholars' opposition, 24 modern letters | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-09 (금) | Konglish: hand phone, eye shopping, fighting, German "Handy", restaurant "service" for free | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-10 (토) | Ondol: heating the floor not the air, kitchen-fire smoke channels to hot-water pipes, araetmok for elders, shoes off, 2018 heritage listing | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
