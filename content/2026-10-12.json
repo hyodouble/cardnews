@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-12",
+  "weekday": "월요일",
+  "topic": "kimchi refrigerator",
+  "title": "Koreans Own a Second Fridge Just for Kimchi",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "KIMJANG SEASON IS COMING.",
+      "headline": "Korean homes keep **a second fridge for kimchi.**",
+      "note": "And it's not because they ran out of space."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **a kimchi fridge**",
+      "body": "The kimchi refrigerator (김치냉장고) sits right next to the regular one. Its original job: keep kimchi tasting right."
+    },
+    {
+      "type": "content",
+      "headline": "It replaced **jars in the ground**",
+      "body": "For centuries families buried onggi (옹기) jars of kimchi in the yard. The earth kept them cold and steady all winter."
+    },
+    {
+      "type": "content",
+      "headline": "Apartments have **no yard**",
+      "body": "When Koreans moved into high-rises, the buried jars had nowhere to go. A machine had to do the ground's job."
+    },
+    {
+      "type": "content",
+      "headline": "Kimchi **never stops changing**",
+      "body": "Kimchi keeps fermenting. A little too warm and it turns sour fast. A kimchi fridge holds the temperature tighter than a normal one."
+    },
+    {
+      "type": "content",
+      "headline": "And then **the smell**",
+      "body": "Kimchi's smell gets into everything. A separate fridge keeps your milk from tasting like garlic."
+    },
+    {
+      "type": "content",
+      "headline": "Some homes chill wine. **Koreans chill kimchi.**",
+      "body": "Elsewhere a second fridge is for wine or beer. In Korea it's basic kitchen gear, and it now holds fruit, rice and meat too."
+    },
+    {
+      "type": "stat",
+      "stat": "1995",
+      "headline": "The year it **took off**",
+      "body": "The first hit kimchi fridge came out in 1995. Today most Korean homes have one."
+    },
+    {
+      "type": "content",
+      "headline": "Not a gadget. **A buried jar, upgraded.**",
+      "body": "The yard is gone, but Koreans kept the cold, steady ground. They just plugged it in."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Seoul apartment street at dusk with warm window lights, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Most Korean homes have a second fridge, and it's just for kimchi.\n\nIt started as a way to replace the clay jars families used to bury in the yard, back before everyone moved into apartments.\n\nWould you give up kitchen space for one?",
+  "hashtags": [
+    "#korea",
+    "#kimchi",
+    "#kimchirefrigerator",
+    "#koreanfood",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#kimjang",
+    "#koreankitchen",
+    "#fermentation",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: every November families make kimjang, salting and seasoning dozens of cabbages in one weekend to last the whole winter. UNESCO listed it as intangible heritage in 2013, and all of it ends up in the kimchi fridge. What food does your family make in one big batch every year?",
+  "fact_check": [
+    "3장: 겨울철 김장독을 땅에 묻어 보관한 전통은 일반적 설명.",
+    "5장: 김치냉장고가 일반 냉장고보다 온도 편차를 작게 유지(직냉식·정온) — 제조사·일반 설명. 수치 안 씀.",
+    "8장: 1995년 위니아만도 '딤채' 출시로 대중화(브랜드명은 안 씀). 보급률 90% 안팎 보도 다수 → '대부분'으로 완화.",
+    "댓글: 김장문화 2013년 유네스코 인류무형문화유산 등재. 김장 시기는 보통 11월~12월 초."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a modern Korean apartment kitchen with a regular refrigerator and a separate white lid-top kimchi refrigerator standing side by side, soft morning light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph looking down into an open lid-top kimchi refrigerator filled with neatly stacked plastic containers of red napa cabbage kimchi, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of brown Korean onggi earthenware jars half-buried in the ground of a traditional courtyard in winter, light snow on the lids, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a dense Korean high-rise apartment complex at dusk, rows of identical towers, warm window lights, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial close-up photograph of red napa cabbage kimchi in a glass container with tiny fermentation bubbles in the brine, cool light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of the inside of an open home refrigerator with a glass bottle of milk and fresh food on clean shelves, bright clean light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of an open stand-up kimchi refrigerator holding kimchi containers alongside apples, pears and a bag of rice, kitchen light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of several plastic kimchi storage containers stacked on a kitchen counter, red kimchi visible through the sides, warm light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of one brown Korean onggi earthenware jar standing next to a sleek modern white kitchen appliance, minimal composition, soft light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul apartment street at dusk, warm window lights, orange and blue sky, no people, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
