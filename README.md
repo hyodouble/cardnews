@@ -285,6 +285,7 @@ and a status poll while the video is processed.
 | 2026-10-09 (금) | Konglish: hand phone, eye shopping, fighting, German "Handy", restaurant "service" for free | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-10 (토) | Ondol: heating the floor not the air, kitchen-fire smoke channels to hot-water pipes, araetmok for elders, shoes off, 2018 heritage listing | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-11 (일) | Bungeoppang: fish-shaped winter snack, Japanese taiyaki borrowed then made Korean, cold-season stalls, no-address stalls mapped by apps, head-or-tail debate | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-12 (월) | Kimchi fridge: a second fridge just for kimchi, replacing clay jars buried in the yard, apartment living, fermentation temperature control, November kimjang | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
