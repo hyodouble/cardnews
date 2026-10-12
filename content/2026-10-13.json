@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-13",
+  "weekday": "화요일",
+  "topic": "doljabi",
+  "title": "Korean Babies Pick Their Future at One",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "A KOREAN BABY'S FIRST BIRTHDAY.",
+      "headline": "Korean babies **pick their future** at one.",
+      "note": "From a tray of objects, with the whole family watching."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **doljabi**",
+      "body": "At the dol (돌), the first birthday, the baby sits before a tray of objects. Doljabi (돌잡이) means whatever they grab first is their future."
+    },
+    {
+      "type": "content",
+      "headline": "Every object **means something**",
+      "body": "Thread means a long life. Money or rice means wealth. A brush or pencil means a scholar."
+    },
+    {
+      "type": "content",
+      "headline": "Why the **first** birthday?",
+      "body": "For most of history, many babies didn't live past one. Making it to a full year was worth a feast."
+    },
+    {
+      "type": "content",
+      "headline": "The tray **got an update**",
+      "body": "Parents now add a toy microphone for a star, a stethoscope for a doctor, a mouse for IT, a gavel for a judge."
+    },
+    {
+      "type": "content",
+      "headline": "And everyone **plays along**",
+      "body": "Relatives cheer and quietly slide the pencil closer. When the baby grabs the money, the room cracks up."
+    },
+    {
+      "type": "content",
+      "headline": "Cake elsewhere. **A forecast in Korea.**",
+      "body": "In many countries a first birthday is cake and a candle. In Korea it's a ceremony with a prediction attached."
+    },
+    {
+      "type": "stat",
+      "stat": "0.75",
+      "headline": "Korea's birth rate **in 2024**",
+      "body": "Births per woman, the lowest in the world. With so few babies, each first birthday gets the whole family."
+    },
+    {
+      "type": "content",
+      "headline": "Not a prophecy. **A wish, out loud.**",
+      "body": "Nobody really believes the thread. Doljabi is a family saying what they hope this child becomes."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Hanok rooftops at dusk with warm window lights, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "At a Korean baby's first birthday, they pick their future from a tray of objects.\n\nIt's called doljabi: thread for a long life, money for wealth, and these days a toy microphone or a stethoscope too.\n\nWhat would you have grabbed?",
+  "hashtags": [
+    "#korea",
+    "#doljabi",
+    "#doljanchi",
+    "#firstbirthday",
+    "#koreanculture",
+    "#koreantradition",
+    "#koreanbaby",
+    "#koreanfamily",
+    "#livinginkorea",
+    "#hanbok",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: the dol table always has rice cakes. White baekseolgi wishes the child a clean, pure life, and sorghum cakes rolled in red bean are meant to keep bad luck away. Some families made those red bean cakes every birthday until age 10. What food shows up at every birthday where you grew up?",
+  "fact_check": [
+    "3장: 실=장수, 돈·쌀=재물, 붓·연필·책=학문 — 일반적 설명. 활(무관)·바늘·가위 등은 생략.",
+    "4장: 돌 잔치가 높은 영아사망률 속 첫해를 넘긴 걸 축하한 데서 왔다는 설명 — 통설. '많은 아기'로 수치 안 씀.",
+    "5장: 마이크·청진기·마우스·판사봉 등 현대 돌잡이 용품 — 돌잔치 업체·기사에서 흔함.",
+    "6장: 친척들이 연필을 슬쩍 밀어주는 장면은 흔한 농담성 묘사, 단정 아님.",
+    "8장: 2024년 합계출산율 0.75 (통계청 2024 출생통계). '세계 최저'는 OECD·UN 비교 기준 보도 다수.",
+    "댓글: 백설기=순수·깨끗함, 수수팥떡=액막이, 10살까지 생일마다 수수팥떡 풍습 — 일반적 설명."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a traditional Korean first birthday table with stacked colorful rice cakes and fruit, and in front a low tray holding a skein of white thread, coins, a pencil and a calligraphy brush, a baby's small hands reaching toward the tray, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a one-year-old baby in a small colorful Korean hanbok seen from behind, sitting on a mat in front of a low tray of objects, warm indoor light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial close-up photograph of a wooden tray holding a skein of white cotton thread, a small pile of coins, a bowl of uncooked rice and a calligraphy brush, soft light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a quiet traditional Korean hanok room with paper doors, warm lamplight and a small folded baby blanket on the floor, nostalgic mood, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a modern first birthday tray holding a toy microphone, a toy stethoscope, a computer mouse and a small wooden gavel, bright clean light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of adult hands clapping around a baby at a small family birthday party, shot from the baby's shoulder height, warm festive light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a simple first birthday cake with one lit candle on a table, soft bokeh background, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of one pair of tiny baby shoes on a light wooden floor, soft window light, minimal composition, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial close-up photograph of a baby's small hand holding a skein of white thread, warm soft light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of traditional Korean hanok rooftops at dusk, warm window lights, orange and blue sky, no people, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
