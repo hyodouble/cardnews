@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-14",
+  "weekday": "수요일",
+  "topic": "gochu drying",
+  "title": "October Roads in Korea Turn Red",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "AUTUMN IN THE KOREAN COUNTRYSIDE.",
+      "headline": "In October, Korean roads **turn red.**",
+      "note": "Chili peppers, laid out to dry in the sun."
+    },
+    {
+      "type": "content",
+      "headline": "It's **chili pepper** season",
+      "body": "From late summer into autumn, farmers spread fresh red peppers anywhere flat and sunny: yards, rooftops, even road shoulders."
+    },
+    {
+      "type": "content",
+      "headline": "They become **gochugaru**",
+      "body": "Dried and ground, the peppers turn into gochugaru (고춧가루), the red flakes behind kimchi, stews and most red dishes."
+    },
+    {
+      "type": "content",
+      "headline": "Timed for **kimjang**",
+      "body": "In November comes kimjang (김장), when families make a winter's worth of kimchi. That takes a lot of chili flakes, made now."
+    },
+    {
+      "type": "content",
+      "headline": "Why not **a machine?**",
+      "body": "Dryers are faster. But sun-dried peppers, called taeyangcho (태양초), sell for more. Many say they taste sweeter and look brighter."
+    },
+    {
+      "type": "content",
+      "headline": "Asphalt is **flat and hot**",
+      "body": "A country road gets full sun all day. Drying crops on it is illegal and risky, yet every autumn some farmers still do."
+    },
+    {
+      "type": "content",
+      "headline": "Spices in a jar. **Or spices on the road.**",
+      "body": "In many countries chili flakes just appear on a shelf. In Korea you can still drive past them drying."
+    },
+    {
+      "type": "stat",
+      "stat": "15",
+      "headline": "Days in the sun **for one batch**",
+      "body": "Up to two weeks, flipped by hand every day. A machine dryer takes about two days."
+    },
+    {
+      "type": "content",
+      "headline": "Red roads mean **kimchi is coming.**",
+      "body": "Those red rows by the road are the first step of a Korean winter table."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Korean countryside village at dusk with a persimmon tree, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Every autumn, roads and rooftops in rural Korea turn red with chili peppers drying in the sun.\n\nThey become gochugaru, the flakes behind kimchi, and sun-dried ones still sell for more than machine-dried.\n\nWhat gets laid out to dry where you live?",
+  "hashtags": [
+    "#korea",
+    "#gochugaru",
+    "#koreanchili",
+    "#kimchi",
+    "#kimjang",
+    "#koreanfood",
+    "#koreanculture",
+    "#koreancountryside",
+    "#autumninkorea",
+    "#livinginkorea",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: buyers test sun-dried peppers by holding them up to the light. Good taeyangcho is glossy and almost see-through, and the seeds rattle when you shake it. Machine-dried ones look darker and duller. Markets still sell them by the geun, about 600g. What does your family still insist on buying the old-fashioned way?",
+  "fact_check": [
+    "2장: 고추 수확·건조 시기 8~10월 — 일반적 설명.",
+    "5장: 태양초가 건조기 고추(화건초)보다 비싸게 거래 — 농산물 시세 보도 다수. 맛 평가는 '많은 사람이 말한다'로 처리.",
+    "6장: 도로에 농산물 말리기는 도로법상 적치 금지·교통사고 위험으로 경찰·지자체가 매년 단속·계도 — 확인 필요.",
+    "8장: 태양초 천일건조 10~15일, 건조기 약 2일(48시간 안팎) — 농촌진흥청·농업 매체 설명 기준, 수치는 지역·날씨에 따라 다름.",
+    "댓글: 고추 1근=600g, 태양초 감별(빛 투과·씨 소리) — 일반적 설명."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a quiet rural Korean road in autumn, long rows of bright red chili peppers drying on mats along the road shoulder, golden rice fields and low mountains behind, low camera angle, warm afternoon sun, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a farmer's weathered hands in work gloves spreading fresh red chili peppers evenly on a large mat in a farmhouse yard, bright sun, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial close-up photograph of a ceramic bowl of coarse red Korean chili flakes beside a few whole dried red chili peppers on a wooden table, soft natural light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of gloved hands rubbing red chili paste into salted napa cabbage in a large basin, autumn kimchi making at home, warm light, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial close-up photograph of glossy sun-dried red chili peppers held up against bright sunlight, translucent deep red skin with seeds faintly visible inside, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an empty narrow asphalt country road in Korea, one side covered with rows of red chili peppers drying in the sun, no cars, wide view, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a glass jar of red chili flakes on a modern kitchen shelf, minimal composition, soft daylight, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of red chili peppers drying on a woven mat in strong late afternoon sun, long shadows, minimal composition, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial high-angle photograph of a rural Korean house rooftop and yard covered with bright red rectangles of drying chili peppers, surrounded by green and golden fields, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a quiet Korean countryside village at dusk with a persimmon tree full of orange fruit, warm window lights, orange and blue sky, no people, square 1:1, no text, no letters, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
