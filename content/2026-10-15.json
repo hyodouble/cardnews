@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-15",
+  "weekday": "목요일",
+  "topic": "resident registration number",
+  "title": "Every Korean's Birthday Is in Their ID Number",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "EVERY KOREAN HAS ONE.",
+      "headline": "In Korea, your birthday is **in your ID number.**",
+      "note": "13 digits, given at birth, kept for life."
+    },
+    {
+      "type": "content",
+      "headline": "Given **at birth**",
+      "body": "When a birth is reported, the baby gets a 13-digit resident registration number (주민등록번호). It stays the same for life."
+    },
+    {
+      "type": "content",
+      "headline": "The first six: **your birthday**",
+      "body": "Born on October 15, 1995? Your number starts with 951015. Anyone who sees it knows your age."
+    },
+    {
+      "type": "content",
+      "headline": "Digit seven: **your gender**",
+      "body": "1 or 2 for men and women born in the 1900s, 3 or 4 from 2000 on. Foreign residents get their own version."
+    },
+    {
+      "type": "content",
+      "headline": "Used for **almost everything**",
+      "body": "Banks, hospitals, phone plans, job forms. For years, even shopping sites asked for it just to sign up."
+    },
+    {
+      "type": "content",
+      "headline": "Then came **the leaks**",
+      "body": "Hack after hack spilled these numbers. Unlike a password, you couldn't just reset yours."
+    },
+    {
+      "type": "content",
+      "headline": "A number that hides you. **Or one that describes you.**",
+      "body": "In many countries an ID number says nothing about its owner. Korea's tells your age and gender at a glance."
+    },
+    {
+      "type": "stat",
+      "stat": "100M+",
+      "headline": "Card records leaked **in one 2014 breach**",
+      "body": "In a country of about 50 million people. Three card companies, one contractor."
+    },
+    {
+      "type": "content",
+      "headline": "Convenient. **And hard to take back.**",
+      "body": "Since 2017, leak victims can apply for a new number. Since 2020, the last digits are random. The birthday stays."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul apartment complex at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Every Korean gets a 13-digit ID number at birth, and the first six digits are their birthday.\n\nBanks, hospitals and job forms all ask for it, which made it one of the most leaked numbers in the country.\n\nDoes your ID number say anything about you?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanid",
+    "#residentregistrationnumber",
+    "#privacy",
+    "#dataprivacy",
+    "#databreach",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: Koreans often share only the first seven digits, like 951015-1, and mask the rest with asterisks. That's enough to show age and gender, which is why some forms ask for just that. Before 2020, the next four digits also showed where you were first registered. How does ID work where you live, and how often do you have to give your number?",
+  "fact_check": [
+    "2장: 출생신고 시 13자리 부여, 평생 유지 — 주민등록법. 1968년 도입(12자리), 1975년 13자리.",
+    "4장: 7번째 자리 1·2(1900년대 남·여), 3·4(2000년 이후), 외국인 5~8 — 행정안전부 설명.",
+    "5장: 2014년 8월 법정주의 시행 전 웹사이트 회원가입에 주민번호 수집 흔했음(정보통신망법 2012년 온라인 수집 금지).",
+    "8장: 2014년 1월 KB국민·롯데·NH농협카드 약 1억 400만 건 유출(중복 포함), 신용평가사 KCB 직원 — 확인됨. 인구 약 5,100만.",
+    "9장: 2017년 5월 30일 주민등록번호 변경 제도 시행(유출 피해자 신청), 2020년 10월 5일부터 지역번호 폐지·임의번호 — 행안부.",
+    "댓글: 앞 7자리 공유 관행, 2020년 전 8~11번째 자리 지역 코드."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a hand holding a completely blank plain white plastic ID card against a softly blurred Seoul apartment window, shallow depth of field, cool daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial close-up photograph of a newborn baby's tiny feet wrapped in a soft white hospital blanket, gentle warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a small homemade birthday cake with one lit candle on a wooden table, warm cozy light, minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a pair of tiny pale blue baby socks and a pair of tiny pale pink baby socks laid side by side on white linen, soft daylight, minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a hand holding a pen over a paper form on a bank counter, the form blurred and unreadable, soft office light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an open laptop in a dark office, the screen showing only an abstract red glow, moody low light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of an open leather wallet on a table holding several completely blank plain cards, soft side light, minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a long aisle of data center server racks with small blue lights, deep perspective, cool dark tones, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial close-up photograph of a hand holding a brass key in front of a closed metal padlock, soft natural light, minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul apartment complex at dusk, many warm window lights, orange and blue sky, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
