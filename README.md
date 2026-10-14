@@ -286,6 +286,8 @@ and a status poll while the video is processed.
 | 2026-10-10 (토) | Ondol: heating the floor not the air, kitchen-fire smoke channels to hot-water pipes, araetmok for elders, shoes off, 2018 heritage listing | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-11 (일) | Bungeoppang: fish-shaped winter snack, Japanese taiyaki borrowed then made Korean, cold-season stalls, no-address stalls mapped by apps, head-or-tail debate | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-12 (월) | Kimchi fridge: a second fridge just for kimchi, replacing clay jars buried in the yard, apartment living, fermentation temperature control, November kimjang | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-13 (화) | Doljabi: first-birthday object pick, meaning of each object, why the first birthday, updated trays, 2024 birth rate | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-14 (수) | Chili drying: October roads turn red, peppers become gochugaru for kimjang, sun-dried over machine-dried, hot flat asphalt | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
