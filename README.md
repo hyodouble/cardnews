@@ -288,6 +288,7 @@ and a status poll while the video is processed.
 | 2026-10-12 (월) | Kimchi fridge: a second fridge just for kimchi, replacing clay jars buried in the yard, apartment living, fermentation temperature control, November kimjang | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-13 (화) | Doljabi: first-birthday object pick, meaning of each object, why the first birthday, updated trays, 2024 birth rate | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-14 (수) | Chili drying: October roads turn red, peppers become gochugaru for kimjang, sun-dried over machine-dried, hot flat asphalt | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-15 (목) | Resident registration number: 13 digits at birth, first six are the birthday, digit seven is gender, used everywhere, 2014 card leak, number change since 2017 | published via API to Instagram, Facebook and Threads (Threads after two 500 retries); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
