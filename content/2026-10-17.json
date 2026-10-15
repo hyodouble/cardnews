@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-17",
+  "weekday": "토요일",
+  "topic": "national health checkup",
+  "title": "In Korea, the Government Invites You to a Checkup",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "EVERY OTHER YEAR.",
+      "headline": "In Korea, the government **invites you to a checkup.**",
+      "note": "For most adults, the basic exam costs nothing."
+    },
+    {
+      "type": "content",
+      "headline": "Every two years. **No bill.**",
+      "body": "The national health insurer invites most adults 20 and up for a general checkup (건강검진). The basic exam is free."
+    },
+    {
+      "type": "content",
+      "headline": "Your birth year **picks the year**",
+      "body": "Born in an even year? You go in even years. Odd, in odd years. Manual workers go every year."
+    },
+    {
+      "type": "content",
+      "headline": "Blood, vision, **even your teeth**",
+      "body": "Height, weight, blood pressure, blood and urine tests, a chest X-ray and a dental check, at a clinic you choose."
+    },
+    {
+      "type": "content",
+      "headline": "Turn 40: **a camera down your throat**",
+      "body": "From 40, a stomach endoscopy is offered every two years. Korea has some of the world's highest stomach cancer rates."
+    },
+    {
+      "type": "content",
+      "headline": "Most choose **to sleep through it**",
+      "body": "Many pay extra for a sedated endoscopy (수면내시경). Cancer screenings cost about 10%, free for lower-income families."
+    },
+    {
+      "type": "content",
+      "headline": "Not when it hurts. **Before it does.**",
+      "body": "In many countries you see a doctor once something feels wrong. Here, the letter comes first."
+    },
+    {
+      "type": "stat",
+      "stat": "75.6%",
+      "headline": "Took their general checkup **in 2024**",
+      "body": "Cancer screening passed 60% for the first time."
+    },
+    {
+      "type": "content",
+      "headline": "Free to go. **Still easy to skip.**",
+      "body": "About one in four eligible people didn't go. The invite only works if you book it."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Quiet clinic hallway at dawn, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, the national health insurer invites most adults to a free health checkup every two years.\n\nTurn 40 and a stomach endoscopy joins the list, and most people choose to be sedated for it.\n\nWho reminds you to get checked where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#healthcheckup",
+    "#koreanhealthcare",
+    "#healthcare",
+    "#endoscopy",
+    "#preventivecare",
+    "#koreanlife",
+    "#livinginkorea",
+    "#koreanculture",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: the checkup year runs January to December, so clinics get packed every November and December as people rush before the deadline. Office workers often take a half day off for it, skip breakfast and come back to work with a sleepy face after the sedated endoscopy. How do checkups work where you live, and who pays for them?",
+  "fact_check": [
+    "2장: 일반건강검진 2년 주기, 20세 이상 지역가입자·직장가입자·피부양자, 기본 항목 본인부담 없음 (2026 공단 안내 요약 블로그 다수, 공단 원문 미확인).",
+    "3장: 출생연도 짝수=짝수 해, 비사무직 매년.",
+    "4장: 신체계측·혈압·혈액·소변·흉부X선·구강검진 — 일반검진 기본 항목.",
+    "5장: 위암검진 만 40세 이상 2년마다(위내시경 또는 위장조영). 한국 위암 발생률 세계 최상위권(GLOBOCAN).",
+    "6장: 수면내시경 진정 비용 비급여(본인 추가부담). 암검진 본인부담 10%, 의료급여·보험료 하위 50% 무료.",
+    "8장: 2024 건강검진 통계연보 일반검진 수검률 75.6%, 암검진 60.2% 첫 60% 돌파 (헤럴드경제 2025-12-30 등 보도).",
+    "댓글: 검진기간 1/1~12/31, 연말 쏠림 — 매년 보도되는 패턴."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a calm modern Korean health checkup center waiting area with neat rows of chairs, soft morning light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a sealed paper envelope and a clipboard health form resting on a wooden table at home, soft daylight, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a desk calendar with two years of pages fanned out next to a coffee mug, soft window light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a clean medical clinic exam room with a blood pressure monitor, an eye chart area blurred, and a dental chair visible in the background, bright neutral light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a modern endoscopy procedure room with a medical monitor and neatly coiled equipment, cool clean lighting, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an empty recovery bed with a folded white blanket in a quiet clinic room, soft warm light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a mailbox in a Korean apartment lobby with a single white envelope sticking out, gentle morning light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a stethoscope and a neat stack of medical charts on a white desk, minimal composition, soft side light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of an empty clinic reception counter with a closed appointment book and a pen, late afternoon light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a quiet hospital corridor at dawn with soft light from the windows, gently blurred, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
