@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-16",
+  "weekday": "금요일",
+  "topic": "apartment-centered living",
+  "title": "In Korea, the Dream Home Is an Apartment",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "THE KOREAN DREAM HOME.",
+      "headline": "In Korea, the dream home is **an apartment.**",
+      "note": "Not a house with a yard. A unit on the 15th floor."
+    },
+    {
+      "type": "content",
+      "headline": "More than half **live in one**",
+      "body": "Over half of Korean households live in an apartment (아파트), and about 6 in 10 homes are apartment units."
+    },
+    {
+      "type": "content",
+      "headline": "Built fast. **Built tall.**",
+      "body": "From the 1970s, millions moved from farms to cities. Rows of identical towers were the quickest way to house them."
+    },
+    {
+      "type": "content",
+      "headline": "A town **inside the gates**",
+      "body": "A complex (단지) has its own playgrounds, gyms, parking and management office. Some hold thousands of homes."
+    },
+    {
+      "type": "content",
+      "headline": "Giant numbers **on every tower**",
+      "body": "Each building gets a number like 101 or 102, painted huge on its side. An address ends in building and unit: 101-1502."
+    },
+    {
+      "type": "content",
+      "headline": "Not the cheap option. **The goal.**",
+      "body": "In many countries, tower blocks mean public housing. In Korea, a new apartment from a big-name builder is what people save for."
+    },
+    {
+      "type": "content",
+      "headline": "Your complex **says something**",
+      "body": "Which complex you live in can work like a résumé. Kids from rental blocks have been teased for it."
+    },
+    {
+      "type": "stat",
+      "stat": "₩1B+",
+      "headline": "Average price of **a Seoul apartment**",
+      "body": "Over US$700,000. For many families, the apartment is most of what they own."
+    },
+    {
+      "type": "content",
+      "headline": "Safe and warm. **And all the same.**",
+      "body": "A French geographer called Korea a \"Republic of Apartments.\" Fans point to security, floor heating and city access."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul apartment complex at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, more than half of households live in an apartment, and a new one is the home most families dream of.\n\nWhole towns sit inside gated complexes, every tower wears a giant number, and in Seoul the average unit sells for over ₩1 billion.\n\nWhere you live, is an apartment the dream or the fallback?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanapartment",
+    "#apartmentliving",
+    "#seoul",
+    "#housing",
+    "#realestate",
+    "#koreanculture",
+    "#koreanlife",
+    "#livinginkorea",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: the word is so Korean that ROSÉ and Bruno Mars named a 2024 global hit \"APT.\" It comes from a drinking game chant, and a 1982 song called \"Apartment\" was already a singalong classic. Ask a Korean where they live and you may hear the complex name before the neighborhood. Do people where you live want a house, or an apartment?",
+  "fact_check": [
+    "2장: 인구주택총조사 아파트 거주 가구 비율 2020년 51.5%로 첫 과반, 이후 상승. 전체 주택 중 아파트 약 64%(2023 주택총조사) — 발행 전 최신 통계 확인.",
+    "3장: 1960~70년대 이촌향도·도시화, 1962 마포아파트 첫 단지형, 1970년대 강남 개발·1989 주택 200만호 계획.",
+    "4장: 대단지(1천 세대 이상 흔함, 헬리오시티 9,510세대).",
+    "5장: 동·호수 표기(101동 1502호), 외벽 동 번호 대형 표기.",
+    "7장: 임대 단지 아동 차별('휴거' 등) 언론 보도 다수.",
+    "8장: KB부동산 서울 아파트 평균 매매가 10억 원 이상(2021년 이후), 환율 약 1,350~1,400원.",
+    "9장: 발레리 줄레조 『아파트 공화국』(2007, 프랑스 지리학자).",
+    "댓글: 로제·브루노 마스 'APT.'(2024.10), 윤수일 '아파트'(1982)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of rows of identical tall white apartment towers in Seoul under a clear morning sky, seen from a low angle, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a dense Seoul cityscape filled with apartment towers stretching to distant mountains, hazy daylight, aerial view, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a row of identical modern apartment towers under construction with tall cranes, soft daylight, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a quiet landscaped courtyard inside a modern apartment complex with a small playground, trees and walking paths, warm afternoon light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of the plain upper side wall of a white apartment tower against a blue sky, large blank wall area, minimal composition, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a bright new apartment living room with wide windows overlooking city towers, polished wood floor, minimal furniture, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a child's small backpack and sneakers resting on a bench outside an apartment building entrance, soft evening light, nobody present, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a small model of an apartment tower and a set of house keys on a wooden desk, soft side light, minimal composition, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of many identical apartment balconies in a repeating grid pattern, some lit warmly at dusk, graphic composition, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul apartment complex at dusk, many warm window lights, orange and blue sky, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
