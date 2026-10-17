@@ -290,6 +290,7 @@ and a status poll while the video is processed.
 | 2026-10-14 (수) | Chili drying: October roads turn red, peppers become gochugaru for kimjang, sun-dried over machine-dried, hot flat asphalt | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-15 (목) | Resident registration number: 13 digits at birth, first six are the birthday, digit seven is gender, used everywhere, 2014 card leak, number change since 2017 | published via API to Instagram, Facebook and Threads (Threads after two 500 retries); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-16 (금) | Apartment-centered living: over half of households in apartments, 1970s tower boom, gated complexes, building numbers, apartment as the goal, complex as status, Seoul average over ₩1B | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-17 (토) | National health checkup: government mails an invitation every two years from 20, free basic exam, cancer screenings, sedated endoscopy, workplace checkups, year-end rush | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
