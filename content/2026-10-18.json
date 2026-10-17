@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-18",
+  "weekday": "일요일",
+  "topic": "public transit free transfers",
+  "title": "In Seoul, Switching from Bus to Subway Is Free",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "TAP IN. TAP OUT.",
+      "headline": "In Seoul, the bus-to-subway switch **is free.**",
+      "note": "One card, one fare, as many changes as the trip needs."
+    },
+    {
+      "type": "content",
+      "headline": "One fare, **many rides**",
+      "body": "Tap a transit card (교통카드) and switch between buses and subway lines. The base fare, about ₩1,500, covers your first 10 km."
+    },
+    {
+      "type": "content",
+      "headline": "You pay for distance, **not rides**",
+      "body": "Past 10 km, about ₩100 more per 5 km. The meter counts the whole trip, not each vehicle."
+    },
+    {
+      "type": "content",
+      "headline": "Since **2004**",
+      "body": "Seoul rebuilt its bus network that year and tied buses and subway into one fare. Gyeonggi and Incheon joined later."
+    },
+    {
+      "type": "content",
+      "headline": "Don't forget to **tap out**",
+      "body": "Tap your card again when you get off the bus. Forget, and the next ride starts a new fare."
+    },
+    {
+      "type": "content",
+      "headline": "Nobody plans **around fares**",
+      "body": "Locals pick the fastest mix of bus and subway, not the cheapest. Three changes cost about the same as none."
+    },
+    {
+      "type": "content",
+      "headline": "No zones. **No paper tickets.**",
+      "body": "In many cities every ride is a new ticket. Here, one card and the system does the math."
+    },
+    {
+      "type": "stat",
+      "stat": "30 min",
+      "headline": "To catch your next ride **for free**",
+      "body": "An hour late at night. Up to four transfers per trip."
+    },
+    {
+      "type": "content",
+      "headline": "Ride more. **Pay the same.**",
+      "body": "Korea prices public transit by the trip, not by the vehicle."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Subway platform at night, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea's capital area, switching from bus to subway doesn't start a new fare.\n\nOne transit card tracks the whole trip, and you pay by distance, not by how many times you change.\n\nHow many tickets would the same trip take in your city?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#seoul",
+    "#publictransport",
+    "#seoulsubway",
+    "#seoulbus",
+    "#transit",
+    "#koreanlife",
+    "#livinginkorea",
+    "#koreatravel",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: Seoul also sells the Climate Card, about ₩62,000 a month for unlimited buses and subway inside the city, and since 2024 the K-Pass refunds part of your fares if you ride 15 times or more a month. So a lot of commuters never think about ticket prices at all. How does your city charge you when you switch from bus to train?",
+  "fact_check": [
+    "2장: 서울 버스 기본요금 1,500원(카드, 2023-08), 지하철 1,550원(2025-06 인상) — '약 ₩1,500'로 표기. 기본거리 10km.",
+    "3장: 10km 초과 5km마다 100원(50km까지), 50km 초과 8km마다 100원 — 통합거리비례제.",
+    "4장: 2004-07-01 서울 대중교통 체계 개편, 통합요금·무료환승. 경기 2007, 인천 2009 합류.",
+    "5장: 버스 하차 미태그 시 환승 불가, 다음 승차 기본요금 부과(+미태그 요금 처리).",
+    "8장: 하차 후 30분 이내 환승(21:00~07:00은 60분), 최대 4회 환승(5회 탑승).",
+    "댓글: 기후동행카드 62,000원(따릉이 포함 65,000원, 2024-01 출시), K-패스 2024-05 시행, 월 15회 이상 시 20~53% 환급."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a modern Seoul city bus pulling up to a covered bus stop beside a subway station entrance, morning light, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a hand holding a plain blank transit card near a round card reader on a bus, shallow depth of field, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a long straight subway track disappearing into a lit tunnel, viewed from the end of an empty platform, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a busy Seoul street with blue city buses in a dedicated center bus lane, early evening, slight motion blur, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of the rear exit door area inside a city bus with a card reader mounted on the pole, soft daylight, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of commuters walking through a bright Seoul subway transfer corridor seen from behind, motion blur, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a row of modern subway ticket gates with card readers, clean and empty, cool station lighting, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a wall clock above an empty Seoul subway platform at night, platform screen doors, minimal composition, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a city bus and a subway train crossing paths at an elevated station in Seoul at dusk, wide view, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of an empty Seoul subway platform at night with soft lights, gently blurred, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
