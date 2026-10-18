@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-19",
+  "weekday": "월요일",
+  "topic": "instant free bank transfers",
+  "title": "In Korea, Sending Money Takes Seconds",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "SEND. DONE.",
+      "headline": "In Korea, a bank transfer **lands in seconds.**",
+      "note": "Any bank to any bank, usually for free."
+    },
+    {
+      "type": "content",
+      "headline": "Any bank, **seconds, ₩0**",
+      "body": "Open a banking app and send money to another bank (계좌이체). It arrives right away, and the big banks charge nothing."
+    },
+    {
+      "type": "content",
+      "headline": "Just an **account number**",
+      "body": "A bank name and an account number are all you need. People paste them in chats, shop counters and wedding invitations."
+    },
+    {
+      "type": "content",
+      "headline": "Split the bill **at the table**",
+      "body": "One friend pays. Everyone else sends their share (N빵) before they stand up."
+    },
+    {
+      "type": "content",
+      "headline": "Since **2015**",
+      "body": "Toss let people send money with just a PIN, no security certificate. The banks rebuilt their apps to keep up."
+    },
+    {
+      "type": "content",
+      "headline": "Checks? **Almost never**",
+      "body": "Personal checks are rare. Rent, allowances and gifts all go by transfer."
+    },
+    {
+      "type": "content",
+      "headline": "Wrong account? **There's a fix**",
+      "body": "The bank asks the receiver to send it back. If they don't, the national deposit insurer can help get it back."
+    },
+    {
+      "type": "stat",
+      "stat": "30 min",
+      "headline": "Before a big deposit **can leave by ATM**",
+      "body": "₩1 million or more lands, and ATMs hold it for 30 minutes. A brake on phone scams."
+    },
+    {
+      "type": "content",
+      "headline": "Paying back is **as easy as a text.**",
+      "body": "Korea moves money between people like it moves messages."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Phone on a cafe table, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, sending money to a friend at another bank takes seconds and usually costs nothing.\n\nAn account number is enough, so people split dinner bills before they even leave the table.\n\nHow long does a bank transfer take where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#seoul",
+    "#banking",
+    "#fintech",
+    "#moneytransfer",
+    "#koreanlife",
+    "#livinginkorea",
+    "#cashless",
+    "#koreatravel",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: many Korean mobile wedding invitations list the couple's account numbers, so guests who can't come can still send their gift in seconds. Banks also show the receiver's name before you hit send, so you can catch a wrong number. How do you pay a friend back where you live?",
+  "fact_check": [
+    "2장: 5대 은행(신한 2023-01, KB·우리 2023-02, 하나 앱 2020-08부터·2023-02 전면, NH) 모바일·인터넷 타행이체 수수료 면제 — MTN·아시아경제 2023-02. 실시간 입금. 24시간 문구는 은행 점검시간 때문에 뺐음.",
+    "3장: 계좌번호 공유·모바일 청첩장 계좌 기재 — 일반 관행.",
+    "4장: 더치페이를 송금으로 — 일반 관행. N빵은 본문에만(한글 위치 규칙).",
+    "5장: 토스 간편송금 2015-02 출시, 공인인증서 없이 비밀번호 송금 — 비바리퍼블리카 공개 연혁.",
+    "7장: 수취 금융회사 반환 요청 후 미반환 시 예금보험공사 착오송금 반환지원(2021-07~) — 금융위원회. 금액 한도는 출처 엇갈려 안 씀.",
+    "8장: 100만원 이상 입금 시 30분 CD/ATM 인출·이체 지연(지연인출제도, 300만원→100만원 2015-09) — KB·하나은행 안내.",
+    "댓글: 이체 전 수취인 이름 표시 — 모든 은행 앱 공통."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a hand holding a smartphone over a wooden cafe table, the screen glowing softly and blurred, warm morning light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a smartphone lying on a desk next to a coffee cup, screen softly blurred and unreadable, clean minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a hand writing on a small blank card next to a pen and a smartphone on a light table, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a Korean barbecue table after dinner with empty plates and several smartphones held by hands around the table, warm restaurant light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a thumb hovering over a blurred smartphone keypad, extreme close-up, shallow depth of field, cool light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an empty checkbook-free desk with a set of apartment keys, a smartphone and a coffee mug, soft natural light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a worried hand resting near a smartphone on a kitchen counter at night, dim warm lamp light, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a row of modern bank ATMs in a quiet lobby at night, cool lighting, no people, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of two smartphones on a table side by side with soft glowing blurred screens, warm bokeh lights behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a smartphone on a cafe table beside a latte, gently blurred, soft warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
