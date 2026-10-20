@@ -292,6 +292,7 @@ and a status poll while the video is processed.
 | 2026-10-16 (금) | Apartment-centered living: over half of households in apartments, 1970s tower boom, gated complexes, building numbers, apartment as the goal, complex as status, Seoul average over ₩1B | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-17 (토) | National health checkup: government invitation every two years, no bill, birth year picks the year, blood/vision/teeth, endoscopy from 40, sedation, prevention over cure, 2024 uptake, easy to skip | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-18 (일) | Transit transfers: free bus-to-subway switch in the capital area, one card tracks the trip, pay by distance, since 2004, tap out, no zones or paper tickets, transfer window | published via API to Instagram, Facebook and Threads; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-19 (월) | Bank transfers: instant 24/7 account-to-account transfers, receiver name shown before sending, account numbers on wedding invitations, no checks, phone banking apps | published via API to Instagram, Facebook and Threads on 2026-10-20; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
