@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-21",
+  "weekday": "수요일",
+  "topic": "walk-in neighborhood clinics",
+  "title": "In Korea, You See a Specialist Today",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "WALK IN. SEE A SPECIALIST.",
+      "headline": "In Korea, you see a **specialist today.**",
+      "note": "No appointment, no referral, a few thousand won."
+    },
+    {
+      "type": "content",
+      "headline": "Walk in, **no booking**",
+      "body": "Neighborhood clinics (동네 병원) see patients in order of arrival. Most visits need no appointment."
+    },
+    {
+      "type": "content",
+      "headline": "No **gatekeeper**",
+      "body": "No family doctor has to refer you. Sore ear? Go straight to an ear, nose and throat clinic (이비인후과)."
+    },
+    {
+      "type": "content",
+      "headline": "A **building** of doctors",
+      "body": "Medical buildings stack clinics floor by floor: skin, eyes, teeth, kids. The pharmacy is usually on the ground floor."
+    },
+    {
+      "type": "content",
+      "headline": "Doctor writes, **pharmacist fills**",
+      "body": "Since 2000, clinics prescribe and pharmacies dispense (의약분업). You carry the slip downstairs."
+    },
+    {
+      "type": "content",
+      "headline": "You pay **about 30%**",
+      "body": "National Health Insurance covers almost everyone. At a clinic, the patient pays roughly 30% of the bill."
+    },
+    {
+      "type": "content",
+      "headline": "Bring **your ID**",
+      "body": "Since May 2024 clinics check ID at the desk. A mobile ID or the insurance app also works."
+    },
+    {
+      "type": "stat",
+      "stat": "15.7",
+      "headline": "Doctor visits **per person, per year**",
+      "body": "The most in the OECD, where the average is 5.9 (2021)."
+    },
+    {
+      "type": "content",
+      "headline": "A cold is **a clinic visit.**",
+      "body": "When a doctor is a short walk and a short wait away, people go."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Clinic waiting area, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, you can walk into a specialist's clinic today without an appointment or a referral.\n\nThe visit usually costs a few thousand won, and the pharmacy is often downstairs.\n\nHow long does it take to see a doctor where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#seoul",
+    "#healthcare",
+    "#doctor",
+    "#clinic",
+    "#koreanlife",
+    "#livinginkorea",
+    "#healthinsurance",
+    "#koreatravel",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: for people 65 and older, a clinic visit that costs ₩15,000 or less in total is a flat ₩1,500 at the desk. Many clinics also open on Saturday mornings. Do you need a referral to see a specialist where you live?",
+  "fact_check": [
+    "2장: 의원 외래 접수순 진료, 예약 불필요가 일반적 — 일반 관행.",
+    "3장: 의원급은 진료의뢰서 없이 바로 진료. 의뢰서는 상급종합병원 보험급여에만 필요 — 국민건강보험법 시행규칙 요양급여 절차(1단계·2단계).",
+    "4장: 메디컬 빌딩·1층 약국 — 일반 관행.",
+    "5장: 의약분업 2000-07 시행 — 보건복지부.",
+    "6장: 의원 외래 본인부담률 30% — 국민건강보험법 시행령 별표2. 건강보험+의료급여로 사실상 전 국민.",
+    "7장: 요양기관 본인확인 의무화 2024-05-20, 모바일 건강보험증·모바일 신분증 인정 — 보건복지부·건보공단.",
+    "8장: 1인당 연간 의사 외래진료 15.7회(2021), OECD 평균 5.9회 — OECD Health at a Glance 2023. 발행 전 최신판 수치 재확인 권장.",
+    "댓글: 65세 이상 의원 외래 총진료비 15,000원 이하 1,500원 정액 — 국민건강보험법 시행령 별표2. 토요일 오전 진료는 일반 관행."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a bright modern Korean neighborhood clinic reception desk seen from the waiting area, clean white interior, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a quiet clinic waiting area with rows of light chairs and a few seated patients seen from behind or below the shoulders, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a doctor's hand holding an otoscope near a small examination table, white coat sleeve, clean clinic room, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a modern mid-rise medical building on a Korean city street corner at dusk, many lit windows, signs blurred and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a pharmacist's hands placing a small paper medicine bag on a pharmacy counter, shelves softly blurred behind, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a hand placing a few coins and a card on a clinic reception counter, soft daylight, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a hand holding a blank plastic ID card above a clinic reception counter, smartphone beside it with a blurred screen, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a stethoscope lying on a wooden desk next to a closed notebook, warm window light, minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a person in a winter coat seen from the shoulders down walking into a glass clinic entrance on a cold morning, soft breath mist, signs blurred and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of an empty clinic waiting area with a potted plant and soft afternoon light, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
