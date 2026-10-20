@@ -42,9 +42,9 @@
     },
     {
       "type": "stat",
-      "stat": "15.7",
+      "stat": "18",
       "headline": "Doctor visits **per person, per year**",
-      "body": "The most in the OECD, where the average is 5.9 (2021)."
+      "body": "The most in the OECD, where the average is 6.5 (2023)."
     },
     {
       "type": "content",
@@ -84,7 +84,7 @@
     "5장: 의약분업 2000-07 시행 — 보건복지부.",
     "6장: 의원 외래 본인부담률 30% — 국민건강보험법 시행령 별표2. 건강보험+의료급여로 사실상 전 국민.",
     "7장: 요양기관 본인확인 의무화 2024-05-20, 모바일 건강보험증·모바일 신분증 인정 — 보건복지부·건보공단.",
-    "8장: 1인당 연간 의사 외래진료 15.7회(2021), OECD 평균 5.9회 — OECD Health at a Glance 2023. 발행 전 최신판 수치 재확인 권장.",
+    "8장: 1인당 연간 의사 대면진료 약 18회(2023), OECD 평균 6.5회, OECD 1위 — OECD Health at a Glance 2025 'Consultations with doctors'.",
     "댓글: 65세 이상 의원 외래 총진료비 15,000원 이하 1,500원 정액 — 국민건강보험법 시행령 별표2. 토요일 오전 진료는 일반 관행."
   ],
   "photo_prompts": {
