@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-22",
+  "weekday": "목요일",
+  "topic": "real-name phones and phone identity checks",
+  "title": "In Korea, Your Phone Number Is Your ID",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "ONE NUMBER. ONE NAME.",
+      "headline": "In Korea, your phone number **is your ID.**",
+      "note": "Sign-ups, games, shopping: a text code proves who you are."
+    },
+    {
+      "type": "content",
+      "headline": "A line in **your real name**",
+      "body": "To open a phone line, the carrier checks your official ID. Every number belongs to a named person."
+    },
+    {
+      "type": "content",
+      "headline": "The code that **proves you**",
+      "body": "Sites ask for your name, birth date, carrier and number, then text a code (휴대폰 본인인증). Match it and you are verified."
+    },
+    {
+      "type": "content",
+      "headline": "One app, **three carriers**",
+      "body": "SK Telecom, KT and LG U+ run one shared app, PASS, that handles the check with a tap. Tens of millions use it."
+    },
+    {
+      "type": "content",
+      "headline": "Show **your face**",
+      "body": "Since July 2026, opening a new line includes a face match against your ID card. A mobile ID is the main alternative."
+    },
+    {
+      "type": "content",
+      "headline": "Against **burner phones**",
+      "body": "The checks target 대포폰, lines opened in someone else's name and used for voice-phishing scams."
+    },
+    {
+      "type": "content",
+      "headline": "Hard for **visitors**",
+      "body": "Tourists can buy a prepaid SIM with a passport, but many Korean sites still cannot verify a foreign number."
+    },
+    {
+      "type": "stat",
+      "stat": "2012",
+      "headline": "Websites **lost the ID number**",
+      "body": "From August 2012 the law stopped sites collecting resident registration numbers. The phone took over the job."
+    },
+    {
+      "type": "content",
+      "headline": "Lose the phone, **lose the key.**",
+      "body": "A Korean number is less a contact detail than a login for your whole life."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Phone on a desk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, a phone number is tied to one real, ID-checked person.\n\nThat is why websites, games and shops verify you with a text code instead of an ID number.\n\nHow do sites check who you are where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#seoul",
+    "#smartphone",
+    "#privacy",
+    "#identity",
+    "#koreanlife",
+    "#livinginkorea",
+    "#digitalkorea",
+    "#koreatravel",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: the 2026 face check was not popular. A petition against it drew about 59,000 signatures, and the government kept a mobile ID and other documents as alternatives. Do you need your phone number to sign up for things where you live?",
+  "fact_check": [
+    "2장: 이동통신 가입 시 신분증 본인확인 의무 — 전기통신사업법 제32조의4(이동통신단말장치 부정이용 방지 등).",
+    "3장: 휴대폰 본인확인(이름·생년월일·통신사·번호·SMS 인증번호) — 방통위 지정 본인확인기관(이통3사) 서비스, 일반 관행.",
+    "4장: PASS는 SKT·KT·LG U+ 공동 인증앱. 가입자 2,800만~3,600만 보도(2024 기준 3,600만) — SKT 뉴스룸·파이낸셜뉴스.",
+    "5장: 휴대폰 개통 안면인증 2025-12-23 시범, 2026-07-06 시행. 모바일 신분증·주민등록초본 대체 허용 — 과기정통부, SBS Biz·MTN 2026-06/07 보도.",
+    "6장: 대포폰·명의도용 차단이 안면인증·다회선 제한 목적 — 과기정통부 '휴대폰 부정 사용 방지 종합대책', 데일리안 보도.",
+    "7장: 단기체류 외국인 여권으로 선불폰 개통 가능, 국내 본인인증 서비스 이용은 제한적 — 통신사·업계 안내.",
+    "8장: 주민등록번호 수집·이용 원칙 금지 2012-08-18 시행 — 정보통신망법 제23조의2, 머니투데이 2012-08-17.",
+    "댓글: 안면인증 의무화 반대 청원 약 5만9천명 동의, 대체수단 허용 — MTN 2026-07-06 보도."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a hand holding a smartphone showing a blurred verification screen with a six-digit code field, soft daylight, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a phone shop counter where a hand slides a blank plastic ID card toward a clerk's hands next to a new boxed smartphone, signs blurred and unreadable, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a person's hands typing on a laptop while holding a smartphone that just received a text message, screen blurred, cozy desk at night, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a thumb tapping a smartphone screen with a blurred generic verification app, minimal desk background, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a smartphone on a small stand at a store counter with its front camera facing an out-of-focus person's shoulder, blank ID card beside it, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a pile of old cheap prepaid flip phones and SIM cards scattered on a dark table under a harsh lamp, moody evidence-photo look, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a traveler's hands holding a passport and a small SIM card packet at an airport arrival hall, suitcase handle blurred, bright natural light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an old desktop computer keyboard and a printed paper form lying beside a modern smartphone on a wooden desk, warm window light, minimal composition, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a smartphone lying face down on a park bench, keys beside it, slightly forgotten feeling, soft autumn light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a smartphone resting on a clean desk beside a cup of coffee, soft afternoon light, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
