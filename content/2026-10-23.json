@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-23",
+  "weekday": "금요일",
+  "topic": "free school lunch for every student",
+  "title": "In Korea, School Lunch Is Free for Every Kid",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO LUNCHBOX. NO BILL.",
+      "headline": "In Korea, every school kid eats lunch **for free.**",
+      "note": "Rich or poor, first grade to senior year."
+    },
+    {
+      "type": "content",
+      "headline": "Every grade, **every kid**",
+      "body": "Elementary, middle and high schools serve a hot lunch, and families pay nothing for it. No forms, no income check."
+    },
+    {
+      "type": "content",
+      "headline": "A teacher **plans the menu**",
+      "body": "Schools have a nutrition teacher (영양교사) by law. They write the menu, check the ingredients and taste the food first."
+    },
+    {
+      "type": "content",
+      "headline": "Rice, soup, **and side dishes**",
+      "body": "A steel tray with rice, soup, kimchi and a few sides. Kids eat it together in the cafeteria or the classroom."
+    },
+    {
+      "type": "content",
+      "headline": "A lunch that **toppled a mayor**",
+      "body": "In 2011 Seoul's mayor put free lunch for all to a city vote. Turnout fell short, and he resigned."
+    },
+    {
+      "type": "content",
+      "headline": "Why **everyone**, not just the poor",
+      "body": "Supporters argued that lunch only for poor kids marks them in front of classmates. Free for all hides who needs it."
+    },
+    {
+      "type": "content",
+      "headline": "Lunch is **part of school**",
+      "body": "Many countries leave lunch to a packed box or a cafeteria bill. Korea treats it like a classroom: the school provides it."
+    },
+    {
+      "type": "stat",
+      "stat": "100%",
+      "headline": "Of schools **serve it free**",
+      "body": "As of February 2021, all 11,903 Korean schools served free lunch, to about 5.4 million students."
+    },
+    {
+      "type": "content",
+      "headline": "In Korea, lunch is **a school subject.**",
+      "body": "Free for every kid, planned by a teacher, eaten together."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Empty school lunch tray on a table, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, school lunch is free for every kid, from first grade to the last year of high school.\n\nA nutrition teacher plans the menu, and no family fills out a form to get it.\n\nWho pays for school lunch where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#schoollunch",
+    "#koreanfood",
+    "#koreanschool",
+    "#education",
+    "#koreanlife",
+    "#livinginkorea",
+    "#lunchtray",
+    "#koreatravel",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: the food in a Seoul elementary school lunch costs about 4,500 won, a little over three US dollars, and the city, the districts and the education office split the bill. What did school lunch look like where you grew up, and who paid for it?",
+  "fact_check": [
+    "2장: 초·중·고 전면 무상급식, 소득 확인 없음 — 2021-02 교육부 자료 기준 전국 1만1903개교 100% 무상급식 (뉴스토마토 '급식, 전쟁과 진화①').",
+    "3장: 영양교사 업무(식단 작성, 식재료 선정·검수, 검식) — 학교급식법 시행령 제8조(2007-01-20 시행), 한국교육신문 보도. 급식 시설 갖춘 학교에 영양교사·조리사 배치 — 학교급식법.",
+    "4장: 밥·국·김치·반찬 식판 구성, 급식실 또는 교실 배식 — 일반 관행.",
+    "5장: 2011-08-24 서울시 무상급식 주민투표 투표율 25.7%로 개표 요건 33.3% 미달, 오세훈 시장 2011-08-26 사퇴 발표 — 경향신문·머니투데이 2011-08.",
+    "6장: 선별급식의 낙인효과가 전면 무상급식 찬성 논거 — 2010~2011 무상급식 논쟁 보도, 일반 사실.",
+    "8장: 2021-02 전국 1만1903개교 100% 무상급식, 이용 학생 537만5천명 — 교육부 자료 인용 뉴스토마토.",
+    "댓글: 서울 초등 1식 식품비 4,553원(2026-03, 교육부 자료·한병도 의원실), 서울시 30%·자치구 20%·교육청 50% 분담 — 위키트리·노컷뉴스 보도. 환율 약 1,400원 기준 약 3.2달러."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a stainless steel compartment school lunch tray with rice, soup, kimchi and two side dishes on a cafeteria table, overhead three-quarter angle, bright daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a row of children's hands holding stainless steel lunch trays in a school cafeteria line, only hands and sleeves visible, bright natural light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of an adult's hands in a white cook's apron tasting soup with a ladle over a large steel pot in a clean school kitchen, clipboard blurred, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph close-up of a stainless steel school lunch tray with white rice, seaweed soup, kimchi, stir-fried vegetables and a small piece of fish, top-down view, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of an empty voting booth with a ballot box in a quiet public hall, curtains half open, muted daylight, documentary look, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of several identical stainless steel lunch trays side by side on a long cafeteria table, all with the same food, small hands with spoons and chopsticks at the edges, bright light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a classroom desk with a steel lunch tray placed on top of a closed notebook and a pencil case, chairs blurred behind, warm window light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a large school cafeteria seen from the back with long rows of tables and stacked steel trays at the serving counter, empty before lunch, bright natural light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a cleaned-out stainless steel lunch tray with chopsticks and a spoon laid across it on a cafeteria table, soft afternoon light, satisfied finished-meal feeling, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of an empty stainless steel school lunch tray on a light wooden table near a window, soft afternoon light, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
