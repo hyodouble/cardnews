@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-24",
+  "weekday": "토요일",
+  "topic": "monthly parent payment for babies",
+  "title": "In Korea, a New Baby Comes With a Monthly Payment",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "A BABY COMES WITH A PAYCHECK.",
+      "headline": "In Korea, the government **pays parents** every month.",
+      "note": "For the baby's first two years."
+    },
+    {
+      "type": "content",
+      "headline": "₩1 million **a month**",
+      "body": "It's called bumo geubyeo (부모급여). Parents get 1,000,000 won a month, about $700, in the baby's first year, then 500,000 won in the second."
+    },
+    {
+      "type": "content",
+      "headline": "Rich or poor, **same amount**",
+      "body": "There is no income check. Every family with a baby under two gets it."
+    },
+    {
+      "type": "content",
+      "headline": "A **welcome card** at birth",
+      "body": "On top of that, a one-time voucher: 2 million won for a first child, 3 million for each one after. Spend it within a year."
+    },
+    {
+      "type": "content",
+      "headline": "Daycare? It pays **the fees instead**",
+      "body": "If the baby goes to daycare, the money goes to the daycare fees. Stay home, and it lands in the bank as cash."
+    },
+    {
+      "type": "content",
+      "headline": "Then a child allowance **takes over**",
+      "body": "A separate 100,000 won a month keeps coming for young children, also with no income check."
+    },
+    {
+      "type": "content",
+      "headline": "A tax break elsewhere. **Cash here.**",
+      "body": "Many countries help parents with a tax credit at year end. Korea puts money in the account every month."
+    },
+    {
+      "type": "stat",
+      "stat": "₩1M",
+      "headline": "A month **in year one**",
+      "body": "Up from 700,000 won in 2023, the year the payment began."
+    },
+    {
+      "type": "content",
+      "headline": "In Korea, a baby comes **with a paycheck.**",
+      "body": "Cash every month, a card at birth, and no income check."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Baby blanket folded on a crib edge, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, parents of a new baby get 1 million won a month from the government, about $700, for the first year.\n\nNo income check, and a one-time birth voucher on top.\n\nWhat does your country give new parents?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#newparents",
+    "#parenting",
+    "#babyfirstyear",
+    "#koreanlife",
+    "#livinginkorea",
+    "#familypolicy",
+    "#newborn",
+    "#koreatravel",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: you apply within 60 days of the birth, online or at the community center, and the payment is backdated to the birth month. Many cities and provinces add their own baby bonus on top. Does help for new parents where you live come as cash, a tax break, or something else?",
+  "fact_check": [
+    "2장: 부모급여 0세(0~11개월) 월 100만원, 1세(12~23개월) 월 50만원 — 2024년~ 기준, 2026년 동일(복지로·정부24 안내 재확인 필요). 환율 약 1,400원 기준 약 700달러.",
+    "3장: 부모급여 소득 기준 없음 — 보편 지급.",
+    "4장: 첫만남이용권 첫째 200만원, 둘째 이상 300만원(2024~), 바우처, 지급일로부터 1년 내 사용.",
+    "5장: 어린이집 이용 시 보육료 바우처로 전환(0세는 차액 현금), 가정양육 시 현금.",
+    "6장: 아동수당 월 10만원, 소득 무관 — 지급 연령 상한(만 8세 미만→확대 여부) 출처마다 달라 카드엔 'young children'으로만 표기.",
+    "8장: 부모급여 2023년 시작 시 0세 월 70만원, 2024년 100만원으로 인상.",
+    "댓글: 출생 후 60일 이내 신청 시 출생월부터 소급, 복지로·주민센터 신청. 지자체별 출산장려금 별도."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a sleeping newborn's tiny feet poking out of a soft white blanket on a bed, warm morning window light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a parent's hand holding a newborn's tiny hand on a cream knit blanket, soft natural light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a row of three different baby strollers parked side by side on a quiet apartment walkway, autumn light, documentary look, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a plain blank white gift card resting on a folded baby onesie next to a small pair of baby socks on a wooden table, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a bright empty daycare room with small wooden chairs, soft toy blocks on the floor and tiny shoes lined by the door, morning light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a toddler's hand holding an adult's finger while walking on a park path in autumn leaves, only hands and legs visible, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a parent's hands holding a smartphone with a blank screen over a baby crib, baby blanket blurred below, soft evening lamp light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an empty wooden baby crib with a folded blanket in a calm nursery, soft daylight from a window, muted tones, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a parent cradling a sleeping baby wrapped in a blanket by a window, shot from behind the shoulder, only the blanket and arms visible, golden light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a folded pastel baby blanket draped over the edge of a wooden crib near a window, soft afternoon light, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
