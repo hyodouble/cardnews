@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-26",
+  "weekday": "월요일",
+  "topic": "government emergency alert texts on every phone",
+  "title": "In Korea, the Government Texts Every Phone at Once",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "EVERY PHONE IN THE ROOM GOES OFF.",
+      "headline": "In Korea, the government **texts every phone** at once.",
+      "note": "No sign-up. No app."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **jaenan munja**",
+      "body": "재난문자, a disaster text. It goes out to every phone near a cell tower, so a tourist gets it too."
+    },
+    {
+      "type": "content",
+      "headline": "Three levels, **three sounds**",
+      "body": "A plain safety notice, an emergency alert, and the top level for air raids and war. Each one is louder than the last."
+    },
+    {
+      "type": "content",
+      "headline": "The top one **can't be turned off**",
+      "body": "You can mute the lower two in settings. The top level always rings, even on silent."
+    },
+    {
+      "type": "content",
+      "headline": "Not just earthquakes. **Everything.**",
+      "body": "Heat waves, cold snaps, heavy rain, bad air, wildfires. In 2024, even trash balloons from North Korea."
+    },
+    {
+      "type": "content",
+      "headline": "Missing people, **too**",
+      "body": "Since 2021, a text goes out when a child or an older person with dementia goes missing, with a photo link."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere a rare alarm. **Here, a weekly buzz.**",
+      "body": "Many countries save phone alerts for the worst days. In Korea it's part of the weather."
+    },
+    {
+      "type": "stat",
+      "stat": "6:41",
+      "headline": "The morning Seoul was told **to get ready to evacuate**",
+      "body": "May 31, 2023, after a North Korean rocket launch. The national government called it a mistake 22 minutes later."
+    },
+    {
+      "type": "content",
+      "headline": "In Korea, the warning **finds you.**",
+      "body": "One text, every phone, wherever you're standing."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "City street at dusk with glowing phone screens, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, the government can send one text to every phone in an area at once, called jaenan munja.\n\nHeat waves, heavy rain, missing people, and the top level rings even on silent.\n\nDoes your phone ever get alerts like this?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#emergencyalert",
+    "#seoul",
+    "#koreanlife",
+    "#livinginkorea",
+    "#traveltips",
+    "#koreatravel",
+    "#publicsafety",
+    "#smartphone",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: it works through cell broadcast, not your phone number, so nobody needs your contact details and you can't unsubscribe from the top level. Visitors with a roaming or local SIM get the same texts, mostly in Korean. How do emergency warnings reach people where you live?",
+  "fact_check": [
+    "2장: 재난문자는 셀 방송(CBS) 방식, 기지국 범위 안 모든 휴대폰 수신 — 전화번호 등록 불필요. 외국인·여행자도 국내 망 접속 시 수신.",
+    "3장: 재난문자 3단계 — 안전안내문자(일반 알림음), 긴급재난문자(40dB 이상), 위급재난문자(60dB 이상, 공습경보·경계경보 등). 행정안전부 재난문자 방송 기준 재확인 필요.",
+    "4장: 안전안내문자·긴급재난문자는 휴대폰 설정에서 수신 거부 가능, 위급재난문자는 수신 거부 불가.",
+    "5장: 폭염·한파·호우·미세먼지(비상저감조치)·산불 안전안내문자. 2024년 5~6월 북한 오물풍선 관련 안전안내문자 발송(서울·경기 등).",
+    "6장: 실종경보 문자 2021년 6월 시행(실종아동등의 보호 및 지원에 관한 법률 개정) — 아동·치매환자 등, 경찰청 발송, 인상착의·사진 링크.",
+    "8장: 2023-05-31 06:41 서울시 경계경보 위급재난문자('대피할 준비'), 북한 우주발사체 발사 관련, 07:03 행정안전부 '오발령' 정정 문자 — 22분.",
+    "댓글: CBS 방식이라 개인정보 불필요. 위급재난문자 수신 거부 불가. 영문 병기 여부는 단계·지자체마다 달라 'mostly in Korean'으로만 표기."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of several people's hands holding smartphones at the same moment on a crowded city subway platform, screens glowing but blank, shot from shoulder height, documentary look, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a tall cell tower against an evening sky above apartment blocks, soft dusk light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a smartphone lying face up on a cafe table, screen lit with a blank glowing notification panel, coffee cup beside it, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a smartphone glowing on a bedside table in a dark bedroom at night, blanket blurred in the foreground, blank bright screen, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of heavy rain pouring on a city street with people holding umbrellas, seen from behind, wet asphalt reflecting lights, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an empty park bench on a quiet neighborhood path in autumn, fallen leaves, late afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a person's hand pulling a smartphone out of a coat pocket on a busy sidewalk, only the hand and coat visible, blank glowing screen, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a quiet city skyline of apartment towers at early dawn, pale blue morning light, a few windows lit, wide shot, muted tones, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a crowd at a pedestrian crossing seen from behind, several people looking down at glowing phones, evening city light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a city street at dusk with soft glowing phone screens in people's hands, seen from behind, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
