@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-27",
+  "weekday": "화요일",
+  "topic": "mandatory severance pay (toejikgeum) for every worker after one year",
+  "title": "In Korea, Leaving a Job Pays a Month per Year",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "QUIT, GET FIRED, OR RETIRE.",
+      "headline": "In Korea, leaving a job **pays a month per year.**",
+      "note": "It's the law, not a perk."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **toejikgeum**",
+      "body": "퇴직금, retirement pay. No contract has to mention it. A national law makes every employer owe it."
+    },
+    {
+      "type": "content",
+      "headline": "One year is **the line**",
+      "body": "Work a year or more, at 15 hours a week or more, and it's yours. Part-timers count too."
+    },
+    {
+      "type": "content",
+      "headline": "Any reason **you leave**",
+      "body": "Quit for a better job, get let go, or reach the end of a contract. The money is owed either way."
+    },
+    {
+      "type": "content",
+      "headline": "The math: **30 days per year**",
+      "body": "Your average daily pay over the last three months, times 30, times the years you worked. Overtime counts."
+    },
+    {
+      "type": "content",
+      "headline": "Even the tiniest shop **owes it**",
+      "body": "Small workplaces with under five people were added from 2010. Since 2013 they pay the full amount."
+    },
+    {
+      "type": "content",
+      "headline": "The **11-month** trick",
+      "body": "Some employers end contracts one month short of a year. Courts can count back-to-back contracts as one."
+    },
+    {
+      "type": "stat",
+      "stat": "20%",
+      "headline": "A year in interest on **late retirement pay**",
+      "body": "The employer has 14 days after your last day. After that, the unpaid amount earns 20% a year."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere, severance is for layoffs. **Here, for leaving.**",
+      "body": "In many countries it only comes if you're let go. In Korea, a year on the job is enough."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Office worker carrying a box out of a Seoul office building at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, every worker who stays a year gets toejikgeum when they leave: about a month's pay for each year worked.\n\nQuit or get let go, it's the same. It's the law, not a perk.\n\nDo you get anything like this where you work?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#severancepay",
+    "#worklife",
+    "#koreanlife",
+    "#livinginkorea",
+    "#workinkorea",
+    "#employment",
+    "#laborlaw",
+    "#careers",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: since 2022, workers under 55 usually get it paid into a personal retirement account (IRP) instead of cash, so it's harder to spend right away. It's also taxed separately and lightly. Foreign workers on a one-year job count too. Does your country make employers pay anything when you leave?",
+  "fact_check": [
+    "1·2장: 근로자퇴직급여 보장법 — 사용자는 퇴직하는 근로자에게 퇴직급여 지급 의무(퇴직금 또는 퇴직연금). 계약서 기재 여부와 무관.",
+    "3장: 계속근로기간 1년 이상, 4주 평균 1주 소정근로시간 15시간 이상(근퇴법 제4조 1항 단서). 단시간 근로자 포함.",
+    "4장: 퇴직 사유(자발적 퇴사·해고·계약 만료) 무관하게 지급.",
+    "5장: 퇴직금 = 1일 평균임금 × 30일 × 재직일수/365. 평균임금 = 퇴직 전 3개월 임금 총액 ÷ 그 기간 총일수, 연장근로수당 포함(근로기준법 제2조).",
+    "6장: 4인 이하 사업장 2010-12-01부터 적용(2012년까지 50%), 2013-01-01부터 100%. 재확인 필요.",
+    "7장: 11개월 쪼개기 계약 — 대법원은 계약 사이 공백이 짧고 업무가 같으면 계속근로로 인정한 판례 다수. '항상'이 아니라 'can'으로 표기.",
+    "8장: 퇴직 후 14일 이내 지급(특별한 사정 시 합의로 연장, 근퇴법 제9조). 미지급 시 지연이자 연 20%(근로기준법 제37조, 시행령 제17조). 미지급 처벌 3년 이하 징역 또는 3천만원 이하 벌금(근퇴법 제44조).",
+    "9장: 미국은 법정 퇴직금 없음, 다수 국가는 해고 시에만 해고수당. '많은 나라'로 일반화, 특정국 단정 안 함.",
+    "댓글: 2022-04-14부터 55세 미만 퇴직급여는 원칙적으로 IRP 이전(근퇴법 제9조 2항, 예외 있음 — 'usually'). 퇴직소득세 분류과세. 외국인 근로자도 적용(E-9 출국만기보험)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of an office worker in a Seoul office carrying a cardboard box of personal items toward the exit, seen from behind, soft daylight through tall windows, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a pen resting on a printed employment contract on a Korean office desk, the paper blurred so nothing is readable, warm desk lamp light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a Korean convenience store counter at night with a part-time worker's apron and hands only visible arranging snacks, soft fluorescent light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a person in a coat walking out of a Seoul office building revolving door at dusk, seen from behind, city lights starting to glow, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a calculator, a desk calendar with blank pages, and a cup of coffee on a wooden office desk, morning light, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a tiny neighborhood bakery in Seoul with a worker's hands placing bread on a shelf, warm early morning light, cozy small shop interior, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a wall calendar in a Korean office with blank squares and one page being torn off by a hand, soft window light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a quiet Korean bank lobby with an empty waiting bench and soft morning light, muted calm tones, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a crowd of office workers crossing a wide Seoul street at evening rush hour, seen from behind, warm city light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of an office worker carrying a box out of a Seoul office building at dusk, seen from behind, softly blurred city lights, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
