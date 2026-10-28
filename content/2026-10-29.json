@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-29",
+  "weekday": "목요일",
+  "topic": "housing subscription (cheongyak): new apartments allotted by points and lottery",
+  "title": "In Korea, a New Home Is Something You Win",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NEW APARTMENTS GO BY DRAW.",
+      "headline": "In Korea, a new home is **something you win.**",
+      "note": "Points, luck, and a savings account."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **cheongyak**",
+      "body": "청약, an application to buy a new apartment before it's even built. Most new apartments are sold this way."
+    },
+    {
+      "type": "content",
+      "headline": "First, **the account**",
+      "body": "You need a housing subscription savings account. About half the country holds one. Some parents open it for their kids."
+    },
+    {
+      "type": "content",
+      "headline": "Points for **waiting**",
+      "body": "Years without a home, more dependents, an older account. 84 points is the maximum. The longer you wait, the higher you rank."
+    },
+    {
+      "type": "content",
+      "headline": "Or a **straight draw**",
+      "body": "Some units skip the points and go by random lottery. Luck instead of years."
+    },
+    {
+      "type": "content",
+      "headline": "Seats **set aside**",
+      "body": "Newlyweds, first-time buyers, families with many kids and new parents each get their own share of the units."
+    },
+    {
+      "type": "content",
+      "headline": "Why **everyone applies**",
+      "body": "In some areas the price is capped below the market. Win, and you can be ahead on day one. People call it a lotto."
+    },
+    {
+      "type": "stat",
+      "stat": "2.94M",
+      "headline": "Applications for **one apartment**",
+      "body": "One leftover unit near Seoul in 2024, sold at its 2017 price. The application site slowed to a crawl."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere you make an offer. **Here, you apply.**",
+      "body": "In many countries buyers bid against each other. In Korea, a points table and a draw set the line."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "New apartment towers under construction near Seoul at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, most new apartments aren't bought. They're won.\n\nYou apply with a savings account, then points for years without a home, or a random draw, decide who gets one.\n\nHow do people buy a new home where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#housing",
+    "#realestate",
+    "#apartment",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoul",
+    "#housingmarket",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: winning comes with strings. In the hottest areas you can't resell for years, and a winner can be barred from applying again for up to 10 years. Since late 2024, up to ₩250,000 a month counts toward the account. Would a points-and-lottery system for homes work where you live?",
+  "fact_check": [
+    "2장: 청약 = 분양 아파트 입주자 모집에 신청. 선분양 관행(착공 시 분양). 주택공급에 관한 규칙.",
+    "3장: 주택청약종합저축 가입자 약 2,600만 명대(2024~2025, 인구 약 5,100만의 절반). 미성년자 가입 가능(미성년 기간 최대 5년 인정, 2024 개정).",
+    "4장: 민영주택 가점제 84점 만점 = 무주택기간 32 + 부양가족수 35 + 청약통장 가입기간 17.",
+    "5장: 추첨제 — 면적·지역별로 일부 물량 추첨(85㎡ 초과 비중 큼).",
+    "6장: 특별공급 — 신혼부부, 생애최초, 다자녀, 노부모부양, 신생아(2024~) 등.",
+    "7장: 분양가상한제 적용 지역은 시세보다 낮게 분양 → '로또 청약' 표현. 'can'으로 표기.",
+    "8장: 2024-07 화성 동탄역 롯데캐슬 무순위(줍줍) 1가구에 294만여 명 신청, 2017년 분양가 그대로. 청약홈 접속 지연·마비 보도.",
+    "9장: 일반화 — 다수 국가는 매도자와 가격 협상·경매식. 특정국 단정 안 함.",
+    "댓글: 전매제한(지역별 최대 수년), 재당첨 제한 최대 10년(투기과열·분상제). 2024-11-01부터 월 납입 인정액 10만→25만원."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of rows of new high-rise apartment towers in a Seoul suburb with construction cranes, golden hour light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a model house showroom in Seoul with a small scale model of an apartment complex on a table, visitors' hands pointing at it, soft indoor light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a Korean bank counter with a savings passbook and a pen on the desk, the passbook closed, warm calm light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a Korean family of four seen from behind sitting on a living room floor in a small older apartment, evening lamp light, cozy and modest, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a hand about to press a button on a laptop on a Korean home desk at night, the screen softly blurred and unreadable, tense quiet mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a young Korean couple seen from behind holding hands while looking up at a new apartment building in Seoul, soft afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a long line of people seen from behind waiting outside a model house in a Seoul suburb on a sunny morning, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a Korean person's hand holding a smartphone in a dark Seoul apartment room at night, the phone screen glowing with a blurred unreadable loading screen, moody blue light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a quiet residential street in Seoul with older low-rise homes in front and new apartment towers rising behind, late afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of new apartment towers under construction near Seoul at dusk with cranes and softly blurred city lights, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
