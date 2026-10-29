@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-31",
+  "weekday": "토요일",
+  "topic": "hospital funeral halls (jangnyesikjang): three-day funerals, all-night mourners, yukgaejang, wreaths, cremation",
+  "title": "In Korea, Funerals Happen at the Hospital",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NOT AT HOME. NOT AT A CHURCH.",
+      "headline": "In Korea, funerals happen **at the hospital.**",
+      "note": "Three days, open doors, and a bowl of soup."
+    },
+    {
+      "type": "content",
+      "headline": "It's called a **jangnyesikjang**",
+      "body": "장례식장, a funeral hall. Many big hospitals run one on a lower floor, with mourning rooms the family rents."
+    },
+    {
+      "type": "content",
+      "headline": "Once at home. **Then apartments.**",
+      "body": "Funerals used to be held in the family house. Apartments had no room for it, so from the 1990s hospitals took over."
+    },
+    {
+      "type": "content",
+      "headline": "Three days, **start to finish**",
+      "body": "It's called samiljang (삼일장). Day one, mourners arrive. Day two, the body is dressed. Day three, the procession leaves."
+    },
+    {
+      "type": "content",
+      "headline": "Mourners come **at any hour**",
+      "body": "No invitations needed. Friends and coworkers show up late at night, bow to the photo, then bow to the family."
+    },
+    {
+      "type": "content",
+      "headline": "Then **you eat**",
+      "body": "Every guest is fed: yukgaejang (육개장), a spicy beef soup, with rice and rice cakes. Nobody leaves hungry."
+    },
+    {
+      "type": "content",
+      "headline": "The hallway fills **with wreaths**",
+      "body": "Companies and friends send tall stands of white flowers with ribbons. The longer the row, the wider the circle."
+    },
+    {
+      "type": "stat",
+      "stat": "94%",
+      "headline": "Cremated **in 2024**",
+      "body": "Up from 33.5% in 2000. Graves on the hillside are giving way to urns."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere a funeral home. **Here, a hospital.**",
+      "body": "In many countries the funeral home is its own business. In Korea, it is often the building next to the ward."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Quiet hospital funeral hall corridor at night with white chrysanthemums, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, most funerals happen at the hospital, in a funeral hall a few floors below the ward.\n\nThree days, mourners at any hour, and every guest gets a bowl of soup.\n\nWhere does a funeral happen where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanculture",
+    "#funeral",
+    "#koreantradition",
+    "#culturaldifferences",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: many Korean families pay into a funeral plan for years before they ever need it. It's called sangjo (상조), and when the day comes it sends staff, a casket and mourning clothes. How do families prepare for a funeral where you live?",
+  "fact_check": [
+    "2장: 병원 장례식장 — 대형병원 지하·별관 장례식장, 빈소(분향실) 임대. 'many big hospitals'로 표기, 비율 단정 안 함.",
+    "3장: 1990년대 초 대형병원 전문 장례식장 등장 후 가정 장례가 병원·전문 장례식장으로 이동(주간경향). 아파트 공간 문제는 통설.",
+    "4장: 삼일장 — 1일 임종·빈소, 2일 염습·입관, 3일 발인. 일반적 순서.",
+    "5장: 조문 — 영정에 재배(또는 묵념), 상주와 맞절. 초대 없이 조문.",
+    "6장: 조문객 식사 육개장·떡·편육 등 관행.",
+    "7장: 근조화환 관행.",
+    "8장: 화장률 2000년 33.5% → 2024년 94.0%(보건복지부 2025, 보사연·한은 보고서 인용). 봉안·자연장 증가.",
+    "9장: 일반화 — 미국 등 독립 장의사(funeral home) 비교, 특정국 단정 안 함.",
+    "댓글: 상조 — 선불식 할부거래, 장례 인력·관·수의 제공."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a quiet Korean hospital funeral hall corridor in Seoul at night, a row of tall white chrysanthemum flower stands with blank white ribbons along the wall, soft warm light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a Korean hospital funeral hall mourning room in Seoul, a simple altar covered with white chrysanthemums and a framed photo seen from behind so the picture is not visible, incense smoke, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a dense Seoul apartment complex at dusk, tall towers and a hospital building nearby, wide shot, calm muted colors, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a Korean funeral procession leaving a Seoul hospital at early morning, people in black suits walking behind a dark hearse, seen from behind, soft fog, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of Korean mourners in black suits seen from behind, bowing deeply on a floor mat before a white chrysanthemum altar in a Seoul funeral hall, late night, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a table in a Korean funeral hall dining room with a bowl of red spicy beef soup, a bowl of white rice, rice cakes and side dishes on a white tablecloth, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a long row of tall standing white chrysanthemum funeral wreaths with plain blank white ribbons lining a hospital hallway in Seoul, perspective shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a calm modern Korean columbarium hall with neat rows of small glass niches holding urns and white flowers, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a large modern Korean hospital building in Seoul at blue hour, a separate entrance wing lit softly at ground level, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a quiet Korean hospital funeral hall corridor at night with white chrysanthemums, softly blurred, calm and respectful mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
