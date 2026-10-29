@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-30",
+  "weekday": "금요일",
+  "topic": "waste sorting (bunrisugeori): pay-per-bag trash, weighed food waste, sorted recycling",
+  "title": "In Korea, Taking Out the Trash Has Rules",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "ONE BIN WON'T DO HERE.",
+      "headline": "In Korea, your trash **has a rulebook.**",
+      "note": "Bags you buy, bins you sort, food you weigh."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **bunrisugeori**",
+      "body": "분리수거, sorting waste by type. Paper, plastic, cans, glass, vinyl and styrofoam each get their own bin."
+    },
+    {
+      "type": "content",
+      "headline": "Trash goes in **bags you buy**",
+      "body": "Since 1995, general trash must go in official bags sold at convenience stores. The bag price is the fee."
+    },
+    {
+      "type": "content",
+      "headline": "Food scraps **get weighed**",
+      "body": "Many apartments have a smart bin. Tap a card, drop the scraps, and pay by the kilogram."
+    },
+    {
+      "type": "content",
+      "headline": "Bones? **Not food waste.**",
+      "body": "In Seoul, chicken bones, egg shells and onion skins go in general trash. Each city sets its own list."
+    },
+    {
+      "type": "content",
+      "headline": "Clear bottles, **labels off**",
+      "body": "Clear plastic bottles go in their own bin. Empty, label peeled, crushed flat."
+    },
+    {
+      "type": "content",
+      "headline": "Why **people follow it**",
+      "body": "Get it wrong and the bag can be left behind. Dumping can mean a fine of up to ₩1 million."
+    },
+    {
+      "type": "stat",
+      "stat": "2% → 96%",
+      "headline": "Food waste **recycled**",
+      "body": "About 2% in 1995. 96% by 2019, turned into animal feed, compost and biogas."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere one bin. **Here, six.**",
+      "body": "In many cities the truck takes it all. In Korea, sorting is your job, and the bag price makes it pay."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Neat row of colored recycling bins at a Seoul apartment complex at dusk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, taking out the trash comes with rules: bags you buy, bins you sort, food scraps you weigh.\n\nRecycling here starts in your kitchen, not at a plant.\n\nHow many bins do you sort into where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#recycling",
+    "#zerowaste",
+    "#foodwaste",
+    "#sustainability",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: a big item like a sofa or a mattress can't just go out on the curb. You report it to your district, pay a small fee, and stick the receipt on it before it's picked up. What's the strangest trash rule where you live?",
+  "fact_check": [
+    "2장: 분리배출 품목 — 종이·플라스틱·캔·유리·비닐·스티로폼(지자체·단지별 차이).",
+    "3장: 쓰레기 수수료 종량제 1995-01-01 전국 시행(1994-04 서울 시범). 규격봉투 편의점·마트 판매, 지자체별 디자인.",
+    "4장: RFID 음식물 종량기 — 카드 태그, 무게별 수수료(서울시 권장 방식). 'many apartments'로 표기.",
+    "5장: 서울시 2022 통일 기준 — 동물·생선뼈, 조개껍데기, 달걀껍데기, 양파껍질 = 일반쓰레기. 춘천 등은 다름(전국 통일 기준 없음).",
+    "6장: 투명 페트병 별도 배출 — 공동주택 2020-12-25, 단독주택 2021-12-25. 내용물 비우고 라벨 제거, 위반 시 과태료 30만원 이하.",
+    "7장: 규격봉투 미사용·무단투기 과태료 최대 100만원(폐기물관리법). 미수거 스티커는 관행.",
+    "8장: 음식물 재활용률 1995년 약 2% → 2019년 96.2%(1일 14,314t 중 13,773t). 사료·퇴비·바이오가스.",
+    "9장: 일반화 — 혼합 수거 도시가 많다는 비교. 특정국 단정 안 함.",
+    "댓글: 대형폐기물 — 구청 신고·수수료 납부·배출 스티커(필증) 부착."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a neat row of colorful recycling bins at a Seoul apartment complex in the morning, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a Korean person's hands sorting a paper box, a plastic bottle and a can into separate bins at an apartment recycling area in Seoul, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a Korean person's hand holding a tied plain white volume-based trash bag in front of a convenience store at night in Seoul, the bag has no printing, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a Korean person's hand tapping a card on a small metal food waste smart bin at a Seoul apartment complex, close-up, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a Korean kitchen counter with leftover fried chicken bones, egg shells and onion skins on a plate next to a small food scrap bucket, top-down view, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a Korean person's hands peeling the label off a clear plastic water bottle over a kitchen sink, a few crushed clear bottles nearby, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a single tied trash bag left alone next to recycling bins in a quiet Seoul alley at dusk, moody light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a large modern food waste recycling facility in Korea with steel tanks and pipes, clean industrial light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a garbage truck collecting sorted recycling bags on a residential street in Seoul early in the morning, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a neat row of colored recycling bins at a Seoul apartment complex at dusk with softly blurred apartment lights, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
