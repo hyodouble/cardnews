@@ -299,6 +299,7 @@ and a status poll while the video is processed.
 | 2026-10-24 (토) | Parent payment: ₩1 million a month in the baby's first year, same amount rich or poor, a welcome card at birth, daycare fees paid instead, child allowance takes over, cash rather than a tax break | published via API to Instagram, Facebook and Threads on 2026-10-25; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-26 (월) | Emergency alert texts: jaenan munja to every phone at once, three levels with three sounds, the top one can't be turned off, missing-person alerts too, a weekly buzz, the 2023 Seoul evacuation alert, cell broadcast rather than your number | published via API to Instagram, Facebook and Threads on 2026-10-27; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-27 (화) | Severance pay: a month's wages per year worked | published via API to Instagram, Facebook and Threads on 2026-10-28 (Threads re-run after a new token); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-29 (목) | Housing subscription (cheongyak): new apartments won by points and lottery | published via API to Instagram, Facebook and Threads on 2026-10-29; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
