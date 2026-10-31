@@ -11,6 +11,7 @@ Images must already be pushed to GitHub Pages -- the Meta APIs only accept
 public URLs, never file uploads. The script turns each local path into
 BASE_URL/<path> and hands that to Meta.
 """
+import hashlib
 import json
 import re
 import os
@@ -190,11 +191,16 @@ def main(argv):
     caption, paths = argv[1], argv[2:]
 
     base = os.environ["BASE_URL"].rstrip("/")
-    urls = [f"{base}/{p.replace(os.sep, '/')}" for p in paths]
-    for url in urls:
-        with urllib.request.urlopen(urllib.request.Request(url, method="HEAD")) as r:
-            if r.status != 200:
-                sys.exit(f"not public yet: {url} -- push to GitHub first")
+    # ?v=<hash> makes the CDN fetch this exact render. Without it, a re-rendered
+    # date (same path, new picture) went out with the old cached slides.
+    urls = []
+    for p in paths:
+        digest = hashlib.md5(open(p, "rb").read()).hexdigest()
+        url = f"{base}/{p.replace(os.sep, '/')}?v={digest[:10]}"
+        with urllib.request.urlopen(url) as r:
+            if hashlib.md5(r.read()).hexdigest() != digest:
+                sys.exit(f"Pages still serves an older {p} -- wait for the deploy, then retry")
+        urls.append(url)
 
     # Instagram publishing runs on the page token too, so one token covers both.
     page_token = os.environ.get("PAGE_TOKEN", "")
