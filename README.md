@@ -301,7 +301,7 @@ and a status poll while the video is processed.
 | 2026-10-27 (화) | Severance pay: a month's wages per year worked | published via API to Instagram, Facebook and Threads on 2026-10-28 (Threads re-run after a new token); Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-29 (목) | Housing subscription (cheongyak): new apartments won by points and lottery | published via API to Instagram, Facebook and Threads on 2026-10-29; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 | 2026-10-30 (금) | Waste sorting (bunrisugeori): pay-per-bag trash, weighed food scraps, six bins | published via API to Instagram, Facebook and Threads on 2026-10-30; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
-| 2026-10-31 (토) | Halloween in Korea: English academy parties, apartment trick-or-treat by sign-up, theme park zombies, Itaewon 2022 | published via API to Instagram, Facebook and Threads on 2026-10-31; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
+| 2026-10-31 (토) | Halloween in Korea: English academy parties, apartment trick-or-treat by sign-up, theme park zombies, cafe treats, no day off | first post (16:00) carried the cached funeral-hall slides and an Itaewon slide; the user deleted it. Re-posted 16:17 via API to Instagram, Facebook and Threads with the Itaewon slides replaced; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
 
 All of them are evergreen culture explainers rather than breaking news. Check
 each day's `fact_check` list before publishing.
