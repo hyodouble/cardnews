@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-31",
+  "weekday": "토요일",
+  "topic": "Halloween in Korea: English academy parties, apartment trick-or-treat by sign-up, store goods, theme park zombies, club streets, Itaewon 2022 and crowd control",
+  "title": "In Korea, Halloween Starts at English School",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO PORCH LIGHTS. NO CANDY BOWLS.",
+      "headline": "In Korea, Halloween **starts at English school.**",
+      "note": "Costumes in class, candy by sign-up, zombies after dark."
+    },
+    {
+      "type": "content",
+      "headline": "It came in **through the classroom**",
+      "body": "English academies (영어학원) and kindergartens throw costume parties in late October. For many Koreans, that was their first Halloween."
+    },
+    {
+      "type": "content",
+      "headline": "Trick-or-treat **by sign-up**",
+      "body": "Some apartment complexes run it as an event. Homes that join put a sign on the door, and kids only knock where they see one."
+    },
+    {
+      "type": "content",
+      "headline": "The shops go **orange**",
+      "body": "By early October, budget stores and convenience stores fill up with pumpkin buckets, witch hats and devil-horn headbands."
+    },
+    {
+      "type": "content",
+      "headline": "Theme parks **bring zombies**",
+      "body": "Big theme parks turn into horror zones every fall. After dark, actors in zombie makeup chase screaming guests down the streets."
+    },
+    {
+      "type": "content",
+      "headline": "Adults head **for the club streets**",
+      "body": "Hongdae and Itaewon filled with costumes on the weekend before October 31. It became a young-adult party night."
+    },
+    {
+      "type": "content",
+      "headline": "Then **one night changed it**",
+      "body": "On October 29, 2022, a crowd crush in a narrow Itaewon alley turned Halloween weekend into a time of mourning."
+    },
+    {
+      "type": "stat",
+      "stat": "159",
+      "headline": "Lives lost **that night**",
+      "body": "Now police manage crowds every October, and many people celebrate in smaller places."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere a night at the door. **Here, an event.**",
+      "body": "In many countries Halloween means knocking on neighbors' doors. In Korea, it is something you plan, join or book."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Warm Seoul apartment hallway at night with a small carved pumpkin lantern by a door, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, Halloween didn't arrive on doorsteps. It came through English classrooms, theme parks and club streets.\n\nAnd since 2022, it's celebrated more carefully.\n\nHow do you spend Halloween where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanculture",
+    "#halloween",
+    "#halloweeninkorea",
+    "#culturaldifferences",
+    "#koreanlife",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: for a lot of Koreans in their 20s and 30s, the first Halloween they ever had was in a hagwon classroom, wearing a costume their mom bought that week. What was your first Halloween like?",
+  "fact_check": [
+    "2장: 영어학원·영어유치원 핼러윈 파티가 국내 확산 통로라는 것은 통설(언론 다수). 'for many Koreans'로 표기.",
+    "3장: 아파트 단지 핼러윈 행사 — 참여 세대가 문 앞에 표시, 표시된 집만 방문. 'some apartment complexes'로 한정.",
+    "4장: 다이소·편의점 핼러윈 용품(호박 바구니, 마녀 모자, 머리띠). 매장명 쓰지 않음.",
+    "5장: 에버랜드 블러드시티, 롯데월드 핼러윈 좀비 행사 등. 'big theme parks'로 표기.",
+    "6장: 홍대·이태원 핼러윈 주말 인파.",
+    "7장: 2022년 10월 29일 이태원 골목 압사 참사.",
+    "8장: 사망자 159명(정부 공식). 이후 경찰·지자체 핼러윈 인파 관리 대책 매년 시행.",
+    "9장: 일반화 비교, 특정국 단정 안 함."
+  ],
+  "photo_prompts": {
+    "hook": "Generate an image: Realistic editorial photograph of a bright Korean English academy classroom in Seoul decorated for Halloween, small children in simple witch and pumpkin costumes seen from behind, orange paper pumpkins on the windows, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Generate an image: Realistic editorial photograph of a Korean kindergarten Halloween costume party in Seoul, kids in cute costumes seen from behind holding small pumpkin buckets, colorful classroom, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Generate an image: Realistic editorial photograph of a Korean apartment hallway in Seoul at evening, a front door with a small orange paper pumpkin decoration taped on it, a child in a ghost costume seen from behind waiting to knock, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Generate an image: Realistic editorial photograph of a Korean budget store shelf in Seoul full of Halloween goods, orange pumpkin buckets, witch hats, devil-horn headbands and small lanterns, bright store light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no price tags, no flags, no brand names, calm lower third for text overlay.",
+    "content5": "Generate an image: Realistic editorial photograph of a Korean theme park street at night during a Halloween horror event, actors in zombie makeup in the fog under red and green lights, guests seen from behind, cinematic, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, calm lower third for text overlay.",
+    "content6": "Generate an image: Realistic editorial photograph of a busy Seoul nightlife street at night in late October, young Korean adults in Halloween costumes seen from behind, neon glow softly blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Generate an image: Realistic editorial photograph of a quiet empty narrow sloping alley in Seoul at night, soft street light, a few white chrysanthemums laid at the base of a wall, calm and respectful mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, no people, calm lower third for text overlay.",
+    "stat": "Generate an image: Realistic editorial photograph of Korean police officers in reflective vests seen from behind calmly guiding a light crowd along a wide Seoul street at night, orderly lanes, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Generate an image: Realistic editorial photograph of a Seoul apartment complex community space at evening decorated with orange pumpkin lanterns and string lights, families with small children in costumes seen from behind, warm cozy mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Generate an image: Realistic editorial photograph of a warm Seoul apartment hallway at night with a small carved pumpkin lantern glowing by a door, softly blurred, cozy mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, no people, calm lower third for text overlay."
+  }
+}
