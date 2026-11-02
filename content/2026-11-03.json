@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-03",
+  "weekday": "화요일",
+  "topic": "dashcams (beulraekbakseu): nearly every car records, insurance discounts, fault-ratio disputes, viewer-submitted crash videos, citizen traffic reports",
+  "title": "In Korea, Almost Every Car Is Recording",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "LOOK AT THE WINDSHIELD.",
+      "headline": "In Korea, almost every car **is recording.**",
+      "note": "Front, back, and while it's parked."
+    },
+    {
+      "type": "content",
+      "headline": "It's called a **black box**",
+      "body": "블랙박스, the Korean word for a dashcam. A small camera behind the mirror, usually one more on the rear window."
+    },
+    {
+      "type": "content",
+      "headline": "It never **really sleeps**",
+      "body": "Many keep watching after the engine is off. Bump a parked car and it saves the clip."
+    },
+    {
+      "type": "content",
+      "headline": "Insurers **give a discount**",
+      "body": "Most car insurers take a few percent off the premium if you register a dashcam. Few drivers skip it."
+    },
+    {
+      "type": "content",
+      "headline": "After a crash, **play the clip**",
+      "body": "Drivers don't argue on the road for long. The footage goes to the insurers, and they split the blame by percentage."
+    },
+    {
+      "type": "content",
+      "headline": "Blame comes **in numbers**",
+      "body": "It's called gwasil biyul (과실비율): 70 to 30, 80 to 20. There is an official chart for almost every kind of crash."
+    },
+    {
+      "type": "content",
+      "headline": "Crashes **become a TV genre**",
+      "body": "Drivers send their clips to YouTube shows where a lawyer judges who was at fault. Millions watch for fun."
+    },
+    {
+      "type": "stat",
+      "stat": "3.47M",
+      "headline": "Traffic reports **in 2025**",
+      "body": "Filed by ordinary people through a government app, many with dashcam video attached."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere an optional gadget. **Here, standard gear.**",
+      "body": "In many countries a dashcam is for enthusiasts. In Korea, a car without one feels unfinished."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Seoul traffic at night seen through a windshield with a small dashcam near the mirror, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, almost every car has a dashcam, and it keeps recording even while parked.\n\nAfter a crash, drivers play the clip, and the blame gets split by percentage.\n\nDo drivers use dashcams where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#dashcam",
+    "#driving",
+    "#koreanlife",
+    "#culturaldifferences",
+    "#cartips",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: some Korean dashcam owners even get a thank-you from the police. Footage that helps solve a hit-and-run or a crime can earn a reward. Would you share your dashcam video with the police?",
+  "fact_check": [
+    "2장: 블랙박스 = 차량용 영상기록장치(dashcam). 전방+후방 2채널 흔함.",
+    "3장: 주차 녹화(상시·충격 감지) 기능 보편. 'many'로 표기.",
+    "4장: 블랙박스 특약 할인 보험사별 1~6%(손해보험협회 인용 보도), 노후 차량은 제외하기도. 특약 가입률 58.3%(이투데이, 과거 수치) — 카드엔 수치 안 씀.",
+    "5장: 사고 후 영상 보험사 제출, 과실비율 산정. 분쟁 시 손해보험협회 과실비율분쟁심의위원회.",
+    "6장: 손해보험협회 '자동차사고 과실비율 인정기준' 도표 존재.",
+    "7장: 한문철TV 등 블랙박스 사고 영상 판단 채널. 이름은 카드에 안 씀.",
+    "8장: 2025년 안전신문고 도로교통법 위반 신고 347만건(한경 2026-03-22, 연합뉴스 인용). 'many with dashcam video'로 표기, 비율 단정 안 함.",
+    "9장: 일반화, 특정국 단정 안 함.",
+    "댓글: 경찰 블랙박스 영상 제보 시 감사장·포상 사례(뺑소니 등). 'can earn'으로 표기."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of the inside of a car windshield on a busy Seoul road at dusk, a small black dashcam mounted behind the rear-view mirror in sharp focus, blurred traffic lights ahead, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a close-up of a small black dashcam mounted on a car windshield next to the rear-view mirror, a tiny red recording light, soft daylight, Seoul street blurred outside, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a dark underground apartment parking garage in Seoul at night, rows of parked cars, a faint small light glowing behind one windshield, quiet mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a person's hands holding a smartphone beside a car dashboard, the screen showing only a blurred camera view of the road, warm interior light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of two cars stopped after a minor fender bender on a Seoul street, hazard lights blinking, drivers in coats seen from behind looking at a phone together, overcast day, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a minor collision between two cars at a Seoul intersection seen from above, both cars slightly angled, hazard lights on, clean overhead drone view, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a living room at night where a family seen from behind watches a large TV showing a blurred road scene from a car's view, cozy lamp light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a person seen from behind holding a smartphone at night inside a parked car, the screen glowing softly with a blurred video, city lights outside, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of rows of cars on a Seoul expressway at blue hour seen from behind, small dashcam lights glowing in several rear windows, long perspective, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of Seoul traffic at night seen through a windshield with a small dashcam near the mirror, softly blurred, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
