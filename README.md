@@ -349,3 +349,4 @@ python -c "import os,post; post.load_env(); ig=os.environ['IG_USER_ID']; print(p
 
 `content_publishing_limit` tells the two apart: real quota exhaustion shows
 `quota_usage` at the cap, while this block leaves it near zero.
+| 2026-11-01 (일) | Hospital funeral halls (jangnyesikjang): three-day funerals, mourners at any hour, yukgaejang, wreaths, 94% cremation | published via API to Instagram, Facebook and Threads on 2026-11-02; Instagram and Threads first comments went up, Facebook's was refused with OAuth 200 |
