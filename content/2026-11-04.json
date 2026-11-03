@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-04",
+  "weekday": "수요일",
+  "topic": "name changes (gaemyeong): court application, 2005 Supreme Court ruling, old names like Malja, teasing, naming shops for luck, refusals, ₩1,000 court fee",
+  "title": "In Korea, Changing Your Name Is Easy",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "SAME PERSON. NEW NAME.",
+      "headline": "In Korea, changing your name **is easy.**",
+      "note": "A court form, a small fee, a few months."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **gaemyeong**",
+      "body": "개명, a name change. You file at the court near your home. No lawyer needed, and most people never see a judge."
+    },
+    {
+      "type": "content",
+      "headline": "Once, **almost impossible**",
+      "body": "Courts used to say no unless a name was truly shameful. In 2005 the Supreme Court ruled that a name belongs to the person who carries it."
+    },
+    {
+      "type": "content",
+      "headline": "Names from **a harder time**",
+      "body": "Some grandmothers were named Malja (말자), roughly \"the last girl\", by parents hoping for a son next. Many later changed it."
+    },
+    {
+      "type": "content",
+      "headline": "Teased? **Change it.**",
+      "body": "A name that sounds like a joke, one shared by half your class, one nobody can spell. Parents apply for their kids too."
+    },
+    {
+      "type": "content",
+      "headline": "Or change it **for luck**",
+      "body": "Many visit a jakmyeongso (작명소), a naming shop. It picks a new name from your birth date and saju, Korean fortune-telling."
+    },
+    {
+      "type": "content",
+      "headline": "Courts still **say no**",
+      "body": "If a new name looks like a way to hide a crime or dodge a debt, the request is turned down."
+    },
+    {
+      "type": "stat",
+      "stat": "₩1,000",
+      "headline": "The court fee **to change your name**",
+      "body": "About 70 cents, plus a few thousand won for mail. You can even file online."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere a name is for life. **Here, a fresh start.**",
+      "body": "In many countries a new name comes with marriage. Korean women keep theirs. Here, people change a name to change their luck."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A calligraphy brush resting on blank hanji paper on a wooden desk, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, changing your name takes a court form, a small fee and a few months.\n\nSome do it to escape teasing. Many do it for luck.\n\nHow hard is it to change your name where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#names",
+    "#namechange",
+    "#koreanculture",
+    "#koreanlife",
+    "#culturaldifferences",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: once the court says yes, you have one month to report it at the local office. Then comes the hard part: the bank, the phone, the cards, every account. Would you change your name if it were this easy?",
+  "fact_check": [
+    "2장: 개명허가 신청은 주소지 관할 가정법원/지방법원. 서면 심리가 대부분. 변호사 불필요.",
+    "3장: 대법원 2005.11.16. 2005스26 결정 — 개명은 원칙적으로 허가, 범죄 은폐·법령상 제한 회피 등 불순한 의도면 불허.",
+    "4장: '말자'(끝 말+아들 바라는 뜻), '끝순' 등 남아선호 이름. 'roughly'로 의역 표시.",
+    "5장: 놀림·흔한 이름·어려운 한자 등 개명 사유. 미성년자는 부모가 법정대리인으로 신청.",
+    "6장: 작명소, 사주 기반 작명. 'Many'로 표기, 비율 단정 안 함.",
+    "7장: 2005스26 결정의 불허 사유(범죄 은폐, 채무 회피 등).",
+    "9장: 한국 여성은 결혼 후 성을 바꾸지 않음(민법상 부부 별성). 타국 일반화는 'many countries'.",
+    "1장: 인지대 1,000원+송달료 수준, 처리 보통 1~3개월 → 'a small fee, a few months'.",
+    "댓글: 가족관계등록법 — 개명허가 후 1개월 이내 시·구·읍·면에 개명신고.",
+    "8장: 민사소송 등 인지법 — 비송사건 신청 인지액 1,000원(개명허가 신청 안내 다수 동일), 송달료 별도 수천 원. 대한민국 법원 전자소송으로 온라인 신청 가능. 1,000원 ≈ US$0.70."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a person's hand filling in a paper application form with a pen on a wooden desk, warm window light, close-up, the form's lines blurred and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a calm modern Korean courthouse lobby with a long service counter and waiting chairs, soft daylight, wide shot, a few people seen from behind, all signs blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of an old leather-bound family register book lying open on a dark wooden table beside reading glasses, warm lamp light, the handwritten pages blurred and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of an elderly Korean woman's wrinkled hands resting on a folded hanbok on her lap, soft afternoon light, close-up, warm and nostalgic mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a Korean elementary school classroom seen from the back, Korean children with black hair at small desks, colorful name tags on the desks blurred and unreadable, bright daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a traditional Korean naming shop interior with a low table, an ink stone, a calligraphy brush and sheets of hanji paper with abstract unreadable brush strokes, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a stack of official paper documents on a desk with a red ink seal pad and a wooden name stamp, the papers blurred and unreadable, neutral office light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a long row of numbered paper files in a court archive shelf, soft perspective, cool light, all labels blurred and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a young Korean woman seen from behind walking out of a building into bright morning sunlight on a Seoul street, fresh-start mood, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a calligraphy brush resting on blank hanji paper on a wooden desk, softly blurred, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
