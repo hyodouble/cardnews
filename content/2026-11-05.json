@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-05",
+  "weekday": "목요일",
+  "topic": "119 ambulance: free ride paid by taxes, firefighter paramedics, cars must pull aside, non-emergency refusals, ER bill separate, every 9.6 seconds",
+  "title": "In Korea, the Ambulance Is Free",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "CALL 119. NO BILL.",
+      "headline": "In Korea, the ambulance **is free.**",
+      "note": "Not cheap. Not covered. Free."
+    },
+    {
+      "type": "content",
+      "headline": "One number: **119**",
+      "body": "Fire, rescue and ambulance all answer the same three digits. Say where you are, and a crew is on the way."
+    },
+    {
+      "type": "content",
+      "headline": "The ride costs **₩0**",
+      "body": "Taxes pay for it. No ambulance bill arrives later, rich or poor, Korean or visitor."
+    },
+    {
+      "type": "content",
+      "headline": "The crew are **firefighters**",
+      "body": "119 ambulances belong to the fire service. The paramedics on board are fire officers, and many are trained nurses."
+    },
+    {
+      "type": "content",
+      "headline": "Traffic **gets out of the way**",
+      "body": "Drivers must pull aside for a 119 truck or ambulance. Blocking one can cost up to ₩2 million (about $1,400)."
+    },
+    {
+      "type": "content",
+      "headline": "Free gets **misused**",
+      "body": "Some call it for a cold, a toothache or a ride home. Crews can refuse cases that are not emergencies."
+    },
+    {
+      "type": "content",
+      "headline": "The ride is free. **The ER is not.**",
+      "body": "Hospital care is billed through health insurance. Show up with something minor, and you pay more of it."
+    },
+    {
+      "type": "stat",
+      "stat": "9.6 sec",
+      "headline": "How often a 119 ambulance **heads out**",
+      "body": "3.29 million calls in 2025, about 9,000 a day."
+    },
+    {
+      "type": "content",
+      "headline": "Elsewhere a bill. **Here, a phone call.**",
+      "body": "In the US one ground ambulance trip averaged over $1,000 in 2021. Here, nobody stops to ask what it will cost."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "An ambulance's warm emergency lights glowing on a wet city street at night, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, you call 119 and the ambulance ride costs nothing.\n\nTaxes pay for it, and firefighters drive it.\n\nWhat does an ambulance cost where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#ambulance",
+    "#healthcare",
+    "#koreanlife",
+    "#culturaldifferences",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more: moving between hospitals is not a 119 job. For that you book a private ambulance, and it charges by distance. Would free make you call sooner?",
+  "fact_check": [
+    "1·3장: 119 구급대 이송은 세금으로 운영, 이용료 없음. 국적 무관.",
+    "2장: 119 하나로 화재·구조·구급 신고 접수.",
+    "4장: 119 구급대는 소방 소속, 구급대원은 소방공무원(응급구조사·간호사 자격자 다수).",
+    "5장: 소방기본법 제21조 소방자동차 우선 통행, 제56조 방해 시 200만원 이하 과태료(상한). $1,400 환산.",
+    "6장: 119구조·구급법 제13조, 시행령 제20조 — 단순 치통·감기·만성질환 검진 이송 등 비응급은 출동·이송 거절 가능. 2025년 미이송 130만 건.",
+    "7장: 응급실 진료비는 건강보험 적용 본인부담, 비응급·경증은 응급의료관리료 등 본인부담 커짐.",
+    "8장: 2026년 119구급서비스 통계연보(소방청, 2026-07-28 보도, 뉴시스) — 2025년 출동 3,285,957건, 하루 9,003건, 9.6초마다 1회.",
+    "9장: Health Care Cost Institute — 미국 지상 구급차 평균 가격 2021년 $1,093.",
+    "댓글: 병원 간 비응급 이송은 119 거절 대상(시행령 제20조), 민간 구급차는 거리 기준 요금."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a white Korean ambulance with red and blue lights on, parked at night outside a hospital emergency entrance, wet asphalt reflecting the lights, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a hand holding a smartphone showing a blank dialing screen, a blurred city street at dusk behind it, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of the inside of a modern ambulance, an empty stretcher with clean white sheets and medical equipment on the walls, cool interior light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of two Korean paramedics in dark navy uniforms seen from behind, standing beside an open ambulance rear door at a fire station garage, daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a busy multi-lane Seoul road where cars have moved to both sides to open a clear path down the middle for an approaching ambulance with flashing lights, slightly elevated view, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a man sitting on a sofa at home holding a tissue to his nose with a mug of tea on the table, cold and tired mood, soft indoor light, face not visible, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a hospital emergency department hallway with empty gurneys and bright overhead lights, all signs blurred and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a row of white ambulances parked in a fire station bay with doors open, long perspective, cool light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of an ambulance driving through a Seoul street at night with its lights on, motion-blurred city lights around it, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of warm red emergency lights glowing on a wet city street at night, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
