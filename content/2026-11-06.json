@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-06",
+  "weekday": "금요일",
+  "topic": "Free subway for 65+: 1984 start, senior pass card, hot-spring day trips, subway couriers, Seoul Metro loss, 242M rides, raise to 70 debate, NYC half fare",
+  "title": "In Korea, the Subway Is Free After 65",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "AGE 65. FARE ₩0.",
+      "headline": "In Korea, the subway is free **after 65.**",
+      "note": "No ride limit. No time limit."
+    },
+    {
+      "type": "content",
+      "headline": "It started in **1984**",
+      "body": "The government made subway rides free for everyone 65 and over. Back then, fewer than 1 in 20 Koreans was that old. Now it is 1 in 5."
+    },
+    {
+      "type": "content",
+      "headline": "A **senior card** opens the gate",
+      "body": "Turn 65, show your ID, and you get a free-ride transit card. You tap in like everyone else."
+    },
+    {
+      "type": "content",
+      "headline": "Day trips **to the hot springs**",
+      "body": "Line 1 runs about two hours south to the Onyang hot springs. Some seniors ride out for a soak and lunch, then ride home free."
+    },
+    {
+      "type": "content",
+      "headline": "Some ride **to work**",
+      "body": "Senior couriers carry parcels across Seoul by subway. The free ride is what makes the job pay."
+    },
+    {
+      "type": "content",
+      "headline": "Someone **pays the fare**",
+      "body": "The subway operators do. Seoul Metro lost ₩448.8 billion (about $310 million) on free rides in 2025."
+    },
+    {
+      "type": "stat",
+      "stat": "242M",
+      "headline": "Free senior rides on Seoul's subway **in 2025**",
+      "body": "Up 42% in four years."
+    },
+    {
+      "type": "content",
+      "headline": "Should it be **70?**",
+      "body": "Daegu is raising its free age one year at a time, to 70 by 2028. Seoul is debating the same. Others want rush hour left out."
+    },
+    {
+      "type": "content",
+      "headline": "A thank-you **or a bill?**",
+      "body": "Seniors see it as a thank-you for building the country. Younger riders see the losses. Both ride the same train."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Seoul subway platform at night with a train pulling in, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, turn 65 and the subway stops charging you.\n\nSeoul's subway lost ₩448.8 billion on it last year, and the country is arguing over raising the age to 70.\n\nAt what age should a free ride start?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#seoulsubway",
+    "#publictransport",
+    "#koreanlife",
+    "#culturaldifferences",
+    "#livinginkorea",
+    "#seoul",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One catch: the free pass is for subways. Seoul's city buses still charge seniors. Would you give up the free ride at 65 to keep it running?",
+  "fact_check": [
+    "1장: 노인복지법 제26조·시행령 — 65세 이상 도시철도 무임. 횟수·시간 제한 없음.",
+    "2장: 1980년 70세 이상 50% 할인으로 시작, 1984-05-23 대통령 지시로 65세 이상 100% 면제(머니투데이 2021-08-13). 65세 이상 비율 1985년 4.3%, 2024-12 20% 돌파(초고령사회).",
+    "3장: 신분증으로 우대용(어르신) 교통카드 발급, 개찰구에서 태그.",
+    "4장: 1호선 신창행이 온양온천역 경유, 서울에서 약 2시간. 노인 온천 나들이 다수 보도.",
+    "5장: 지하철 택배(실버택배) — 노인 배송원이 무임승차로 배송.",
+    "6·7장: 파이낸셜뉴스 2026-03-31 — 서울교통공사 2025년 무임손실 4,488억원, 노인 무임 2억4,234만명(2021년 1억7,077만명 대비 42%↑). $310M은 1,450원 환산.",
+    "8장: 대구 2024년부터 매년 1세 상향, 2028년 70세(헤럴드경제 2026-06-29). 서울시 70세 상향 검토·7월 공청회. 2026-03-24 국무회의 출퇴근 시간 제한 검토 지시.",
+    "댓글: 서울 시내버스는 노인 무임 없음(70세 이상 무료는 공약·검토 단계).",
+    "9장: 무임승차 찬반 여론(헤럴드경제 2026-06-29 인터뷰) 요약, 수치 없음."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of an elderly Korean man with gray hair seen from behind, walking through a Seoul subway ticket gate holding a transit card, bright station lights, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a vintage-looking Seoul subway platform in warm faded film tones, an old train arriving, 1980s mood, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a close-up of an older person's wrinkled hand tapping a plain blank transit card on a subway gate reader, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a steaming outdoor Korean hot spring footbath area in autumn with older people's legs and feet in the water, towels nearby, cozy mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of an elderly Korean man in a cap seen from behind, carrying a small parcel box and a shoulder bag on a crowded Seoul subway platform, daytime, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an almost empty Seoul subway car at night with rows of blue seats, a single older woman sitting at the far end seen from the side with face hidden, cool light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a busy Seoul subway platform crowd viewed from above, many people with gray hair among commuters, motion blur, daytime, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of two elderly Korean men seen from behind sitting on a subway seat by the window, a city river view passing outside, calm afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of an elderly Korean woman and a young Korean office worker seen from behind, standing side by side holding straps in a Seoul subway car, warm afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul subway platform at night with a train pulling in, heavily softened bokeh lights, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
