@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-07",
+  "weekday": "토요일",
+  "topic": "Korean highway rest stops (hyugeso): 200+ stops, walnut cakes, sausage-rice-cake skewer, dog parks, back gates from local roads, Haengdamdo island stop, 877K Chuseok americanos",
+  "title": "In Korea, the Rest Stop Is the Destination",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "STOP FOR THE SNACKS.",
+      "headline": "In Korea, the highway rest stop **is the destination.**",
+      "note": "People plan the drive around it."
+    },
+    {
+      "type": "content",
+      "headline": "More than **200 of them**",
+      "body": "Korea's expressways have over 200 rest stops, or hyugeso (휴게소). Each is a food court, café and gas station in one."
+    },
+    {
+      "type": "content",
+      "headline": "Walnut cakes, **served warm**",
+      "body": "Hodu-gwaja are small walnut-shaped cakes filled with red bean. They began in Cheonan in 1934. Now almost every stop sells them."
+    },
+    {
+      "type": "content",
+      "headline": "Sausage and rice cake **on one stick**",
+      "body": "So-tteok so-tteok stacks the two and glazes them sweet and spicy. For many Koreans, the trip starts with one."
+    },
+    {
+      "type": "content",
+      "headline": "Some have **a dog park**",
+      "body": "Deokpyeong, east of Seoul, has a grass field and a dog pool. About 20 rest stops now have dog playgrounds."
+    },
+    {
+      "type": "content",
+      "headline": "Some have **a back gate**",
+      "body": "A few stops can be reached from local roads too. People drive in for lunch without ever getting on the highway."
+    },
+    {
+      "type": "content",
+      "headline": "One sits **on an island**",
+      "body": "Haengdamdo stands on a small island under a sea bridge west of Seoul. On holiday weekends it is often the top seller."
+    },
+    {
+      "type": "stat",
+      "stat": "877K",
+      "headline": "Americanos sold at rest stops **over five Chuseok days**",
+      "body": "2025. The top seller, ahead of walnut cakes."
+    },
+    {
+      "type": "content",
+      "headline": "Not a pit stop. **Part of the trip.**",
+      "body": "Coffee, a skewer, a box of walnut cakes for the car. For many Koreans, the stop is the best part of the drive."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Korean highway rest stop at dusk with warm lights and parked cars, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, the highway rest stop is where the road trip actually happens.\n\nWalnut cakes, sausage skewers, dog parks, even an island stop under a sea bridge.\n\nWhat do you always buy when you stop on a long drive?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanfood",
+    "#roadtrip",
+    "#koreanstreetfood",
+    "#koreatravel",
+    "#koreanlife",
+    "#culturaldifferences",
+    "#livinginkorea",
+    "#explainkorea",
+    "#whatshotkorea"
+  ],
+  "reply": "One more thing: rest stop prices keep rising. Shops pay the stop about a third of their sales in fees, and the government plans to change the system next year. What is the one snack you always grab on a long drive where you live?",
+  "fact_check": [
+    "2장: 2026년 기준 직영 제외 전국 203개 휴게소 평균 수수료율 33.2%(MTN 2026-10-06) — 200곳 이상.",
+    "3장: 호두과자 1934년 천안 학화호두과자 시작(통설).",
+    "4장: 소떡소떡 = 소시지+떡 꼬치, 대표 휴게소 간식(2024 설 떡꼬치 24만1600개 판매 4위, 세계일보).",
+    "5장: 덕평자연휴게소 덕평펫파크(천연잔디·애견수영장) 2026-06 재오픈. 반려견 놀이터 전국 20곳(뉴시스 2025-10-02).",
+    "6장: 덕평은 국도 주차장으로도 출입 가능(동해뉴스). 개방형 휴게소 사례.",
+    "7장: 행담도휴게소 서해대교 아래 섬, 명절 매출 1위 다수 보도(덕평과 1·2위 다툼). 금액은 연도 불확실해 뺌.",
+    "8장: 2025 추석 연휴 전후 5일 아메리카노 87만7000개·41억8000만원 1위, 호두과자 52만9000개(황희 의원실, 도로공사 자료).",
+    "댓글: 평균 수수료율 33.2%, 2027년 초 공공관리회사 직계약 전환 방침(뉴시스·데일리안 2026-07-09)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a busy Korean expressway rest stop plaza on a sunny autumn weekend, food stalls with steam, people seen from behind holding snacks, parked cars, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a large modern Korean highway rest area building with a big parking lot and mountains behind, aerial-ish wide shot, daytime, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic close-up food photograph of Korean hodu-gwaja: small golden-brown baked cakes molded in the shape of a walnut, smooth soft cake surface like a pancake, NOT real walnuts and no shells, one cake broken in half showing sweet red bean paste and a walnut piece inside, piled in a white paper bag, steam rising, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a hand holding a Korean skewer of alternating grilled sausage and rice cake pieces glazed with red sweet spicy sauce, rest stop food stall blurred behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of happy dogs running on a green grass dog park next to a Korean highway rest area, autumn trees, owners seen from behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a small country road leading to a side gate and parking lot of a Korean highway rest stop, people walking in, quiet afternoon, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a long cable-stayed sea bridge in western Korea with a small island and rest stop buildings beneath it, golden hour, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of rows of iced and hot americano coffee cups lined up on a Korean rest stop café counter, busy holiday crowd blurred behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Korean family seen from behind walking back to their car at a highway rest stop carrying snack bags and coffee, late afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Korean highway rest stop at dusk with warm lights and parked cars, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
