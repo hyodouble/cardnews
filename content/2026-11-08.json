@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-08",
+  "weekday": "일요일",
+  "topic": "Weekly holiday pay (juhyu sudang): paid day off for 15+ hours a week, part-timers included, real minimum wage ₩12,384, under-15-hour shifts, 2.03M people working 1-14 hours (July 2026)",
+  "title": "In Korea, a Part-Timer Gets a Paid Day Off",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "WORK FIVE DAYS. GET PAID SIX.",
+      "headline": "In Korea, part-timers get **a paid day off.**",
+      "note": "It's the law, not a perk."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **juhyu sudang**",
+      "body": "Juhyu sudang (주휴수당) means weekly holiday pay. Work all your scheduled days, and one day off a week is paid."
+    },
+    {
+      "type": "content",
+      "headline": "The line is **15 hours**",
+      "body": "It counts once you work 15 hours a week or more, averaged over four weeks. Under that, there is no paid day."
+    },
+    {
+      "type": "content",
+      "headline": "Café shifts **count too**",
+      "body": "Convenience stores, cafés, restaurants. Any job, any size of business. Even a shop with two workers owes it."
+    },
+    {
+      "type": "content",
+      "headline": "So the real wage is **higher**",
+      "body": "The 2026 minimum wage is ₩10,320 an hour. Add the paid day and it works out to about ₩12,384."
+    },
+    {
+      "type": "content",
+      "headline": "Then came **the 14-hour shift**",
+      "body": "Some employers keep shifts just under 15 hours to skip the extra pay. Workers fill the gap with two or three jobs."
+    },
+    {
+      "type": "content",
+      "headline": "Owners call it **a burden**",
+      "body": "Small shop owners say it adds a fifth to wages. Hiring under 15 hours can cut hourly labor costs by up to 40%."
+    },
+    {
+      "type": "stat",
+      "stat": "2.03M",
+      "headline": "People working **1 to 14 hours a week**",
+      "body": "July 2026. The first time over 2 million."
+    },
+    {
+      "type": "content",
+      "headline": "A paid day off. **And a line people work around.**",
+      "body": "Meant to give workers a real rest. Now it also decides how long a shift is."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Korean convenience store counter at night, softly blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, a part-time job comes with a paid day off every week, as long as you work 15 hours or more.\n\nIt's called juhyu sudang. It raises the real minimum wage, and it also explains why so many shifts stop at 14 hours.\n\nHow are part-time jobs paid where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#parttimejob",
+    "#minimumwage",
+    "#workinkorea",
+    "#koreanlife",
+    "#livinginkorea",
+    "#culturaldifferences",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#albakorea"
+  ],
+  "reply": "One more thing: working under 15 hours a week means more than losing the paid day. It also means no paid annual leave and no severance pay when you leave. Where you live, what does a part-timer get besides the hourly wage?",
+  "fact_check": [
+    "2장: 근로기준법 제55조 제1항(1주 평균 1회 이상 유급휴일), 시행령 제30조 제1항(1주 소정근로일 개근자).",
+    "3장: 근로기준법 제18조 제3항, 4주 평균 1주 소정근로시간 15시간 미만은 제55조(휴일) 적용 제외.",
+    "4장: 제55조는 상시 4명 이하 사업장에도 적용(시행령 별표1). '두 명 가게'는 예시.",
+    "5장: 2026 최저임금 시급 10,320원(2025 10,030원 대비 2.9%). 주 40시간 기준 주휴 8시간 포함 10,320×48/40=12,384원, 월 209시간 2,156,880원.",
+    "6장: 쪼개기 고용·N잡 보도 다수(세계일보 2026-08-19 등).",
+    "7장: 주휴 8시간/40시간=임금 20% 추가. KDI: 주 1~14시간 고용 시 시간당 노동비용 최대 40% 절감(세계일보 2026-08-19 인용).",
+    "8장: 2026년 7월 주 1~14시간 취업자 202만9000명, 처음 200만 돌파, 전년 동월 187만6000명(국가데이터처, 세계일보 2026-08-19). 노인 일자리 증가도 원인.",
+    "댓글: 15시간 미만은 연차유급휴가(제18조 제3항) 및 퇴직금(근로자퇴직급여 보장법 제4조 제1항 단서) 제외."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a young part-time worker seen from behind wearing an apron, restocking shelves in a bright Korean convenience store at night, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a wall calendar page with one day circled in pen and a coffee cup on a small café counter, warm morning light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a paper work-shift schedule grid pinned on a corkboard in a Korean café back room, hand-drawn blocks, blurred so nothing is readable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a barista seen from behind making coffee in a small Korean neighborhood café, cozy interior, afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of Korean won banknotes and coins in an open paper pay envelope on a wooden table, soft light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a young worker seen from behind walking quickly between two lit shops on a Korean city street at dusk, carrying a backpack, motion of a busy evening, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a small Korean restaurant owner seen from behind sitting at an empty table after closing, calculator and receipts in front, quiet night, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of many small lit shop fronts on a Korean street at night, convenience stores and cafés, wide shot, people seen from behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a closed café at night with chairs on tables and one apron hanging on a hook, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Korean convenience store counter at night, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
