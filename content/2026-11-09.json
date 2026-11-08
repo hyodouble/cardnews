@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-09",
+ "weekday": "월요일",
+ "topic": "Parental leave (yuga hyujik): 1 year per parent, 18 months each if both take 3+ months (2025), pay up to ₩2.5M/2M/1.6M, 6+6 both-parent bonus up to ₩4.5M, 20-day paternity leave, fathers 36.5% of leave-takers (67,200 in 2025)",
+ "title": "In Korea, Both Parents Get 18 Months Off",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "ONE BABY. THREE YEARS OF LEAVE.",
+   "headline": "In Korea, **each parent** can take 18 months off.",
+   "note": "Paid, and the job is kept."
+  },
+  {
+   "type": "content",
+   "headline": "It's called **yuga hyujik**",
+   "body": "Yuga hyujik (육아휴직) means parental leave. Any worker with a child aged 8 or under can ask, and the employer has to say yes."
+  },
+  {
+   "type": "content",
+   "headline": "One year, **plus six months**",
+   "body": "The leave is one year per parent. Since 2025, if both parents take at least three months, each gets 18 months."
+  },
+  {
+   "type": "content",
+   "headline": "Paid by **insurance**, not the boss",
+   "body": "Employment insurance pays up to ₩2.5M a month for the first three months, then ₩2M, then ₩1.6M."
+  },
+  {
+   "type": "content",
+   "headline": "Both go on leave, **pay goes up**",
+   "body": "If both parents take leave before the baby turns 18 months, each gets full salary for six months, up to ₩4.5M in the sixth."
+  },
+  {
+   "type": "content",
+   "headline": "Dads also get **20 days** at birth",
+   "body": "Separate from parental leave, a father gets 20 paid days off around the birth. It was 10 days until 2025."
+  },
+  {
+   "type": "content",
+   "headline": "And dads are **using it**",
+   "body": "In 2015, about 1 in 18 people on parental leave was a father. In 2025 it was more than 1 in 3."
+  },
+  {
+   "type": "stat",
+   "stat": "67,200",
+   "headline": "Fathers on paid parental leave **in 2025**",
+   "body": "Up 61% in one year. The most ever."
+  },
+  {
+   "type": "content",
+   "headline": "A country with **0.80 births per woman.**",
+   "body": "Births rose 6.8% in 2025, the biggest jump in 15 years. Longer leave for both parents is part of the bet."
+  },
+  {
+   "type": "cta",
+   "headline": "Korea, explained **by a Korean.**",
+   "body": "Follow for the context behind the things Korea does.",
+   "button": "FOLLOW @whatshotkorea",
+   "layout": "Headline and button centered low.",
+   "graphic": "A Korean apartment living room with a stroller, softly blurred behind the text.",
+   "design_note": "Use the account's established CTA treatment and amber highlight."
+  }
+ ],
+ "caption": "In Korea, each parent can take a year of paid parental leave, and 18 months if both of them use it.\n\nIt's called yuga hyujik. The first months pay close to a full salary, and more dads are taking it than ever.\n\nHow long can a new dad stay home where you live?",
+ "hashtags": [
+  "#korea",
+  "#southkorea",
+  "#parentalleave",
+  "#paternityleave",
+  "#newdad",
+  "#koreanlife",
+  "#livinginkorea",
+  "#culturaldifferences",
+  "#explainkorea",
+  "#whatshotkorea",
+  "#workinkorea"
+ ],
+ "reply": "One more thing: the pay comes from employment insurance, so the company does not pay salary during the leave, and it must give the same job or same pay back afterwards. Where you live, who pays for parental leave?",
+ "fact_check": [
+  "2장: 남녀고용평등법 제19조 제1항(만 8세 이하 또는 초2 이하 자녀, 사업주 허용 의무).",
+  "3장: 같은 법 제19조 제2항 제1호(부모 각각 3개월 이상 사용 시 6개월 추가), 2024.10.22 개정·2025.2.23 시행.",
+  "4장: 고용보험법 시행령 제95조 제1항(1~3개월 상한 250만, 4~6개월 200만, 7개월~ 통상임금 80% 상한 160만).",
+  "5장: 같은 시행령 제95조의3(6+6, 생후 18개월 내 부모 모두, 순차 포함, 상한 250·250·300·350·400·450만).",
+  "6장: 남녀고용평등법 제18조의2 제1항 배우자 출산전후휴가 20일 유급(2024.10.22 개정 전 10일).",
+  "7장: 남성 비중 2015년 5.6%(약 1/18), 2025년 36.5%(고용노동부, 머니투데이 2026-09-04).",
+  "8장: 2025년 남성 육아휴직급여 수급자 67,200명, 2024년 41,829명 대비 60.7% 증가, 역대 최대.",
+  "9장: 2025 합계출산율 0.80(잠정), 출생아 254,500명 +6.8%, 2010년 이후 최대 증가폭(국가데이터처 2026-02-25).",
+  "댓글: 급여는 고용보험 기금(고용보험법 제70조), 복귀 시 같은 업무 또는 같은 수준 임금 직무(남녀고용평등법 제19조 제4항)."
+ ],
+ "photo_prompts": {
+  "hook": "Realistic editorial photograph of a Korean father seen from behind holding a sleeping newborn on his shoulder by a bright apartment window in Seoul, morning light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content2": "Realistic editorial photograph of a Korean mother and father seen from behind walking side by side in a Seoul park pushing a stroller, autumn leaves, soft afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content3": "Realistic editorial photograph of a small baby's hand gripping an adult finger on a white blanket, close-up, warm soft light in a Korean apartment, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content4": "Realistic editorial photograph of an office desk in a Seoul office with a neatly pushed-in empty chair and a small framed baby photo turned away, calm daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content5": "Realistic editorial photograph of two adults seen from behind sitting on a Korean apartment living room floor playing with a baby on a play mat, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content6": "Realistic editorial photograph of a Korean father seen from behind gently touching a newborn sleeping in a hospital bassinet in a quiet Korean maternity ward, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content7": "Realistic editorial photograph of a Korean father seen from behind carrying a baby in a front carrier while shopping for groceries in a Seoul neighborhood market, daytime, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "stat": "Realistic editorial photograph of several baby strollers parked in a row outside a Korean apartment complex playground, morning light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "content9": "Realistic editorial photograph of a quiet Korean apartment complex at dusk with a few warmly lit windows and an empty playground, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+  "cta": "Realistic editorial photograph of a Korean apartment living room with a stroller and baby toys, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+ }
+}
