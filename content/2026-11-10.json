@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-10",
+  "weekday": "화요일",
+  "topic": "City-run singles mixers: Seongnam 'Solomon's Choice' since July 2023 (29 events, 2,820 guests, 707 matched couples, 30 married or engaged, 9 births or pregnancies as of 2026-11-09), Seoul 'Seollem in Hangang' (3,286 applicants for 100 seats, ID/job/marriage-record checks and sex-crime record check), birth rate 0.80",
+  "title": "In Korea, the City Sets You Up on a Date",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "PAPERWORK FIRST. THEN THE DATE.",
+      "headline": "In Korea, **the city** sets you up on a date.",
+      "note": "And half the guests leave as a couple."
+    },
+    {
+      "type": "content",
+      "headline": "Hosted by **city hall**",
+      "body": "Seongnam, a city just south of Seoul, has hosted singles' nights since July 2023. It calls them Solomon's Choice (솔로몬의 선택)."
+    },
+    {
+      "type": "content",
+      "headline": "First, **the documents**",
+      "body": "Seoul's version asks for proof of address, proof of a job or income, and a family record showing you are single. Then the city checks for sex crimes."
+    },
+    {
+      "type": "content",
+      "headline": "33 applicants for **every seat**",
+      "body": "In 2024, 3,286 people applied for 100 seats at Seoul's first riverside singles' night. Later rounds were just as full."
+    },
+    {
+      "type": "content",
+      "headline": "Talk, rotate, **then pick**",
+      "body": "Guests talk one-on-one and move from table to table. At the end, each one quietly picks a favorite. Only a mutual pick becomes a match."
+    },
+    {
+      "type": "content",
+      "headline": "Why a city **plays matchmaker**",
+      "body": "Korea's birth rate was 0.80 in 2025. Almost every baby here is born to a married couple, so cities are starting one step earlier."
+    },
+    {
+      "type": "content",
+      "headline": "From first date **to wedding**",
+      "body": "Of Seongnam's matches, 30 couples have married or are about to. Nine babies have been born or are on the way."
+    },
+    {
+      "type": "stat",
+      "stat": "707",
+      "headline": "Couples matched in Seongnam **since 2023**",
+      "body": "From 2,820 guests over 29 nights. About one in two."
+    },
+    {
+      "type": "content",
+      "headline": "Sweet, or **a bit strange?**",
+      "body": "Critics say dating is private and the money belongs in housing and childcare. Fans say it is a cheap, safe way to meet someone real."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A softly lit party venue with small tables and candles, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, some cities run their own singles' nights. You send in your documents, the city checks them, and then you get a seat.\n\nIn Seongnam, about half the guests leave as a couple, and 30 couples have married so far.\n\nWould you sign up if your city ran one?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#dating",
+    "#singles",
+    "#koreandating",
+    "#koreanlife",
+    "#livinginkorea",
+    "#culturaldifferences",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#blinddate"
+  ],
+  "reply": "One more thing: it is not only Seoul and Seongnam. Many Korean cities, and even some companies, now run singles' nights of their own. Would you trust your city to pick your date?",
+  "fact_check": [
+    "2장: 성남시 '솔로몬의 선택' 첫 행사 2023-07-02(경기일보·아시아투데이 2026-11-09 보도).",
+    "3장: 서울시 '설렘, in 한강' 제출서류 주민등록초본·재직증명서/사업자등록증명원/소득금액증명서 택1·혼인관계증명서(상세), 성범죄 이력 조회(서울 미디어허브, YTN 2024-11-07).",
+    "4장: 2024-11 첫 회 100명 모집에 3,286명 신청, 약 33:1(쿠키뉴스 2024-11-27). 2025-06 시즌2 3,283명 33:1, 2025-09 북나잇 35.6:1.",
+    "5장: 1:1 대화 로테이션 후 최종 선택, 서로 고른 경우만 매칭(행사 보도 공통).",
+    "6장: 2025 합계출산율 0.80(잠정, 국가데이터처 2026-02-25). 혼외출산 비중 한 자릿수(2024년 5.8%).",
+    "7장: 결혼·결혼 예정 30쌍, 출산·출산 예정 9건(성남시 2026-11-09 발표).",
+    "8장: 29기까지 누적 참가 2,820명, 매칭 707쌍(50.1%), 2026-11-07 29기 종료.",
+    "9장: 세금으로 연애 주선, 스펙 검증 논란 등 비판 보도."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of young Korean men and women seen from behind sitting at small candlelit tables in a stylish Seoul event hall at night, warm light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of the exterior of a modern Korean city hall building at dusk with a wide plaza, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a neat stack of blank official paper documents and a pen on a desk, close-up, soft daylight, papers blank and unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of the Han River in Seoul at sunset with a floating glass event building lit up on the water, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a young Korean man and woman seen from behind talking across a small table with two drinks at an evening event, warm bokeh lights, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an empty baby crib beside a window in a quiet Korean apartment, soft morning light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a Korean couple seen from behind holding hands in wedding clothes walking down a bright hallway, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of rows of small round tables set with candles and glasses in an empty party venue before a singles event, warm light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of two coffee cups on a cafe table by a rainy window in Seoul, close-up, moody soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a softly lit party venue with small tables and candles, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
