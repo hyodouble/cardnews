@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-11",
+  "weekday": "수요일",
+  "topic": "11/11 in Korea: Pepero Day (Busan schoolgirls c.1993-94, Pepero launched 1983, Lotte marketing from 2000s, 2025 Pepero sales forecast ₩241.5B incl. ~₩100B overseas), Garaetteok Day (Ministry of Agriculture since 2006), Farmers' Day (土 = 十一, 1996), convenience-store gift sets and homemade Pepero, anti-graft law bans student gifts to current teachers (ACRC Q&A 2026-05-12)",
+  "title": "In Korea, 11/11 Is a Snack Holiday",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "FOUR 1S. LOTS OF CHOCOLATE.",
+      "headline": "In Korea, **11/11** is a snack holiday.",
+      "note": "But not everyone agrees on the snack."
+    },
+    {
+      "type": "content",
+      "headline": "First, **Pepero Day**",
+      "body": "Friends and couples trade thin chocolate-dipped sticks called Pepero (빼빼로). Four 1s in a row look like four sticks."
+    },
+    {
+      "type": "content",
+      "headline": "Started by **schoolgirls**",
+      "body": "Around 1993, middle school girls in Busan began swapping the sticks with a wish: grow tall and slim like a Pepero. The snack itself came out in 1983."
+    },
+    {
+      "type": "content",
+      "headline": "The rice cake **answer**",
+      "body": "Farm groups pushed back with garaetteok (가래떡), a long white rice cake that also looks like a 1. Since 2006, the agriculture ministry has called 11/11 Garaetteok Day."
+    },
+    {
+      "type": "content",
+      "headline": "Officially, it's **Farmers' Day**",
+      "body": "Split the Chinese character for soil, 土, and you get 十 (ten) and 一 (one). Korea made 11/11 Farmers' Day in 1996."
+    },
+    {
+      "type": "content",
+      "headline": "Stores go **all in**",
+      "body": "Convenience stores stack giant gift sets out front, often tied to dolls and balloons. Many students skip the store and dip their own sticks in melted chocolate."
+    },
+    {
+      "type": "content",
+      "headline": "Not for **your teacher**",
+      "body": "Under Korea's anti-graft law, students may not give gifts to the teachers who grade them, even small ones. A handwritten note is fine."
+    },
+    {
+      "type": "stat",
+      "stat": "₩241.5B",
+      "headline": "Pepero sales Lotte expected **in 2025**",
+      "body": "About $170 million, around ₩100 billion of it from abroad."
+    },
+    {
+      "type": "content",
+      "headline": "Snack day, **or memorial day?**",
+      "body": "Some schools ban Pepero swaps, and critics call it a candy company's holiday. Fans say it's the cheapest way to tell someone you care."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Long white rice cakes and chocolate sticks side by side on a wooden table, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, November 11 is Pepero Day, when people trade chocolate sticks.\n\nBut the same date is also Garaetteok Day and Farmers' Day, and there's one person a student can't give Pepero to.\n\nWho would you give yours to?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#peperoday",
+    "#pepero",
+    "#garaetteok",
+    "#koreanfood",
+    "#koreanculture",
+    "#livinginkorea",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#turntowardbusan"
+  ],
+  "reply": "One more thing: 11/11 is also the day Korea's navy was founded, in 1945. What does 11/11 mean where you live?",
+  "fact_check": [
+    "2-3장: 빼빼로 1983년 출시(문화일보), 1993~94년 부산·영남 여중생 '빼빼로처럼 키 크고 날씬하게' 교환 유래(YTN 2021-11-11, 아이뉴스24).",
+    "4장: 농림부 2006년부터 11/11 가래떡데이(정책브리핑 korea.kr 148954519).",
+    "5장: 농업인의 날 土=十一, 1996년 제정(뉴시스 2016-11-11, 시대일보). 1997 기재 기사도 있음.",
+    "6장: 편의점 대형 선물세트·인형 결합 진열, 홈메이드 빼빼로(일반 관행).",
+    "7장: 청탁금지법, 담임·교과교사에게 학생 선물은 5만원 이하도 불가, 손편지는 가능(권익위 Q&A, 파이낸셜뉴스 2026-05-13, korea.kr 148926371).",
+    "8장: 2025 빼빼로 매출 전망 2415억(해외 약 1000억) 머니투데이 2025-11-08·뉴스토마토. 환율 약 1,420원 가정.",
+    "9장: 학교 빼빼로 금지 사례(한국교육신문 hangyo 49321).",
+    "댓글: 해군 창설 1945-11-11 해방병단(뉴시스 2019-11-08), 청주 젓가락의 날 2015(세계일보 2015-11-13)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a festive Korean convenience store display stacked with many boxes of chocolate-dipped biscuit sticks in red and gold gift packaging at night, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of two hands exchanging a small gift box of chocolate-dipped thin biscuit sticks over a cafe table, close-up, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of Korean middle school girls in school uniforms seen from behind walking down a Busan hillside street holding small snack boxes, 1990s film photo look, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of long white Korean garaetteok rice cake sticks on a wooden board, one dipped in honey, close-up, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a golden Korean rice paddy at harvest in autumn with an elderly farmer seen from behind in the distance, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a Korean convenience store entrance at night with tall towers of gift-wrapped chocolate stick boxes, plush toys and balloons, warm light, packaging plain and unbranded, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a small handwritten folded card on a teacher's desk in an empty Korean classroom, soft afternoon light, writing unreadable, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of rows of chocolate-dipped biscuit stick gift boxes on a factory packaging line, warm light, wide shot, packaging plain and unbranded, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a school desk with a small box of chocolate sticks and a single white rice cake side by side, classroom in soft afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of long white rice cakes and chocolate-dipped biscuit sticks side by side on a wooden table, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
