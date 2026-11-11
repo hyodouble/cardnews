@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-12",
+  "weekday": "목요일",
+  "topic": "Medical tourism for skin care: 2,011,822 foreign patients in 2025 (first time over 2M, MOHW 2026-04-24), dermatology 62.9% (1.313M), top countries China, Japan, Taiwan, US, Thailand; Rejuran salmon-DNA skin booster; Gangnam/Myeongdong clinics; cosmetic VAT refund for foreigners 2016 to end of 2025 (1.72M refunds in 2024), bill to revive; telemedicine for foreign patients from next year",
+  "title": "In Korea, Tourists Line Up at Skin Clinics",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "SHOPPING BAGS. AND A SKIN CHART.",
+      "headline": "In Korea, tourists line up at **skin clinics.**",
+      "note": "Two million patients came from abroad last year."
+    },
+    {
+      "type": "content",
+      "headline": "**Two million** patients",
+      "body": "In 2025, about 2 million patients came to Korea from abroad for medical care. It was the first time the count passed 2 million, more than triple the 2023 total."
+    },
+    {
+      "type": "content",
+      "headline": "From **201 countries**",
+      "body": "China sent the most, then Japan, Taiwan, the US and Thailand. Patients came from 201 countries in all."
+    },
+    {
+      "type": "content",
+      "headline": "The famous one: **salmon DNA**",
+      "body": "Rejuran (리쥬란) is a skin booster made from salmon DNA, injected into the skin with tiny needles. Visitors call it the salmon shot."
+    },
+    {
+      "type": "content",
+      "headline": "Clinic **streets**",
+      "body": "In Gangnam and Myeongdong, a single tower can hold several skin clinics. Many have staff who speak Chinese, Japanese or English, and you book through an app."
+    },
+    {
+      "type": "content",
+      "headline": "A tax refund **that ended**",
+      "body": "From 2016, foreigners got the VAT back on cosmetic procedures. There were 1.72 million refunds in 2024. The refund ended in 2025, and lawmakers want it back."
+    },
+    {
+      "type": "content",
+      "headline": "Next: the **follow-up call**",
+      "body": "Korea plans to let foreign patients see their doctor by video from next year. A check-up can happen after the flight home."
+    },
+    {
+      "type": "stat",
+      "stat": "63%",
+      "headline": "Foreign patients who came **for skin**",
+      "body": "About 1.31 million people in 2025. Plastic surgery was next, at 11%."
+    },
+    {
+      "type": "content",
+      "headline": "A glow, **or a risk?**",
+      "body": "Doctors remind visitors that an injection is still a medical procedure. Pick a clinic registered to treat foreign patients, and leave a few days before the flight."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A bright, minimal skin clinic treatment room, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, a skin clinic is now a tourist stop. About 2 million patients came from abroad last year, and six in ten came for their skin.\n\nThe most famous treatment is made from salmon DNA.\n\nWould you book one on a trip to Korea?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#kbeauty",
+    "#skincare",
+    "#seoul",
+    "#koreanskincare",
+    "#medicaltourism",
+    "#seoultravel",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#glassskin"
+  ],
+  "reply": "One more thing: Rejuran comes from salmon, so if you have a fish allergy, tell the clinic first. What would you try in Korea?",
+  "fact_check": [
+    "2장: 2025년 외국인 환자 2,011,822명, 2009년 집계 이후 처음 200만 돌파. 2023년 약 61만명(보건복지부 2026-04-24, 헤럴드경제·데일리팜).",
+    "3장: 국적 순위 중국·일본·대만·미국·태국, 201개국(SBS Biz, 복지부 발표).",
+    "4장: 리쥬란 = 연어 DNA 유래 PN 스킨부스터, 외국인 선호 시술(위키트리, 강남언니 시술 안내).",
+    "5장: 강남·명동 피부과 다지점, 외국어 상담(리베리의원 등 병원 안내, 얼루어코리아).",
+    "6장: 미용성형 부가세 환급 2016년 시행, 2024년 172만1,095건, 2025년 말 일몰, 이달희 의원 2029년까지 재도입 법안(뉴시스 2025-09-23, MTN 2026-08-14).",
+    "7장: 외국인 환자 비대면 진료 내년부터 허용(데일리팜, 의료해외진출법 개정).",
+    "8장: 피부과 131.3만명 62.9%, 성형외과 11.2%(복지부 2025 실적).",
+    "9장: 일반 안전 안내. 외국인환자 유치 의료기관 등록제(의료해외진출법 제6조)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of tourists seen from behind carrying shopping bags walking past bright modern clinic building entrances on a busy Seoul street at dusk, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a busy bright clinic waiting lounge in Seoul with travelers' suitcases beside the sofas, people seen from behind, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of an airport arrival hall in Seoul with travelers pulling suitcases, seen from behind, soft daylight, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a fresh salmon fillet on ice next to a small glass skincare vial on a white marble counter, close-up, clean soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a tall glass office tower in Gangnam Seoul at night with many lit clinic floors, looking up, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a passport, a paper receipt and a few Korean won banknotes on a white table, close-up, papers blank and unreadable, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a laptop on a hotel room desk showing a blurred video call screen, a window with a city view behind, soft morning light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a clean modern skin clinic treatment room with a white treatment bed and a soft ring light, empty, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a doctor's gloved hands holding a small syringe over a white tray of sterile supplies, close-up, soft clinical light, no faces, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a bright, minimal skin clinic treatment room, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
