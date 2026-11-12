@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-13",
+  "weekday": "금요일",
+  "topic": "The week before the Suneung (2027 CSAT, Thu 2026-11-19, 551,864 applicants, MOE/KICE 2026-09-08): yeot and chapssaltteok gifts (stick = pass), fork (jjikda = pick) and toilet paper (pulda = solve), no seaweed soup (slip = fail), parents praying at Jogyesa/Bongeunsa, juniors cheering at the gates, students would rather get practical gifts",
+  "title": "In Korea, the Week Before the Big Exam Has Its Own Menu",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "ONE WEEK TO GO.",
+      "headline": "In Korea, the week before the big exam has **its own menu.**",
+      "note": "Sticky taffy, rice cakes, and no seaweed soup."
+    },
+    {
+      "type": "content",
+      "headline": "**Sticky** taffy",
+      "body": "Before the Suneung (수능), Korea's university entrance exam, people give students yeot, a hard sticky taffy. In Korean, \"to stick\" also means to get into a school."
+    },
+    {
+      "type": "content",
+      "headline": "Rice cakes **that cling**",
+      "body": "Chapssaltteok, chewy rice cakes made of sticky rice, carry the same wish. Every November, shops stack gift boxes of both by the door."
+    },
+    {
+      "type": "content",
+      "headline": "A fork and **toilet paper**",
+      "body": "The Korean word for stabbing with a fork also means picking an answer. The word for unrolling also means solving a problem. So both make a good-luck gift."
+    },
+    {
+      "type": "content",
+      "headline": "**No** seaweed soup",
+      "body": "Seaweed is slippery, and \"to slip\" in Korean also means to fail a test. Many families keep miyeokguk (미역국), the usual birthday soup, off the table until the exam is over."
+    },
+    {
+      "type": "content",
+      "headline": "Parents **pray**",
+      "body": "At Seoul temples like Jogyesa and Bongeunsa, parents light candles and bow, some every day for 100 days. Churches and cathedrals hold services too."
+    },
+    {
+      "type": "content",
+      "headline": "Juniors **at the gate**",
+      "body": "On exam morning, younger students wait outside the test sites before dawn with signs and cheers. Teachers and even education officials join them."
+    },
+    {
+      "type": "stat",
+      "stat": "551,864",
+      "headline": "Students signed up **for this year's exam**",
+      "body": "The test is on Thursday, November 19. More than 170,000 of them have already finished high school and are trying again."
+    },
+    {
+      "type": "content",
+      "headline": "What students **really want**",
+      "body": "In one survey, about a third of students named taffy and rice cakes as the gift they least wanted. Many would rather get a gift card or a warm drink."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A quiet Seoul classroom desk at night with a lamp, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Next Thursday, about 550,000 students in Korea sit the university entrance exam. This week, they get sticky taffy, rice cakes, forks and toilet paper, and nobody serves them seaweed soup.\n\nEvery gift is a pun on passing.\n\nWhat do people in your country do for luck before a big exam?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#suneung",
+    "#koreanculture",
+    "#exam",
+    "#studentlife",
+    "#seoul",
+    "#koreanfood",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#goodluck"
+  ],
+  "reply": "One more thing: after the exam, many shops and restaurants give students a discount if they show their exam ticket. What would you buy first?",
+  "fact_check": [
+    "1·8장: 2027학년도 수능 2026-11-19(목), 응시원서 551,864명, 졸업생 약 17.4만명(평가원 2026-09-08 발표, 뉴시스·SBS Biz·유가크루 정리).",
+    "2·3장: 엿·찹쌀떡 = 붙으라는 기원, 학력고사 시절부터 기본 선물(시대에듀·YTN).",
+    "4장: 포크(잘 찍어라)·휴지(잘 풀어라), 1993년 수능 도입 이후 등장(YTN 2024-11).",
+    "5장: 미역국 = 미끄러짐 연상 미신, AFP 보도(헤럴드경제 2025-11-13).",
+    "6장: 조계사 초 공양·봉은사 수능 기도, 백일기도, 성당·교회 기도회(뉴시스 2025-11-12·13).",
+    "7장: 고사장 앞 후배 응원, 서울시교육감 팻말 응원(헤럴드경제 2025-11-12).",
+    "9장: 찹쌀떡·엿 받기 싫은 선물 34.5%(캐릿 설문).",
+    "reply: 수험표 할인은 매년 업체별 행사, 확정 목록 아님(일반 안내)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a stack of traditional Korean gift boxes of sticky rice cakes and taffy on a small shop counter in Seoul, warm evening light, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of pieces of golden Korean yeot taffy sticks on a wooden plate, close-up, soft warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of round white Korean chapssaltteok sticky rice cakes dusted with flour on a plate, one cut open showing red bean filling, close-up, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a silver fork and a roll of white toilet paper tied together with a red ribbon as a gift on a student desk in Seoul, close-up, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a Korean family dinner table with rice, side dishes and a clear soup, no seaweed, warm home light, top-down view, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of rows of lit candles and lotus lanterns in a Seoul Buddhist temple courtyard at dusk, parents seen from behind bowing, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of Korean high school students in winter coats seen from behind holding blank colorful cheering boards outside a school gate before dawn, street lights, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an empty Korean exam classroom with rows of neat desks and a wall clock, early morning light, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a warm paper cup of hot drink and a small gift envelope on a student desk with textbooks in Seoul, close-up, cozy light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a quiet Seoul student desk at night with a desk lamp and open books, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
