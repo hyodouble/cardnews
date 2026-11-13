@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-14",
+  "weekday": "토요일",
+  "topic": "Korean convenience stores (pyeonuijeom): 53,266 stores of the big four at end-2025 (MOTIE via Asia Economy/fnnews), first-ever yearly drop since 1988; cook ramyeon inside, half-price parcels, safe household medicines since 2012-11-15, 1+1 deals, ATM and transit top-up, tourists' last stop",
+  "title": "In Korea, the Convenience Store Does Almost Everything",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "OPEN ALL NIGHT.",
+      "headline": "In Korea, the convenience store **does almost everything.**",
+      "note": "Noodles, parcels and medicine at 3 a.m."
+    },
+    {
+      "type": "content",
+      "headline": "Cook **your noodles inside**",
+      "body": "Pick a cup of ramyeon (라면), add hot water at the machine and eat at the window counter. Near Seoul's Han River, some stores have machines that boil instant noodles for you."
+    },
+    {
+      "type": "content",
+      "headline": "Ship a parcel **for half price**",
+      "body": "Drop a box at one store and the buyer picks it up at another, often for about ₩2,000. People use it to send things they sell second-hand."
+    },
+    {
+      "type": "content",
+      "headline": "Medicine **after midnight**",
+      "body": "Since November 2012, stores can sell a short list of medicines: fever and pain pills, cold medicine, digestive aids and pain patches. Pharmacies close. The store doesn't."
+    },
+    {
+      "type": "content",
+      "headline": "Buy one, **get one free**",
+      "body": "Stickers that say 1+1 and 2+1 cover the drinks fridge and the snack aisle. The deals change every month, so regulars check before they pay."
+    },
+    {
+      "type": "content",
+      "headline": "Cash, **and your bus fare**",
+      "body": "Most stores have an ATM, and the counter tops up your transit card. Some hand out pre-ordered parcels and print photos too."
+    },
+    {
+      "type": "content",
+      "headline": "Tourists' **last stop**",
+      "body": "Visitors fill bags with snacks and ramyeon before flying home. GS25 said foreign shoppers spent 74.2% more there last year, and one Seoul store built a whole wall of noodles for them."
+    },
+    {
+      "type": "stat",
+      "stat": "53,266",
+      "headline": "Stores of the **four biggest chains**",
+      "body": "Counted at the end of 2025, about one for every 960 people. It was also the first year the number went down since the first store opened in 1988."
+    },
+    {
+      "type": "content",
+      "headline": "Dinner **in a lunch box**",
+      "body": "Rice balls, kimbap and full lunch boxes called dosirak (도시락) fill the shelves. For students and people who live alone, the store is the kitchen."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Seoul convenience store glowing on a dark street, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Hot noodles at the window, a parcel at the counter, cold medicine at 2 a.m. In Korea, the convenience store on the corner handles all of it.\n\nThere are more than 53,000 of them.\n\nWhat would you buy first in a Korean convenience store?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#conveniencestore",
+    "#koreanculture",
+    "#ramyeon",
+    "#seoul",
+    "#koreatravel",
+    "#koreanfood",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#travelkorea"
+  ],
+  "reply": "Small tip: after you buy a cup of noodles or a lunch box, the hot-water machine and the microwave are free to use.",
+  "fact_check": [
+    "8장: 편의점 4사 2025년 말 53,266개(전년 54,852), 1988년 도입 후 첫 감소(산업통상부, 파이낸셜뉴스 2026-02-04 등). 인구 약 5,110만 ÷ 53,266 ≈ 960명당 1곳.",
+    "2장: 매장 온수기·취식대, 한강 편의점 즉석 라면 조리기(BGF리테일, 위키트리).",
+    "3장: 반값택배 GS25 2019년·CU 2020년 도입, 1,900원부터, 중고거래 수요(바이라인네트워크·뉴시스).",
+    "4장: 안전상비의약품 2012-11-15 시행, 해열진통제·감기약·소화제·파스 13품목(현재 11종 판매)(복지부, 부산일보·데일리팜).",
+    "5장: 1+1·2+1 행사 월 단위 교체(업계 일반).",
+    "6장: ATM·교통카드 충전·택배 수령(업계 일반).",
+    "7장: GS25 외국인 결제금액 전년 대비 74.2% 증가, CU 홍대 '라면 도서관' 외국인 비중 70~75%(아시아경제 2026-06·위키트리).",
+    "reply: 구매 후 온수기·전자레인지 사용(업계 일반)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a brightly lit Korean convenience store on a quiet Seoul side street at night, glass front glowing, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a steaming cup of instant ramyeon with chopsticks on a convenience store window counter at night, city lights outside, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a taped cardboard parcel box on a convenience store counter next to a small parcel kiosk, close-up, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a small shelf of plain boxed cold medicine and pain patches in a convenience store at night, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a convenience store drinks fridge full of colorful bottles and cans with blank sale stickers, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an ATM machine standing inside a bright Korean convenience store aisle, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a traveler seen from behind holding a shopping basket full of instant noodle packs and snacks in a convenience store aisle, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of several convenience stores glowing along a Seoul street at dusk, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a Korean dosirak lunch box with rice and side dishes and two triangle kimbap rice balls on a convenience store counter, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Seoul convenience store glowing on a dark street, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
