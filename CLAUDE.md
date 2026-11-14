@@ -32,3 +32,7 @@
 - 이미지 생성·저장(`assets/<날짜>/<key>.png`)은 Codex 담당. 이후 Claude가 이미지를 검수(정사각형, 키와 슬라이드 일치)하고 `make_cards.py`로 렌더한다.
 - `codex exec`에는 이미지 도구가 없어 Mac Chrome의 Gemini를 쓴다. `assets/<날짜>/CODEX_TASK.md`를 쓰고 `codex exec -s workspace-write -C ~/cardnews "Follow assets/<날짜>/CODEX_TASK.md exactly." < /dev/null`을 백그라운드로 실행한다. `< /dev/null`이 없으면 stdin 대기로 멈춘다.
 - Codex 한도가 소진됐으면 Claude가 Chrome으로 직접 만든다.
+
+## Source photos are not in the repo (2026-11-14)
+
+`assets/**/*.png` is git-ignored and was removed from the whole history to keep the repo small. Only photos were removed; `content/`, `img/`, prompts and scripts are all still tracked. The photos stay in `assets/<date>/` on the machine that made them, so render a day on that same machine. A clone made before 2026-11-14 has the old history: copy its `assets/` aside, then `git fetch && git reset --hard origin/master`.

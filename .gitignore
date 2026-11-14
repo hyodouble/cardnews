@@ -10,3 +10,6 @@ img/*/reel_frames/
 .DS_Store
 *.log
 CODEX_TASK*.md
+
+# Source photos stay on the machine that made them. Only the rendered slides in img/ are pushed.
+assets/**/*.png
