@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-15",
+  "weekday": "일요일",
+  "topic": "Korean apartment double parking (ijung-jucha): cars parked across rows in neutral with the parking brake off so neighbors push them by hand; phone number on the dashboard; EV neutral within 3 minutes / N-hold / Tesla tow mode; level ground only, pusher often carries most blame; apartments from the 1990s average 0.93 spaces per home (Budongsan Info via Dong-A 2025-04), 2020s 1.24; 26.5 million cars end-2025 (MOLIT)",
+  "title": "In Korea, You Park by Leaving Your Car in Neutral",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "NO SPACE LEFT.",
+      "headline": "In Korea, you park by **leaving your car in neutral.**",
+      "note": "Then a neighbor pushes it out of the way."
+    },
+    {
+      "type": "content",
+      "headline": "More cars **than spaces**",
+      "body": "In older apartment complexes, every spot is full by evening. Late drivers park across the front of the parked rows. Koreans call it ijung-jucha (이중주차), double parking."
+    },
+    {
+      "type": "content",
+      "headline": "Neutral, **brake off**",
+      "body": "The unwritten rule: shift into neutral, release the parking brake and leave the wheels straight. Your car now blocks three others, but anyone can move it."
+    },
+    {
+      "type": "content",
+      "headline": "Push it **by hand**",
+      "body": "At 7 a.m., a neighbor in work clothes leans on your car and rolls it a few meters forward. One person can move a sedan. Big SUVs often take two."
+    },
+    {
+      "type": "content",
+      "headline": "Your number **on the dashboard**",
+      "body": "If a car won't roll, people look behind the windshield. Most drivers leave a phone number card there, so the owner can be called down in pajamas."
+    },
+    {
+      "type": "content",
+      "headline": "Electric cars **make it harder**",
+      "body": "Many newer cars won't stay in neutral once they're switched off. Hyundai and Kia manuals say to shift into neutral within 3 minutes of turning the car off, and some cars have a special mode just to stay in neutral."
+    },
+    {
+      "type": "content",
+      "headline": "Flat ground **only**",
+      "body": "Car manuals warn against parking in neutral on a slope. If a pushed car rolls into another, the person who pushed it often carries most of the blame, and car insurance may not cover it."
+    },
+    {
+      "type": "stat",
+      "stat": "0.93",
+      "headline": "Parking spaces **per home**",
+      "body": "The average in apartments built in the 1990s. Complexes from the 2020s reach 1.24, while Korea has 26.5 million cars, about one for every two people."
+    },
+    {
+      "type": "content",
+      "headline": "New towers **go underground**",
+      "body": "New complexes hide parking under the ground and keep the surface for parks. Some charge an extra monthly fee for a second or third car."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Korean apartment parking lot at night, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Late at night, the last drivers park across the front of the parked rows, in neutral, with the parking brake off. In the morning, neighbors push them out of the way by hand.\n\nIn older Korean apartments, there are fewer spaces than cars.\n\nWould you leave your car for a stranger to push?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanculture",
+    "#parking",
+    "#seoul",
+    "#koreanapartment",
+    "#cars",
+    "#koreanlife",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#livinginkorea"
+  ],
+  "reply": "Small tip: if a car is blocking yours in Korea, check behind the windshield first. The owner's phone number is usually there.",
+  "fact_check": [
+    "2장: 노후 단지 세대당 주차 1대 미만 흔함, 이중주차(동아일보 2025-04-10, 비즈한국).",
+    "3장: 기어 N·주차브레이크 해제·바퀴 정렬 관행(로톡·타운카 블로그).",
+    "4장: 손으로 밀어 이동(관행, 커뮤니티). '한 명이 세단, SUV는 둘'은 일반 경험칙.",
+    "5장: 대시보드 연락처 관행(업계 일반).",
+    "6장: 현대·기아 매뉴얼 시동 OFF 후 3분 이내 N 변속, 현대 N단 유지 모드, 테슬라 견인 모드(각 제조사 매뉴얼).",
+    "7장: 매뉴얼 '평지에서만 N단 주차', 민 사람 과실이 큰 편, 자동차보험 불가·일상생활배상책임으로 처리 사례(로톡·타운카). 판례 아닌 실무 의견이라 'often'·'may'로 씀.",
+    "8장: 부동산인포 공동주택관리시스템 분석 1990년대 0.93대, 2020년대 1.24대(동아일보 2025-04-10). 2025년 말 자동차 2,651만 대(국토부, 뉴시스), 인구 약 5,110만 → 약 1.95명당 1대.",
+    "9장: 신축 지하주차장·지상공원, 2·3번째 차 추가 주차비(헤럴드경제 2025-05-31 '세 대 주차 21만원').",
+    "reply: 대시보드 연락처(관행)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a crowded Seoul apartment complex parking lot at night, a row of parked cars with several more cars parked sideways in front of them blocking the row, apartment towers behind, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of an older Korean apartment complex parking lot packed with cars in the evening, extra cars parked parallel in the driving lane in front of the parked rows, low concrete apartment blocks, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of the inside of a car with an automatic gear shifter set to neutral and the parking brake lever released, close-up, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a person in office clothes seen from behind pushing a parked sedan forward by hand in a Korean apartment parking lot in the early morning, hands on the car's rear, motion slight, faces not visible, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a small blank white card resting on a car dashboard behind the windshield, seen from outside the car, close-up, morning light, card has no writing, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a modern electric car parked in a Korean apartment parking lot with a charging cable plugged in, clean night light, three-quarter view, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a car parked on a gentle slope in a Korean apartment parking lot with its front wheels straight, low angle showing the incline, overcast daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of an aerial view of a dense Korean apartment complex parking lot completely full of cars between tall apartment towers at dusk, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a bright clean underground parking garage of a new Korean apartment complex with cars in marked bays, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Korean apartment parking lot at night with cars and tower lights, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
