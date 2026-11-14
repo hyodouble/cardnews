@@ -6,3 +6,7 @@ tiktok_업로드.txt
 
 publish.log
 img/*/reel_frames/
+
+.DS_Store
+*.log
+CODEX_TASK*.md
