@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-16",
+  "weekday": "월요일",
+  "topic": "Korea's free national flu shot (KDCA 2026-27 season): children 6 months to 14 (expanded from 13 this season), pregnant women, 65+; free at about 23,000 designated clinics or public health centers regardless of registered address; Sept 21 2026 to Apr 30 2027; seniors start by age band in October, 75+ first; trivalent vaccine; 65+ COVID shot same schedule, same-visit recommended; records checked on the Vaccination Helper (예방접종도우미) site",
+  "title": "In Korea, the Flu Shot Is Free for Kids and Seniors",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "FLU SEASON.",
+      "headline": "In Korea, the flu shot is **free for kids and seniors.**",
+      "note": "Walk into almost any neighborhood clinic."
+    },
+    {
+      "type": "content",
+      "headline": "Who gets it **free**",
+      "body": "Every child from 6 months to 14 years old, every pregnant woman and everyone 65 or older. The government pays the full cost."
+    },
+    {
+      "type": "content",
+      "headline": "Up to **age 14 now**",
+      "body": "This season the age limit for children went up from 13 to 14, so middle schoolers are covered too."
+    },
+    {
+      "type": "content",
+      "headline": "Your local **clinic**",
+      "body": "The shot is given at neighborhood clinics and public health centers. It doesn't matter where your address is registered. Pick the one closest to you."
+    },
+    {
+      "type": "content",
+      "headline": "Oldest **go first**",
+      "body": "Seniors start in October in age groups, beginning with those 75 and older. Kids who need two doses start first, in September."
+    },
+    {
+      "type": "content",
+      "headline": "Two shots, **one visit**",
+      "body": "People 65 and older can get a free COVID shot on the same schedule. Health officials recommend getting both at the same visit."
+    },
+    {
+      "type": "content",
+      "headline": "Records **online**",
+      "body": "Every shot goes into a national record. Parents can look up their children's vaccinations on the government's Vaccination Helper website."
+    },
+    {
+      "type": "stat",
+      "stat": "23,000",
+      "headline": "Clinics **giving free shots**",
+      "body": "Designated clinics nationwide, plus public health centers. The free season runs from September 21 to April 30."
+    },
+    {
+      "type": "content",
+      "headline": "Everyone else **pays**",
+      "body": "Adults between 15 and 64 pay at the clinic, usually a few tens of thousands of won. Many companies cover it as a perk."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A Korean neighborhood clinic waiting room, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Every fall, Korean kids, pregnant women and anyone 65 or older can walk into a neighborhood clinic and get a flu shot for free.\n\nThis season, the free age for children went up to 14.\n\nIs the flu shot free where you live?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanculture",
+    "#flushot",
+    "#fluseason",
+    "#healthcare",
+    "#koreanhealthcare",
+    "#koreanlife",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#livinginkorea"
+  ],
+  "reply": "Small tip: if you're 65 or older in Korea, bring your ID card. The clinic checks it before the free shot.",
+  "fact_check": [
+    "1·2장: 무료 대상 생후 6개월~14세, 임신부, 65세 이상(질병관리청 2026-08-25 보도, 정책브리핑).",
+    "3장: 이번 절기 13세→14세 확대(같은 보도). 14세=대략 중학생.",
+    "4장: 주소지 무관 가까운 위탁의료기관·보건소(같은 보도).",
+    "5장: 2회 대상 어린이 9/21 시작, 어르신 75세 이상부터 연령대별 순차(같은 보도). 75세 시작일 10/6·10/12 출처 엇갈려 날짜는 뺌.",
+    "6장: 65세 이상 코로나19 같은 일정, 동시 접종 권고(같은 보도).",
+    "7장: 예방접종도우미 누리집 접종 기록 조회(질병관리청).",
+    "8장: 전국 약 2만 3000개 위탁의료기관, 9/21~4/30(같은 보도).",
+    "9장: 15~64세 유료, 가격 '수만 원'은 일반 시세(병원별 상이), 회사 지원은 일부 복지 관행이라 'many'.",
+    "reply: 어르신 신분증 지참 안내(보건소·지자체 안내 일반)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a small bright Korean neighborhood clinic waiting room in autumn with a few patients seated, seen from behind, wide shot, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a grandparent and a young child sitting together in a clinic waiting room, seen from behind, warm light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a middle school student in a school uniform sitting on a clinic examination chair with a sleeve rolled up, shoulder and arm only, faces not visible, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a small Korean neighborhood clinic entrance on a residential street in autumn, glass door, potted plant, no readable signage, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of elderly Korean people waiting in a short orderly line inside a public health center hallway, seen from behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of two small vaccine syringes on a clean medical tray next to cotton pads, close-up, soft light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a parent's hands holding a smartphone showing a blank light screen, child's paper vaccination booklet beside it on a table, close-up, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a nurse's gloved hands giving a shot in an upper arm, close-up, clean clinic light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of an office worker in a shirt with a small round bandage on the upper arm, sleeve rolled up, office background softly blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a Korean neighborhood clinic waiting room, heavily softened bokeh, calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
