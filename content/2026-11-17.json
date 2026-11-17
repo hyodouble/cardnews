@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-17",
+  "weekday": "화요일",
+  "topic": "Fan death (선풍기 사망설): Korean belief that sleeping in a closed room with an electric fan on can kill; 1927 Jungoe Ilbo article claimed fans create a vacuum and starve lungs of oxygen; 2006 KCPB alert listed asphyxiation from fans/AC among five most common summer accidents (20 CISS cases 2003-05), advised timers, rotation, open doors; science: fans don't change O2/CO2 and can't cause hypothermia; real risk is heat/dehydration in a hot closed room; 1970s energy-saving propaganda theory contradicted by 1927 date",
+  "title": "In Korea, a Fan Could Kill You in Your Sleep",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "FAN DEATH.",
+      "headline": "In Korea, a fan **could kill you in your sleep.**",
+      "note": "At least, that's what generations grew up hearing."
+    },
+    {
+      "type": "content",
+      "headline": "The **belief**",
+      "body": "Fall asleep in a closed room with an electric fan running, and you might not wake up. Koreans call it \"fan death.\""
+    },
+    {
+      "type": "content",
+      "headline": "How it **\"works\"**",
+      "body": "The story says the fan uses up the oxygen in the room, or chills your body all night until it gives out."
+    },
+    {
+      "type": "content",
+      "headline": "Leave a **door open**",
+      "body": "So families learned the rules: crack a door or window, and never point the fan straight at a sleeping face."
+    },
+    {
+      "type": "content",
+      "headline": "Set the **timer**",
+      "body": "Many Koreans set the fan's off-timer before bed, so it shuts down after they fall asleep."
+    },
+    {
+      "type": "content",
+      "headline": "Even **officials** warned",
+      "body": "In 2006, Korea's consumer protection agency listed suffocation from fans and air conditioners among the five most common summer accidents."
+    },
+    {
+      "type": "content",
+      "headline": "What science **says**",
+      "body": "A fan doesn't use up oxygen, and its breeze can't chill a body to a deadly temperature. Experts say deaths blamed on fans were heart attacks or strokes."
+    },
+    {
+      "type": "stat",
+      "stat": "1927",
+      "headline": "The **first warning** in print",
+      "body": "A Korean newspaper claimed fans create a vacuum that starves your lungs. The fear is almost 100 years old."
+    },
+    {
+      "type": "content",
+      "headline": "The **real** risk",
+      "body": "In a very hot, closed room, a fan only pushes hot air around and dries the body out. That part is a real danger in a heat wave."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A dim Korean bedroom with an electric fan, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Many Koreans grew up being told never to sleep in a closed room with the fan on. It might kill you.\n\nScience says it won't. But plenty of families still leave the door cracked, just in case.\n\nDid you grow up with a warning like this?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanculture",
+    "#fandeath",
+    "#koreanmyths",
+    "#urbanlegend",
+    "#koreanlife",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#livinginkorea"
+  ],
+  "reply": "Some say the government made it up in the 1970s to save electricity. That theory doesn't hold up: a Korean newspaper was already warning about fans in 1927.",
+  "fact_check": [
+    "1·2장: 선풍기 사망설 = 밀폐된 방에서 선풍기 켜고 자면 죽는다는 속설(en·ko 위키 Fan death / 선풍기 사망설).",
+    "3장: 산소 결핍·저체온 주장(en 위키, 2006 소비자보호원 문구).",
+    "4장: 문 열어두기·얼굴에 직접 바람 금지 = 소비자보호원 2006 권고(문 열기·회전·타이머) + 일반 관행.",
+    "5장: 타이머 = 2006 소비자보호원 권고. '많은 한국인' 사용은 일반 관행, 비율 통계 없음.",
+    "6장: 한국소비자보호원 2006-07-18 '여름철 안전사고 주의' — 선풍기·에어컨 질식을 5대 여름 사고에 포함, 2003~2005 CISS 20건(en 위키 인용).",
+    "7장: 선풍기는 O2·CO2 농도 영향 없음, 저체온 불가(Giesbrecht·서울대병원 정성구, ko 위키 2008 기사 인용). 사인은 심장마비·뇌졸중·호흡부전(Kalkstein).",
+    "8장: 1927-07-31 중외일보 '선풍기의 괴이한 해' — 진공·산소 부족 주장(en 위키, 원문 직접 확인 못 함).",
+    "9장: 덥고 밀폐된 방에선 해롭다(Kalkstein, ko 위키). WHO 35도 기준은 확인 못 해서 숫자 뺌.",
+    "reply: 1970년대 에너지 절약 선전설은 1927 기사로 반박(en 위키, Slate)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a dim Korean apartment bedroom at night, an electric fan beside a bed where a person sleeps under a thin blanket, turned away from camera, moonlight through a closed window, cinematic mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a white electric stand fan running in a small dark bedroom at night, blue moonlight, slightly eerie calm mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of close-up of electric fan blades spinning with motion blur behind a white grille, dark background, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a bedroom door left slightly open at night with warm hallway light spilling in, an electric fan in the foreground facing the door, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a hand turning a plain rotary knob on the base of a white electric fan, the knob has no markings, close-up, bedside lamp light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a living room in summer with a wall-mounted air conditioner and an electric fan side by side, afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a stethoscope lying on a white desk next to a small electric fan, clean bright clinical light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a vintage 1920s brass electric desk fan on an old wooden table, warm sepia tone, antique mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of an elderly person's hands holding a glass of cold water in front of a running fan in a hot summer room, sunlight, sweat on the glass, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a dim Korean bedroom with an electric fan, heavily softened bokeh, calm night mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
