@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-19",
+  "weekday": "목요일",
+  "topic": "Blood type personality (혈액형 성격설): before MBTI, Koreans read personality from ABO blood type; stereotypes A careful/timid, B selfish/free, O outgoing, AB genius-or-odd; origin Furukawa Takeji 1927 Japan paper, revived by Nomi Masahiko 1971 book; Korea boom 2004-05 incl. film My Boyfriend Is Type B (2005); Gallup Korea Feb 2023 (n=1,501): 57% believe (67% in 2002/2012, 58% 2017), under 1% don't know own type (5% in 2002), 36% of believers say consider it for dating/marriage, O favorite 49%, no blood-type pattern in married couples or self-rated MBTI tendencies; Nawata 2014 >10,000 Japan/US: blood type explains <0.3% of personality",
+  "title": "In Korea, Your Blood Type Was Your MBTI",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "BLOOD TYPE.",
+      "headline": "Before MBTI, Koreans asked **your blood type.**",
+      "note": "And many still do."
+    },
+    {
+      "type": "content",
+      "headline": "Four types, **four personalities**",
+      "body": "Type A is careful and a bit timid. Type B is free and selfish. Type O is outgoing. Type AB is either a genius or a little strange."
+    },
+    {
+      "type": "content",
+      "headline": "Everyone **knows theirs**",
+      "body": "Fewer than 1 in 100 Korean adults don't know their own blood type. So the question always has an answer."
+    },
+    {
+      "type": "content",
+      "headline": "It came **from Japan**",
+      "body": "A Japanese professor first tied blood type to temperament in 1927. A 1971 bestseller in Japan brought the idea back, and it crossed to Korea."
+    },
+    {
+      "type": "content",
+      "headline": "The **Type B man**",
+      "body": "In the mid-2000s the craze peaked. A 2005 Korean rom-com, My Boyfriend Is Type B, was about a girl warned off a man because of his blood type."
+    },
+    {
+      "type": "content",
+      "headline": "It even reaches **dating**",
+      "body": "Among Koreans who believe it, about 1 in 3 say it's good to consider blood type when dating or choosing a spouse."
+    },
+    {
+      "type": "content",
+      "headline": "What science **says**",
+      "body": "A 2014 study of more than 10,000 people in Japan and the US found blood type explains less than 0.3% of personality."
+    },
+    {
+      "type": "stat",
+      "stat": "57%",
+      "headline": "of Korean adults **still believe it**",
+      "body": "That's from a 2023 Gallup Korea poll. In 2002 it was 67%. The fad faded. The belief mostly didn't."
+    },
+    {
+      "type": "content",
+      "headline": "Then came **MBTI**",
+      "body": "The same poll compared blood types with MBTI-style traits. No pattern. Now Koreans ask for four letters instead of one."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Four small glass vials of red liquid in a rack, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "Before Koreans asked for your MBTI, they asked for your blood type. A is careful, B is selfish, O is outgoing, AB is a genius or a weirdo.\n\nScience says there's nothing to it. More than half of Korean adults still believe it a little.\n\nDo you even know your blood type?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#koreanculture",
+    "#bloodtype",
+    "#mbti",
+    "#koreanlife",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#livinginkorea",
+    "#kdrama"
+  ],
+  "reply": "Korea's mix, from the same 2023 poll: A 34%, O 28%, B 26%, AB 11%. And O is the favorite: about half of believers picked it as the best type. Is blood type something people talk about where you live?",
+  "fact_check": [
+    "1·9장: MBTI 이전 유행 = 2002년부터 갤럽 조사가 이어진 혈액형 성격설, MBTI는 2020년대 유행(09-16편).",
+    "2장: 유형별 고정관념은 통념 소개(A 소심, B 이기적, O 활발, AB 천재 아니면 이상). 사실 주장 아님.",
+    "3장: 한국갤럽 2023-02-10~28, 1,501명. 본인 혈액형 모름 2017·2023 1% 미만(2002 5%). YTN·아시아경제 2023-10-20.",
+    "4장: 후루카와 다케지 1927 논문(Psychological Research), 노미 마사히코 1971 책(en 위키·BigThink). '한국으로 건너옴'은 en 위키 서술.",
+    "5장: 2004~2005 열풍·2005년 영화 B형 남자친구(이동건·한지혜, 2005-02 개봉) — 주간경향·en 위키.",
+    "6장: 갤럽 2023, 믿는 855명 중 36% '연애·배우자 선택 때 혈액형 고려하는 게 좋다'.",
+    "7장: Nawata 2014, Japanese Journal of Psychology 85(2), 일본·미국 1만여 명, 68문항 중 65개 차이 없음, 설명력 0.3% 미만(PubMed 25016835).",
+    "8장: 갤럽 2023 57%(차이 많다 5%+약간 있다 52%), 2002·2012 67%, 2017 58%.",
+    "9장: 갤럽 2023 MBTI 4지표 자기평가 분포가 혈액형별로 비슷(오차 범위 내). 기혼 966명 부부 혈액형 조합도 상관 없음.",
+    "reply: 갤럽 2023 분포 A 34·O 28·B 26·AB 11, 믿는 사람 중 O형 선호 49%."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of two young Korean friends chatting at a cozy Seoul cafe table with coffee cups, seen from behind and the side, warm afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no flags, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of four small clear glass vials of dark red liquid standing in a white lab rack on a clean white table, soft clinical light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no labels, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a person's arm with a small round bandage on the inner elbow after a blood donation, resting on a reclining donation chair, bright clean room, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of an old hardcover book open on a wooden desk beside a vintage brass desk lamp, warm sepia tone, 1970s study mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, pages blurred and unreadable, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a young Korean couple walking apart on a Seoul street at dusk, the woman glancing back at the man, mid-2000s fashion, seen from behind, cinematic rom-com mood, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a man and a woman on a first date across a small restaurant table, only hands and coffee cups visible, warm evening light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a laboratory bench with test tubes and a microscope, a scientist's gloved hands in frame, clean bright light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no labels, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of a crowd of Korean office workers crossing a wide Seoul crosswalk at rush hour, seen from above and behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a young Korean woman's hands holding a smartphone with a blank colorful quiz screen of four tiles, cafe background blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, screen shows only plain color blocks, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of four small glass vials of red liquid in a white rack, heavily softened bokeh, calm clean light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no labels, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
