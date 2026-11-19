@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-21",
+  "weekday": "토요일",
+  "topic": "PC bang (PC방): 24-hour gaming rooms. Boom 1998-99 (IMF crisis start-ups, broadband, StarCraft): ~100 early 1998 to ~15,000 end 1999 (Hanyang Univ. paper), near 20,000 at peak; basic fee ~₩1,000/hour, unchanged for years; food ordered to the seat, one shop 60-70% of sales from food (Newstomato 2023-07); full smoking ban 2013-06-08; youth (under 18 / high-school students) barred 10 p.m.-9 a.m. (Game Industry Act art. 28-7); LoL 36.01% of 2025 PC bang playtime, total 780M hours (-6%) (Korea Herald 2026-01-26, N Media Platform); NTS count 10,568 (2017) to 7,205 (Jan 2025) to 6,792 (Jan 2026). No other-country comparison.",
+  "title": "In Korea, Gaming Costs ₩1,000 an Hour",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "PC BANG.",
+      "headline": "In Korea, gaming costs **₩1,000 an hour.**",
+      "note": "A top-end PC, a big screen, and noodles brought to your seat."
+    },
+    {
+      "type": "content",
+      "headline": "It's called a **PC bang**",
+      "body": "\"Bang\" means room. Rows of gaming PCs, open all night. You get a seat number at the counter, sit down, and the clock starts."
+    },
+    {
+      "type": "content",
+      "headline": "Born in **1998**",
+      "body": "A financial crisis left many people without jobs, and a PC bang was cheap to open. Fast internet and StarCraft did the rest: about 100 shops in early 1998, about 15,000 by the end of 1999."
+    },
+    {
+      "type": "content",
+      "headline": "Better than **your PC at home**",
+      "body": "A fast graphics card, a large monitor, a quick connection. The popular games are already installed, and some give extra rewards when you play them here."
+    },
+    {
+      "type": "content",
+      "headline": "Order food **from your seat**",
+      "body": "Ramyeon, fried rice, tteokbokki, iced drinks. You order on the screen and staff bring it over. At some shops, food now brings in more money than the games."
+    },
+    {
+      "type": "content",
+      "headline": "It has **rules**",
+      "body": "No smoking inside since 2013. Students under 18 must leave by 10 p.m. and can't come back until 9 a.m."
+    },
+    {
+      "type": "content",
+      "headline": "One game **owns the room**",
+      "body": "League of Legends took 36% of all PC bang playtime in 2025. Look over the rows and most screens show the same map."
+    },
+    {
+      "type": "stat",
+      "stat": "780M",
+      "headline": "hours played **in 2025**",
+      "body": "That's total time in PC bangs across Korea, about 6% less than the year before."
+    },
+    {
+      "type": "content",
+      "headline": "Fewer **every year**",
+      "body": "There were once close to 20,000. In January 2026 there were 6,792. More people now play on phones or on good PCs at home."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "Rows of glowing gaming monitors in a dark PC room, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, an hour on a top-end gaming PC costs about ₩1,000. Food comes to your seat.\n\nPC bangs started in 1998 and once numbered close to 20,000. Now fewer than 7,000 are left.\n\nWould you spend a night in one?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#pcbang",
+    "#koreangaming",
+    "#leagueoflegends",
+    "#koreanlife",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#livinginkorea",
+    "#seoultravel"
+  ],
+  "reply": "The ₩1,000 hourly fee has barely moved in years, while ramyeon, rent and electricity keep getting more expensive. That's why many owners now treat the kitchen as the real business. Have you ever played in a PC bang?",
+  "fact_check": [
+    "1장·reply: 기본 요금 1시간 1,000원, 수년간 그대로 — 아시아경제 2025-02-17(점주 인용), 뉴스토마토 2023-07-21('2000년대부터 안 오름').",
+    "3장: 1998년 초 100여 개 → 1999년 말 15,000개 — 한양대 논문(1990년대 한국 PC 게임 산업). 외환위기 창업·초고속인터넷·스타크래프트 — 게임메카·논문.",
+    "4장: 인기 게임 설치, PC방 혜택(프리미엄) — 업계 일반, 라이엇 PC방 프리미엄(바이라인네트워크 2025-11-21).",
+    "5장: 좌석 주문, 한 PC방 음식 매출 60~70% — 뉴스토마토 2023-07-21. '일부 가게'로 표현.",
+    "6장: 2013-06-08 PC방 전면 금연 — 보건복지부. 청소년 오후 10시~오전 9시 출입 제한 — 게임산업법 제28조 7호, 18세 이상 비재학생은 예외.",
+    "7장·8장: 2025년 LoL 점유율 36.01%, 총 이용시간 7억8천만 시간(전년 대비 약 6% 감소), 1/1~12/14 집계 — 코리아헤럴드 2026-01-26(엔미디어플랫폼).",
+    "9장: 한때 2만 곳 육박, 2026-01 6,792곳(2025-01 7,205곳) — 국세통계포털, 헤럴드경제 2026-03-20."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a long row of gaming PCs with glowing monitors and RGB keyboards inside a dark Korean PC room, empty chairs, cool blue and purple light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no readable screens, no brand names, no people, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a PC room front counter at night with a small card terminal and a stack of drink bottles, gaming seats glowing in the background, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, no people, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of an old late-1990s internet game room with bulky beige CRT monitors and beige computer towers in rows, dim fluorescent light, nostalgic film look, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no readable screens, no brand names, no people, calm lower third for text overlay.",
+    "content4": "Realistic editorial close-up photograph of a high-end gaming setup at a PC room seat: large curved monitor with abstract colorful light, mechanical keyboard with RGB backlight, gaming mouse and headset, square 1:1, no text, no letters, no numbers, no logos, no readable screens, no brand names, no people, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a steaming bowl of Korean instant ramyeon with egg and green onion, a small plate of tteokbokki and an iced drink on a desk next to a glowing gaming keyboard, square 1:1, no text, no letters, no numbers, no logos, no readable packaging, no brand names, no people, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a wall clock showing ten o'clock above a dim PC room aisle with empty glowing gaming seats, square 1:1, no text, no letters, no logos, no readable signs, no readable screens, no brand names, no people, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph from behind of several young gamers wearing headsets at a row of PC monitors showing an abstract green fantasy battle map, dark room, faces not visible, square 1:1, no text, no letters, no numbers, no logos, no readable screens, no brand names, calm lower third for text overlay.",
+    "stat": "Realistic editorial wide photograph of a large busy PC room seen from the back, dozens of glowing monitors stretching into the distance, players as dark silhouettes from behind, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no readable screens, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a closed PC room at night seen from a quiet street, dark windows, a pulled-down metal shutter, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, no people, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of rows of glowing gaming monitors in a dark PC room, heavily softened bokeh, cool blue and purple light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, no people, calm lower third for text overlay."
+  }
+}
