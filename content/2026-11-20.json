@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-20",
+  "weekday": "금요일",
+  "topic": "Ttareungyi (따릉이), Seoul public bike: 2010 pilot 440 bikes, official Oct 2015; ~45,000 bikes at ~2,800 stations; app with English version; non-member day pass 1h ₩1,000 / 2h ₩2,000 / 3h ₩3,000 (3h added 2025-11-13); 365-day 1h pass ₩30,000; fees frozen 10 years; weekday rush hours 18% (07-09) + 26.3% (17-19); 100 mileage for rush-hour rebalancing; 113,000 rides 2015 to 43.85M in 2024; 5.06M members, 250.17M cumulative rides (Sep 2025); losses ₩10.9B 2023, ₩12.7B 2024. 2026 data leak deliberately left out.",
+  "title": "In Seoul, a Bike Costs ₩1,000 an Hour",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "SEOUL BIKE.",
+      "headline": "In Seoul, a bike costs **₩1,000 an hour.**",
+      "note": "Green wheels on almost every corner."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **Ttareungyi**",
+      "body": "The name comes from \"ttareung,\" the ring of a bike bell. Seoul tested it with 440 bikes in 2010 and launched it citywide in 2015."
+    },
+    {
+      "type": "content",
+      "headline": "About **45,000 bikes**",
+      "body": "They wait at around 2,800 stations across Seoul. Outside a subway exit, there's usually one nearby."
+    },
+    {
+      "type": "content",
+      "headline": "Unlock with **your phone**",
+      "body": "Pay in the app, scan the bike, ride. Return it at any station, not the one you started from. The app has an English version."
+    },
+    {
+      "type": "content",
+      "headline": "A year for **₩30,000**",
+      "body": "Members can buy a 365-day pass for 1-hour rides at ₩30,000, about $20. The prices haven't gone up in 10 years."
+    },
+    {
+      "type": "content",
+      "headline": "Built for **the commute**",
+      "body": "On weekdays, nearly half of all rides happen between 7 and 9 a.m. or 5 and 7 p.m. Last stretch from the subway to the office."
+    },
+    {
+      "type": "content",
+      "headline": "Riders **move the bikes**",
+      "body": "At rush hour some stations empty out and others overflow. Take a bike from a full one or return it to an empty one, and you earn points."
+    },
+    {
+      "type": "stat",
+      "stat": "43.85M",
+      "headline": "rides **in one year**",
+      "body": "That was 2024. In 2015, its first full year running, it was 113,000. More than 5 million people have signed up."
+    },
+    {
+      "type": "content",
+      "headline": "It **loses money**",
+      "body": "Ttareungyi lost about ₩12.7 billion in 2024. Seoul says that's fine: it's a public service, like a bus route, not a business."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A row of parked green-and-white public bikes, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Seoul, a public bike costs ₩1,000 an hour. Grab one at a station, ride, and leave it at any other station.\n\nMore than 5 million people have signed up. It loses money every year, and Seoul keeps it anyway.\n\nWould you ride one to work?",
+  "hashtags": [
+    "#korea",
+    "#southkorea",
+    "#seoul",
+    "#seoulbike",
+    "#ttareungyi",
+    "#koreanlife",
+    "#explainkorea",
+    "#whatshotkorea",
+    "#livinginkorea",
+    "#seoultravel"
+  ],
+  "reply": "New since last November: a 3-hour pass for ₩3,000, so you don't have to return the bike every 2 hours. Good for a long ride along the Han River. Does your city have public bikes?",
+  "fact_check": [
+    "2장: 2010년 440대 시범, 2015-10 정식 운영 — 서울시 보도자료(news.seoul.go.kr 515711). 이름 '따릉'은 자전거 벨 소리.",
+    "3장: 4만5천여 대·대여소 2,800여 곳 — 같은 보도자료(2025-11).",
+    "4장: 아무 대여소 반납, 앱 영어 버전 — 서울시 이용 안내.",
+    "5장: 365일 1시간권 30,000원, 요금 10년 동결 — 서울시 요금표(2026-03-10 수정), 서울시 적자 해명.",
+    "6장: 평일 출근 07~09시 18%, 퇴근 17~19시 26.3% — 서울시 10년 분석(2025-11).",
+    "7장: 출퇴근 시간대 과다·과소 대여소 대여·반납 시 100마일리지 — 서울시.",
+    "8장: 2015년 11만3천 건 → 2024년 4,385만 건, 누적 회원 506만 명(2025-09) — 서울시 보도자료.",
+    "9장: 적자 2023년 109억, 2024년 127억 — 서울시의회 이경숙 의원·서울시설공단 자료(더팩트 2025-09-06). 서울시 '교통복지 공공서비스' 입장.",
+    "reply: 3시간권 3,000원, 2025-11-13 출시 — 서울시 보도자료.",
+    "제외: 2026-01 회원정보 450만 건 유출(2024 공격, 7월 30일권 보상) — 부정 이슈라 뺌."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a row of green-and-white public rental bikes docked at a sidewalk station in Seoul, autumn street, morning light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no brand names, faces not visible, calm lower third for text overlay.",
+    "content2": "Realistic editorial close-up photograph of a silver bicycle bell on a handlebar of a green-and-white rental bike, a thumb about to ring it, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of many green-and-white public bikes parked near a Seoul subway station entrance stairway, city street, overcast daylight, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no station names, no brand names, faces not visible, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a person's hand holding a smartphone near the handlebar of a green-and-white rental bike, phone screen blank with plain color, Seoul sidewalk blurred, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content5": "Realistic editorial photograph of a Seoul riverside bike path along the Han River on a clear autumn afternoon, a single rider on a green-and-white public bike seen from behind in the distance, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of an office worker in a coat riding a green-and-white public bike on a Seoul city bike lane at morning rush hour, seen from behind, office towers ahead, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no license plates, no brand names, faces not visible, calm lower third for text overlay.",
+    "content7": "Realistic editorial photograph of a nearly empty public bike docking station with only one green-and-white bike left, Seoul sidewalk, evening light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "stat": "Realistic editorial aerial photograph of many cyclists on green-and-white public bikes along a wide Han River park path in Seoul, sunny weekend, seen from above, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a maintenance worker's gloved hands repairing the chain of a green-and-white public bike in a workshop, tools on a bench, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a row of parked green-and-white public bikes, heavily softened bokeh, calm clean autumn light, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no brand names, faces not visible, calm lower third for text overlay."
+  }
+}
