@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-23",
+  "weekday": "월요일",
+  "topic": "AI cheating devices in Korean exams, from AI smart glasses to button cameras. Ministry of Education surveyed 5,679 middle/high schools: 4 AI-glasses cheating cases in 2026 regular exams, all given zero for the subject (Hankyung 2026-11-11). Caught also in university essay exams (Yonsei, University of Seoul), TOEIC, national technical licence exams. Disguised devices sold: shirt-button cameras ₩20,000-50,000 each on Amazon shipped to Korea, pen cameras ~₩40,000, coffee-lid cameras, rice-grain earphones (Hankookilbo 2026-11-17); Yongsan shop sells hidden on request. '₩110,000 set' = button camera + power bank + rice-grain earphone (Weekly Kyunghyang 2026-11-16). Tax accountant exam top scorer confessed 2026-11-15 to using a tiny camera and generative AI; police reportedly confirmed a camera inside correction tape. 348 electronic-device cheating cases at CSAT 2022-2026, 65 to 84 a year (+29%) (FN News 2026-11-17, ministry data to National Assembly). 2027 CSAT (2026-11-19): only black pencils allowed, lead/eraser/correction tape handed out, stickers on every button, glasses checked every period (MTN 2026-11-18). Naver Shopping and Coupang blocked disguised camera sales. Individual named neither. No other-country comparison.",
+  "title": "In Korea, Exams Now Check Your Buttons",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "AI CHEATING.",
+      "headline": "In Korea, exams now check **your buttons.**",
+      "note": "Glasses were just the start."
+    },
+    {
+      "type": "content",
+      "headline": "It started with **glasses**",
+      "body": "A camera in the frame shoots the question. AI solves it and sends the answer back. A survey of 5,679 middle and high schools found 4 cases this year. All 4 students got zero for the subject."
+    },
+    {
+      "type": "content",
+      "headline": "Then it **shrank**",
+      "body": "Cameras shaped like shirt buttons sell online for ₩20,000 to ₩50,000 each. One shop in Seoul's Yongsan electronics district reportedly keeps them hidden and sells only to people who ask."
+    },
+    {
+      "type": "content",
+      "headline": "A pen. A cup lid. **A grain of rice.**",
+      "body": "Pen cameras cost about ₩40,000. Some cameras hide in a coffee cup lid. In the ear goes an earphone the size of a grain of rice."
+    },
+    {
+      "type": "content",
+      "headline": "The **₩110,000 set**",
+      "body": "A button camera, a small power bank and a rice-grain earphone. Bought together, about ₩110,000. Online, people started calling it \"the 110,000-won set.\""
+    },
+    {
+      "type": "content",
+      "headline": "Even the **correction tape**",
+      "body": "This month, the top scorer of the national tax accountant exam turned himself in. He admitted using a tiny camera and generative AI. Police reportedly found the camera hidden in correction tape."
+    },
+    {
+      "type": "stat",
+      "stat": "348",
+      "headline": "caught with **devices**",
+      "body": "Electronic-device cheating cases at Korea's college entrance exam, 2022 to 2026. From 65 a year to 84, up about 29%."
+    },
+    {
+      "type": "content",
+      "headline": "So the big exam **changed**",
+      "body": "At this year's exam, only black pencils were allowed. Pencil lead, erasers and correction tape were handed out on site. Every button got a sticker. Glasses were checked every period."
+    },
+    {
+      "type": "content",
+      "headline": "Now every button **is a suspect**",
+      "body": "Naver Shopping and Coupang stopped sales of cameras disguised as buttons, pens and watches. Exams are no longer about what you know. They are also about what you wear."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "An exam desk with a pencil and an eraser, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, cheating went from smart glasses to shirt buttons. Cameras the size of a button, earphones the size of a grain of rice, about ₩110,000 for the whole set.\n\nAt this year's college entrance exam, every button got a sticker and only black pencils were allowed.\n\nWould you notice a camera in a button?",
+  "hashtags": ["#korea", "#southkorea", "#suneung", "#aiglasses", "#examcheating", "#koreanlife", "#explainkorea", "#whatshotkorea", "#livinginkorea", "#koreaneducation"],
+  "reply": "Why not just ban the cameras? Button and pen cameras are also sold for vlogs, dashcam-style recording and security, so shops cannot block them completely. Naver Shopping and Coupang now ban listings that mention exams or cheating, but small cameras and earphones are still easy to find online.",
+  "fact_check": [
+    "2장: 중·고교 5,679곳 전수조사, AI 안경 부정행위 4건, 해당 과목 0점 — 한국경제 2026-11-11, KBS·조선일보 11-09 보도(교육부 조사).",
+    "3장: 셔츠 단추형 카메라 아마존 개당 2만~5만 원, 용산 매장 '평소엔 숨겨 놓고 필요한 사람에게만' — 한국일보 2026-11-17. 'reportedly' 표기.",
+    "4장: 펜형 카메라 4만 원 선, 커피컵 뚜껑형 카메라, 쌀알 이어폰 — 한국일보 2026-11-17.",
+    "5장: 단추 카메라+보조배터리(+전류 발생기)+쌀알 이어폰 총 11만 원 선, '11만원 세트' — 주간경향 2026-11-16 (기자 계산, 온라인 통용 표현).",
+    "6장: 세무사 시험 수석 합격자 11-15 자수, '초소형 카메라, 스마트폰, 생성형 AI' 활용 — 주간경향·본인 사과문. 수정테이프 속 카메라 확인 — 뉴스1 11-18 보도(나무위키 인용), 'reportedly' 표기. 실명 미기재.",
+    "7장: 2022~2026학년도 수능 전자기기 소지 부정행위 348건, 65건→84건 약 29% 증가 — 파이낸셜뉴스 2026-11-17 (교육부 국회 제출 자료).",
+    "8장: 흑색 연필만 허용, 수정테이프·지우개·샤프심 일괄 지급, 단추 스티커, 안경 매 교시 검사 — MTN 2026-11-18 ('교육계에 따르면'). 교육부 원문 미확인.",
+    "9장·reply: 네이버쇼핑 11-16 판매자 공지(안경·볼펜·시계·단추 위장 카메라 차단, '시험용'·'커닝' 문구 금지), 쿠팡 판매 금지 품목 지정, 일부 쇼핑몰 여전히 판매 — MTN 2026-11-18.",
+    "생수병·샤프심 컨닝 도구 보도는 없어 제외. 샤프심은 대책(현장 지급)으로만 언급."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial macro photograph of a white shirt button on light blue cotton fabric with a tiny dark glass lens hidden in its center, soft window light, shallow depth of field, square 1:1, no text, no letters, no numbers, no logos, no brand names, no faces, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of black thick-rimmed glasses folded on a wooden classroom exam desk beside a pencil and a blank sheet of paper, soft winter classroom light, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm lower third for text overlay.",
+    "content3": "Realistic editorial macro photograph of a row of identical white shirt buttons on dark navy fabric, one button with a faint glint of a tiny glass lens, moody side light, square 1:1, no text, no letters, no numbers, no logos, no brand names, no people, calm lower third for text overlay.",
+    "content4": "Realistic editorial flat-lay photograph on a plain white surface of a plain ballpoint pen, a white takeaway coffee cup lid and a tiny skin-tone earbud lying next to a single grain of rice for scale, soft even light, square 1:1, no text, no letters, no numbers, no logos, no brand names, no people, calm lower third for text overlay.",
+    "content5": "Realistic editorial top-down photograph of small electronic parts laid out on a dark desk: a button-sized camera, a slim plain power bank, a coil of thin wire and a tiny earbud, dim moody light, square 1:1, no text, no letters, no numbers, no logos, no brand names, no people, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a plain correction tape dispenser and a plain calculator on a dark desk under a single desk lamp, moody shadows, square 1:1, no text, no letters, no numbers on screen, no logos, no brand names, no people, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of rows of empty wooden exam desks in a Korean high school classroom shot from the back of the room, cool morning light through windows, square 1:1, no text, no letters, no numbers, no logos, no readable signs, no people, calm center for a large number overlay.",
+    "content8": "Realistic editorial photograph of an exam desk with one black wooden pencil, a plain white eraser and a small clear case of pencil leads, the cuff of a white shirt at the edge of the frame with a small round white sticker covering its button, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no brand names, no faces, calm lower third for text overlay.",
+    "content9": "Realistic editorial close-up photograph of the front of a white shirt with small round white stickers covering each button, neutral grey background, soft light, square 1:1, no text, no letters, no numbers, no logos, no brand names, no faces, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a wooden exam desk with a black pencil and a white eraser seen from above, soft neutral light, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm center for text overlay."
+  }
+}
