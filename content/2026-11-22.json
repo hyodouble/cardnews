@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-22",
+  "weekday": "일요일",
+  "topic": "Yeonmal jeongsan (연말정산), Korea's year-end tax settlement for salaried workers. Employer withholds income tax monthly by the simplified withholding table, then settles the real amount early the next year; most employees never file their own return. NTS simplified service (간소화 서비스) opened 2026-01-15 with 45 types of deduction data. Card deduction: only spending above 25% of gross salary counts; credit card 15%, debit card/cash receipts 30% (Restriction of Special Taxation Act art. 126-2). Difference paid or charged with February/March pay. 2024 income (NTS statistics, reported 2025-12-23): 21.08M filers, 14.23M refunded avg ₩893,000, 3.77M paid extra avg ₩1.17M, 6.84M (32.4%) owed zero tax. Nickname '13th-month salary' (13월의 월급). No other-country comparison.",
+  "title": "In Korea, January Brings a 13th Paycheck",
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "YEAR-END TAX.",
+      "headline": "In Korea, January brings a **13th paycheck.**",
+      "note": "Or a bill. It depends on your receipts."
+    },
+    {
+      "type": "content",
+      "headline": "Your company **does your taxes**",
+      "body": "Most office workers in Korea never file a tax return. Every month, the company takes tax out of your pay using a set table. Early the next year, it checks the real number."
+    },
+    {
+      "type": "content",
+      "headline": "It's called **yeonmal jeongsan**",
+      "body": "It means \"year-end settlement.\" The tax taken from your pay is compared with the tax you actually owe. Too much taken? You get it back. Too little? You pay the rest."
+    },
+    {
+      "type": "content",
+      "headline": "The receipts **find you**",
+      "body": "In mid-January, the National Tax Service opens your records online: card spending, hospital bills, school fees, insurance, donations. 45 kinds of data, most of it already filled in."
+    },
+    {
+      "type": "content",
+      "headline": "Your cards **count**",
+      "body": "Card spending above 25% of your yearly salary lowers your taxable income. Credit cards count at 15%, debit cards and cash receipts at 30%. That's why many people switch cards once they pass the line."
+    },
+    {
+      "type": "content",
+      "headline": "Settled with **February pay**",
+      "body": "You check the records, add anything missing, and hand it to your company. The money comes back, or comes out, with your February or March pay."
+    },
+    {
+      "type": "stat",
+      "stat": "₩893,000",
+      "headline": "average **refund**",
+      "body": "14.23 million workers got money back for 2024. Another 3.77 million paid more, about ₩1.17 million each."
+    },
+    {
+      "type": "content",
+      "headline": "One in three **pays nothing**",
+      "body": "After all deductions, 6.84 million workers, 32.4% of everyone who settled, owed no income tax at all for 2024."
+    },
+    {
+      "type": "content",
+      "headline": "That's why **November** matters",
+      "body": "Spending up to December 31 still counts. So now is when people plan: which card to use, what to donate, which bills to pay before the year ends."
+    },
+    {
+      "type": "cta",
+      "headline": "Korea, explained **by a Korean.**",
+      "body": "Follow for the context behind the things Korea does.",
+      "button": "FOLLOW @whatshotkorea",
+      "layout": "Headline and button centered low.",
+      "graphic": "A desk with receipts and a calculator, blurred behind the text.",
+      "design_note": "Use the account's established CTA treatment and amber highlight."
+    }
+  ],
+  "caption": "In Korea, most office workers never file a tax return. The company does it, and every January the numbers get checked again.\n\nAbout 14 million workers got money back for 2024, ₩893,000 on average. Koreans call it the \"13th-month salary.\"\n\nDo you file your own taxes where you live?",
+  "hashtags": ["#korea", "#southkorea", "#koreantax", "#yearendtax", "#officelife", "#koreanlife", "#explainkorea", "#whatshotkorea", "#livinginkorea", "#workinkorea"],
+  "reply": "Not everyone wins. 3.77 million workers had to pay more for 2024, about ₩1.17 million each, usually because too little tax was taken during the year. That's why some people call January the \"13th-month salary\" and others call it the \"13th-month bomb.\" Which one would you get?",
+  "fact_check": [
+    "1장·캡션: '13월의 월급' 별칭 — 언론 통용 표현(이데일리·세계일보 2026-10, 네이트뉴스 2025-12-23).",
+    "2·3장: 회사가 매월 간이세액표로 원천징수, 다음 해 초 연말정산 — 소득세법 원천징수·연말정산 규정, 국세청 연말정산 안내. 근로소득만 있으면 종합소득세 신고 불필요.",
+    "4장: 2026-01-15 간소화 서비스 개통, 공제자료 45종 — 국세청 공지 2026-01-14(nts.go.kr), 머니투데이 2026-01-14. '1월 중순'으로 표현.",
+    "5장: 총급여 25% 초과분만 공제, 신용카드 15%·체크카드·현금영수증 30% — 조세특례제한법 제126조의2. 카드 바꾸기는 일반 절세 요령으로 'many people' 표현.",
+    "6장: 회사 제출 후 2~3월 급여에서 환급·추징 — 국세청 안내(원천징수 신고 3월 10일).",
+    "7장·reply: 2024년 귀속 환급 1,423만 명 평균 89만3천 원, 추가 납부 377만 명 평균 117만 원 — 국세통계(네이트뉴스 2025-12-23). 다른 집계(국회 제출, 1,485만 명·84만7천 원)도 있어 국세통계 기준으로 통일.",
+    "8장: 결정세액 0인 면세자 684만 명, 32.4% — 같은 국세통계 보도.",
+    "9장: 12월 31일 지출까지 해당 연도 공제 — 연말정산 대상 기간(1/1~12/31)."
+  ],
+  "photo_prompts": {
+    "hook": "Realistic editorial photograph of a white paper pay envelope on an office desk at a window in winter morning light, a small stack of Korean won banknotes partly showing, coffee cup and pen nearby, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm lower third for text overlay.",
+    "content2": "Realistic editorial photograph of a quiet Korean office floor at early evening, rows of desks with monitors and office chairs, city lights through large windows, square 1:1, no text, no letters, no numbers, no logos, no readable screens, no readable signs, no brand names, no people, calm lower third for text overlay.",
+    "content3": "Realistic editorial photograph of a balance scale on a wooden desk with a small pile of coins on one side and a folded paper on the other, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm lower third for text overlay.",
+    "content4": "Realistic editorial photograph of a laptop on a home desk at night showing an abstract blurred spreadsheet-like layout, scattered paper receipts and a hospital receipt envelope beside it, warm lamp light, square 1:1, no text, no letters, no numbers, no logos, no readable screens, no readable documents, no brand names, no people, calm lower third for text overlay.",
+    "content5": "Realistic editorial close-up photograph of two plain payment cards, one dark and one light, lying on a cafe table beside a paper receipt and a coffee cup, square 1:1, no text, no letters, no numbers, no logos, no card brand marks, no readable receipt, no brand names, no people, calm lower third for text overlay.",
+    "content6": "Realistic editorial photograph of a paper calendar page for February pinned on an office cubicle wall next to a closed document folder and a stapler, soft office light, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm lower third for text overlay.",
+    "stat": "Realistic editorial photograph of Korean won banknotes fanned out on a dark wooden table next to a calculator, moody side light, shallow depth of field, square 1:1, no text, no letters, no numbers on screen, no logos, no brand names, no people, calm center for a large number overlay.",
+    "content8": "Realistic editorial photograph of an empty white coin tray on a plain desk next to a closed wallet, minimal composition, soft daylight, square 1:1, no text, no letters, no numbers, no logos, no brand names, no people, calm lower third for text overlay.",
+    "content9": "Realistic editorial photograph of a desk by a window with late-autumn yellow ginkgo leaves outside, a desk calendar, a pen and a small pile of receipts, warm afternoon light, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm lower third for text overlay.",
+    "cta": "Realistic editorial photograph of a tidy desk with paper receipts, a calculator and a pen seen from above, soft neutral light, gently blurred, square 1:1, no text, no letters, no numbers, no logos, no readable documents, no brand names, no people, calm center for text overlay."
+  }
+}
