@@ -1,0 +1,101 @@
+{
+ "date": "2026-11-25",
+ "weekday": "수요일",
+ "topic": "Korean women keep their own surname after marriage; there is no legal process to take the husband's name. Children follow the father's surname and bon by default (Civil Act Art. 781(1)); the mother's surname is possible only if the couple agrees at marriage registration. 2019: 379 such agreements (2018: 254), Court Administration data via Rep. Lee Eun-ju (Newsis 2022-03-25), vs about 239,000 marriages in 2019. Hoju (family head) system: Constitutional Court found it incompatible with the constitution 2005-02-03, abolished 2008-01-01. 2015 census: 5,582 surnames; Kim 21.5%, Lee 14.7%, Park 8.4%. 2021 government plan to drop the father-surname default stalled (MT 2026-07-28). Changing a child's surname later needs family court permission (Art. 781(6)).",
+ "title": "In Korea, a Wife Keeps Her Own Surname",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "MARRIED FOR 30 YEARS.",
+   "headline": "In Korea, the wife **keeps her own surname.**",
+   "note": "Her husband is Mr. Kim. She is still Ms. Park."
+  },
+  {
+   "type": "content",
+   "headline": "No name change. **Ever.**",
+   "body": "When a Korean woman marries, her surname stays the same. There is no form to change it, and nobody expects her to. Her ID, passport and bank account do not change."
+  },
+  {
+   "type": "content",
+   "headline": "Not a modern **idea**",
+   "body": "This is old, not new. A surname marked which family line you were born into, and marriage could not change your blood. A bride moved into her husband's home, but not into his name."
+  },
+  {
+   "type": "content",
+   "headline": "A family **head**, until 2008",
+   "body": "Until 2008, every family register had one head, almost always a man. A wife was entered into her husband's register. The Constitutional Court ruled against it in 2005, and it was abolished."
+  },
+  {
+   "type": "content",
+   "headline": "Kim, Lee, **Park**",
+   "body": "Names matter here partly because there are so few. 21.5% of Koreans are Kim, 14.7% Lee and 8.4% Park. Those three cover almost half the country."
+  },
+  {
+   "type": "content",
+   "headline": "But the kids get **Dad's name**",
+   "body": "By law, a child takes the father's surname. A couple can choose the mother's instead, but only if they agree on the day they register the marriage, before any child exists."
+  },
+  {
+   "type": "stat",
+   "stat": "379",
+   "headline": "couples chose **Mom's name**",
+   "body": "That was the count in 2019, out of about 239,000 marriages. Fewer than 2 in 1,000 couples."
+  },
+  {
+   "type": "content",
+   "headline": "So what do people **call her?**",
+   "body": "Day to day, a mother is often called by her child's name: \"Minji's mom.\" Her own surname stays on paper, while the neighborhood knows her through her kid."
+  },
+  {
+   "type": "content",
+   "headline": "Still **being argued**",
+   "body": "In 2021 the government proposed letting parents decide a child's surname together, with no default. The plan stalled. Today, changing a child's surname later needs a court's permission."
+  },
+  {
+   "type": "cta",
+   "headline": "Korea, explained **by a Korean.**",
+   "body": "Follow for the context behind the things Korea does.",
+   "button": "FOLLOW @whatshotkorea",
+   "layout": "Headline and button centered low.",
+   "graphic": "Two wedding rings on a wooden table, blurred behind the text.",
+   "design_note": "Use the account's established CTA treatment and amber highlight."
+  }
+ ],
+ "caption": "In Korea, a woman keeps her own surname for life. Marriage does not change it, and there is no form to change it.\n\nBut the kids? By default, they still get Dad's name. In 2019 only 379 couples chose Mom's.\n\nWhat happens to surnames after marriage in your country?",
+ "hashtags": [
+  "#korea",
+  "#southkorea",
+  "#koreanculture",
+  "#koreanlife",
+  "#surname",
+  "#marriage",
+  "#koreanfamily",
+  "#explainkorea",
+  "#whatshotkorea",
+  "#livinginkorea"
+ ],
+ "reply": "The mother's-name choice is all or nothing. If a couple ticks that box when they register the marriage, every child they have takes the mother's surname, so siblings always match. Changing it later is not a form either: a family court has to approve it, and the judge looks at the child's welfare first.",
+ "fact_check": [
+  "2장: 혼인으로 성이 바뀌는 법 절차 없음. 가족관계등록부상 본인 성 유지 — 민법·가족관계등록법에 혼인 성 변경 규정 없음.",
+  "3장: 전통적으로 혼인해도 부계 성·본 유지(부부별성). '피는 바뀌지 않는다' 관념은 일반 설명 수준.",
+  "4장: 호주제 — 헌재 2005-02-03 헌법불합치 결정, 2008-01-01 폐지(가족관계등록법 시행). 혼인 시 처는 부의 가에 입적. 슬라이드는 'ruled against it'로 완화.",
+  "5장: 2015 인구주택총조사 — 성씨 5,582개, 김 21.5%(1,069만)·이 14.7%·박 8.4% = 44.6%(아시아경제 2016-09-07).",
+  "6장: 민법 제781조 ①항 원문(법제처, 2026-03-17 시행본) — 부의 성과 본, 혼인신고시 협의하면 모의 성과 본.",
+  "7장: 2019년 모의 성 협의 379건(2018년 254건) — 법원행정처 자료, 이은주 의원(뉴시스 2022-03-25). 2019년 혼인 약 23.9만 건(통계청) → 약 0.16%. 최신 연도 공식 수치 못 찾음.",
+  "8장: '○○ 엄마' 호칭 관행 — 일반 사회 관행.",
+  "9장: 2021년 정부 부성우선원칙 폐지(부모 협의) 민법 개정 추진, 정부 교체 후 사실상 중단 — 머니투데이 2026-07-28. 출생 후 변경은 민법 781조 ⑥항 법원 허가.",
+  "reply: 혼인신고 시 협의는 그 혼인 중 출생 자녀 전부에 적용 — 형제 성 통일. 변경은 가정법원 허가(781조 ⑥)."
+ ],
+ "photo_prompts": {
+  "hook": "Realistic editorial photograph of two simple gold wedding rings resting on a closed plain notebook on a wooden table, soft winter window light, square 1:1, no text, no letters, no numbers, no logos, no faces, calm lower third for text overlay.",
+  "content2": "Realistic editorial photograph of a blank white official form and a black pen on a government office counter, shallow depth of field, square 1:1, no text, no letters, no numbers, no readable documents, no logos, no people, calm lower third for text overlay.",
+  "content3": "Realistic editorial photograph of a traditional Korean hanok courtyard with wooden doors and tiled roof in soft morning light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content4": "Realistic editorial photograph of an old thick bound paper ledger lying closed on a dark wooden desk with a vintage lamp, square 1:1, no text, no letters, no numbers, no readable writing, no logos, no people, calm lower third for text overlay.",
+  "content5": "Realistic editorial photograph of many rows of plain wooden mailboxes in a Korean apartment lobby, all without names or numbers, soft light, square 1:1, no text, no letters, no numbers, no labels, no logos, no people, calm lower third for text overlay.",
+  "content6": "Realistic editorial photograph of a newborn baby's small hand holding an adult finger, soft blanket, warm light, close up, square 1:1, no text, no letters, no numbers, no logos, no faces, calm lower third for text overlay.",
+  "stat": "Realistic editorial photograph of a quiet Korean wedding hall with rows of empty white chairs and soft flower decorations, warm light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm center for a large number overlay.",
+  "content8": "Realistic editorial photograph of a mother and a small child walking hand in hand on a Korean apartment complex path in autumn, seen from far behind, square 1:1, no text, no letters, no numbers, no signs, no logos, no faces, calm lower third for text overlay.",
+  "content9": "Realistic editorial photograph of an empty courtroom with wooden benches and a judge's bench, soft daylight, square 1:1, no text, no letters, no numbers, no flags, no emblems, no logos, no people, calm lower third for text overlay.",
+  "cta": "Realistic editorial photograph of two simple wedding rings on a wooden table seen from above, gently blurred, soft neutral light, square 1:1, no text, no letters, no numbers, no logos, no people, calm center for text overlay."
+ }
+}
