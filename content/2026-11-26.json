@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-26",
+ "weekday": "목요일",
+ "topic": "Korean public restrooms are free by default. Public Toilets Act (공중화장실 등에 관한 법률, enacted 2004-01-29, in force 2004-07-30): paid toilets are the exception and must be reported to the local office and signposted (Art. 11); public institutions must open their restrooms to the public unless security forbids it, and local offices can designate private buildings as 'open restrooms' with a sign (Art. 9). Covers subway and rail stations, bus terminals, parks, highway rest stops, gas stations (Art. 3). Women's stalls must be at least men's toilets plus urinals combined; 1.5x at venues of 1,000+ and busy highway rest stops (Art. 7(1),(2); Decree Art. 6). Emergency bells required where local ordinance lists (Art. 7(4), added 2021-07-20, in force 2023-07-21). Child toilets, sinks and diaper tables in men's and women's rooms (Art. 7-2). Decree Art. 7: caretaker with posted contact, disinfection 3x/week Apr-Sep and 1x/week Oct-Mar, no trash bin inside stalls (from 2018-01-01), sanitary bin in women's stalls. Background: 1999 Suwon mayor Sim Jae-deok founded a toilet association ahead of the 2002 World Cup.",
+ "title": "In Korea, Public Toilets Are Free",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "NO COINS. NO CODE. NO RECEIPT.",
+   "headline": "In Korea, public toilets are **free.**",
+   "note": "And most of them have toilet paper."
+  },
+  {
+   "type": "content",
+   "headline": "Free is **the default**",
+   "body": "Under Korean law, a toilet you pay for is the exception. The owner has to report it to the local office and put up a sign. Subway stations, parks, bus terminals and highway rest stops charge nothing."
+  },
+  {
+   "type": "content",
+   "headline": "Public buildings **must share**",
+   "body": "Government offices have to open their restrooms to anyone walking by, unless security says no. Cities can also sign up private buildings as \"open restrooms\" and mark them with a sign at the door."
+  },
+  {
+   "type": "content",
+   "headline": "It started with **a World Cup**",
+   "body": "In 1999, ahead of the 2002 World Cup, Suwon's mayor started a toilet association to fix the country's restrooms. He became known as \"Mr. Toilet.\" A national law followed in 2004."
+  },
+  {
+   "type": "content",
+   "headline": "No bin **next to the toilet**",
+   "body": "Since 2018, public restroom stalls are not allowed to have a trash bin for used paper. You flush it. Women's stalls get a small bin for sanitary products instead."
+  },
+  {
+   "type": "stat",
+   "stat": "1.5×",
+   "headline": "the stalls for **women**",
+   "body": "At big stadiums, concert halls and busy highway rest stops, women's stalls must be at least 1.5 times the men's toilets and urinals combined. Everywhere else, at least equal."
+  },
+  {
+   "type": "content",
+   "headline": "A button **for help**",
+   "body": "Restrooms on the local safety list must have an emergency bell. One press connects to the building manager or the police. The rule has been in force since 2023."
+  },
+  {
+   "type": "content",
+   "headline": "Built for **kids, too**",
+   "body": "Public restrooms need child-size toilets and sinks. Baby changing tables go in the men's room as well as the women's, so either parent can do it."
+  },
+  {
+   "type": "content",
+   "headline": "Clean, **by rule**",
+   "body": "Every public restroom needs a caretaker, with a phone number posted at the entrance. It must be disinfected three times a week in summer and once a week in winter."
+  },
+  {
+   "type": "cta",
+   "headline": "Korea, explained **by a Korean.**",
+   "body": "Follow for the context behind the things Korea does.",
+   "button": "FOLLOW @whatshotkorea",
+   "layout": "Headline and button centered low.",
+   "graphic": "A clean, bright public restroom corridor with rows of sinks, blurred behind the text.",
+   "design_note": "Use the account's established CTA treatment and amber highlight."
+  }
+ ],
+ "caption": "In Korea, you don't pay to use a public toilet. Subway stations, parks, rest stops: free, and usually with paper.\n\nBy law, a paid toilet is the exception, and government buildings have to open their restrooms to anyone.\n\nDo you pay for public toilets where you live?",
+ "hashtags": [
+  "#korea",
+  "#southkorea",
+  "#koreanculture",
+  "#koreanlife",
+  "#koreatravel",
+  "#travelkorea",
+  "#publictoilet",
+  "#explainkorea",
+  "#whatshotkorea",
+  "#livinginkorea"
+ ],
+ "reply": "Travel tip: if you need a restroom fast in Korea, look for a subway station, a highway rest stop or a gas station. Gas stations are covered by the same public toilet law. And don't look for a bin in the stall: toilet paper goes in the bowl.",
+ "fact_check": [
+  "1장: 공중화장실 무료가 기본 — 공중화장실법 제2조5호·제11조(유료화장실은 신고·표지 필요한 예외). '대부분 휴지 있음'은 일반 관행 수준 표현.",
+  "2장: 제11조 ① 유료화장실 신고, ④ 표지 부착. 제3조 적용 범위: 도시철도 역사·철도역·여객터미널·도시공원·도로 휴게시설 등 (법제처 현행, 2023-07-21 시행본).",
+  "3장: 제9조 ① 공공기관 화장실 공중 개방 의무(보안·안전 예외), ②·③ 민간 시설 개방화장실 지정·표지.",
+  "4장: 1999년 심재덕 당시 수원시장, 2002 월드컵 앞두고 화장실협회 창설(주간경향). 'Mr. Toilet' 별명은 국내외 보도 통칭. 법 제정 2004-01-29 법률 제7129호, 시행 2004-07-30(국가법령정보센터 연혁). 슬라이드는 '법이 뒤따랐다'로 인과 단정 안 함.",
+  "5장: 시행령 제7조3호 대변기 칸막이 안 휴지통 금지, 4호 여성용 칸 위생용품 수거함. 2018-01-01 시행(정책브리핑 korea.kr 148846934).",
+  "6장: 법 제7조① 여성 대변기 ≥ 남성 대·소변기 합, ② 1.5배 이상 — 시행령 제6조: 수용 1천명 이상 공연장·관람장·전시장·야외음악당·유원지, 일 편도 5만대 이상 고속도로 휴게소.",
+  "7장: 법 제7조④ 비상벨(관리자 또는 경찰관서 연결) 등 안전관리시설, 대상은 조례로 지정. 2021-07-20 신설, 2023-07-21 시행(행안부 안전한 사용환경 페이지).",
+  "8장: 법 제7조의2 ① 어린이용 대·소변기·세면대, ② 남성 및 여성 화장실에 영유아 기저귀교환대(대통령령 기준 시설).",
+  "9장: 시행령 제7조1호 관리인·연락처 게시, 2호 소독 4~9월 주 3회 이상, 10~3월 주 1회 이상.",
+  "reply: 제3조11호 석유판매업(주유소) 시설도 적용 대상. 휴지는 변기에 — 시행령 제7조3호."
+ ],
+ "photo_prompts": {
+  "hook": "Realistic editorial photograph of a clean bright modern Korean subway station restroom entrance corridor with white tiles and soft lighting, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content2": "Realistic editorial photograph of a row of clean white sinks with chrome faucets in a modern public restroom, bright even light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content3": "Realistic editorial photograph of the glass entrance doors of a modern Korean city hall building on a sunny autumn day, square 1:1, no text, no letters, no numbers, no signs, no flags, no emblems, no logos, no people, calm lower third for text overlay.",
+  "content4": "Realistic editorial photograph of an empty football stadium with red seats at golden hour, wide view from the upper stands, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content5": "Realistic editorial photograph of a clean white toilet stall interior with a toilet paper roll holder on the partition wall and no trash bin, bright soft light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "stat": "Realistic editorial photograph of a long row of closed identical pastel stall doors in a large modern public restroom, symmetrical perspective, soft light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm center for a large number overlay.",
+  "content7": "Realistic editorial photograph close up of a round red emergency call button mounted on a white tiled wall, shallow depth of field, square 1:1, no text, no letters, no numbers, no labels, no logos, no people, calm lower third for text overlay.",
+  "content8": "Realistic editorial photograph of a fold-down baby changing table and a small child-size sink in a clean modern public restroom, soft light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content9": "Realistic editorial photograph of a yellow mop bucket and cleaning cart in a spotless tiled public restroom corridor, soft morning light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "cta": "Realistic editorial photograph of a clean bright public restroom corridor with a row of white sinks, gently blurred, soft neutral light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm center for text overlay."
+ }
+}
