@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-27",
+ "weekday": "금요일",
+ "topic": "Korea has no tipping culture. Food Sanitation Act Enforcement Rule Annex 17 (food-service operators' duties): post a price list that already includes VAT and shows what the customer actually pays; restaurants of 150 m2+ must post it outside and inside; charge as listed. Specialized Credit Finance Business Act Art. 19(1): a card merchant may not refuse a card or treat a card payer less favorably; Art. 19(4): may not pass the card fee to the customer. Aug 2023: a tip jar at a popular Gangnam bakery went viral and was removed; SK Communications survey of 12,106 people: 73% said tipping is absolutely unacceptable, 5% would tip for better service. Jul 19 2023: Kakao T piloted an optional thank-you tip (KRW 1,000/1,500/2,000, only after a 5-star rating, franchise taxis only); Open Survey of 1,000 consumers: 71.7% against. On delivery apps, the 'delivery tip' is the delivery fee the restaurant sets, shown before ordering.",
+ "title": "In Korea, You Don't Tip",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "NO 15%. NO 20%. NO TIP SCREEN.",
+   "headline": "In Korea, you **don't tip.**",
+   "note": "Not at restaurants, not in taxis, not at the hair salon."
+  },
+  {
+   "type": "content",
+   "headline": "The menu price is **the price**",
+   "body": "By law, restaurants must post prices that already include the 10% tax: the exact amount you pay. Bigger places post them outside too. And they have to charge what the list says."
+  },
+  {
+   "type": "content",
+   "headline": "Card costs **the same**",
+   "body": "A shop that takes cards can't refuse yours, can't charge more for paying by card, and can't pass the card fee on to you. Cash or card, the number at the till doesn't change."
+  },
+  {
+   "type": "content",
+   "headline": "A bell **instead of a waiter**",
+   "body": "Many Korean restaurants have a call button on the table. Staff come when you press it, not to check on you every five minutes. Water and side dish refills are free."
+  },
+  {
+   "type": "content",
+   "headline": "Taxis: **pay the meter**",
+   "body": "You pay what the meter shows, usually by card from the back seat. Nobody rounds up and nobody expects it. The driver hands back every coin of change."
+  },
+  {
+   "type": "stat",
+   "stat": "73%",
+   "headline": "said **absolutely not**",
+   "body": "In a 2023 survey of 12,106 Koreans, 73% said they could never accept tipping. Only 5% said they'd tip for better service."
+  },
+  {
+   "type": "content",
+   "headline": "The tip jar **that went viral**",
+   "body": "In August 2023, a popular Seoul bakery put a \"Tip Jar\" at the counter. A photo of it spread online with the caption \"foreign culture we hope never settles here.\" The jar came down."
+  },
+  {
+   "type": "content",
+   "headline": "A taxi app **tried it**",
+   "body": "That July, Korea's biggest taxi app tested an optional tip of ₩1,000 to ₩2,000 after a 5-star rating. In a survey of 1,000 people, about 7 in 10 were against it."
+  },
+  {
+   "type": "content",
+   "headline": "\"Delivery tip\" **isn't a tip**",
+   "body": "Korean delivery apps show a \"delivery tip\" on every order. It's really the delivery fee, set by the restaurant and shown before you pay. Riders don't get anything extra at the door."
+  },
+  {
+   "type": "cta",
+   "headline": "Korea, explained **by a Korean.**",
+   "body": "Follow for the context behind the things Korea does.",
+   "button": "FOLLOW @whatshotkorea",
+   "layout": "Headline and button centered low.",
+   "graphic": "A warm Korean restaurant table with side dishes, blurred behind the text.",
+   "design_note": "Use the account's established CTA treatment and amber highlight."
+  }
+ ],
+ "caption": "In Korea, you don't tip. Not at restaurants, not in taxis, not at the salon.\n\nBy law, the price on the menu already includes tax, and it's the exact amount you pay. When a Seoul bakery put out a tip jar in 2023, the internet made it go away.\n\nHow much do you tip where you live?",
+ "hashtags": [
+  "#korea",
+  "#southkorea",
+  "#koreanculture",
+  "#koreanlife",
+  "#koreatravel",
+  "#travelkorea",
+  "#tipping",
+  "#explainkorea",
+  "#whatshotkorea",
+  "#livinginkorea"
+ ],
+ "reply": "Travel tip: if you leave cash on the table in Korea, don't be surprised if the server runs after you with it. They'll assume you forgot your change. If you really want to thank someone, a sincere \"gamsahamnida\" (thank you) does the job.",
+ "fact_check": [
+  "1장: 팁 문화 없음 — 일반 관행. 2023 설문 73% 불가(아시아경제 2023-11-24, SK커뮤니케이션즈 12,106명).",
+  "2장: 식품위생법 시행규칙 별표17(식품접객영업자 등의 준수사항) 아목: 부가가치세 등이 포함된, 손님이 실제로 내야 하는 가격표 게시, 150㎡ 이상 휴게·일반음식점은 외부와 내부 모두, 가격표대로 요금 받아야 함 (국가법령정보센터 현행, 2026-09-01 시행본). 부가세율 10%.",
+  "3장: 여신전문금융업법 제19조① 신용카드 결제 거절·불리한 대우 금지, ④ 가맹점수수료 회원 부담 금지 (현행, 2025-10-01 시행본).",
+  "4장: 테이블 호출벨·반찬 리필 무료는 일반 관행 서술 ('Many').",
+  "5장: 미터기 요금 지불·카드 결제는 일반 관행. 법 근거 단정 안 함.",
+  "6장: SK커뮤니케이션즈 네이트Q 설문 12,106명, 73% '절대 수용 불가', 5% '더 나은 서비스면 팁' (아시아경제 영문 2023-11-24; 코리아타임스는 '7 in 10').",
+  "7장: 2023년 8월 서울 강남 유명 베이커리 계산대 'Tip Jar' 사진 확산, '한국에 정착 안 했으면 하는 외국 문화' 게시물, 이후 계산대에서 치움 (코리아타임스 2023-08-25, 자카르타포스트·SCMP 재게재).",
+  "8장: 카카오모빌리티 2023-07-19 '감사 팁' 시범, 별점 5점일 때만 1,000·1,500·2,000원, 가맹택시만 (ZDNet 2023-07-28). 오픈서베이 1,000명 71.7% 반대 (노컷뉴스). 'Korea's biggest taxi app'은 카카오T 점유율 근거 일반 표현.",
+  "9장: 배달앱 '배달팁'은 가게가 정하는 배달비, 주문 전 표시 — 일반 앱 화면 기준. 라이더 추가 팁 없음은 관행 서술.",
+  "reply: 현금 놓고 가면 직원이 쫓아온다 — 일화 수준, 'don't be surprised if'로 완화."
+ ],
+ "photo_prompts": {
+  "hook": "Realistic editorial photograph of a cozy Korean restaurant table with a bowl of stew and many small side dishes, a receipt tray with a card on it, warm evening light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content2": "Realistic editorial photograph of a blank wooden menu board on the wall of a small Korean restaurant, warm light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content3": "Realistic editorial photograph of a card payment terminal on a cafe counter next to a coffee cup, shallow depth of field, square 1:1, no text, no letters, no numbers, no screen content, no logos, no people, calm lower third for text overlay.",
+  "content4": "Realistic editorial photograph of a small round black call button on the edge of a wooden restaurant table beside a glass of water and small side dishes, square 1:1, no text, no letters, no numbers, no labels, no logos, no people, calm lower third for text overlay.",
+  "content5": "Realistic editorial photograph of the back seat of a clean taxi at night with city lights blurred through the window, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "stat": "Realistic editorial photograph of an empty glass jar on a bakery counter next to fresh bread loaves, soft morning light, square 1:1, no text, no letters, no numbers, no labels, no signs, no logos, no people, calm center for a large number overlay.",
+  "content7": "Realistic editorial photograph of a bakery counter with croissants and pastries in a glass case, bright soft light, square 1:1, no text, no letters, no numbers, no labels, no signs, no logos, no people, calm lower third for text overlay.",
+  "content8": "Realistic editorial photograph of an orange taxi parked on a Seoul street at dusk with blurred city lights, square 1:1, no text, no letters, no numbers, no license plate, no signs, no logos, no people, calm lower third for text overlay.",
+  "content9": "Realistic editorial photograph of a delivery motorcycle with a box on the back parked outside an apartment building entrance at night, square 1:1, no text, no letters, no numbers, no license plate, no signs, no logos, no people, calm lower third for text overlay.",
+  "cta": "Realistic editorial photograph of a warm Korean restaurant table with side dishes and a stone pot, gently blurred, soft light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm center for text overlay."
+ }
+}
