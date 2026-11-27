@@ -1,0 +1,100 @@
+{
+ "date": "2026-11-28",
+ "weekday": "토요일",
+ "topic": "Korea's public snow boxes and the clear-your-own-sidewalk rule. Seoul places 제설함 (snow-removal boxes) on steep streets, alleys and other icing spots; they hold de-icer (calcium chloride) and sand, sometimes shovels, contents and colour vary by district, and anyone may use them; locations are mapped on 서울안전누리 and the 서울안전 app (Seoul media hub, 2022-12-21, updated 2023-11-20). Seoul inspected 12,679 snow boxes in 2019. Natural Disaster Countermeasures Act Art. 27: building owners/occupants/managers must clear snow and ice on the sidewalk, back lanes and pedestrian paths around their building; details by local ordinance. Gangnam-gu ordinance Art. 5: within 4 hours after snow stops in daytime, by 11 a.m. next day at night, 24 hours if 10 cm+ fell in a day; Art. 4: sidewalk along the lot, 1 m from the lot line on back lanes. No fine in the Act; liability for injuries can follow. Seoul winter 2025-26: road heating wires 928 sites, brine sprayers 533 sites (Seoul explainer 2025-12-23); 1,096 snow trucks, about 80,000 t of de-icer (winter plan 2025-11-15 to 2026-03-15); 5 cm+ forecast means pre-treatment done 3 hours before rush hour.",
+ "title": "In Korea, the Street Hands You Salt for the Snow",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "FREE DE-ICER. ON THE STREET CORNER.",
+   "headline": "In Korea, the street **hands you salt** for the snow.",
+   "note": "Boxes of de-icer and sand sit on hills and alleys. Anyone can open one."
+  },
+  {
+   "type": "content",
+   "headline": "The box **on the corner**",
+   "body": "Steep streets, alley corners and other spots that ice over get a snow box. Inside: bags of de-icing salt or sand, sometimes a shovel. Colors and contents differ by district."
+  },
+  {
+   "type": "content",
+   "headline": "No key. **No form.**",
+   "body": "Anyone can lift the lid and use it. When snow trucks can't fit up a narrow lane, people living there spread it themselves. Seoul's safety app and website map every box."
+  },
+  {
+   "type": "stat",
+   "stat": "12,679",
+   "headline": "snow boxes **checked in Seoul**",
+   "body": "That's how many snow boxes the city inspected before winter in 2019, one at a time, in the spots most likely to freeze."
+  },
+  {
+   "type": "content",
+   "headline": "Your sidewalk, **your job**",
+   "body": "National law says the people who own or live in a building must clear the snow and ice on the sidewalk and back lanes around it. Each city fills in the details."
+  },
+  {
+   "type": "content",
+   "headline": "The **4-hour** rule",
+   "body": "In Seoul's Gangnam district: clear it within 4 hours after the snow stops in the day. If it stops at night, by 11 a.m. the next day. After 10 cm or more, within 24 hours."
+  },
+  {
+   "type": "content",
+   "headline": "No fine, **but**",
+   "body": "The law sets no fine for skipping it. But if someone slips on the snow in front of your building, you can be held responsible. So most people grab a shovel."
+  },
+  {
+   "type": "content",
+   "headline": "Roads that **melt it first**",
+   "body": "Last winter Seoul ran heating wires under steep roads at 928 spots and salt-water sprayers at 533 more. They switch on before the ice can set."
+  },
+  {
+   "type": "content",
+   "headline": "Done **before rush hour**",
+   "body": "When 5 cm or more is forecast, Seoul has to pre-treat main roads 3 hours before people head to work. It keeps 1,096 snow trucks and about 80,000 tons of de-icer ready."
+  },
+  {
+   "type": "cta",
+   "headline": "Korea, explained **by a Korean.**",
+   "body": "Follow for the context behind the things Korea does.",
+   "button": "FOLLOW @whatshotkorea",
+   "layout": "Headline and button centered low.",
+   "graphic": "A snowy Seoul alley at night, blurred behind the text.",
+   "design_note": "Use the account's established CTA treatment and amber highlight."
+  }
+ ],
+ "caption": "In Korea, the street hands you salt for the snow.\n\nBoxes of de-icer and sand sit on steep streets and alley corners, and anyone can open one. The catch: by law, the snow in front of your building is yours to clear.\n\nWho clears the sidewalk where you live?",
+ "hashtags": [
+  "#korea",
+  "#southkorea",
+  "#koreanculture",
+  "#koreanlife",
+  "#seoul",
+  "#koreawinter",
+  "#snow",
+  "#explainkorea",
+  "#whatshotkorea",
+  "#livinginkorea"
+ ],
+ "reply": "Travel tip: if you spot a snow box at the bottom of a hill in Korea, take it as a warning. That slope freezes. Wear shoes with grip, hold the railing, and if you borrow some salt from the box, close the lid so it stays dry for the next person.",
+ "fact_check": [
+  "1장·2장·3장: 제설함은 누구나 사용, 염화칼슘·모래 등, 자치구마다 삽 등 도구 포함 가능, 색·내용물 자치구마다 다름, 서울안전누리·서울안전앱에서 위치 확인 (서울시 미디어허브 2022-12-21 발행, 2023-11-20 수정). 비상시 제설차 못 오는 곳에서 시민 사용은 서울시 기사 서술.",
+  "4장: 서울시 2019년 제설 취약지역 제설함 12,679개 일제점검 (서울시 2019 보도자료, 검색 결과 기준). 현재 개수 아님을 '2019'로 명시.",
+  "5장: 자연재해대책법 제27조① 건축물의 소유자·점유자·관리자는 주변 보도·이면도로·보행자 전용도로·지붕 제설·제빙, ② 구체적 범위는 조례 (국가법령정보센터 현행, 2026-01-02 시행본).",
+  "6장: 서울특별시 강남구 건축물관리자의 제설·제빙에 관한 조례 제5조① 주간 4시간 이내, 야간 다음 날 오전 11시까지, 1일 10cm 이상이면 24시간 이내 (2020-11-06 제정).",
+  "7장: 자연재해대책법 벌칙 조항에 제27조 위반 처벌 없음 (본문 대조). 사고 시 배상 책임은 세계일보 2021-11-30·2024-11-28, 서울시 미디어허브 2025-02-03 서술. 'can be held responsible'로 완화.",
+  "8장: 서울시 설명자료 2025-12-23 '자동제설시설(열선 928개소, 염수분사장치 533개소) 확대 운영'. 11월 종합대책 발표 땐 열선 791·염수분사 382였음, 12월 확대 수치 사용.",
+  "9장: 5cm 이상 예보 시 출퇴근 3시간 전 사전 제설 완료 (서울시 설명자료 2025-12-23). 제설차량 1,096대·제설제 약 8만 톤 (서울시 2025 겨울철 종합대책, 2025-11-15~2026-03-15).",
+  "reply: 생활 조언. 제설함 있는 곳 = 제설 취약지점이라는 점은 1·2장 근거."
+ ],
+ "photo_prompts": {
+  "hook": "Realistic editorial photograph of a small yellow plastic storage box on the sidewalk at the bottom of a steep snowy residential street in Seoul, apartment buildings behind, soft winter evening light, square 1:1, no text, no letters, no numbers, no labels, no signs, no logos, no people, calm lower third for text overlay.",
+  "content2": "Realistic editorial photograph of an open roadside snow box with white sacks of de-icing salt and a plastic shovel inside, light snow falling, square 1:1, no text, no letters, no numbers, no printing on the sacks, no labels, no logos, no people, calm lower third for text overlay.",
+  "content3": "Realistic editorial photograph of a narrow snowy Korean alley between low brick houses with white de-icing salt granules scattered on the path, a shovel leaning on a wall, morning light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "stat": "Realistic editorial photograph of a row of three small storage boxes lined up beside a snowy hillside stairway in a Seoul neighborhood, dusk light, square 1:1, no text, no letters, no numbers, no labels, no signs, no logos, no people, calm center for a large number overlay.",
+  "content5": "Realistic editorial photograph of a cleared sidewalk in front of a small Korean shop with snow piled neatly at the curb and a snow shovel resting by the door, square 1:1, no text, no letters, no numbers, no signs, no shop name, no logos, no people, calm lower third for text overlay.",
+  "content6": "Realistic editorial photograph of a quiet snowy Seoul back lane in soft winter morning light, a freshly cleared strip in front of a house gate and untouched snow beyond it, square 1:1, no text, no letters, no numbers, no clocks, no signs, no logos, no people, calm lower third for text overlay.",
+  "content7": "Realistic editorial photograph of a snow pusher shovel leaning against the gate of a Korean multi-family house, a half-cleared snowy path in front, soft morning light, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content8": "Realistic editorial photograph of a steep city road in Seoul where the snow has melted on the asphalt while snow stays on both sidewalks and roofs, overcast winter day, square 1:1, no text, no letters, no numbers, no signs, no road markings with letters, no license plates, no logos, no people, calm lower third for text overlay.",
+  "content9": "Realistic editorial photograph of an orange snowplow truck spreading de-icer on a wide Seoul road at dawn, city lights in the background, square 1:1, no text, no letters, no numbers, no license plate, no signs, no logos, no visible driver, calm lower third for text overlay.",
+  "cta": "Realistic editorial photograph of a quiet snowy Seoul alley at night with warm street lamps, gently blurred, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm center for text overlay."
+ }
+}
