@@ -1,0 +1,101 @@
+{
+ "date": "2026-11-29",
+ "weekday": "일요일",
+ "topic": "No Kids Zones (노키즈존): cafes and restaurants that bar children, usually under 13. National Human Rights Commission 2017 ruled a Jeju restaurant's blanket ban on under-13s discriminatory (Constitution Art. 10/11, UN CRC); recommendation only, no national law bans them. Jeju Research Institute count: 542 nationwide, 78 on Jeju (14.4%), highest per 100k. Hankook Research Feb 2023, 1,000 adults: 73% acceptable, 30s 81%. Jeju council ban ordinance (Song Chang-kwon) shelved May 2023 over business freedom and no legal basis; later a softer 'curb the spread and change perceptions' ordinance, Yes Kids Zone sign-ups (64 restaurants, Oct 2025). Seoul Kids OK Zone: 350 designated Dec 2022, ₩300,000 per shop for kids' chairs and tableware from 2023. KICCE 2025 report: 70.2% of parents check entry limits before going out. TFR 0.72 (2023), 0.75 (2024).",
+ "title": "In Korea, Some Cafés Don't Let Kids In",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "NO CHILDREN UNDER 13.",
+   "headline": "In Korea, some cafés **don't let kids in**.",
+   "note": "They're called No Kids Zones. Most adults are fine with them."
+  },
+  {
+   "type": "content",
+   "headline": "The sign **on the door**",
+   "body": "Through the 2010s, 'No Kids Zone' signs went up on cafés and restaurants. Most bar children under a set age, often 13, even with their parents right there. Owners point to safety and noise."
+  },
+  {
+   "type": "stat",
+   "stat": "542",
+   "headline": "No Kids Zones **counted nationwide**",
+   "body": "A Jeju Research Institute count found 542 across Korea. 78 were on the holiday island of Jeju alone, the most per person of any region."
+  },
+  {
+   "type": "content",
+   "headline": "**73%** say it's fine",
+   "body": "In a 2023 Hankook Research poll of 1,000 adults, 73% said No Kids Zones are acceptable. People in their 30s agreed the most, at 81%."
+  },
+  {
+   "type": "content",
+   "headline": "The state **calls it bias**",
+   "body": "In 2017 Korea's human rights commission ruled that a Jeju restaurant's ban on under-13s was discrimination. A few bad customers, it said, can't justify shutting out every child."
+  },
+  {
+   "type": "content",
+   "headline": "But it's **still legal**",
+   "body": "The commission can only recommend. No national law bans No Kids Zones, and owners say choosing their customers is part of running a business."
+  },
+  {
+   "type": "content",
+   "headline": "The island **that tried**",
+   "body": "In 2023 Jeju's council proposed a ban and shelved it over business freedom. A softer rule came later: slow the spread, change minds, and sign up places that welcome kids."
+  },
+  {
+   "type": "content",
+   "headline": "Seoul's **Kids OK** zones",
+   "body": "Seoul went the other way. Since 2022 it has marked cafés and restaurants that welcome children, 350 at the start, and pays each one ₩300,000 for high chairs and kids' tableware."
+  },
+  {
+   "type": "content",
+   "headline": "In the **lowest-birth-rate** country",
+   "body": "Korea's birth rate was 0.75 in 2024, the lowest in the world. Parents say the signs tell them kids are a nuisance. 70% of them check whether a place lets kids in before they go."
+  },
+  {
+   "type": "cta",
+   "headline": "Korea, explained **by a Korean.**",
+   "body": "Follow for the context behind the things Korea does.",
+   "button": "FOLLOW @whatshotkorea",
+   "layout": "Headline and button centered low.",
+   "graphic": "A warm Seoul café interior at dusk, blurred behind the text.",
+   "design_note": "Use the account's established CTA treatment and amber highlight."
+  }
+ ],
+ "caption": "In Korea, some cafés don't let kids in.\n\nThey're called No Kids Zones. The human rights commission calls them discrimination, 73% of adults say they're fine, and the country with the world's lowest birth rate is still arguing about it.\n\nWould a No Kids Zone fly where you live?",
+ "hashtags": [
+  "#korea",
+  "#southkorea",
+  "#koreanculture",
+  "#koreanlife",
+  "#seoul",
+  "#nokidszone",
+  "#koreancafe",
+  "#explainkorea",
+  "#whatshotkorea",
+  "#livinginkorea"
+ ],
+ "reply": "Travel tip for families: before heading to a café in Korea, check its map listing or Instagram, where a No Kids Zone rule is usually posted. In Seoul, the Smart Seoul Map shows Seoul Kids OK Zone places, which want children there and keep high chairs ready.",
+ "fact_check": [
+  "1·2장: 노키즈존은 13세 미만(13세 이하로 쓴 보도도 있음) 아동 출입 제한이 흔함, 안전사고·소음 이유 (머니투데이 2019-05-05 팩트체크, 인권위 2017 결정 보도). 'often 13'으로 완화.",
+  "3장: 제주연구원 사회복지연구센터, 전국 542곳 중 제주 78곳(14.4%), 인구 10만 명당 11.56곳으로 최다 (서울신문 2023-05-25, 2024-12-09 보도). 조사 시점은 보도에 명시 없음.",
+  "4장: 한국리서치 2023년 2월 성인 1,000명, 73% '허용할 수 있다', 30대 81% (서울신문 2023-05-25).",
+  "5장: 국가인권위원회 2017년, 13세 이하 일률 배제한 제주 식당은 합리적 이유 없는 차별 (헌법 10·11조, 유엔 아동권리협약). 결정문 원문은 못 봄, 보도 다수 일치.",
+  "6장: 인권위는 권고 기관, 노키즈존 금지 법률 없음. 영업의 자유 논리는 2023-05-11 제주도의회 보류 사유와 같음.",
+  "7장: 송창권 의원 '노키즈존 지정 금지 조례안' 2023-05-11 상임위 심사 보류(영업의 자유·위임 근거 없음). 이후 '아동출입제한업소 확산 방지 및 인식개선 조례'로 수정(서울신문 2024-12-09, 제정 연도 보도마다 다름 → 'later'로만 씀). 예스키즈존 64곳 신청(2025-10-15 보도).",
+  "8장: 서울키즈 오케이존 2022-12-13 350곳 첫 지정, 2023년부터 업체당 30만 원 유아의자·식기 지원 (서울시 미디어허브).",
+  "9장: 합계출산율 2024년 0.75 (통계청 2025-02). 양육자 70.2%가 출입 제한 여부 미리 확인 (육아정책연구소 육아정책포럼 2025, 뉴시스 2025-08-03).",
+  "reply: 스마트서울맵에 키즈 오케이존 위치 (서울시 미디어허브)."
+ ],
+ "photo_prompts": {
+  "hook": "Realistic editorial photograph of the glass entrance door of a stylish minimalist cafe in Seoul with a small blank white sign hanging on the door handle, warm interior light, a child's small sneakers on the pavement outside the closed door, square 1:1, no text, no letters, no numbers, no printing on the sign, no logos, no faces, calm lower third for text overlay.",
+  "content2": "Realistic editorial photograph of a quiet modern Korean cafe interior with concrete walls, wooden tables and pendant lights, adults' coffee cups on tables, square 1:1, no text, no letters, no numbers, no signs, no menus, no logos, no people, calm lower third for text overlay.",
+  "stat": "Realistic editorial photograph of a row of small cafes and restaurants along a stone-wall street on Jeju Island, palm trees and soft afternoon light, square 1:1, no text, no letters, no numbers, no signs, no shop names, no logos, no people, calm center for a large number overlay.",
+  "content4": "Realistic editorial photograph of two adults' hands holding coffee cups across a cafe table in Seoul, calm and quiet mood, square 1:1, no text, no letters, no numbers, no logos, no faces, calm lower third for text overlay.",
+  "content5": "Realistic editorial photograph of a small child's hand holding an adult's hand on a sidewalk outside a cafe, seen from behind at waist height, soft daylight, square 1:1, no text, no letters, no numbers, no signs, no logos, no faces, calm lower third for text overlay.",
+  "content6": "Realistic editorial photograph of a cafe owner's hands wiping a wooden counter beside an espresso machine, warm morning light, square 1:1, no text, no letters, no numbers, no brand marks, no logos, no faces, calm lower third for text overlay.",
+  "content7": "Realistic editorial photograph of a Jeju Island coastal village with black basalt stone walls and a small seaside cafe, blue sea behind, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content8": "Realistic editorial photograph of a bright family-friendly restaurant in Seoul with a wooden high chair at the table and small colorful kids' plates and spoons set out, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm lower third for text overlay.",
+  "content9": "Realistic editorial photograph of an empty stroller parked outside a cafe on a Seoul street at dusk, warm window light, square 1:1, no text, no letters, no numbers, no signs, no shop names, no logos, no people, calm lower third for text overlay.",
+  "cta": "Realistic editorial photograph of a warm Seoul cafe interior at dusk, gently blurred, square 1:1, no text, no letters, no numbers, no signs, no logos, no people, calm center for text overlay."
+ }
+}
